@@ -1,0 +1,78 @@
+<%= error_messages_for "user" %>
+
+<fieldset>
+	<legend>Register New User</legend>
+
+	<% form_for :user do |form| %>
+	<table>
+		<tr><td>First Name:</td><td><%= form.text_field :firstname, :size => 20 %></td></tr>
+		<tr><td>Last Name:</td><td><%= form.text_field :lastname, :size => 20 %></td></tr>
+		<tr><td>Username:</td><td><%= form.text_field :login, :size => 20 %></td></tr>
+		<tr><td>E-Mail:</td><td><%= form.text_field :email, :size => 20 %></td></tr>
+		<tr><td>Password:</td><td><%= form.password_field :password, :size => 20 %></td></tr>
+		<tr><td><font size = "1">6-20 characters, at least one nonletter</font size = "1"></td></tr>
+		<tr><td>Confirm:</td><td><%= form.password_field :password_confirmation, :size => 20 %></td></tr>
+	</table>
+</fieldset>
+
+<fieldset>
+	<legend>end user license agreement</legend>
+	<fieldset>
+		<div style="height:250px;overflow:auto;"><font size = "1">
+
+			<p align = "left">
+				The following licensing options are available from Supramap.
+			</p align = "left">
+
+			<p align = "left">
+				I. Single User License 
+			</p align = "left">
+			<p align = "left">
+				A Supramap Single User License allows a single user to use Supramap (“the software”) execute one active job ("job") per dataset ("dataset") for their personal use via a web browser. 
+			</p align = "left">
+			<p align = "left">
+				Registration as a user allows you to upload multiple datasets and run one job at a time per dataset provided that you accept the following terms. The License Agreement (“the agreement”) for the software is between the single user (“you”) and The Ohio State Univeristy (“OSU”). If you do not agree to the terms of the agreement you cannot register, upload data, or run jobs, or otherwise use the software. 
+			</p align = "left">
+			<p align = "left">
+
+				Use of the software by you is an agreement for use of the software. Use of the software is not a purchase of the code or the processes itself or does in any way a transfer from OSU to You of the intellectual property underlying the engineering and implementation of the software. 
+			</p align = "left">
+			<p align = "left">
+
+				II. Scope 
+			</p align = "left">
+			<p align = "left">
+				The software is licensed to one individual user. Users are not entitled to share accounts or passwords. Accounts are not transferable to other individuals. 
+			</p align = "left">
+			<p align = "left">
+
+				III. Access Restrictions
+			</p align = "left">
+			<p align = "left">
+				OSU reserves the right to check on validity of incoming users, not allow registration, suspend accounts, or remove accounts and all associated datasets and outputs at OSU's sole discretion without warning or stated reason. 
+			</p align = "left">
+			<p align = "left">
+				IV. Disclaimer of Warranties, Limitation of Liability, Indemnification.
+			</p align = "left">
+			<p align = "left">
+				The software is intended for research use. The quality of the results is a function of the user input. OSU provides no endorsement of the results and their applicability and will not be responsible for any consequences of the use of the results of the software. 
+			</p align = "left">
+			<p align = "left">
+				V. Confidentiality and Privacy 
+			</p align = "left">
+			<p align = "left">
+				OSU will examine any dataset that it believes is put into the software with the intention of harm to the software or underlying systems at the sole discretion.
+			</p align = "left">
+		</font>
+	</div>
+</fieldset>
+
+<table>
+	<tr>I accept: <%= check_box :user, :eula %></tr>
+</table>
+<table>
+	<!-- <%= get_captcha() %> -->
+</table>
+<%= submit_tag "Register", :class => "submit" %>
+<% end%>
+</fieldset>

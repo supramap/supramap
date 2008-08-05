@@ -1,0 +1,36 @@
+<%= error_messages_for "project" %>
+
+<h2>Projects</h2>
+<table>
+	<% unless @projects.size == 0 %>
+	<tr>
+		<th>Name</th>
+		<th>Files</th>
+		<th>Jobs</th>
+		<th colspan="2">Actions</th>
+	</tr>
+	<% else %>
+		<p>You have no projects.</p>
+	<% end %>
+	<% for project in @projects %>
+		<tr>
+			<td><%= link_to h(project.name), {:action => "show_project", :id => project.id} %></td>
+			<td class="files"><%= project.sfiles.count %></td>
+			<td class="jobs"><%= project.jobs.count %></td>
+			<td><%= button_to "Open", {:action => "show_project", :id => project.id} %></td>
+			<td><%= button_to "Delete", {:action => "delete_project", :id => project.id}, :confirm => "Are you sure you want to delete project #{h(project.name)} and all associated files?" %></td>
+		</tr>
+	<% end%>
+</table>
+
+<fieldset>
+	<legend>Create a new project</legend>
+	
+	<% form_for :project, @project, :url => {:action => "create_project"} do |form| %>
+		<p>
+			name: <%= form.text_field :name, :size => 20 %>
+		</p>
+		<input type="hidden" id="user_id" name="project[user_id]" value="<%= session[:user_id] %>" />
+		<%= submit_tag "Create", :class => "submit" %>
+	<% end%>
+</fieldset>

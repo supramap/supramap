@@ -1,0 +1,19 @@
+<%= error_messages_for "user" %>
+
+<p>&nbsp;</p><fieldset>
+	<legend>Authentication</legend>
+	<% form_tag do %>
+		<table>
+			<tr><td>Username</td><td><%= text_field_tag :login, params[:login] %></td></tr>
+			<tr><td>Password</td><td><%= password_field_tag :password, params[:password] %></td></tr>
+		</table>
+		<%= submit_tag "Login" %>
+	<% end %>
+	
+</fieldset>
+<p>&nbsp;</p>
+<fieldset>
+	<legend>new users</legend>
+	<%= link_to "Click here to register", { :controller => "login", :action => "register" }%>
+
+</fieldset>

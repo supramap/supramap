@@ -1,0 +1,31 @@
+<%= error_messages_for "user" %>
+
+<h2> User List </h2>
+
+<table>
+	<tr>
+		<th>Username</th>
+		<th>Name</th>
+		<th>Email</th>
+		<th>Admin</th>
+		<th>auth</th>
+	</tr>
+	<% for user in @all_users %>
+	<tr>
+		<td><%= h(user.login) %></td>
+		<td><%= h(user.firstname) %> <%= h(user.lastname) %></td>
+		<td><a href="mailto:<%= user.email %>" title="email <%= h(user.firstname) %> <%= h(user.lastname) %>"><%= h(user.email) %></a></td>
+		<td><%= h(user.admin) %></td>
+		<td><%= h(user.auth) %></td>
+		<td><%= button_to "Change Admin", {:controller => "login", :action => "changeAdmin", :id => user}, {:method => :post, :confirm => "Confirm changing #{user.login}'s Admin privileges?"} %></td>
+		<td><%= button_to "Authorization", {:controller => "login", :action => "changeAuth", :id => user}, {:method => :post }%></td>
+		<td><%= button_to "Delete", {:controller => "login", :action => "delete_user", :id => user}, {:method => :post, :confirm => "Confirm deletion of #{user.login}?"} %></td>
+		<td><%= button_to "Email", {:controller => "login", :action => "send_welcome_email", :id => user}, {:method => :post, :confirm => "Send email to #{user.login}?"} %></td>
+	</tr>
+	<% end %>
+</table>
+
+<table><tr>
+	<td><%= button_to "Add user", :controller => "login", :action => "show_add_user" %></td>
+	<td><%= button_to "Back to projects", :controller => "supramap", :action => "projects" %></td>
+</tr></table>

@@ -1,0 +1,63 @@
+<h2>How to make Supramaps</h2>
+
+<h3>Overview</h3>
+
+<p>There are two ways to use Supramap, either with raw data and georeferences or with precomputed phylogenetic analysis and georeferences.</p>
+
+<p>Upon registration and creation of a project {link here}, the user will be asked how they would like to proceed.</p>
+
+<h3>Without Precomputed Analysis</h3>
+
+<p>If you do not already have a precomputed analysis you will be invited to upload two files in plain text with unix line breaks.</p>
+
+<p>1) a file of raw nucleotide data in <a href="http://bmi.osu.edu/~janies/supramap2/nucleotides.fas">fasta format </a>the first taxon in the file will be considered the outgroup {link here to a discussion of what is the outgroup}.</p>
+
+<p>and</p>
+
+<p>2) file in <a href="http://bmi.osu.edu/~janies/supramap2/lat.long.date.csv">csv format </a>with geographic and time references for each taxon contained in the fas file. The latitude longitude coordinates must be in decimal format. The date of isolation is in this format YYYY-MM-DD but is optional but useful. If you provide dates of isolation Supramap will build a KML that allow you to navigate the view in Google Earth by time period. Excel can output csv format (make sure its unix format however - a text editor such as bbedit or textpad can ensure this).</p>
+
+<p>In filling out your geographic and temporal references file, you might use this service if you have to <a href="www.getty.edu/research/conducting_research/vocabularies/tgn/">look up place names and convert them to decimal degrees</a>or the search field of Google Earth.</p>
+
+<p>The csv file should include the header line of strain_name,latitude,longitude" or "strain_name,latitude,longitude,date". If you do not have coordinates for a specific taxon, include a line like "strain_name, 0, 0". If you have problems, make sure that the taxon names in the fas and the csv files match exactly.</p>
+
+<p>{What do they do to press go?}
+
+<p>From this point the system will begin POY4 run on many processors in a Linux cluster based on a <a href = "http://bmi.osu.edu/~janies/supramap2/script.txt">default script</a>. The run will take minutes to hours. The duration of the run is primarily a function of the number of isolates used but also depends on sequence length and stocastic factors. We currently have a 100 hits to miniumum length or 24h run time limit (whichever comes first) as implemented by the POY4 search command. This command does the best search it can with the resources allocated.</p>
+
+<h3>Precomputed Analysis</h3>
+<p>If you choose to use a precomputed analysis, Supramap requires the following input files as plain text with unix line breaks.</p>
+
+<p>1) a xml output file from POY4 containing a static approximation of a phylogeny and an apomorphy list</p>
+
+<p>and</p>
+
+<p>2) a file in <a href = "http://bmi.osu.edu/~janies/supramap2/lat.long.date.csv">csv format</a> with geographic and time references for each taxon contained in the fas file (described above).</p>
+
+<p>Next we discuss the process of obtaining and installing the required software and files, running a phylogenetic analysis with POY4, putting georeferences in the correct form, and using Supramap to create KML supramaps from your data.</p>
+
+<h3>Required Software and Files</h3>
+
+<p>Download the latest version of POY4 from the svn repository</p>
+
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;svn checkout http://poy4.googlecode.com/svn/trunk/ poy4-read-only</p>
+
+<p>Compile with</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;./configure -enable-xslt</p>
+<p>and whatever other options you like (e.g. ./configure -enable-xslt -enable-interface=flat -enable-long-sequences).</p>
+
+<p>For detailed instructions, follow the <a href = "http://research.amnh.org/scicomp/projects/poy.php">guide in the POY4 documentation</a> which can be found on the POY project page.</p>
+
+<p>Once you have POY4 compiled to run a search of your design open the file <a href = "http://bmi.osu.edu/~janies/supramap2/script.txt">script.txt</a> in your favorite text editor (e.g. bbedit or text pad or vi) and enter the paths and names of the files for nucleotide data and the XSLT stylesheet, <a href = "http://bmi.osu.edu/~janies/supramap2/transform-xml.xsl">transform-xml.xsl</a>.</p>
+
+<p>Note that this example script is a simple POY script that works as a default seach strategy on our system and is designed to produce the output that Supramap can needs for kml generation. If you would like an advanced search or more than one nucleotide file, you can modify the script in any way that suits your needs, as long as you keep the report (xslt...) line and make sure that the program only outputs one tree, as specified by select (best:1).</p>
+
+<p>---------------LEFT OFF HERE--------------------</p>
+<h3>Parsing files</h3>
+<p>Click on the Parse Files link. This is the other step that could take a while if your files are large. Parsing is when the application reconstructs the phylogeny from the xml file, matches all the taxa between the two files, and assigns georeferences to each OTU. After parsing finishes, click on Return to Projects. If you want to verify the integrity of your data, click on the View Table link, which will display the tree in tabular format. Check to see that in every highlighted row, there is a "parent id" for every "id" and every taxon has latitude and longitude values. Click on Return to Projects.</p>
+<h3>Making KMLs</h3>
+
+<p>--------------this is relevant-------------------------
+
+<p>The final step is to click Open KML, and you will be asked to download the Supramap in a KML file, which should automatically open with Google Earth as you double-click on the KML file. You may need to use file:open in Google Earth if the tree does not automatically load. Also check the left sidebar to make sure your Supramap KML layer is active and any superfluous layers are disabled.</p>
+
+<p>You should now be looking at the supramap. Clicking on any of the nodes displays a summary of the transformations along the branch connecting that node to its parent node. Extend the time slider to the present to see the entire tree.</p>

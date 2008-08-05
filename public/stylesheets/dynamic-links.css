@@ -1,0 +1,40 @@
+/* DYNAMIC BEHAVIOR */
+#nav-background{display:none;}
+#nav-supramap{display:none;}
+
+/* display of secondary navigation bars */
+#biomedical-informatics #nav-background{display:block;}
+#phylogenetics #nav-background{display:block;}
+#viral-evolution #nav-background{display:block;}
+#geographic-mapping #nav-background{display:block;}
+#intro #nav-supramap{display:block;}
+#demo #nav-supramap{display:block;}
+#tutorials #nav-supramap{display:block;}
+#examples #nav-supramap{display:block;}
+#documentation #nav-supramap{display:block;}
+
+/* highlighting of links to current page */
+#home .home {border:1px solid #252525; background:#151515;}
+#supramap .make-a-supramap {border:1px solid #252525; background:#151515;}
+#about .about {border:1px solid #252525; background:#151515;}
+#tutorials .tutorials {border:1px solid #252525; background:#151515;}
+#theory .theory {border:1px solid #252525; background:#151515;}
+#publications .publications {border:1px solid #252525; background:#151515;}
+#contact-us .contact-us {border:1px solid #252525; background:#151515;}
+
+/* from ßßsupramap 0.1
+#biomedical-informatics .biomedical-informatics
+{border:1px solid #444; border-top:none; background:#151515;}
+#phylogenetics .phylogenetics
+{border:1px solid #444; border-top:none; background:#212121;}
+#viral-evolution .viral-evolution
+{border:1px solid #444; border-top:none; background:#212121;}
+#geographic-mapping .geographic-mapping
+{border:1px solid #444; border-top:none; background:#212121;}
+#intro .intro {border:1px solid #353535; border-top:none; background:#212121;}
+#demo .demo {border:1px solid #353535; border-top:none; background:#212121;}
+#tutorials .tutorials 
+{border:1px solid #353535; border-top:none; background:#212121;}
+#examples .examples {border:1px solid #353535; border-top:none; background:#212121;}
+#documentation .documentation {border:1px solid #353535; border-top:none; background:#212121;}
+*/

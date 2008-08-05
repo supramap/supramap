@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  anc_state: MyString
+  descs_state: MyString
+  position: 
+  insdel: MyString
+  job_id: 
+
+two:
+  anc_state: MyString
+  descs_state: MyString
+  position: 
+  insdel: MyString
+  job_id: 

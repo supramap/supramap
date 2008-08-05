@@ -1,0 +1,2 @@
+module SupramapHelper
+end

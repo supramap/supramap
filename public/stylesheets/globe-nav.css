@@ -1,0 +1,54 @@
+/* globe image maps */
+
+#globe-nav{
+	width:600px;
+	height:602px;
+	margin:auto;
+	position:relative;
+	}
+#globe-nav ul{
+	list-style:none;
+	}
+#globe-nav a{
+	position:absolute;
+	height:90px;
+	font-size:0.1px;
+	text-decoration:none;
+	text-indent:-5000px;
+	}
+#globe-nav a:hover{
+	border:1px solid #aaa;
+	}
+#globe-nav .theory{
+	top:236px;
+	left:462px;
+	width:80px;
+	}
+#globe-nav .about{
+	top:83px;
+	left:408px;
+	width:80px;
+	}
+#globe-nav .tutorials{
+	top:217px;
+	left:277px;
+	width:96px;
+	}
+#globe-nav .publications{
+	top:320px;
+	left:93px;
+	width:125px;
+	}
+#globe-nav .contact-us{
+	top:470px;
+	left:268px;
+	width:114px;
+	}
+#globe-nav .make-a-supramap{
+	top:60px;
+	left:102px;
+	width:170px;
+	}
+#home #globe-nav{
+	background-image:url(../images/globe.jpg);
+	}
