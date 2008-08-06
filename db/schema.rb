@@ -1,5 +1,5 @@
 # This file is auto-generated from the current state of the database. Instead of editing this file, 
-# please use the migrations feature of ActiveRecord to incrementally modify your database, and
+# please use the migrations feature of Active Record to incrementally modify your database, and
 # then regenerate this schema definition.
 #
 # Note that this schema.rb definition is the authoritative source for your database schema. If you need
@@ -12,7 +12,7 @@
 ActiveRecord::Schema.define(:version => 11) do
 
   create_table "jobs", :force => true do |t|
-    t.integer  "project_id"
+    t.integer  "project_id",   :limit => 11
     t.datetime "created_at"
     t.datetime "completed_at"
     t.string   "name"
@@ -20,12 +20,12 @@ ActiveRecord::Schema.define(:version => 11) do
   end
 
   create_table "jobs_sfiles", :id => false, :force => true do |t|
-    t.integer "job_id"
-    t.integer "sfile_id"
+    t.integer "job_id",   :limit => 11
+    t.integer "sfile_id", :limit => 11
   end
 
   create_table "projects", :force => true do |t|
-    t.integer  "user_id"
+    t.integer  "user_id",    :limit => 11
     t.datetime "created_at"
     t.string   "name"
   end
@@ -35,7 +35,7 @@ ActiveRecord::Schema.define(:version => 11) do
     t.string   "descs_state"
     t.string   "position"
     t.string   "insdel"
-    t.integer  "job_id"
+    t.integer  "job_id",      :limit => 11
     t.datetime "created_at"
     t.datetime "updated_at"
   end
@@ -51,28 +51,29 @@ ActiveRecord::Schema.define(:version => 11) do
   add_index "sessions", ["updated_at"], :name => "index_sessions_on_updated_at"
 
   create_table "sfiles", :force => true do |t|
-    t.integer  "project_id"
+    t.integer  "project_id", :limit => 11
     t.string   "filename"
     t.datetime "created_at"
     t.string   "filetype"
+    t.integer  "size",       :limit => 11
   end
 
   create_table "transformations", :force => true do |t|
-    t.integer "treenode_id"
+    t.integer "treenode_id",      :limit => 11
     t.boolean "definite"
     t.string  "ancestral_state"
     t.string  "descendant_state"
-    t.integer "position"
+    t.integer "position",         :limit => 11
     t.string  "type"
     t.string  "cost"
     t.string  "character"
   end
 
   create_table "treenodes", :force => true do |t|
-    t.integer  "job_id"
-    t.integer  "parent_id"
+    t.integer  "job_id",         :limit => 11
+    t.integer  "parent_id",      :limit => 11
     t.string   "strain_name"
-    t.integer  "rank"
+    t.integer  "rank",           :limit => 11
     t.float    "latitude"
     t.float    "longitude"
     t.datetime "isolation_date"

@@ -48,7 +48,7 @@ class LoginController < ApplicationController
     @user = User.new(params[:user])
     @user.setA(true, true)
     if request.post? and @user.save
-      flash[:notice] = "User #{@user.login} created and #{validate_recap(params, @user.errors)}."
+      flash[:notice] = "User #{@user.login} created."
       @user = User.new
       redirect_to:action=>"login" 
     end

@@ -12,17 +12,24 @@ class Sfile < ActiveRecord::Base
     return nil if file_field.nil? || file_field.size == 0 
     self.filename = file_field.original_filename.strip if respond_to?(:filename)
     self.filetype = filename
-    path = "#{RAILS_ROOT}/public/files/#{project.user.login}/#{project_id}"
-       FileUtils.mkdir(path) rescue nil
-       File.open("#{path}/#{@filename}", "wb") do |f|
+    path = "#{RAILS_ROOT}/public/files/#{project.user.login}"
+       if File.exist?(path) == false
+         FileUtils.mkdir(path)
+       end
+       if File.exist?("#{path}/#{project_id}") == false
+         FileUtils.mkdir("#{path}/#{project_id}")
+       end
+       File.open("#{path}/#{project_id}/#{@filename}", "wb") do |f|
          f.write(file_field.read)
     end
+    path = "#{path}/#{project_id}/#{@filename}"
     FileUtils.chmod_R 0777, path
   end
 
+  # taken care of by delete project in supramap_controller
   def after_destroy
-    path = "#{RAILS_ROOT}/public/files/#{project.user.login}/#{project_id}/#{filename}"
-    File.delete(path) if File.exist?(path)
+    #path = "#{RAILS_ROOT}/public/files/#{project.user.login}/#{project_id}/#{filename}"
+    #File.delete(path) if File.exist?(path)
   end
   
   def size=(s)

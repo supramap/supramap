@@ -1,3 +1,6 @@
+require 'rubygems'
+gem 'soap4r'
+
 # Be sure to restart your server when you modify this file
 
 # Uncomment below to force Rails into production mode when
@@ -14,7 +17,6 @@ RAILS_GEM_VERSION = '2.1.0' unless defined? RAILS_GEM_VERSION
 WSDL_URL = "http://127.0.0.1:8080/supramapws/supramapservice?wsdl" 
 
 # Recaptcha Keys
- 
 RCC_PUB = '6LcpkwIAAAAAAP8qseebt2obbdj53bjziegaM275'
 RCC_PRIV = '6LcpkwIAAAAAADYbS_IEtYnFmwsNkZN0RP5LIvYN'
 
