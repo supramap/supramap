@@ -127,10 +127,11 @@ cite
 	width: 600px;
 	margin:auto;
 	padding-left:2em;
-	}
-	
+}
+
 td,th {
 	padding: 2px;
+	color:#fff
 }
 
 th {

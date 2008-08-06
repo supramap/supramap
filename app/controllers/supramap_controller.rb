@@ -97,7 +97,9 @@ class SupramapController < ApplicationController
 
   def delete_file
     @sfile = Sfile.find(params[:id])
+    @project = Project.find(@sfile.project_id)
     @sfile.destroy
+    FileUtils.rm_r("#{RAILS_ROOT}/public/files/#{@project.user.login}/#{@project.id}/#{@sfile.filename}")
     redirect_to :action => "show_project", :id => @sfile.project_id
   end
 
