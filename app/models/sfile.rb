@@ -12,13 +12,11 @@ class Sfile < ActiveRecord::Base
     return nil if file_field.nil? || file_field.size == 0 
     self.filename = file_field.original_filename.strip if respond_to?(:filename)
     self.filetype = filename
-    path = "#{RAILS_ROOT}/public/files/#{project.user.login}"
-    FileUtils.mkdir(path) rescue nil
-    FileUtils.mkdir(path/"#{project_id}") rescue nil
-    File.open("#{path}/#{project_id}/#{@filename}", "wb") do |f|
-      f.write(file_field.read)
+    path = "#{RAILS_ROOT}/public/files/#{project.user.login}/#{project_id}"
+       FileUtils.mkdir(path) rescue nil
+       File.open("#{path}/#{@filename}", "wb") do |f|
+         f.write(file_field.read)
     end
-    #size = File.size("#{path}/#{@filename}")
     FileUtils.chmod_R 0777, path
   end
 
