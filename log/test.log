@@ -1,0 +1,1 @@
+# Logfile created on Wed Jul 16 12:03:28 -0400 2008WARNING: You're using the Ruby-based MySQL library that ships with Rails. This library is not suited for production. Please install the C-based MySQL library instead (gem install mysql).
