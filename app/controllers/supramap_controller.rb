@@ -168,7 +168,7 @@ class SupramapController < ApplicationController
       driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver 
       if driver.stopPOYJob(job.id) == 0
         flash[:notice] = "Job #{job.name} successfully stopped."
-        job.update_attribute :status, "stopped"
+        job.update_attribute :status, "Stopped"
       else
         flash[:notice] = "Job #{job.name} couldn't be stopped."
       end
@@ -192,7 +192,7 @@ class SupramapController < ApplicationController
 
     def parse_xml
       job = Job.find(params[:job_id])
-      xml = REXML::Document.new(File.open("#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}`/poy_tree_xml_#{job.id}.xml"))
+      xml = REXML::Document.new(File.open("#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/poy_tree_xml_#{job.id}.xml"))
       #File.open("#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/poy_tree_#{job.id}.xml")
       xml.elements.each("forest/tree/*") do |node| #xpath 'forest/tree/*' returns all nodes
         treenode = Treenode.new(:id => params[:id])

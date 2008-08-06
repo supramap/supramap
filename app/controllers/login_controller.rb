@@ -3,27 +3,6 @@ class LoginController < ApplicationController
   layout "supramap"
   before_filter :authorize, :except => [:login, :logout, :register]
   before_filter :authorize_admin, :except => [:login, :logout, :register]
-  
-  # controllers/registration_controller.rb
-  # assume the Registration controller already existed
-  # assume @user.name and @user.email have been declared
-  
-  def send_welcome_email
-    # triggered via:
-    # http://localhost:3000/registration/send_welcome_email
- 
-    # note the deliver_ prefix, this is IMPORTANT
- 
-    if request.post?
-      user = User.find(params[:id])
-      Postoffice.deliver_welcome(user.firstname, user.email)
- 
-      # optional, but I like to keep people informed
-      flash[:notice] = "You've successfuly registered. Please check your email for a confirmation!"
-    end
-    # render the default action
-    redirect_to :action => 'list_users'  
-  end
 
 
   def show_add_user

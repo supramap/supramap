@@ -20,7 +20,6 @@
 		<td><%= button_to "Change Admin", {:controller => "login", :action => "changeAdmin", :id => user}, {:method => :post, :confirm => "Confirm changing #{user.login}'s Admin privileges?"} %></td>
 		<td><%= button_to "Authorization", {:controller => "login", :action => "changeAuth", :id => user}, {:method => :post }%></td>
 		<td><%= button_to "Delete", {:controller => "login", :action => "delete_user", :id => user}, {:method => :post, :confirm => "Confirm deletion of #{user.login}?"} %></td>
-		<td><%= button_to "Email", {:controller => "login", :action => "send_welcome_email", :id => user}, {:method => :post, :confirm => "Send email to #{user.login}?"} %></td>
 	</tr>
 	<% end %>
 </table>
