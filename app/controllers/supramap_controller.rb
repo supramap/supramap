@@ -1,5 +1,3 @@
-require "soap/rpc/driver"
-require 'soap/wsdlDriver'
 require "rexml/document"
 require "fastercsv"
 
