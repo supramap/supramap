@@ -1,6 +1,0 @@
----
-  :address: smtp.gmail.com
-  :port: 587
-  :user_name: supramap@gmail.com 
-  :password: supram@p1
-  :authentication: :plain
