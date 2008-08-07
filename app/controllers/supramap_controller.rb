@@ -147,6 +147,8 @@ class SupramapController < ApplicationController
     redirect_to :action => "show_project", :id => job.project_id
   end
   
+  # Jobs when stopped are stopped
+  # Might as well create a new job rather than restart
   def restart_job
     job = Job.find(params[:id])
     if start_job(job.id)[0] == "0"

@@ -44,7 +44,7 @@
 			<th>Name</th>
 			<th>Started at</th>
 			<th>Status</th>
-			<th colspan="4">Actions</th>
+			<th colspan="4">Action</th>
 		</tr>
 		<% else %>
 			<p>No jobs defined for this project.</p>
@@ -57,13 +57,9 @@
 				
 				<% if job.status == "Running" %>
 				<td><%= button_to "Stop", {:action => "stop_job", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
-				<!-- put in just for development, remove from final version -->
-				<td><%= button_to "Delete", {:action => "delete_job", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)} and associated results?" %></td>
 				<% end %>
 				
 				<% if job.status == "Stopped" %>
-				<td><%= button_to "Restart", {:action => "restart_job", :id => job.id} %></td>
-				<td><%= button_to "Edit", {:action => "edit_job", :id => job.id} %></td>
 				<td><%= button_to "Delete", {:action => "delete_job", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)} and associated results?" %></td>
 				<% end %>
 				<% if job.status == "Completed" %>
