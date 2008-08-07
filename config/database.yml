@@ -20,7 +20,7 @@ development:
   adapter: mysql
   encoding: utf8
   database: supramap
-  username: root
+  username: supramap
   password: supram@p1
   socket: 
 
