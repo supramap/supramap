@@ -149,7 +149,7 @@ class SupramapController < ApplicationController
   
   def restart_job
     job = Job.find(params[:id])
-    if start_job(job.id) == 0
+    if start_job(job.id)[0] == "0"
       flash[:notice] = "Job #{job.name} successfully created and started."
       job.update_attribute :status, "running"
     else
@@ -166,7 +166,7 @@ class SupramapController < ApplicationController
     def stop_job
       job = Job.find(params[:id]) 
       driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver 
-      if driver.stopPOYJob(job.id) == 0
+      if driver.stopPOYJob(job.id)[0] == "0"
         flash[:notice] = "Job #{job.name} successfully stopped."
         job.update_attribute :status, "Stopped"
       else
