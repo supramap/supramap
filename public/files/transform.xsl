@@ -75,7 +75,7 @@
 										<xsl:if test="$descT">T</xsl:if>
 										<xsl:if test="$desc-">-</xsl:if>
 										</xsl:attribute>
-										<xsl:attribute name="type">
+										<xsl:attribute name="Type">
 										<xsl:choose>
 											<xsl:when test="$ancSize = 0">Ins</xsl:when>
 											<xsl:when test="$descSize = 0">Del</xsl:when>
@@ -126,7 +126,7 @@
 										<xsl:attribute name="Character"><xsl:value-of select="translate(@Name,'_',' ')"/></xsl:attribute>
 										<xsl:attribute name="AncS"><xsl:value-of select="translate($ancestorValue,'_',' ')"/></xsl:attribute>
 										<xsl:attribute name="DescS"><xsl:value-of select="translate($descendantValue,'_',' ')"/></xsl:attribute>
-										<xsl:attribute name="type">non-additive character</xsl:attribute>
+										<xsl:attribute name="Type">non-additive character</xsl:attribute>
 										<xsl:attribute name="Cost"><xsl:value-of select="@Cost"/></xsl:attribute>
 										<xsl:attribute name="Definite"><xsl:value-of select="@Definite"/></xsl:attribute>
 									</xsl:otherwise>
@@ -165,7 +165,7 @@
 										<xsl:value-of select="translate(normalize-space(Min),'_',' ')"/> - <xsl:value-of select="translate(normalize-space(Max),'_',' ')"/>
 									</xsl:otherwise>
 								</xsl:choose>
-								<xsl:text>&#10;&#x09;               : additive character</xsl:text>
+								<xsl:text>&#10;&#x09;type                : additive character</xsl:text>
 								<xsl:text>&#10;&#x09;cost                : </xsl:text>
 								<xsl:value-of select="@Cost"/>
 								<xsl:text>&#10;&#x09;definite            : </xsl:text>
@@ -189,7 +189,7 @@
 								<xsl:value-of select="$ancestorValue"/>
 								<xsl:text>&#10;&#x09;descendant state    : </xsl:text>
 								<xsl:value-of select="normalize-space(Value)"/>
-								<xsl:text>&#10;&#x09;               : sankoff character</xsl:text>
+								<xsl:text>&#10;&#x09;type                : sankoff character</xsl:text>
 								<xsl:text>&#10;&#x09;cost                : </xsl:text>
 								<xsl:value-of select="@Cost"/>
 								<xsl:text>&#10;&#x09;definite            : </xsl:text>
@@ -213,7 +213,7 @@
 								<xsl:value-of select="$ancestorValue"/>
 								<xsl:text>&#10;&#x09;descendant sequence : </xsl:text>
 								<xsl:value-of select="normalize-space(.)"/>
-								<xsl:text>&#10;&#x09;               : sequence</xsl:text>
+								<xsl:text>&#10;&#x09;type                : sequence</xsl:text>
 								<xsl:text>&#10;&#x09;cost                : </xsl:text>
 								<xsl:value-of select="@Cost"/>
 								<xsl:text>&#10;&#x09;definite            : </xsl:text>
@@ -239,7 +239,7 @@
 								<xsl:value-of select="$ancestorValue"/>
 								<xsl:text>&#10;&#x09;descendant sequence : </xsl:text>
 								<xsl:value-of select="normalize-space(.)"/>
-								<xsl:text>&#10;&#x09;               : breakinv</xsl:text>
+								<xsl:text>&#10;&#x09;type                : breakinv</xsl:text>
 								<xsl:text>&#10;&#x09;edit cost           : </xsl:text>
 								<xsl:value-of select="$totalCost - $rearrangementCost"/>
 								<xsl:text>&#10;&#x09;rearrangement cost  : </xsl:text>
@@ -315,7 +315,7 @@
 												</xsl:otherwise>
 											</xsl:choose>
 											<xsl:text>] :: </xsl:text>
-											<!-- output of trans -->
+											<!-- output type of trans -->
 											<xsl:choose>
 												<xsl:when test="@AncestorStartPosition = -1">
 													<xsl:text>origin</xsl:text>
@@ -386,7 +386,7 @@
 								<xsl:text>&#10;&#10;transformation map</xsl:text>
 								<xsl:text>&#10;&#10;&#x09;character           : </xsl:text>
 								<xsl:value-of select="translate(@Name,'_',' ')"/>
-								<xsl:text>&#10;&#x09;               : multi-chromosome</xsl:text>
+								<xsl:text>&#10;&#x09;type                : multi-chromosome</xsl:text>
 								<xsl:text>&#10;&#x09;edit cost           : </xsl:text>
 								<xsl:value-of select="$totalCost - $rearrangementCost"/>
 								<xsl:text>&#10;&#x09;rearrangement cost  : </xsl:text>
@@ -445,7 +445,7 @@
 												</xsl:otherwise>
 											</xsl:choose>
 											<xsl:text>] :: </xsl:text>
-											<!-- output of trans -->
+											<!-- output type of trans -->
 											<xsl:choose>
 												<xsl:when test="@AncestorStartPosition = -1">
 													<xsl:text>origin</xsl:text>
