@@ -107,6 +107,7 @@ class SupramapController < ApplicationController
     Sfile.find(id).destroy  
   end
 
+
   def delete_job
     @job = Job.find(params[:id])
     @job.destroy
@@ -117,6 +118,13 @@ class SupramapController < ApplicationController
 
   def deletejob(id)
     Job.find(id).destroy
+  end
+  
+  def job_type
+    @page_id = "supramap"
+    @project = Project.find(params[:id])
+    @page_title = "Define new job"
+    @sfiles = Sfile.find_all_by_project_id(@project.id)
   end
 
   def add_job
@@ -139,8 +147,9 @@ class SupramapController < ApplicationController
         job.sfiles << sfile
       end
     end
+    flash[:notice] = "Job #{job.name} login #{job.project.user.login} project #{job.project_id} id #{job.id}"
     if start_job(job.id)[0] == "0"
-      flash[:notice] = "Job #{job.name} successfully created and started."
+      flash[:notice] = "Job #{job.name} type #{job.job_type} successfully created and started."
     else
       flash[:notice] = "Job #{job.name} created but cannot start."
     end

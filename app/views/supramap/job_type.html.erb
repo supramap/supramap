@@ -1,0 +1,11 @@
+<fieldset><legend>Define new job</legend>
+	
+	<% form_for :job, @job, :url => {:action => "add_job"} do |form| %>
+		<table><tr>
+			<td>New job</td>
+			<td><%= form.text_field :name, :size => 20 %></td>
+			<td><%= form.select :job_type, ["fas", "kml"]%></td>
+			<input type="hidden" id="user_id" name="job[project_id]" value="<%= @project.id %>" />
+			<tr><td><%= submit_tag "Define", :class => "submit" %></td></tr>
+		</tr></table>
+	<% end%>

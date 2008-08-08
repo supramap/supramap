@@ -1,20 +1,23 @@
 <%= error_messages_for "sfile" %>
 
-<fieldset><legend>Define new job</legend>
+<fieldset><legend>Define new <%= params[:job][:job_type] %> job</legend>
 
 <% form_for :job, :url => {:action => "create_job"} do |form| %>
 	<table>
 		<tr><th colspan="2">Select files for <%= params[:job][:name] %></th></tr>
 		<% @sfiles.each do |sfile| %>
 		<tr>
+			<% if sfile.filetype == params[:job][:job_type] || sfile.filetype == "csv" %>
 			<td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
 			<td><%= sfile.filename %></td>
+			<%end%>
 		</tr>
 		<% end %>
 	</table>
 	<input type="hidden" id="project_id" name="job[project_id]" value="<%= params[:job][:project_id] %>" />
 	<input type="hidden" id="job_status" name="job[status]" value="Running" />
 	<input type="hidden" id="job_name" name="job[name]" value="<%= params[:job][:name] %>" />
+	<input type="hidden" id="job_type" name="job[job_type]" value="<%= params[:job][:job_type] %>" /> 
 	<%= submit_tag "Save", :class => "submit" %>
 <% end%>
 </fieldset>

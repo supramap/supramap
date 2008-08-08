@@ -43,6 +43,7 @@
 		<tr>
 			<th>Name</th>
 			<th>Started at</th>
+			<th>Kind</th>
 			<th>Status</th>
 			<th colspan="4">Action</th>
 		</tr>
@@ -53,6 +54,7 @@
 			<tr>
 				<td><%= h(job.name) %></td>
 				<td class="started_at"><%= job.created_at.to_time.to_s(:db) %></td>
+				<td><%= h(job.job_type)%> </td>
 				<td class="status"><%= job.status %></td>
 				
 				<% if job.status == "Running" %>
@@ -71,18 +73,11 @@
 				<td>&nbsp;</td>
 				<td colspan="6" class="job_files"><%= file.filename %></td>
 			</tr>
+						
 			<% end %>
 		<% end%>
 	</table>
-	
-	<% form_for :job, @job, :url => {:action => "add_job"} do |form| %>
-		<table><tr>
-			<td>New job</td>
-			<td><%= form.text_field :name, :size => 20 %></td>
-			<input type="hidden" id="user_id" name="job[project_id]" value="<%= @project.id %>" />
-			<td><%= submit_tag "Define", :class => "submit" %></td>
-		</tr></table>
-	<% end%>
+<%= button_to "New Job", {:action => "job_type", :id => @project.id} %>
 </fieldset>
 
 <fieldset>

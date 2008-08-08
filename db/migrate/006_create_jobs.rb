@@ -6,6 +6,7 @@ class CreateJobs < ActiveRecord::Migration
       t.column :completed_at, :timestamp
       t.column :name, :string
       t.column :status, :string
+      t.column :job_type, :string
     end
   end
 

@@ -9,7 +9,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 11) do
+ActiveRecord::Schema.define(:version => 12) do
 
   create_table "jobs", :force => true do |t|
     t.integer  "project_id",   :limit => 11
@@ -17,6 +17,7 @@ ActiveRecord::Schema.define(:version => 11) do
     t.datetime "completed_at"
     t.string   "name"
     t.string   "status"
+    t.string   "job_type"
   end
 
   create_table "jobs_sfiles", :id => false, :force => true do |t|
