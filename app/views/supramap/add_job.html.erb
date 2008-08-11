@@ -19,7 +19,7 @@
 	</table>
 	
 	<% else %>
-		<tr><th colspan="2">Select xml file for Job <%= params[:job][:name] %></th></tr>
+		<tr><th colspan="2">Select one xml file for Job <%= params[:job][:name] %></th></tr>
 		<% @sfiles.each do |sfile| %>
 		<tr>
 			<% if sfile.filetype == params[:job][:job_type]%>
@@ -34,7 +34,7 @@
 	</table>
 	
 	<table>
-		<tr><th colspan="2">Select csv file for Job <%= params[:job][:name] %></th></tr>
+		<tr><th colspan="2">Select one csv file for Job <%= params[:job][:name] %></th></tr>
 		<% @sfiles.each do |sfile| %>
 		<tr>
 			<% if sfile.filetype == "csv" %>
@@ -42,6 +42,8 @@
 			<td><%= sfile.filename %></td>
 			<%end%>
 		</tr>
+
+	 
 		<% end %>
 	</table>
 	
