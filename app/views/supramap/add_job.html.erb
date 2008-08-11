@@ -1,25 +1,29 @@
 <%= error_messages_for "sfile" %>
 
-<fieldset><legend>Define new job</legend>
+<fieldset><legend>Define new Job <%= params[:job][:name]%></legend>
 
 <% form_for :job, :url => {:action => "create_job"} do |form| %>
 	<table>
-	
+	<% data = false %>
 	<% if params[:job][:job_type] == "fas"%>
 	<table>
-		<tr><th colspan="2">Select fas file(s) for Job <%= params[:job][:name] %></th></tr>
+		<tr><th colspan="2">Select fas file(s) (one to many)</th></tr>
 		<% @sfiles.each do |sfile| %>
 		<tr>
 			<% if sfile.filetype == params[:job][:job_type]%>
+			<% data = true %>
 			<td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
 			<td><%= sfile.filename %></td>
+			<%end%>		
+		<% end %>
+			<% if data == false %>
+				<td><%= "You still need to upload fas files"%></td>
 			<%end%>
 		</tr>
-		<% end %>
 	</table>
 	
   <% else %>
-    <tr><th colspan="2">Select one xml file for Job <%= params[:job][:name] %></th></tr>
+    <tr><th colspan="2">Select only one xml file</th></tr>
     <% @sfiles.each do |sfile| %>
     <tr>
       <% if sfile.filetype == params[:job][:job_type]%>
@@ -27,23 +31,33 @@
       <td><%= sfile.filename %></td>
       <%end%>
     </tr>
-    <% end %>
-  </table>
+		<% end %>
+			<% if data == false %>
+				<td><%= "You still need to upload an xml file"%></td>
+			<%end%>
+		</tr>
+	</table>
   <%end%>
 
   </table>
 
   <table>
-    <tr><th colspan="2">Select one csv file for Job <%= params[:job][:name] %></th></tr>
+	<% data = false%>
+    <tr><th colspan="2">Select only one csv file</th></tr>
     <% @sfiles.each do |sfile| %>
     <tr>
       <% if sfile.filetype == "csv" %>
+		<% data = true %>
       <td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
       <td><%= sfile.filename %></td>
       <%end%>
     </tr>
-    <% end %>
-  </table>
+		<% end %>
+			<% if data == false %>
+				<td><%= "You still need to upload a csv file"%></td>
+			<%end%>
+		</tr>
+	</table>
 	
 	<input type="hidden" id="project_id" name="job[project_id]" value="<%= params[:job][:project_id] %>" />
 	<input type="hidden" id="job_status" name="job[status]" value="Running" />

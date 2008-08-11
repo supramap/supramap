@@ -59,7 +59,10 @@ class SupramapController < ApplicationController
       deletejob(job.id)
     end
     # delete project files as well
-    FileUtils.rm_r("#{RAILS_ROOT}/public/files/#{@project.user.login}/#{@project.id}")
+    path = "#{RAILS_ROOT}/public/files/#{@project.user.login}/#{@project.id}"
+    if File.exist?(path)
+      FileUtils.rm_r(path)
+    end
     redirect_to :action => "projects"
   end
 
@@ -115,7 +118,10 @@ class SupramapController < ApplicationController
     @sfile = Sfile.find(params[:id])
     @project = Project.find(@sfile.project_id)
     @sfile.destroy
-    FileUtils.rm_r("#{RAILS_ROOT}/public/files/#{@project.user.login}/#{@project.id}/#{@sfile.filename}")
+    path = "#{RAILS_ROOT}/public/files/#{@project.user.login}/#{@project.id}/#{@sfile.filename}"
+    if File.exist?(path)
+      FileUtils.rm_r(path)
+    end
     redirect_to :action => "show_project", :id => @sfile.project_id
   end
 
@@ -128,7 +134,10 @@ class SupramapController < ApplicationController
     @job = Job.find(params[:id])
     @job.destroy
     # delete directory as well
-    FileUtils.rm_r("#{RAILS_ROOT}/public/files/#{@job.project.user.login}/#{@job.project_id}/#{@job.id}/")
+    path = "#{RAILS_ROOT}/public/files/#{@job.project.user.login}/#{@job.project_id}/#{@job.id}/"
+    if File.exist?(path)
+      FileUtils.rm_r(path)
+    end
     redirect_to :action => "show_project", :id => @job.project_id      
   end
 
@@ -161,25 +170,25 @@ class SupramapController < ApplicationController
     
     @job = Job.new(params[:job])
     if @job.save
-      path = "#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}"
+      path = "#{RAILS_ROOT}/public/files/#{@job.project.user.login}/#{@job.project_id}/#{@job.id}"
       FileUtils.mkdir(path) rescue nil
       FileUtils.chmod_R 0777, path
       @sfiles.each do |sfile|
         if params[:files][sfile.id.to_s] == "1"
           #@job.select_file(sfile)
-          job.sfiles << sfile
+          @job.sfiles << sfile
         end
       end
-      flash[:notice] = "Job #{job.name} login #{job.project.user.login} project #{job.project_id} id #{job.id}"
-      if(job.job_type == "fas")
-        @job_status = start_fas_job(job.id)[0]
+      flash[:notice] = "Job #{@job.name} login #{@job.project.user.login} project #{@job.project_id} id #{@job.id}"
+      if(@job.job_type == "fas")
+        @job_status = start_fas_job(@job.id)[0]
       else
-        @job_status = start_xml_job(job.id[0])
+        @job_status = start_xml_job(@job.id[0])
       end
       if @job_status == "0"
-        flash[:notice] = "Job #{job.name} type #{job.job_type} successfully created and started."
+        flash[:notice] = "Job #{@job.name} successfully created and started."
       else
-        flash[:notice] = "Job #{job.name} created but cannot start."
+        flash[:notice] = "Job #{@job.name} created but cannot start."
       end
       redirect_to :action => "show_project", :id => @job.project_id
     else

@@ -51,6 +51,7 @@
 		<% else %>
 			<p>No jobs defined for this project.</p>
 		<% end %>
+		<% complete = false %>
 		<% for job in @jobs %>
 			<tr>
 				<td><%= h(job.name) %></td>
@@ -68,6 +69,7 @@
 				<% end %>
 				<% if job.status == "Completed" %>
 				<td><%= button_to "Delete", {:action => "delete_job", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)} and associated results?" %></td>
+				<% complete = true%>
 				<% end %>
 			</tr>
 			<% job.sfiles.each do |file| %>
@@ -84,6 +86,7 @@
 
 <fieldset>
 	<legend>Results</legend>  
+	<% if complete %>
 	<table>
 		<tr>
 			<th>Job Name</th>
@@ -103,4 +106,5 @@
 		<% end
 	end %>
 	</table>
+	<%end%>
 </fieldset>
