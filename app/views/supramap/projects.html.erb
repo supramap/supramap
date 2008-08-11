@@ -22,6 +22,7 @@
 			<td><%= button_to "Delete", {:action => "delete_project", :id => project.id}, :confirm => "Are you sure you want to delete project #{h(project.name)} and all associated files?" %></td>
 		</tr>
 	<% end%>
+	<% end%>
 </table>
 
 <fieldset>
@@ -33,6 +34,6 @@
 		</p>
 		<input type="hidden" id="user_id" name="project[user_id]" value="<%= session[:user_id] %>" />
 		<%= submit_tag "Create", :class => "submit" %>
-	<% end%>
+
 	<% end%>
 </fieldset>

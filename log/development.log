@@ -48350,3 +48350,278 @@ Rendering template within layouts/supramap
 Rendering supramap/add_job
   [4;35;1mCACHE (0.000000)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
 Completed in 0.55187 (1 reqs/sec) | Rendering: 0.03470 (6%) | DB: 0.40756 (73%) | 200 OK [http://localhost/supramap/add_job]
+
+
+Processing SupramapController#add_job (for 127.0.0.1 at 2008-08-11 16:30:11) [POST]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"commit"=>"Define", "authenticity_token"=>"b1089070d7e6102bbaf7f24ea199eb2391128a41", "action"=>"add_job", "controller"=>"supramap", "job"=>{"name"=>"sfdsf", "project_id"=>"13", "job_type"=>"fas"}}
+  [4;36;1mUser Columns (0.005522)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+  [4;35;1mUser Load (0.003572)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;36;1mSfile Columns (0.004809)[0m   [0;1mSHOW FIELDS FROM `sfiles`[0m
+  [4;35;1mSfile Load (0.003351)[0m   [0mSELECT * FROM `sfiles` WHERE (`sfiles`.`project_id` = '13') [0m
+Rendering template within layouts/supramap
+Rendering supramap/add_job
+  [4;36;1mCACHE (0.000000)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Completed in 0.13859 (7 reqs/sec) | Rendering: 0.02565 (18%) | DB: 0.01725 (12%) | 200 OK [http://localhost/supramap/add_job]
+
+
+Processing SupramapController#create_job (for 127.0.0.1 at 2008-08-11 16:30:29) [POST]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"commit"=>"Save", "authenticity_token"=>"b1089070d7e6102bbaf7f24ea199eb2391128a41", "action"=>"create_job", "controller"=>"supramap", "job"=>{"status"=>"Running", "name"=>"sfdsf", "project_id"=>"13", "job_type"=>"fas"}}
+  [4;35;1mUser Columns (0.006786)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Load (0.003563)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;35;1mSfile Columns (0.005362)[0m   [0mSHOW FIELDS FROM `sfiles`[0m
+  [4;36;1mSfile Load (0.003192)[0m   [0;1mSELECT * FROM `sfiles` WHERE (`sfiles`.`project_id` = '13') [0m
+  [4;35;1mJob Columns (0.005220)[0m   [0mSHOW FIELDS FROM `jobs`[0m
+  [4;36;1mJob Load (0.003335)[0m   [0;1mSELECT * FROM `jobs` WHERE (`jobs`.`project_id` = '13') [0m
+  [4;35;1mProject Columns (0.004849)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mProject Load (0.003135)[0m   [0;1mSELECT * FROM `projects` WHERE (`projects`.`id` = 13) [0m
+  [4;35;1mSQL (0.000328)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000834)[0m   [0;1mSELECT `name` FROM `jobs` WHERE (`jobs`.name = 'sfdsf' AND `jobs`.project_id = 13) [0m
+  [4;35;1mJob Create (0.000730)[0m   [0mINSERT INTO `jobs` (`completed_at`, `name`, `status`, `project_id`, `job_type`, `created_at`) VALUES(NULL, 'sfdsf', 'Running', 13, 'fas', '2008-08-11 16:30:29')[0m
+  [4;36;1mSQL (0.000931)[0m   [0;1mCOMMIT[0m
+  [4;35;1mProject Load (0.000776)[0m   [0mSELECT * FROM `projects` WHERE (`projects`.`id` = 13) [0m
+  [4;36;1mUser Load (0.000777)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) [0m
+Redirected to http://localhost:3000/supramap/show_project/13
+Completed in 1.21475 (0 reqs/sec) | DB: 0.03982 (3%) | 302 Found [http://localhost/supramap/create_job]
+
+
+Processing SupramapController#show_project (for 127.0.0.1 at 2008-08-11 16:30:31) [GET]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsGOgtub3RpY2UiMEpvYiBz
+ZmRzZiBzdWNjZXNzZnVsbHkgY3JlYXRlZCBhbmQgc3RhcnRlZC4GOgpAdXNl
+ZHsGOwlG--b2b215b8ea24a54a2608d381924b5250f61eebef
+  Parameters: {"action"=>"show_project", "id"=>"13", "controller"=>"supramap"}
+  [4;35;1mUser Columns (0.007820)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Load (0.000934)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;35;1mProject Columns (0.004828)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mProject Load (0.003063)[0m   [0;1mSELECT * FROM `projects` WHERE (`projects`.`id` = 13) [0m
+  [4;35;1mSfile Columns (0.005450)[0m   [0mSHOW FIELDS FROM `sfiles`[0m
+  [4;36;1mSfile Load (0.003214)[0m   [0;1mSELECT * FROM `sfiles` WHERE (`sfiles`.`project_id` = 13) [0m
+  [4;35;1mJob Columns (0.014859)[0m   [0mSHOW FIELDS FROM `jobs`[0m
+  [4;36;1mJob Load (0.003376)[0m   [0;1mSELECT * FROM `jobs` WHERE (`jobs`.`project_id` = 13) [0m
+Rendering template within layouts/supramap
+Rendering supramap/show_project
+  [4;35;1mJoin Table Columns (0.004604)[0m   [0mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;36;1mSfile Load (0.003499)[0m   [0;1mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 19 ) [0m
+  [4;35;1mJoin Table Columns (0.004772)[0m   [0mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;36;1mSfile Load (0.003369)[0m   [0;1mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 20 ) [0m
+  [4;35;1mJoin Table Columns (0.004988)[0m   [0mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;36;1mSfile Load (0.003427)[0m   [0;1mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 21 ) [0m
+  [4;35;1mJoin Table Columns (0.004853)[0m   [0mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;36;1mSfile Load (0.006812)[0m   [0;1mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 22 ) [0m
+  [4;35;1mCACHE (0.000000)[0m   [0mSELECT * FROM `projects` WHERE (`projects`.`id` = 13) [0m
+  [4;36;1mUser Load (0.000931)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) [0m
+  [4;35;1mCACHE (0.000000)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Completed in 0.26348 (3 reqs/sec) | Rendering: 0.04455 (16%) | DB: 0.08080 (30%) | 200 OK [http://localhost/supramap/show_project/13]
+
+
+Processing SupramapController#show_project (for 127.0.0.1 at 2008-08-11 16:33:09) [GET]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsGOgtub3RpY2UiMEpvYiBz
+ZmRzZiBzdWNjZXNzZnVsbHkgY3JlYXRlZCBhbmQgc3RhcnRlZC4GOgpAdXNl
+ZHsGOwlU--11876888c3a942533302655dfb4ef7c0c75c815f
+  Parameters: {"action"=>"show_project", "id"=>"13", "controller"=>"supramap"}
+  [4;36;1mUser Columns (0.006293)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+  [4;35;1mUser Load (0.003360)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;36;1mProject Columns (0.013636)[0m   [0;1mSHOW FIELDS FROM `projects`[0m
+  [4;35;1mProject Load (0.002981)[0m   [0mSELECT * FROM `projects` WHERE (`projects`.`id` = 13) [0m
+  [4;36;1mSfile Columns (0.005694)[0m   [0;1mSHOW FIELDS FROM `sfiles`[0m
+  [4;35;1mSfile Load (0.003095)[0m   [0mSELECT * FROM `sfiles` WHERE (`sfiles`.`project_id` = 13) [0m
+  [4;36;1mJob Columns (0.005367)[0m   [0;1mSHOW FIELDS FROM `jobs`[0m
+  [4;35;1mJob Load (0.006733)[0m   [0mSELECT * FROM `jobs` WHERE (`jobs`.`project_id` = 13) [0m
+Rendering template within layouts/supramap
+Rendering supramap/show_project
+  [4;36;1mJoin Table Columns (0.004564)[0m   [0;1mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;35;1mSfile Load (0.003137)[0m   [0mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 19 ) [0m
+  [4;36;1mJoin Table Columns (0.110276)[0m   [0;1mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;35;1mSfile Load (0.002450)[0m   [0mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 20 ) [0m
+  [4;36;1mJoin Table Columns (0.019509)[0m   [0;1mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;35;1mSfile Load (0.104644)[0m   [0mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 21 ) [0m
+  [4;36;1mJoin Table Columns (0.021293)[0m   [0;1mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;35;1mSfile Load (0.003705)[0m   [0mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 22 ) [0m
+  [4;36;1mCACHE (0.000000)[0m   [0;1mSELECT * FROM `projects` WHERE (`projects`.`id` = 13) [0m
+  [4;35;1mUser Load (0.000860)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) [0m
+  [4;36;1mCACHE (0.000000)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Completed in 0.52256 (1 reqs/sec) | Rendering: 0.04098 (7%) | DB: 0.31760 (60%) | 200 OK [http://localhost/supramap/show_project/13]
+
+
+Processing SupramapController#delete_project (for 127.0.0.1 at 2008-08-11 16:43:54) [POST]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"authenticity_token"=>"b1089070d7e6102bbaf7f24ea199eb2391128a41", "action"=>"delete_project", "id"=>"13", "controller"=>"supramap"}
+  [4;35;1mUser Columns (0.008410)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Load (0.000944)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;35;1mProject Columns (0.004716)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mProject Load (0.003020)[0m   [0;1mSELECT * FROM `projects` WHERE (`projects`.`id` = 13) [0m
+  [4;35;1mSQL (0.000282)[0m   [0mBEGIN[0m
+  [4;36;1mProject Destroy (0.000755)[0m   [0;1m DELETE FROM `projects`
+ WHERE `id` = 13
+[0m
+  [4;35;1mSQL (0.000998)[0m   [0mCOMMIT[0m
+  [4;36;1mSfile Load (0.001153)[0m   [0;1mSELECT * FROM `sfiles` WHERE (`sfiles`.project_id = 13) [0m
+  [4;35;1mJob Load (0.001011)[0m   [0mSELECT * FROM `jobs` WHERE (`jobs`.project_id = 13) [0m
+  [4;36;1mJob Columns (0.005650)[0m   [0;1mSHOW FIELDS FROM `jobs`[0m
+  [4;35;1mJob Load (0.003178)[0m   [0mSELECT * FROM `jobs` WHERE (`jobs`.`id` = 19) [0m
+  [4;36;1mSQL (0.000287)[0m   [0;1mBEGIN[0m
+  [4;35;1mJoin Table Columns (0.004536)[0m   [0mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;36;1mSfile Load (0.003303)[0m   [0;1mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 19 ) [0m
+  [4;35;1mJob Destroy (0.000689)[0m   [0m DELETE FROM `jobs`
+ WHERE `id` = 19
+[0m
+  [4;36;1mSQL (0.001039)[0m   [0;1mCOMMIT[0m
+  [4;35;1mJob Load (0.000813)[0m   [0mSELECT * FROM `jobs` WHERE (`jobs`.`id` = 20) [0m
+  [4;36;1mSQL (0.000597)[0m   [0;1mBEGIN[0m
+  [4;35;1mJoin Table Columns (0.004302)[0m   [0mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;36;1mSfile Load (0.003236)[0m   [0;1mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 20 ) [0m
+  [4;35;1mJob Destroy (0.000690)[0m   [0m DELETE FROM `jobs`
+ WHERE `id` = 20
+[0m
+  [4;36;1mSQL (0.000816)[0m   [0;1mCOMMIT[0m
+  [4;35;1mJob Load (0.000742)[0m   [0mSELECT * FROM `jobs` WHERE (`jobs`.`id` = 21) [0m
+  [4;36;1mSQL (0.000259)[0m   [0;1mBEGIN[0m
+  [4;35;1mJoin Table Columns (0.004428)[0m   [0mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;36;1mSfile Load (0.003260)[0m   [0;1mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 21 ) [0m
+  [4;35;1mJob Destroy (0.000703)[0m   [0m DELETE FROM `jobs`
+ WHERE `id` = 21
+[0m
+  [4;36;1mSQL (0.014594)[0m   [0;1mCOMMIT[0m
+  [4;35;1mJob Load (0.000760)[0m   [0mSELECT * FROM `jobs` WHERE (`jobs`.`id` = 22) [0m
+  [4;36;1mSQL (0.000256)[0m   [0;1mBEGIN[0m
+  [4;35;1mJoin Table Columns (0.004468)[0m   [0mSHOW FIELDS FROM `jobs_sfiles`[0m
+  [4;36;1mSfile Load (0.003147)[0m   [0;1mSELECT * FROM `sfiles` INNER JOIN `jobs_sfiles` ON `sfiles`.id = `jobs_sfiles`.sfile_id WHERE (`jobs_sfiles`.job_id = 22 ) [0m
+  [4;35;1mJob Destroy (0.000777)[0m   [0m DELETE FROM `jobs`
+ WHERE `id` = 22
+[0m
+  [4;36;1mSQL (0.000855)[0m   [0;1mCOMMIT[0m
+  [4;35;1mUser Load (0.000809)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) [0m
+Redirected to http://localhost:3000/supramap/projects
+Completed in 0.80074 (1 reqs/sec) | DB: 0.08548 (10%) | 302 Found [http://localhost/supramap/delete_project/13]
+
+
+Processing SupramapController#projects (for 127.0.0.1 at 2008-08-11 16:43:55) [GET]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"action"=>"projects", "controller"=>"supramap"}
+  [4;36;1mUser Columns (0.005698)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+  [4;35;1mUser Load (0.003216)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;36;1mProject Columns (0.005322)[0m   [0;1mSHOW FIELDS FROM `projects`[0m
+  [4;35;1mProject Load (0.003342)[0m   [0mSELECT * FROM `projects` WHERE (`projects`.`user_id` = 1) [0m
+Rendering template within layouts/supramap
+Rendering supramap/projects
+  [4;36;1mSfile Columns (0.009450)[0m   [0;1mSHOW FIELDS FROM `sfiles`[0m
+  [4;35;1mSQL (0.003226)[0m   [0mSELECT count(*) AS count_all FROM `sfiles` WHERE (`sfiles`.project_id = 11) [0m
+  [4;36;1mJob Columns (0.007179)[0m   [0;1mSHOW FIELDS FROM `jobs`[0m
+  [4;35;1mSQL (0.000817)[0m   [0mSELECT count(*) AS count_all FROM `jobs` WHERE (`jobs`.project_id = 11) [0m
+  [4;36;1mCACHE (0.000000)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Completed in 0.19578 (5 reqs/sec) | Rendering: 0.08427 (43%) | DB: 0.03825 (19%) | 200 OK [http://localhost/supramap/projects]
+
+
+Processing SupramapController#delete_project (for 127.0.0.1 at 2008-08-11 16:43:58) [POST]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"authenticity_token"=>"b1089070d7e6102bbaf7f24ea199eb2391128a41", "action"=>"delete_project", "id"=>"11", "controller"=>"supramap"}
+  [4;35;1mUser Columns (0.007416)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Load (0.050021)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;35;1mProject Columns (0.041989)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mProject Load (0.003271)[0m   [0;1mSELECT * FROM `projects` WHERE (`projects`.`id` = 11) [0m
+  [4;35;1mSQL (0.000281)[0m   [0mBEGIN[0m
+  [4;36;1mProject Destroy (0.000642)[0m   [0;1m DELETE FROM `projects`
+ WHERE `id` = 11
+[0m
+  [4;35;1mSQL (0.001114)[0m   [0mCOMMIT[0m
+  [4;36;1mSfile Load (0.026743)[0m   [0;1mSELECT * FROM `sfiles` WHERE (`sfiles`.project_id = 11) [0m
+  [4;35;1mJob Load (0.000826)[0m   [0mSELECT * FROM `jobs` WHERE (`jobs`.project_id = 11) [0m
+  [4;36;1mUser Load (0.000781)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) [0m
+Redirected to http://localhost:3000/supramap/projects
+Completed in 0.44335 (2 reqs/sec) | DB: 0.13308 (30%) | 302 Found [http://localhost/supramap/delete_project/11]
+
+
+Processing SupramapController#projects (for 127.0.0.1 at 2008-08-11 16:43:59) [GET]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"action"=>"projects", "controller"=>"supramap"}
+  [4;35;1mUser Columns (0.012914)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Load (0.003443)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;35;1mProject Columns (0.005030)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mProject Load (0.003093)[0m   [0;1mSELECT * FROM `projects` WHERE (`projects`.`user_id` = 1) [0m
+Rendering template within layouts/supramap
+Rendering supramap/projects
+  [4;35;1mCACHE (0.000000)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Completed in 0.10642 (9 reqs/sec) | Rendering: 0.01018 (9%) | DB: 0.02448 (23%) | 200 OK [http://localhost/supramap/projects]
+
+
+Processing SupramapController#home (for 127.0.0.1 at 2008-08-11 16:44:04) [GET]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"action"=>"home", "controller"=>"supramap"}
+Rendering template within layouts/supramap
+Rendering supramap/home
+  [4;36;1mUser Columns (0.005497)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+  [4;35;1mUser Load (0.010938)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Completed in 0.07614 (13 reqs/sec) | Rendering: 0.05053 (66%) | DB: 0.01644 (21%) | 200 OK [http://localhost/supramap/home]
+
+
+Processing SupramapController#make_a_supramap (for 127.0.0.1 at 2008-08-11 16:44:06) [GET]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"action"=>"make_a_supramap", "controller"=>"supramap"}
+Redirected to http://localhost:3000/supramap/projects
+Completed in 0.00986 (101 reqs/sec) | DB: 0.00000 (0%) | 302 Found [http://localhost/supramap/make_a_supramap]
+
+
+Processing SupramapController#projects (for 127.0.0.1 at 2008-08-11 16:44:06) [GET]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"action"=>"projects", "controller"=>"supramap"}
+  [4;36;1mUser Columns (0.005797)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+  [4;35;1mUser Load (0.003326)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;36;1mProject Columns (0.004915)[0m   [0;1mSHOW FIELDS FROM `projects`[0m
+  [4;35;1mProject Load (0.011096)[0m   [0mSELECT * FROM `projects` WHERE (`projects`.`user_id` = 1) [0m
+Rendering template within layouts/supramap
+Rendering supramap/projects
+  [4;36;1mCACHE (0.000000)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Completed in 0.10620 (9 reqs/sec) | Rendering: 0.01041 (9%) | DB: 0.02513 (23%) | 200 OK [http://localhost/supramap/projects]
+
+
+Processing SupramapController#projects (for 127.0.0.1 at 2008-08-11 16:44:30) [GET]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"action"=>"projects", "controller"=>"supramap"}
+  [4;35;1mUser Columns (0.005672)[0m   [0mSHOW FIELDS FROM `users`[0m
+  [4;36;1mUser Load (0.088208)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;35;1mProject Columns (0.004920)[0m   [0mSHOW FIELDS FROM `projects`[0m
+  [4;36;1mProject Load (0.003004)[0m   [0;1mSELECT * FROM `projects` WHERE (`projects`.`user_id` = 1) [0m
+Rendering template within layouts/supramap
+Rendering supramap/projects
+  [4;35;1mCACHE (0.000000)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Completed in 0.19643 (5 reqs/sec) | Rendering: 0.01849 (9%) | DB: 0.10180 (51%) | 200 OK [http://localhost/supramap/projects]
+
+
+Processing SupramapController#projects (for 127.0.0.1 at 2008-08-11 16:44:42) [GET]
+  Session ID: BAh7CToMdXNlcl9pZGkGOhFvcmlnaW5hbF91cmkwOgxjc3JmX2lkIiVkZTQx
+Yzg2MGJkMzEyOWZiYmViMWI1N2JlZmQxNzA0OSIKZmxhc2hJQzonQWN0aW9u
+Q29udHJvbGxlcjo6Rmxhc2g6OkZsYXNoSGFzaHsABjoKQHVzZWR7AA==--8c511e0b1a2cd6417ffb7ea76b27363c7e091806
+  Parameters: {"action"=>"projects", "controller"=>"supramap"}
+  [4;36;1mUser Columns (0.005603)[0m   [0;1mSHOW FIELDS FROM `users`[0m
+  [4;35;1mUser Load (0.003829)[0m   [0mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+  [4;36;1mProject Columns (0.006024)[0m   [0;1mSHOW FIELDS FROM `projects`[0m
+  [4;35;1mProject Load (0.003144)[0m   [0mSELECT * FROM `projects` WHERE (`projects`.`user_id` = 1) [0m
+Rendering template within layouts/supramap
+Rendering supramap/projects
+  [4;36;1mCACHE (0.000000)[0m   [0;1mSELECT * FROM `users` WHERE (`users`.`id` = 1) LIMIT 1[0m
+Completed in 0.11332 (8 reqs/sec) | Rendering: 0.01889 (16%) | DB: 0.01860 (16%) | 200 OK [http://localhost/supramap/projects]
