@@ -13,8 +13,8 @@ class User < ActiveRecord::Base
 
   validates_format_of:login,
   # taken from http://regexlib.com/REDetails.aspx?regexp_id=145
-  :with => /^[a-zA-Z0-9.\-_']+$/,
-  :message => "(alphanumeric with periods or dashes only)"
+  :with => /^[a-zA-Z0-9]+$/,
+  :message => "(alphanumeric only)"
 
   validates_format_of:email,
   # taken from http://www.devx.com/enterprise/Article/31197/0/page/3

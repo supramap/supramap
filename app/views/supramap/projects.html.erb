@@ -1,7 +1,8 @@
-<%= error_messages_for "project" %>
+<%= error_messages_for 'project' %>
 
 <h2>Projects</h2>
 <table>
+	<% unless @projects.blank? %>
 	<% unless @projects.size == 0 %>
 	<tr>
 		<th>Name</th>
@@ -32,5 +33,6 @@
 		</p>
 		<input type="hidden" id="user_id" name="project[user_id]" value="<%= session[:user_id] %>" />
 		<%= submit_tag "Create", :class => "submit" %>
+	<% end%>
 	<% end%>
 </fieldset>

@@ -13,14 +13,8 @@ class Sfile < ActiveRecord::Base
     self.filename = file_field.original_filename.strip if respond_to?(:filename)
     self.filetype = filename
     path = "#{RAILS_ROOT}/public/files/#{project.user.login}"
-       if File.exist?(path) == false
-         FileUtils.mkdir(path)
-       end
-       if File.exist?("#{path}/#{project_id}") == false
-         FileUtils.mkdir("#{path}/#{project_id}")
-       end
-       File.open("#{path}/#{project_id}/#{@filename}", "wb") do |f|
-         f.write(file_field.read)
+    File.open("#{path}/#{project_id}/#{@filename}", "wb") do |f|
+      f.write(file_field.read)
     end
     path = "#{path}/#{project_id}/#{@filename}"
     FileUtils.chmod_R 0777, path

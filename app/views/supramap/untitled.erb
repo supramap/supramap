@@ -1,7 +1,28 @@
-<%= error_messages_for 'job' %>
+
+path = "#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}"
+FileUtils.mkdir(path) rescue nil
+FileUtils.chmod_R 0777, path
+@sfiles = Sfile.find(:all)
+@sfiles.each do |sfile|
+  if params[:files][sfile.id.to_s] == "1"
+    #@job.select_file(sfile)
+    job.sfiles << sfile
+  end
+end
+flash[:notice] = "Job #{job.name} login #{job.project.user.login} project #{job.project_id} id #{job.id}"
+if(job.job_type == "fas")
+  @job_status = start_fas_job(job.id)[0]
+else
+  @job_status = start_xml_job(job.id[0])
+end
+if @job_status == "0"
+  flash[:notice] = "Job #{job.name} type #{job.job_type} successfully created and started."
+else
+  flash[:notice] = "Job #{job.name} created but cannot start."
+end
+redirect_to :action => "show_project", :id => job.project_id
 
 
-<h2><%= @project.name %></h2>
 
 <table><tr>
 	<td><%= button_to "Rename", {:action => "edit_project", :id => @project.id} %></td>
@@ -95,6 +116,7 @@
 		<tr>
 			<td><%= job.name %></td>
 			<td><%= link_to "KML",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/kml_#{job.id}.kml"%></td>
+			<!-- Need to update with appropriate locations -->
 			<td><%= link_to "Tree",  " /files/#{job.project.user.login}/#{job.project_id}/#{job.id}/results_#{job.id}.tre"%></td>
 			<td><%= link_to "Stats",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/results_#{job.id}.stats"%></td>
 			<td><%=  %></td>

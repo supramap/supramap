@@ -18,34 +18,32 @@
 		<% end %>
 	</table>
 	
-	<% else %>
-		<tr><th colspan="2">Select one xml file for Job <%= params[:job][:name] %></th></tr>
-		<% @sfiles.each do |sfile| %>
-		<tr>
-			<% if sfile.filetype == params[:job][:job_type]%>
-			<td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
-			<td><%= sfile.filename %></td>
-			<%end%>
-		</tr>
-		<% end %>
-	</table>
-	<%end%>
-	
-	</table>
-	
-	<table>
-		<tr><th colspan="2">Select one csv file for Job <%= params[:job][:name] %></th></tr>
-		<% @sfiles.each do |sfile| %>
-		<tr>
-			<% if sfile.filetype == "csv" %>
-			<td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
-			<td><%= sfile.filename %></td>
-			<%end%>
-		</tr>
+  <% else %>
+    <tr><th colspan="2">Select one xml file for Job <%= params[:job][:name] %></th></tr>
+    <% @sfiles.each do |sfile| %>
+    <tr>
+      <% if sfile.filetype == params[:job][:job_type]%>
+      <td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
+      <td><%= sfile.filename %></td>
+      <%end%>
+    </tr>
+    <% end %>
+  </table>
+  <%end%>
 
-	 
-		<% end %>
-	</table>
+  </table>
+
+  <table>
+    <tr><th colspan="2">Select one csv file for Job <%= params[:job][:name] %></th></tr>
+    <% @sfiles.each do |sfile| %>
+    <tr>
+      <% if sfile.filetype == "csv" %>
+      <td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
+      <td><%= sfile.filename %></td>
+      <%end%>
+    </tr>
+    <% end %>
+  </table>
 	
 	<input type="hidden" id="project_id" name="job[project_id]" value="<%= params[:job][:project_id] %>" />
 	<input type="hidden" id="job_status" name="job[status]" value="Running" />

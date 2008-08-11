@@ -14,10 +14,26 @@ class SupramapController < ApplicationController
   end
 
   def create_project
+    # next three lines is a hacky way to display the error messages
+    @page_id = "supramap"
+    @page_title = "Projects"
+    @projects = Project.find_all_by_user_id(session[:user_id])
+    
     @project = Project.new(params[:project])
-    @project.save
-    flash[:notice] = "Project #{@project.name} successfully created."
-    redirect_to :action => "projects"
+
+    if @project.save
+      path = "#{RAILS_ROOT}/public/files/#{@project.user.login}"
+      if File.exist?(path) == false
+        FileUtils.mkdir(path)
+      end
+      if File.exist?("#{path}/#{@project.id}") == false
+        FileUtils.mkdir("#{path}/#{@project.id}")
+      end
+      flash[:notice] = "Project #{@project.name} successfully created."
+      redirect_to :action => "projects"
+    else
+       render :action => "projects"
+    end
   end
 
   def edit_project
@@ -135,44 +151,52 @@ class SupramapController < ApplicationController
   end
   
   def create_job
-    job = Job.new(params[:job])
-    job.save
-    path = "#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}"
-    FileUtils.mkdir(path) rescue nil
-    FileUtils.chmod_R 0777, path
-    @sfiles = Sfile.find(:all)
-    @sfiles.each do |sfile|
-      if params[:files][sfile.id.to_s] == "1"
-        #@job.select_file(sfile)
-        job.sfiles << sfile
+    
+    @page_id = "supramap"
+    @page_title = "Show project"
+  
+    @sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
+    @jobs = Job.find_all_by_project_id(params[:job][:project_id])
+    @project = Project.find(params[:job][:project_id])
+    
+    @job = Job.new(params[:job])
+    if @job.save
+      path = "#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}"
+      FileUtils.mkdir(path) rescue nil
+      FileUtils.chmod_R 0777, path
+      @sfiles.each do |sfile|
+        if params[:files][sfile.id.to_s] == "1"
+          #@job.select_file(sfile)
+          job.sfiles << sfile
+        end
       end
-    end
-    flash[:notice] = "Job #{job.name} login #{job.project.user.login} project #{job.project_id} id #{job.id}"
-    if start_job(job.id)[0] == "0"
-      flash[:notice] = "Job #{job.name} type #{job.job_type} successfully created and started."
+      flash[:notice] = "Job #{job.name} login #{job.project.user.login} project #{job.project_id} id #{job.id}"
+      if(job.job_type == "fas")
+        @job_status = start_fas_job(job.id)[0]
+      else
+        @job_status = start_xml_job(job.id[0])
+      end
+      if @job_status == "0"
+        flash[:notice] = "Job #{job.name} type #{job.job_type} successfully created and started."
+      else
+        flash[:notice] = "Job #{job.name} created but cannot start."
+      end
+      redirect_to :action => "show_project", :id => @job.project_id
     else
-      flash[:notice] = "Job #{job.name} created but cannot start."
+      render :action => "show_project", :id => @job.project_id
     end
-    redirect_to :action => "show_project", :id => job.project_id
   end
+
   
-  # Jobs when stopped are stopped
-  # Might as well create a new job rather than restart
-  def restart_job
-    job = Job.find(params[:id])
-    if start_job(job.id)[0] == "0"
-      flash[:notice] = "Job #{job.name} successfully created and started."
-      job.update_attribute :status, "running"
-    else
-      flash[:notice] = "Job #{job.name} cannot start."
-    end
-    redirect_to :action => "show_project", :id => job.project_id
-  end
-  
-  def start_job(job_id)
+  def start_fas_job(job_id)
       driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
       driver.startPOYJob(job_id.to_i)
-    end
+  end
+    
+  def start_xml_job(job_id)
+      driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
+      #driver.startPOYJob(job_id.to_i)
+  end
 
     def stop_job
       job = Job.find(params[:id]) 
