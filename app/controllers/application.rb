@@ -17,7 +17,7 @@ class ApplicationController < ActionController::Base
     if user.nil?
       flash[:notice] = "Please login to access this page."
       redirect_to :controller => "login", :action => "login"
-    elsif user.auth == 0
+    elsif user.auth == false
       flash[:notice] = "Please wait for your account to be activated"
       redirect_to :controller => "supramap", :action => "home"
     end

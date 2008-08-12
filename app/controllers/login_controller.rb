@@ -25,7 +25,7 @@ class LoginController < ApplicationController
     @page_title = "Register"
 
     @user = User.new(params[:user])
-    @user.setA(true, true)
+    @user.setA(false, false)
     if request.post? and @user.save
       flash[:notice] = "User #{@user.login} created."
       @user = User.new
@@ -72,11 +72,8 @@ class LoginController < ApplicationController
     
     if request.post?
       user = User.find(params[:id])
-      @projects = Project.find_all_by_user_id(user.id)
-      @projects.each do |project|
-        # delete each project
-      end
-      
+      user.deleteprojects(user.id)
+
       user.destroy
       path = "#{RAILS_ROOT}/public/files/#{user.login}/"
       if File.exist?(path)

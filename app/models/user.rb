@@ -60,6 +60,21 @@ class User < ActiveRecord::Base
     write_attribute(:admin, ad)
     write_attribute(:auth, au)
   end
+  
+  # deletes the database instances, not the actual files
+  def deleteprojects(id)
+    @projects = Project.find_all_by_user_id(id)
+    @projects.each do |project|
+      project.destroy
+      project.sfiles.each do |file|
+        file.destroy
+      end
+      project.jobs.each do |job|
+        job.destroy
+      end
+    end
+  end
+  
 
 
   def password=(pwd)

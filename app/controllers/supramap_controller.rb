@@ -5,7 +5,7 @@ require "fastercsv"
 
 class SupramapController < ApplicationController
 
-  before_filter :authorize, :except => [:index, :home, :make_a_supramap, :about, :tutorials, :theory, :publications, :contact_us]
+  before_filter :authorize, :except => [:index, :home, :about, :tutorials, :theory, :publications, :contact_us]
 
   def projects
     @page_id = "supramap"
@@ -278,21 +278,6 @@ class SupramapController < ApplicationController
         end
       end
     end
-
-    def assign_rank(job)
-      @treenodes = Treenode.find_all_by_job_id(job.id)
-      @treenodes.each do |node|
-        unless Treenode.find_by_parent_id(node.id)
-          node.rank = 0
-          node.save
-        end
-      end
-      id = "x"
-      while (id != "root" and id != "HTU0") do
-        #select parent_name,max(rank) from $trees_table WHERE rank>-1 and parent_name in (select strain_name from $trees_table WHERE rank is null) GROUP BY parent_name HAVING count(distinct strain_name)=2
-      end
-    end
-
 
   #actions for non-application pages
 

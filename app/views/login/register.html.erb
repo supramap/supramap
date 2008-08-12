@@ -15,6 +15,8 @@
 		<tr><td>Password:</td><td><%= form.password_field :password, :size => 20 %></td></tr>
 		<tr><td><font size = "1">6-20 characters, at least one nonletter</font size = "1"></td></tr>
 		<tr><td>Confirm:</td><td><%= form.password_field :password_confirmation, :size => 20 %></td></tr>
+		<input type="hidden" id="user_id" name="user[admin]" value="0" />
+		<input type="hidden" id="user_id" name="user[auth]" value="0" />
 	</table>
 </fieldset>
 
