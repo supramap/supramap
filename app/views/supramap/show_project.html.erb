@@ -8,7 +8,7 @@
 :header_message => "Project not renamed", 
 :message => "Sorry, but there were some problems renaming the project.  Changes will not be saved."%>
 
-<h2><%= @project.name %></h2>
+<h2><%= h(@project.name) %></h2>
 
 <table><tr>
 	<td><%= button_to "Rename", {:action => "edit_project", :id => @project.id} %></td>
@@ -32,9 +32,9 @@
 		<% end %>
 		<% for sfile in @sfiles %>
 			<tr>
-				<td><a href="/files/<%= sfile.project.user.login %>/<%= sfile.project_id %>/<%= sfile.filename %>" title="Download File"><%= sfile.filename %></a></td>
-				<td><%= sfile.created_at.to_date %></td>
-				<td><%= sfile.filetype %></td>
+				<td><a href="/files/<%= h(sfile.project.user.login) %>/<%= h(sfile.project_id) %>/<%= h(sfile.filename) %>" title="Download File"><%= sfile.filename %></a></td>
+				<td><%= h(sfile.created_at.to_date) %></td>
+				<td><%= h(sfile.filetype) %></td>
 				<td><%= button_to "Delete", {:action => "delete_file", :id => sfile.id}, :confirm => "Are you sure you want to delete file #{h(sfile.filename)}?" %></td>
 			</tr>
 		<% end %>
@@ -82,7 +82,7 @@
 			<% job.sfiles.each do |file| %>
 			<tr>
 				<td>&nbsp;</td>
-				<td colspan="6" class="job_files"><%= file.filename %></td>
+				<td colspan="6" class="job_files"><%= h(file.filename) %></td>
 			</tr>
 						
 			<% end %>
@@ -103,7 +103,7 @@
 		<% @jobs.each do |job|
 			if job.status == "Completed" %>
 			<tr>
-				<td><%= job.name %></td>
+				<td><%= h(job.name) %></td>
 				<td><%= link_to "KML",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/kml_#{job.id}.kml"%></td>
 				<td><%= link_to "Tree",  " /files/#{job.project.user.login}/#{job.project_id}/#{job.id}/results_#{job.id}.tre"%></td>
 				<td><%= link_to "Stats",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/results_#{job.id}.stats"%></td>

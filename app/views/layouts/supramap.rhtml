@@ -5,12 +5,12 @@
 	<meta name="description" content="Google earth combined with evolutionary trees based on viral mutations are used to track the spread of influenza and sars over space, time, and hosts." />
 	<meta name="keywords" content="supramap, phylogeny, virtual globe, SARS, h5n1, avian invluenza, phylogeography,  biogeography, genetic mutation, SARS-CoV, host shift, KML, Google Earth, types of mutations, supermap, bird flu, mutation, gene mutation, sars virus" />
 	<%= stylesheet_link_tag 'style' %>
-	<title>SupraMap :: <%= @page_title %></title>
+	<title>SupraMap :: <%= h(@page_title) %></title>
 	<!--[if lt IE 7.]>
 	<script defer type="text/javascript" src="http://homepage.ntlworld.com/bobosola/pngfix.js"></script>
 	<![endif]-->
 	</head>
-	<body id="<%= @page_id %>">
+	<body id="<%= h(@page_id) %>">
 		<div id="header">
 			<h1>SupraMap</h1>
 

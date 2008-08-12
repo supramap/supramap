@@ -72,7 +72,16 @@ class LoginController < ApplicationController
     
     if request.post?
       user = User.find(params[:id])
+      @projects = Project.find_all_by_user_id(user.id)
+      @projects.each do |project|
+        # delete each project
+      end
+      
       user.destroy
+      path = "#{RAILS_ROOT}/public/files/#{user.login}/"
+      if File.exist?(path)
+        FileUtils.rm_r(path)
+      end
     end
     redirect_to  :action => "list_users"
   end

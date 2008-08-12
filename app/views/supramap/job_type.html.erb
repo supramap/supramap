@@ -4,7 +4,7 @@
 		<table><tr>
 			<tr>
 				<td>New job  <%= form.text_field :name, :size => 20 %></td>
-				<input type="hidden" id="user_id" name="job[project_id]" value="<%= @project.id %>" />
+				<input type="hidden" id="user_id" name="job[project_id]" value="<%= h(@project.id) %>" />
 			</tr>
 			<tr>
 				<td>I have a fas file.</td>

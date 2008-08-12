@@ -14,7 +14,7 @@
 	<tr>
 		<td><%= h(user.login) %></td>
 		<td><%= h(user.firstname) %> <%= h(user.lastname) %></td>
-		<td><a href="mailto:<%= user.email %>" title="email <%= h(user.firstname) %> <%= h(user.lastname) %>"><%= h(user.email) %></a></td>
+		<td><a href="mailto:<%= h(user.email) %>" title="email <%= h(user.firstname) %> <%= h(user.lastname) %>"><%= h(user.email) %></a></td>
 		<td><%= h(user.admin) %></td>
 		<td><%= h(user.auth) %></td>
 		<td><%= button_to "Change Admin", {:controller => "login", :action => "changeAdmin", :id => user}, {:method => :post, :confirm => "Confirm changing #{user.login}'s Admin privileges?"} %></td>

@@ -2,7 +2,7 @@
 :header_message => 'File Error',
 :message => "Sorry, but there were some problems with the file." %>
 
-<fieldset><legend>Define new Job <%= params[:job][:name]%></legend>
+<fieldset><legend>Define new Job <%= h(params[:job][:name])%></legend>
 
 <% form_for :job, :url => {:action => "create_job"} do |form| %>
 	<table>
@@ -14,8 +14,8 @@
 		<tr>
 			<% if sfile.filetype == params[:job][:job_type]%>
 			<% data = true %>
-			<td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
-			<td><%= sfile.filename %></td>
+			<td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= h(sfile.id) %>]" type="hidden" value="0" /></td>
+			<td><%= h(sfile.filename) %></td>
 			<%end%>		
 		<% end %>
 			<% if data == false %>
@@ -29,8 +29,8 @@
     <% @sfiles.each do |sfile| %>
     <tr>
       <% if sfile.filetype == params[:job][:job_type]%>
-      <td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
-      <td><%= sfile.filename %></td>
+      <td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= h(sfile.id) %>]" type="hidden" value="0" /></td>
+      <td><%= h(sfile.filename) %></td>
       <%end%>
     </tr>
 		<% end %>
@@ -50,8 +50,8 @@
     <tr>
       <% if sfile.filetype == "csv" %>
 		<% data = true %>
-      <td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= sfile.id %>]" type="hidden" value="0" /></td>
-      <td><%= sfile.filename %></td>
+      <td><%= check_box_tag "files[#{sfile.id}]", 1 %><input name="files[<%= h(sfile.id) %>]" type="hidden" value="0" /></td>
+      <td><%= h(sfile.filename) %></td>
       <%end%>
     </tr>
 		<% end %>
@@ -61,10 +61,10 @@
 		</tr>
 	</table>
 	
-	<input type="hidden" id="project_id" name="job[project_id]" value="<%= params[:job][:project_id] %>" />
+	<input type="hidden" id="project_id" name="job[project_id]" value="<%= h(params[:job][:project_id]) %>" />
 	<input type="hidden" id="job_status" name="job[status]" value="Running" />
-	<input type="hidden" id="job_name" name="job[name]" value="<%= params[:job][:name] %>" />
-	<input type="hidden" id="job_type" name="job[job_type]" value="<%= params[:job][:job_type] %>" /> 
+	<input type="hidden" id="job_name" name="job[name]" value="<%= h(params[:job][:name]) %>" />
+	<input type="hidden" id="job_type" name="job[job_type]" value="<%= h(params[:job][:job_type]) %>" /> 
 	<%= submit_tag "Save", :class => "submit" %>
 <% end%>
 </fieldset>

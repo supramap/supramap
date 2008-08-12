@@ -31,18 +31,18 @@
 	</tr>
 	<% for treenode in @treenodes %>
 	<tr>
-		<td><%= treenode.id %></td>
-		<td><%= treenode.parent_id %></td>
-		<td><%= treenode.strain_name %></td>
-		<td><%= treenode.latitude %></td>
-		<td><%= treenode.longitude %></td>
-		<td><%= treenode.isolation_date %></td>
+		<td><%= h(treenode.id) %></td>
+		<td><%= h(treenode.parent_id) %></td>
+		<td><%= h(treenode.strain_name) %></td>
+		<td><%= h(treenode.latitude) %></td>
+		<td><%= h(treenode.longitude) %></td>
+		<td><%= h(treenode.isolation_date) %></td>
 	</tr>
 	<% treenode.transformations.each do |t| %>
 	<tr>
 		<td></td>
-		<td><%= t.position %></td>
-		<td><%= t.ancestral_state %> -> <%= t.descendant_state %></td>
+		<td><%= h(t.position) %></td>
+		<td><%= h(t.ancestral_state) %> -> <%= h(t.descendant_state) %></td>
 	</tr>
 	<% end %>
 	<% end %>

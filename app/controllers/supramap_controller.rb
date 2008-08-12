@@ -58,22 +58,6 @@ class SupramapController < ApplicationController
     end
   end
 
-  def delete_project
-    @project = Project.find(params[:id])
-    @project.destroy
-    @project.sfiles.each do |file|
-      deletefile(file.id)
-    end
-    @project.jobs.each do |job|
-      deletejob(job.id)
-    end
-    # delete project files as well
-    path = "#{RAILS_ROOT}/public/files/#{@project.user.login}/#{@project.id}"
-    if File.exist?(path)
-      FileUtils.rm_r(path)
-    end
-    redirect_to :action => "projects"
-  end
 
   def show_project
     @page_id = "supramap"
@@ -94,18 +78,6 @@ class SupramapController < ApplicationController
   
   def get_readme
     send_file("files/README.txt", :filename => 'yo_readme.txt')
-  end
-  
-  # Not used, but can check whether the KML file is present
-  def checkKML
-    job = Job.find(params[:job_id])    
-    @path = "#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/kml_#{job.id}.kml"
-    if File.exist?(@path)
-      flash[:notice] = "KML for Job #{job.name} is done."
-    else
-      flash[:notice] = "Error: Couldn't find the KML for Job #{job.name}."
-    end
-    redirect_to :action => "show_project", :id => job.project_id
   end
 
   def show_file
