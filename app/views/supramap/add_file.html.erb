@@ -1,4 +1,7 @@
-<%= error_messages_for "sfile" %>
+<%= error_messages_for "sfile",
+:header_message => "File Error",
+:message => "Sorry, but there were some problems with the file." %>
+
 
 <fieldset><legend>Upload a file to project <%= @project.name %></legend>
 

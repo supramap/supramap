@@ -14,7 +14,6 @@ class SupramapController < ApplicationController
   end
 
   def create_project
-    # next three lines is a hacky way to display the error messages
     @page_id = "supramap"
     @page_title = "Projects"
     @projects = Project.find_all_by_user_id(session[:user_id])
@@ -43,10 +42,20 @@ class SupramapController < ApplicationController
   end
 
   def update_project
+    @page_id = "supramap"
+    @page_title = "Show project"
+    
     @project = Project.find(params[:id])
-    @project.update_attributes(params[:name])
-    flash[:notice] = "Project #{@project.name} successfully updated."
-    redirect_to :action => "show_project", :id => @project.id
+    
+    @sfiles = Sfile.find_all_by_project_id(@project.id)
+    @jobs = Job.find_all_by_project_id(@project.id)
+
+    if @project.update_attributes(params[:name])
+      flash[:notice] = "Project #{@project.name} successfully updated."
+      
+    else
+      render :action => "show_project", :id => @project.id
+    end
   end
 
   def delete_project
@@ -104,13 +113,22 @@ class SupramapController < ApplicationController
   end
 
   def create_file
+    @page_id = "supramap"
+    @page_title = "Show project"
+    
     @sfile = Sfile.new(params[:sfile])
+    
+    @sfiles = Sfile.find_all_by_project_id(@sfile.project.id)
+    @jobs = Job.find_all_by_project_id(@sfile.project.id)
+    @project = Project.find(@sfile.project.id)
+    
     if @sfile.save
       flash[:notice] = "File #{@sfile.filename} successfully uploaded."
+      redirect_to :action => "show_project", :id => @sfile.project_id
     else
-      flash[:notice] = "File didn't upload!"
+      #flash[:notice] = "File didn't upload!"
+      render :action => "show_project", :id => @sfile.project_id
     end
-    redirect_to :action => "show_project", :id => @sfile.project_id
   end
 
 

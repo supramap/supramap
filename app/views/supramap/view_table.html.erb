@@ -1,4 +1,6 @@
-<%= error_messages_for "query" %>
+<%= error_messages_for "query",
+:header_message => 'query',
+:message => "Sorry, but there were some problems with the query." %>
 
 <% form_for :query do |form| %>
 <table>
