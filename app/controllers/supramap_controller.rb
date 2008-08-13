@@ -34,6 +34,20 @@ class SupramapController < ApplicationController
        render :action => "projects"
     end
   end
+  
+  def delete_project
+    @project = Project.find(params[:id])
+    @project.destroy
+    @project.sfiles.each do |file|
+      deletefile(file.id)
+    end
+    @project.jobs.each do |job|
+      deletejob(job.id)
+    end
+    # delete project files as well
+    FileUtils.rm_r("#{RAILS_ROOT}/public/files/#{@project.user.login}/#{@project.id}")
+    redirect_to :action => "projects"
+  end
 
   def edit_project
     @page_id = "supramap"
