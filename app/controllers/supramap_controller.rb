@@ -169,7 +169,6 @@ class SupramapController < ApplicationController
           @job.sfiles << sfile
         end
       end
-      flash[:notice] = "Job #{@job.name} login #{@job.project.user.login} project #{@job.project_id} id #{@job.id}"
       if(@job.job_type == "fas")
         @job_status = start_fas_job(@job.id)[0]
       else
