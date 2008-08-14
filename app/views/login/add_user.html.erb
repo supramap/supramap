@@ -13,8 +13,8 @@
 				<tr><td>E-Mail:</td><td><%= form.text_field :email, :size => 20 %></td></tr>
 			<tr><td>Password:</td><td><%= form.password_field :password, :size => 20 %></td></tr>
 			<tr><td>Confirm:</td><td><%= form.password_field :password_confirmation, :size => 20 %></td></tr>
-			<tr><td>Admin:</td><td><%= form.check_box :admin %></td></tr>
-			<tr><td>auth:</td><td><%= form.check_box :auth %></td></tr>
+			<tr><td>Administrator:</td><td><%= form.check_box :admin %></td></tr>
+			<tr><td>Authorize:</td><td><%= form.check_box :auth %></td></tr>
 		</table>
 		<%= submit_tag "Add User", :class => "submit" %>
 	<% end%>

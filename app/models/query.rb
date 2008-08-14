@@ -6,22 +6,6 @@ class Query < ActiveRecord::Base
 
   AD_TYPES = [ "", "A", "C", "G", "T", "AG", "CT", "CG", "AT", "GT", "AC", "CGT", "AGT", "ACT", "ACG", "ACGT" ]
 
-  # Change array names for IUPAC
-  AD_TYPES1 = [
-    "", "A", "C", "G", "T",
-    [ "R", "AG" ],
-    [ "Y", "CT" ],
-    [ "S", "CG" ],
-    [ "W", "AT" ],
-    [ "K", "GT" ],
-    [ "M", "AC" ],
-    [ "B", "CGT" ],
-    [ "D", "AGT" ],
-    [ "H", "ACT" ],
-    [ "V", "ACG" ],
-    [ "N", "ACGT" ]
-  ]
-
   INSDES = [
     [ "", "" ],
     [ "Insertion", "i" ],

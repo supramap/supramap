@@ -25,6 +25,7 @@ class LoginController < ApplicationController
     @page_title = "Register"
 
     @user = User.new(params[:user])
+    # setA overrides the default (no admin, no authorization)
     #@user.setA(true, true)
     if request.post? and @user.save
       flash[:notice] = "User #{@user.login} created."
@@ -72,9 +73,13 @@ class LoginController < ApplicationController
     
     if request.post?
       user = User.find(params[:id])
+      
+      # only deletes the user's files, projects, jobs in mysql
       user.deleteprojects(user.id)
 
       user.destroy
+      
+      # delete the user files on the server
       path = "#{RAILS_ROOT}/public/files/#{user.login}/"
       if File.exist?(path)
         FileUtils.rm_r(path)
@@ -83,7 +88,7 @@ class LoginController < ApplicationController
     redirect_to  :action => "list_users"
   end
   
-
+  # toggles the authorization status of the user
   def changeAuth
     @page_id = "supramap"
     @page_title = "Change Authorization"
@@ -95,6 +100,7 @@ class LoginController < ApplicationController
       redirect_to :action => "list_users"
     end
   
+  # toggles the admin status of the user
   def changeAdmin
     @page_id = "supramap"
     @page_title = "Change Admin"

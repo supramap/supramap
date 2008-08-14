@@ -14,9 +14,13 @@ class ApplicationController < ActionController::Base
 
   def authorize
     user = User.find_by_id(session[:user_id])
+    # If the user is not logged in
     if user.nil?
       flash[:notice] = "Please login to access this page."
       redirect_to :controller => "login", :action => "login"
+    # If the user is not yet authorized
+    # auth is a column in the table user and is by default fault
+    # an admin has to set it to be true
     elsif user.auth == false
       flash[:notice] = "Please wait for your account to be activated"
       redirect_to :controller => "supramap", :action => "home"
@@ -25,6 +29,7 @@ class ApplicationController < ActionController::Base
 
   def authorize_admin
     user = User.find_by_id(session[:user_id])
+    # If the user is not logged in
     if user.nil?
       flash[:notice] = "Please login.  The page you requested can only be accessed by administrators."
       redirect_to :controller => "login", :action => "login"

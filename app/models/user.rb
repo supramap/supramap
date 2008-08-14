@@ -5,12 +5,19 @@ class User < ActiveRecord::Base
   validates_presence_of :firstname, :lastname, :login, :email 
   validates_uniqueness_of :login, :email
 
+  # only validates the password when a user registers
+  # since the password isn't permanently stored, this validation
+  # is not applicable for anything beyond user creation
+  
   validates_format_of:password,
   # modified from http://regexlib.com/REDetails.aspx?regexp_id=2204
   :with => /(?-i)(?=^.{8,}$)((?!.*\s)(?=.*[a-zA-Z]))((?=(.*\d){1,})|(?=(.*\W){1,}))^.*$/,
   :message => "(please enter a valid password with 6-20 characters and at least one non-letter)",
   :on => :create
 
+  # logins are used in the file path, so they must be valid Unix file names
+  # alphanumeric to keep it simple, adding periods would complicate things since
+  # hidden files have periods at the beginning
   validates_format_of:login,
   # taken from http://regexlib.com/REDetails.aspx?regexp_id=145
   :with => /^[a-zA-Z0-9]+$/,
@@ -21,7 +28,7 @@ class User < ActiveRecord::Base
   :with => /\A[\w\._%-]+@[\w\.-]+\.[a-zA-Z]{2,4}\z/,
   :message => "(please enter a valid address)"
 
-    
+  # user must accept eula  
   validates_acceptance_of :eula
   
   attr_accessor :password_confirmation
@@ -75,8 +82,6 @@ class User < ActiveRecord::Base
     end
   end
   
-
-
   def password=(pwd)
     @password = pwd
     create_new_salt

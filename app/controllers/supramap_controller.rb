@@ -22,6 +22,7 @@ class SupramapController < ApplicationController
 
     if @project.save
       path = "#{RAILS_ROOT}/public/files/#{@project.user.login}"
+      # if the folders have not been created on the server, create them
       if File.exist?(path) == false
         FileUtils.mkdir(path)
       end
@@ -31,6 +32,7 @@ class SupramapController < ApplicationController
       flash[:notice] = "Project #{@project.name} successfully created."
       redirect_to :action => "projects"
     else
+      # render allows for the errors to be displayed
        render :action => "projects"
     end
   end
@@ -38,13 +40,14 @@ class SupramapController < ApplicationController
   def delete_project
     @project = Project.find(params[:id])
     @project.destroy
+    # deletes the files and job records in the mysql database
     @project.sfiles.each do |file|
       deletefile(file.id)
     end
     @project.jobs.each do |job|
       deletejob(job.id)
     end
-    # delete project files as well
+    # delete project files on the server as well
     FileUtils.rm_r("#{RAILS_ROOT}/public/files/#{@project.user.login}/#{@project.id}")
     redirect_to :action => "projects"
   end
@@ -112,7 +115,6 @@ class SupramapController < ApplicationController
       flash[:notice] = "File #{@sfile.filename} successfully uploaded."
       redirect_to :action => "show_project", :id => @sfile.project_id
     else
-      #flash[:notice] = "File didn't upload!"
       render :action => "show_project", :id => @sfile.project_id
     end
   end
@@ -123,6 +125,7 @@ class SupramapController < ApplicationController
     @project = Project.find(@sfile.project_id)
     @sfile.destroy
     path = "#{RAILS_ROOT}/public/files/#{@project.user.login}/#{@project.id}/#{@sfile.filename}"
+    # deletes the file if it's there
     if File.exist?(path)
       FileUtils.rm_r(path)
     end
@@ -139,6 +142,7 @@ class SupramapController < ApplicationController
     @job.destroy
     # delete directory as well
     path = "#{RAILS_ROOT}/public/files/#{@job.project.user.login}/#{@job.project_id}/#{@job.id}/"
+    # deletes the job folder if it's there
     if File.exist?(path)
       FileUtils.rm_r(path)
     end
@@ -167,7 +171,6 @@ class SupramapController < ApplicationController
     
     @page_id = "supramap"
     @page_title = "Show project"
-  
     @sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
     @jobs = Job.find_all_by_project_id(params[:job][:project_id])
     @project = Project.find(params[:job][:project_id])
@@ -183,6 +186,7 @@ class SupramapController < ApplicationController
           @job.sfiles << sfile
         end
       end
+      # there should be separate actions for different kinds of jobs
       if(@job.job_type == "fas")
         @job_status = start_fas_job(@job.id)[0]
       else
@@ -199,43 +203,44 @@ class SupramapController < ApplicationController
     end
   end
 
-  
+  # this is implemented
   def start_fas_job(job_id)
       driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
       driver.startPOYJob(job_id.to_i)
   end
-    
+  
+  # this has not yet been implemented in JBoss
   def start_xml_job(job_id)
-      driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
-      #driver.startPOYJob(job_id.to_i)
+    driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
+    #driver.startPOYJob(job_id.to_i)
   end
 
-    def stop_job
-      job = Job.find(params[:id]) 
-      driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver 
-      if driver.stopPOYJob(job.id)[0] == "0"
-        flash[:notice] = "Job #{job.name} successfully stopped."
-        job.update_attribute :status, "Stopped"
-      else
-        flash[:notice] = "Job #{job.name} couldn't be stopped."
-      end
-      redirect_to :action => "show_project", :id => job.project_id
+  def stop_job
+    job = Job.find(params[:id]) 
+    driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver 
+    if driver.stopPOYJob(job.id)[0] == "0"
+      flash[:notice] = "Job #{job.name} successfully stopped."
+      job.update_attribute :status, "Stopped"
+    else
+      flash[:notice] = "Job #{job.name} couldn't be stopped."
     end
+    redirect_to :action => "show_project", :id => job.project_id
+  end
 
-    # Query interface parses xml and csv each time, AJAX would be nice here
-    def view_table
-      @page_id = "supramap"
-      @page_title = "View"
-  
-      parse_xml
-      parse_csv
-      @treenodes = Treenode.find(:all)
-      @query =  Query.new(params[:query])
-      if request.post? and @query.save 
-        # Display query for debugging
-        flash.now[:notice] = "AncS #{@query.anc_state}  DescS #{@query.desc_state}  Position #{@query.position}   InDel #{@query.insdel}."
-      end
+  # Query interface parses xml and csv each time, AJAX would be nice here
+  def view_table
+    @page_id = "supramap"
+    @page_title = "View"
+
+    parse_xml
+    parse_csv
+    @treenodes = Treenode.find(:all)
+    @query =  Query.new(params[:query])
+    if request.post? and @query.save 
+      # Display query for debugging
+      flash.now[:notice] = "AncS #{@query.anc_state}  DescS #{@query.desc_state}  Position #{@query.position}   InDel #{@query.insdel}."
     end
+  end
 
     def parse_xml
       job = Job.find(params[:job_id])
