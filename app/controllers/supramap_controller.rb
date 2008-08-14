@@ -66,7 +66,7 @@ class SupramapController < ApplicationController
 
     if @project.update_attributes(params[:name])
       flash[:notice] = "Project #{@project.name} successfully updated."
-      
+      redirect_to :action => "show_project", :id => @project.id
     else
       render :action => "show_project", :id => @project.id
     end
