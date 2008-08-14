@@ -11,7 +11,7 @@ class User < ActiveRecord::Base
   
   validates_format_of:password,
   # modified from http://regexlib.com/REDetails.aspx?regexp_id=2204
-  :with => /(?-i)(?=^.{8,}$)((?!.*\s)(?=.*[a-zA-Z]))((?=(.*\d){1,})|(?=(.*\W){1,}))^.*$/,
+  :with => /(?-i)(?=^.{6,}$)((?!.*\s)(?=.*[a-zA-Z]))((?=(.*\d){1,})|(?=(.*\W){1,}))^.*$/,
   :message => "(please enter a valid password with 6-20 characters and at least one non-letter)",
   :on => :create
 
