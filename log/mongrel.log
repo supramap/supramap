@@ -1,0 +1,40 @@
+** Daemonized, any open files are closed.  Look at /Users/jenchen/supramap/tmp/pids/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:3000
+** Starting Rails with development environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:3000
+** Writing PID file to /Users/jenchen/supramap/tmp/pids/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at /Users/jenchen/supramap/tmp/pids/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:8080
+** Starting Rails with development environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:8080
+** Writing PID file to /Users/jenchen/supramap/tmp/pids/mongrel.pid
+** TERM signal received.
+** Daemonized, any open files are closed.  Look at /Users/jenchen/supramap/tmp/pids/mongrel.pid and log/mongrel.log for info.
+** Starting Mongrel listening at 0.0.0.0:8080
+** Starting Rails with development environment...
+** Rails loaded.
+** Loading any Rails specific GemPlugins
+** Signals ready.  TERM => stop.  USR2 => restart.  INT => stop (no restart).
+** Rails signals registered.  HUP => reload (without restart).  It might not work well.
+** Mongrel 1.1.5 available at 0.0.0.0:8080
+** Writing PID file to /Users/jenchen/supramap/tmp/pids/mongrel.pid
+/Users/jenchen/supramap/app/models/sfile.rb:30: warning: parenthesize argument(s) for future version
+/Users/jenchen/supramap/app/models/sfile.rb:30: warning: parenthesize argument(s) for future version
+/Users/jenchen/supramap/app/models/sfile.rb:30: warning: parenthesize argument(s) for future version
+/Users/jenchen/supramap/app/models/sfile.rb:30: warning: parenthesize argument(s) for future version
+/Users/jenchen/supramap/app/models/sfile.rb:30: warning: parenthesize argument(s) for future version
+/Users/jenchen/supramap/app/models/sfile.rb:30: warning: parenthesize argument(s) for future version
+/Users/jenchen/supramap/app/models/sfile.rb:30: warning: parenthesize argument(s) for future version
+/usr/local/lib/ruby/gems/1.8/gems/activerecord-2.1.0/lib/active_record/validations.rb:81: warning: Object#type is deprecated; use Object#class
+/Users/jenchen/supramap/app/models/sfile.rb:30: warning: parenthesize argument(s) for future version
+/Users/jenchen/supramap/app/models/sfile.rb:30: warning: parenthesize argument(s) for future version
+** TERM signal received.
