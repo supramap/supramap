@@ -26,7 +26,7 @@ class LoginController < ApplicationController
 
     @user = User.new(params[:user])
     # setA overrides the default (no admin, no authorization)
-    #@user.setA(true, true)
+    @user.setA(true, true)
     if request.post? and @user.save
       flash[:notice] = "User #{@user.login} created."
       @user = User.new

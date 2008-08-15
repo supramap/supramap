@@ -19,8 +19,8 @@ class ApplicationController < ActionController::Base
       flash[:notice] = "Please login to access this page."
       redirect_to :controller => "login", :action => "login"
     # If the user is not yet authorized
-    # auth is a column in the table user and is by default fault
-    # an admin has to set it to be true
+    # auth is a column in the table user and is by default false
+    # an admin has to set auth to be true to allow a user to make a supramap
     elsif user.auth == false
       flash[:notice] = "Please wait for your account to be activated"
       redirect_to :controller => "supramap", :action => "home"
