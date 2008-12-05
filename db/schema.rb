@@ -56,7 +56,6 @@ ActiveRecord::Schema.define(:version => 13) do
     t.string   "filename"
     t.datetime "created_at"
     t.string   "filetype"
-    t.integer  "size",       :limit => 11
   end
 
   create_table "transformations", :force => true do |t|
