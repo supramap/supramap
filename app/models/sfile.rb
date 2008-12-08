@@ -27,7 +27,7 @@ class Sfile < ActiveRecord::Base
   end
   
   def size=(s)
-    write attribute :size, s
+    write (attribute :size, s)
     @size = s
   end
   

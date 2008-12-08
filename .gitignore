@@ -6,4 +6,6 @@ public/files/**/*
 *.iml
 *.idea
 *.generators
+.project
+.loadpath
 
