@@ -140,7 +140,24 @@ th {
 
 table {
 	border: 1px solid #222;
-	margin: 2em;
+	margin:1em auto;
+	background-color:#000;
+}
+
+table#project {
+  width: 400px;
+  border: none; 
+}
+
+td.right {
+  align: right;
+  float: clear;
+  color: red;
+}
+
+.alignright {
+  float: right;
+  align: right;
 }
 
 input[type='submit'] {
@@ -213,11 +230,6 @@ fieldset {
 	min-width:400px;
 	margin:1em auto;
 	text-align:center;
-}
-
-table {
-	margin:1em auto;
-	background-color:#000;
 }
 
 legend {

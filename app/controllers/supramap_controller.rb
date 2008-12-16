@@ -69,10 +69,10 @@ class SupramapController < ApplicationController
 
     if @project.update_attributes(params[:name])
       flash[:notice] = "Project #{@project.name} successfully updated."
-      redirect_to :action => "show_project", :id => @project.id
-    else
-      render :action => "show_project", :id => @project.id
+#      redirect_to :action => "show_project", :id => @project.id
     end
+#    render :action => "show_project", :id => @project.id
+    redirect_to :action => "projects"
   end
 
 
@@ -160,9 +160,20 @@ class SupramapController < ApplicationController
     @sfiles = Sfile.find_all_by_project_id(@project.id)
   end
 
+  def define_job
+    @page_id = "supramap"
+    @project = Project.find(params[:id])
+    @page_title = "Define a new job"
+  end
+
+  def add_files_to_job
+    @page_id = "supramap"
+    type_of_job = params[:job_type]
+  end
+  
   def add_job
     #@project = Project.find(params[:job][:project_id])
-    @sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
+    #@sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
     @page_id = "supramap"
     @page_title = "Define job #{params[:job][:name]}"
   end

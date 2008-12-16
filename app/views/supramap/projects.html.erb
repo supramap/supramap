@@ -10,7 +10,7 @@
 		<th>Name</th>
 		<th>Files</th>
 		<th>Jobs</th>
-		<th colspan="2">Actions</th>
+		<th colspan="3">Actions</th>
 	</tr>
 	<% else %>
 		<p>You have no projects.</p>
@@ -21,6 +21,7 @@
 			<td class="files"><%= h(project.sfiles.count) %></td>
 			<td class="jobs"><%= h(project.jobs.count) %></td>
 			<td><%= button_to "Open", {:action => "show_project", :id => project.id} %></td>
+                        <td><%= button_to "Rename", {:action => "edit_project", :id => project.id} %></td>
 			<td><%= button_to "Delete", {:action => "delete_project", :id => project.id}, :confirm => "Are you sure you want to delete project #{h(project.name)} and all associated files?" %></td>
 		</tr>
 	<% end%>
