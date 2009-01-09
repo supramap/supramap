@@ -9,10 +9,10 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 13) do
+ActiveRecord::Schema.define(:version => 11) do
 
   create_table "jobs", :force => true do |t|
-    t.integer  "project_id",   :limit => 11
+    t.integer  "project_id"
     t.datetime "created_at"
     t.datetime "completed_at"
     t.string   "name"
@@ -21,12 +21,12 @@ ActiveRecord::Schema.define(:version => 13) do
   end
 
   create_table "jobs_sfiles", :id => false, :force => true do |t|
-    t.integer "job_id",   :limit => 11
-    t.integer "sfile_id", :limit => 11
+    t.integer "job_id"
+    t.integer "sfile_id"
   end
 
   create_table "projects", :force => true do |t|
-    t.integer  "user_id",    :limit => 11
+    t.integer  "user_id"
     t.datetime "created_at"
     t.string   "name"
   end
@@ -36,13 +36,13 @@ ActiveRecord::Schema.define(:version => 13) do
     t.string   "descs_state"
     t.string   "position"
     t.string   "insdel"
-    t.integer  "job_id",      :limit => 11
+    t.integer  "job_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
 
   create_table "sessions", :force => true do |t|
-    t.string   "session_id", :default => "", :null => false
+    t.string   "session_id", :null => false
     t.text     "data"
     t.datetime "created_at"
     t.datetime "updated_at"
@@ -52,28 +52,28 @@ ActiveRecord::Schema.define(:version => 13) do
   add_index "sessions", ["updated_at"], :name => "index_sessions_on_updated_at"
 
   create_table "sfiles", :force => true do |t|
-    t.integer  "project_id", :limit => 11
+    t.integer  "project_id"
     t.string   "filename"
     t.datetime "created_at"
     t.string   "filetype"
   end
 
   create_table "transformations", :force => true do |t|
-    t.integer "treenode_id",      :limit => 11
+    t.integer "treenode_id"
     t.boolean "definite"
     t.string  "ancestral_state"
     t.string  "descendant_state"
-    t.integer "position",         :limit => 11
+    t.integer "position"
     t.string  "type"
     t.string  "cost"
     t.string  "character"
   end
 
   create_table "treenodes", :force => true do |t|
-    t.integer  "job_id",         :limit => 11
-    t.integer  "parent_id",      :limit => 11
+    t.integer  "job_id"
+    t.integer  "parent_id"
     t.string   "strain_name"
-    t.integer  "rank",           :limit => 11
+    t.integer  "rank"
     t.float    "latitude"
     t.float    "longitude"
     t.datetime "isolation_date"

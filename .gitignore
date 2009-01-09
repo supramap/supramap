@@ -8,4 +8,6 @@ public/files/**/*
 *.generators
 .project
 .loadpath
+log/*.log
+
 

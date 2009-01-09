@@ -152,13 +152,14 @@ class SupramapController < ApplicationController
   def deletejob(id)
     Job.find(id).destroy
   end
+
   
-  def job_type
-    @page_id = "supramap"
-    @project = Project.find(params[:id])
-    @page_title = "Define new job"
-    @sfiles = Sfile.find_all_by_project_id(@project.id)
-  end
+#   def job_type
+#     @page_id = "supramap"
+#     @project = Project.find(params[:id])
+#     @page_title = "Define new job"
+#     @sfiles = Sfile.find_all_by_project_id(@project.id)
+#  end
 
   def define_job
     @page_id = "supramap"
@@ -166,17 +167,18 @@ class SupramapController < ApplicationController
     @page_title = "Define a new job"
   end
 
-  def add_files_to_job
+  def select_files_for_job
     @page_id = "supramap"
     type_of_job = params[:job_type]
+    @sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
   end
   
-  def add_job
-    #@project = Project.find(params[:job][:project_id])
-    #@sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
-    @page_id = "supramap"
-    @page_title = "Define job #{params[:job][:name]}"
-  end
+#   def add_job
+#     #@project = Project.find(params[:job][:project_id])
+#     #@sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
+#     @page_id = "supramap"
+#     @page_title = "Define job #{params[:job][:name]}"
+#   end
   
   def create_job
     

@@ -1,7 +1,7 @@
 <%= error_messages_for 'sfile',
 :header_message => 'File Error',
 :message => "Sorry, but there were some problems with the file." %>
-
+<%= debug params %>
 <fieldset><legend>Define new Job <%= h(params[:job][:name])%></legend>
 
 <% form_for :job, :url => {:action => "create_job"} do |form| %>
