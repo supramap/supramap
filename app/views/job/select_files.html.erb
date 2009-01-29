@@ -1,0 +1,48 @@
+<% title("Select Job Files") %>
+<%= error_messages_for 'sfile',
+:header_message => 'File Error',
+:message => "Sorry, but there were some problems with the file." %>
+<fieldset>
+  <legend>select files for&nbsp;<i><%= h(params[:job][:name])%></i>&nbsp;
+  <font size="1">(<a href="#">Which files should I choose?</a>)</font></legend>
+
+<% form_for :job, :url => {:action => "create"} do |form| %>
+<table class="files">
+  <tr>
+    <th align="left">Choose <i>one</i> geographical andd temporal file:</th>
+  </tr>
+  <tr>
+    <td><input type="radio"/>&nbsp;&nbsp;test.csv</td>
+  </tr>
+</table>
+<table class="files">
+  <tr>
+    <th align="left">Sequence files?</th>
+  </tr>
+  <tr>
+    <td><input type="checkbox"/>&nbsp;&nbsp;test.fasta</td>
+  </tr>
+  <tr>
+    <td><input type="checkbox"/>&nbsp;&nbsp;testtwo.fasta</td>
+  </tr>
+</table>
+<table class="files">
+  <tr>
+    <th align="left">Choose <i>zero or one</i> categorical character files:</th>
+  </tr>
+  <tr>
+    <td><input type="radio"/>&nbsp;&nbsp;test.tnt</td>
+  </tr>
+</table>
+<table class="files">
+  <tr>
+    <th align="left">Choose <i>zero or one</i> tree files:</th>
+  </tr>
+  <tr>
+    <td><input type="radio"/>&nbsp;&nbsp;test.tre</td>
+  </tr>
+</table>
+
+<%= submit_tag "Run Job", :class => "submit" %>
+<% end %>
+</fieldset>

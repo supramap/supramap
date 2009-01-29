@@ -1,0 +1,108 @@
+
+app/controllers/application.rb,160
+class ApplicationController < ActionController::BaseApplicationController5,155
+  def authorizeauthorize18,554
+  def authorize_adminauthorize_admin33,1147
+
+app/controllers/login_controller.rb,423
+class LoginController < ApplicationControllerLoginController1,0
+  def show_add_usershow_add_user8,211
+  def add_useradd_user12,276
+  def registerregister23,514
+  def loginlogin37,873
+  def logoutlogout55,1369
+  def indexindex61,1509
+  def adminadmin65,1563
+  def delete_userdelete_user70,1648
+  def changeAuthchangeAuth92,2192
+  def changeAdminchangeAdmin104,2493
+  def list_userslist_users118,2743
+
+app/controllers/project_controller.rb,70
+class ProjectController < ApplicationControllerProjectController1,0
+
+app/controllers/supramap_controller.rb,1266
+class SupramapController < ApplicationControllerSupramapController6,98
+  def projectsprojects10,261
+  def create_projectcreate_project16,401
+  def delete_projectdelete_project40,1168
+  def edit_projectedit_project55,1627
+  def update_projectupdate_project61,1762
+  def show_projectshow_project79,2300
+  def add_fileadd_file88,2583
+  def get_readmeget_readme96,2776
+  def show_fileshow_file100,2864
+  def create_filecreate_file104,2923
+  def delete_filedelete_file123,3472
+  def deletefile(id)deletefile135,3862
+  def delete_jobdelete_job140,3920
+  def deletejob(id)deletejob152,4298
+  def define_jobdefine_job164,4544
+  def select_files_for_jobselect_files_for_job170,4672
+  def create_jobcreate_job183,5082
+  def start_fas_job(job_id)start_fas_job220,6343
+  def start_xml_job(job_id)start_xml_job226,6536
+  def stop_jobstop_job231,6677
+  def view_tableview_table244,7172
+    def parse_xmlparse_xml258,7572
+    def parse_csvparse_csv289,9270
+  def indexindex315,10185
+  def homehome319,10238
+  def make_a_supramapmake_a_supramap324,10303
+  def aboutabout328,10370
+  def tutorialstutorials333,10438
+  def theorytheory338,10518
+  def publicationspublications343,10589
+  def contact_uscontact_us348,10678
+
+app/controllers/xmltest.rb,0
+
+app/helpers/application_helper.rb,48
+module ApplicationHelperApplicationHelper3,87
+
+app/helpers/login_helper.rb,35
+module LoginHelperLoginHelper1,0
+
+app/helpers/project_helper.rb,39
+module ProjectHelperProjectHelper1,0
+
+app/helpers/supramap_helper.rb,41
+module SupramapHelperSupramapHelper1,0
+
+app/models/job.rb,87
+class Job < ActiveRecord::BaseJob1,0
+  def self.select_file(file)select_file10,211
+
+app/models/project.rb,47
+class Project < ActiveRecord::BaseProject1,0
+
+app/models/query.rb,43
+class Query < ActiveRecord::BaseQuery1,0
+
+app/models/sfile.rb,255
+class Sfile < ActiveRecord::BaseSfile3,18
+  def uploaded_file=(file_field)uploaded_file=11,244
+  def after_destroyafter_destroy24,759
+  def size=(s)size=29,921
+  def filename=(new_name)filename=34,990
+  def filetype=(new_type)filetype=45,1284
+
+app/models/transformation.rb,61
+class Transformation < ActiveRecord::BaseTransformation1,0
+
+app/models/treenode.rb,49
+class Treenode < ActiveRecord::BaseTreenode1,0
+
+app/models/user.rb,515
+class User < ActiveRecord::BaseUser3,23
+  def validatevalidate39,1395
+  def hashed_passhashed_pass43,1488
+  def self.authenticate(login, password)authenticate47,1540
+  def admin=(a)admin=58,1802
+  def auth=(a)auth=62,1858
+  def setA(ad, au)setA66,1912
+  def deleteprojects(id)deleteprojects72,2060
+  def password=(pwd)password=85,2334
+  def after_destroyafter_destroy91,2481
+  def self.encrypted_password(password, salt)encrypted_password99,2593
+  def create_new_saltcreate_new_salt104,2741

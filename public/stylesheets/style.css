@@ -166,6 +166,8 @@ input[type='submit'] {
 	border: 1px solid #666;
 	color: #fff;
 	padding:4px;
+	margin-right:2px;
+	margin-left:2px;
 	cursor:pointer;
 	float:left;
 }
@@ -236,7 +238,7 @@ legend {
 	border:1px solid#222;
 	padding:6px;
 	font-size:1.1em;
-	text-transform:lowercase;
+	#text-transform:lowercase;
 }
 
 td {
@@ -264,3 +266,8 @@ td.jobs, td.files {
 	text-align: center;
 	color:#999;
 }
+
+table.files {
+    width: 70%
+}
+

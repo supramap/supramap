@@ -14,7 +14,9 @@ require File.join(File.dirname(__FILE__), 'boot')
 RAILS_GEM_VERSION = '2.2.2' unless defined? RAILS_GEM_VERSION
 
 # Server info
-WSDL_URL = "http://127.0.0.1:8090/supramapws/supramapservice?wsdl" 
+WSDL_URL = "http://127.0.0.1:8090/supramapws/supramapservice?wsdl"
+
+FILE_SERVER_ROOT = "#{RAILS_ROOT}/public/files"
 
 Rails::Initializer.run do |config|
   # Settings in config/environments/* take precedence over those specified here.

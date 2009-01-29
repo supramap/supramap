@@ -1,0 +1,16 @@
+<% title("Project Edit :: #{h(@project.name)}") %>
+<fieldset>
+  <legend>Edit <%= h(@project.name) %></legend>
+  
+  <% form_for :name, @project, :url => {:action => "update", :id => @project.id} do |form| %>
+  <p>
+    Name: <%= form.text_field :name, :size => 20 %>
+  </p>
+  <table>                
+    <tr>
+      <td><%= submit_tag "Save", :class => "submit" %></td>
+      <td>    <%= button_to "Cancel", {:action => "list", :id => @project.id} %></td>
+      <% end%>
+    </tr>
+  </table>
+</fieldset>

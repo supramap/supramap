@@ -45,7 +45,7 @@ class LoginController < ApplicationController
         session[:user_id] = user.id
         uri = session[:original_uri]
         session[:original_uri] = nil
-        redirect_to(uri || {:controller => "supramap", :action => "projects"})
+        redirect_to(uri || {:controller => "project", :action => "list"})
       else
         flash.now[:notice] = "Invalid user/password combination"
       end

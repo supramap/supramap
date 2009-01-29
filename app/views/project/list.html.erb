@@ -1,0 +1,43 @@
+<% title("Projects") %>
+<%= error_messages_for 'project',
+:message => "Sorry, but there were some problems with the Project." %>
+
+<h2>Projects</h2>
+<table>
+  <% unless @projects.blank? %>
+  <% unless @projects.size == 0 %>
+  <tr>
+    <th>Name</th>
+    <th>Files</th>
+    <th>Jobs</th>
+    <th colspan="2">Actions</th>
+  </tr>
+  <% else %>
+  <p>You have no projects.</p>
+  <% end %>
+  <% for project in @projects %>
+  <tr>
+    <td><%= link_to h(project.name), {:action => "show", :id => project.id} %></td>
+    <td class="files"><%= h(project.sfiles.count) %></td>
+    <td class="jobs"><%= h(project.jobs.count) %></td>
+    <td width="48%">
+      <%= button_to "Rename", {:action => "edit", :id => project.id} %>
+      <%= button_to "Delete", {:action => "delete", :id => project.id}, :confirm => "Are you sure you want to delete project #{h(project.name)} and all associated files?" %>
+    </td>
+  </tr>
+  <% end%>
+  <% end%>
+</table>
+
+<fieldset>
+  <legend>Create a new project</legend>
+  
+  <% form_for :project, @project, :url => {:action => "create"} do |form| %>
+  <p>
+    name: <%= form.text_field :name, :size => 20 %>
+  </p>
+  <input type="hidden" id="user_id" name="project[user_id]" value="<%= h(session[:user_id]) %>" />
+  <%= submit_tag "Create", :class => "submit" %>
+
+  <% end%>
+</fieldset>

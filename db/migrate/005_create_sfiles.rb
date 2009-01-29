@@ -5,6 +5,8 @@ class CreateSfiles < ActiveRecord::Migration
       t.column :filename, :string
       t.column :created_at, :timestamp
       t.column :filetype, :string
+      # further describes the file type, e.g., amino acid or nuc file
+      t.column :desc, :string
     end
   end
 
