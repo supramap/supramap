@@ -8,39 +8,12 @@ class SupramapController < ApplicationController
   before_filter :authorize, :except => [:index, :home, :about, :tutorials, :theory, :publications, :contact_us]
 
 
-  def deletejob(id)
-    Job.find(id).destroy
-  end
-
-  
-#   def job_type
-#     @page_id = "supramap"
-#     @project = Project.find(params[:id])
-#     @page_title = "Define new job"
-#     @sfiles = Sfile.find_all_by_project_id(@project.id)
-#  end
-
-
-
-#   def add_job
-#     #@project = Project.find(params[:job][:project_id])
-#     #@sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
-#     @page_id = "supramap"
-#     @page_title = "Define job #{params[:job][:name]}"
-#   end
-
   # this is implemented
   def start_fas_job(job_id)
-      driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
-      driver.startPOYJob(job_id.to_i)
+    driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
+    driver.startPOYJob(job_id.to_i)
   end
   
-  # this has not yet been implemented in JBoss
-  def start_xml_job(job_id)
-    driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
-    #driver.startPOYJob(job_id.to_i)
-  end
-
   def stop_job
     job = Job.find(params[:id]) 
     driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver 
@@ -61,7 +34,7 @@ class SupramapController < ApplicationController
     parse_xml
     parse_csv
     @treenodes = Treenode.find(:all)
-    @query =  Query.new(params[:query])
+    @query = Query.new(params[:query])
     if request.post? and @query.save 
       # Display query for debugging
       flash.now[:notice] = "AncS #{@query.anc_state}  DescS #{@query.desc_state}  Position #{@query.position}   InDel #{@query.insdel}."
@@ -71,7 +44,6 @@ class SupramapController < ApplicationController
     def parse_xml
       job = Job.find(params[:job_id])
       xml = REXML::Document.new(File.open("#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/poy_tree_xml_#{job.id}.xml"))
-      #File.open("#{RAILS_ROOT}/public/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/poy_tree_#{job.id}.xml")
       xml.elements.each("forest/tree/*") do |node| #xpath 'forest/tree/*' returns all nodes
         treenode = Treenode.new(:id => params[:id])
         treenode.strain_name = node.elements["id/text()"].to_s #xpath 'id/text()' returns the content of the id element of a node

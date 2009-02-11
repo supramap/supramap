@@ -67,20 +67,10 @@
         <td class="status"><%= job.status %></td>
 
         <% if job.status == "Running" %>
-          <td><%= button_to "Stop", {:action => "stop_job", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
-          <td><%= button_to "Delete", {:action => "delete_job", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)} and associated results?" %></td>
+          <td><%= button_to "Stop", {:controller => "job", :action => "stop", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
         <% end %>
+        <td><%= button_to "Delete", {:controller => "job", :action => "delete", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)} and associated results?" %></td>
 
-        <% if job.status == "Stopped" %>
-          <td><%= button_to "Delete", {:action => "delete_job", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)} and associated results?" %></td>
-        <% end %>
-        <% if job.status == "Completed" %>
-          <td><%= button_to "Delete", {:action => "delete_job", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)} and associated results?" %></td>
-          <% complete = true%>
-        <% end %>
-        <% if job.status == "Abnormal Exit"%>
-          <td><%= button_to "Delete", {:action => "delete_job", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)}?" %></td>
-        <% end %>
       </tr>
       <% job.sfiles.each do |file| %>
         <tr>

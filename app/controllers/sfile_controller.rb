@@ -5,8 +5,7 @@ class SfileController < ApplicationController
   end
   
   def create
-    @sfile = Sfile.new(params[:sfile])
-    
+    @sfile = Sfile.new(params[:sfile])  
     if @sfile.save
       flash[:notice] = "File #{@sfile.filename} successfully uploaded."
     else

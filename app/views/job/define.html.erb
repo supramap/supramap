@@ -1,7 +1,7 @@
 <fieldset><legend>Define a new job</legend>
 
   <% form_for :job, @job, :url => {:action => "select_files"} do |form| %>
-  <input type="hidden" id="user_id" name="job[project_id]" value="<%= h(@project.id) %>" />
+  <input type="hidden" name="job[project_id]" value="<%= h(@project.id) %>" />
   <table>
     <tr>
       <td colspan="2">Job name:<%= form.text_field :name, :size => 20 %></td>
@@ -12,3 +12,4 @@
     </tr>
   </table>
   <% end%>
+</fieldset>
