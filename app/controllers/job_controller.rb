@@ -16,17 +16,24 @@ class JobController < ApplicationController
   def delete
     @job = Job.find(params[:id])
     @job.destroy
-    redirect_to(:controller => "project", :action => "show", :id => @job.project_id)  
+    redirect_to(:controller => "project", :action => "show", :id => @job.project_id)
   end
 
   def create
     @job = Job.new(params[:job])
-    if @job.save && (@job.start == 0)
+    if @job.save && (@job.start[0].to_i == 0)
       flash[:notice] = "Job #{@job.name} successfully created and started."      
     else
       @job.destroy
       flash[:notice] = "Job #{@job.name} could not be created."
     end
+    redirect_to(:controller => "project", :action => "show", :id => @job.project_id)
+  end
+  
+  def stop
+    @job = Job.find(params[:id])
+    @job.stop
+    flash[:notice] = "Job #{@job.name} successfully stopped."
     redirect_to(:controller => "project", :action => "show", :id => @job.project_id)
   end
 end

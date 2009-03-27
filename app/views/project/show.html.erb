@@ -68,9 +68,9 @@
 
         <% if job.status == "Running" %>
           <td><%= button_to "Stop", {:controller => "job", :action => "stop", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
-        <% end %>
+        <% else %>
         <td><%= button_to "Delete", {:controller => "job", :action => "delete", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)} and associated results?" %></td>
-
+        <% end %>
       </tr>
       <% job.sfiles.each do |file| %>
         <tr>
@@ -88,25 +88,24 @@
 
 <fieldset>
   <legend>Results</legend>  
-  <% if complete %>
+  <% if @jobs %>
     <table>
       <tr>
         <th>Job Name</th>
         <th colspan="3">Download Results</th>
-        <!-- <th>Query</th>-->
       </tr>
       <% @jobs.each do |job|
         if job.status == "Completed" %>
         <tr>
           <td><%= h(job.name) %></td>
-          <td><%= link_to "KML",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/results_#{job.id}.kml"%></td>
-          <td><%= link_to "Tree",  " /files/#{job.project.user.login}/#{job.project_id}/#{job.id}/results_#{job.id}.tre"%></td>
-          <td><%= link_to "Stats",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/results_#{job.id}.stats"%></td>
+          <td><%= link_to "KML",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.kml"%></td>
+          <td><%= link_to "Tree",  " /files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.tre"%></td>
+          <td><%= link_to "Stats",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.stats"%></td>
         </tr>
       <% end
       end %>
-    <% else %>
+  <% else %>
       <p>No results have been created for this project.</p>
-    <%end%>
+  <%end%>
   </table>
 </fieldset>

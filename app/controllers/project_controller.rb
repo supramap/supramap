@@ -27,16 +27,14 @@ class ProjectController < ApplicationController
   
   def delete
     @project = Project.find(params[:id])
-    @project.destroy
-    # deletes the files and job records in the mysql database
-    @project.sfiles.each do |file|
-      deletefile(file.id)
+    name = @project.name
+
+    if @project.jobs.status("Running").empty?
+      @project.destroy
+      flash[:notice] = "Project #{name} was successfully deleted."            
+    else
+      flash[:notice] = "All project jobs must be stopped before #{name} can be deleted."
     end
-    @project.jobs.each do |job|
-      deletejob(job.id)
-    end
-    # delete project files on the server as well
-    FileUtils.rm_r("#{FILE_SERVER_ROOT}/#{@project.user.login}/#{@project.id}")
     redirect_to :action => "list"
   end
 

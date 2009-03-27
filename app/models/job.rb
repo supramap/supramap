@@ -2,20 +2,17 @@ class Job < ActiveRecord::Base
   belongs_to :project
   has_and_belongs_to_many :sfiles
   
-  validates_presence_of :name, :status
+  validates_presence_of :name
   validates_uniqueness_of :name, :scope => :project_id
+  
+  named_scope :status, lambda { |s|
+    { :conditions => { :status => s } }
+  }
 
-  attr_reader :path_to_job_dir    
-
-  def initialize
-    super
-    @path_to_job_dir = "#{FILE_SERVER_ROOT}/#{self.project.user.login}/#{self.project_id}/#{self.id}/"
-  end
-
-  # create job dir before job is created
+  # create job dir before job is started
   def after_create
     begin 
-      path = path_to_job_dir
+      path = "#{FILE_SERVER_ROOT}/#{self.project.user.login}/#{self.project_id}/#{self.id}/"
       logger.error("Creating job dir: #{path}")
       FileUtils.mkdir(path)
       FileUtils.chmod_R(0777, path)
@@ -27,16 +24,12 @@ class Job < ActiveRecord::Base
 
   # delete job dir after destroyed
   def after_destroy
-    path = path_to_job_dir
+    path = "#{FILE_SERVER_ROOT}/#{self.project.user.login}/#{self.project_id}/#{self.id}/"
     FileUtils.rm_r(path) if File.exist?(path)
 
     if self.status == "Running"
       self.stop
     end
-  end
-
-  def path_to_job_dir
-
   end
   
   def start
@@ -48,6 +41,10 @@ class Job < ActiveRecord::Base
   
   def stop
     driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
-    return driver.stopJob(self.id)
+    # if an error occurred stopping job, then don't propogate to user
+    if driver.stopJob(self.id)[0].to_i != 0
+      self.status = "Stopped"
+      self.save
+    end
   end
 end
