@@ -38,7 +38,7 @@ test:
 production:
   adapter: mysql                                  
   encoding: utf8
-  database: supramap_production
-  username: root
-  password: 
+  database: supramap
+  username: supramap
+  password: supram@p1
   socket: 

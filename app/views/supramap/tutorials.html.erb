@@ -1,23 +1,33 @@
 <h2>How to make Supramaps</h2>
 
-<h3>Overview</h3>
-
 <p>Upon registration, the user should create a project, click on the project name, and upload data files in the interface provided.  The files required are: </p>
 
-<p>1) A file of raw nucleotide data in <a href="http://bmi.osu.edu/~janies/supramap2/nucleotides.fas">fasta format </a>the first taxon in the file will be considered the outgroup. The outgroup will be used to root the tree.  The choice of the outgroup taxon is up to the user.  In the case of temporal series of isolates of pathogens the outgroup is of often the oldest isolate.  In natural sciences, the outgroup is often selected because it is outside of the set of interest, termed the ingroup.  If the outgroup is related to but not a member of the ingroup then these two groups share a more ancient common ancestor than that shared by the ingroup.  Rooting on an ancestor more ancient than the ancestor of the ingroup provides a baseline from which the branching pattern and polarities of changes within the ingroup can be elucidated.</p>
+<h3>Genetic Data</h3>
 
-<p>and</p>
+<p>A file of raw nucleotide data in <a href="http://bmi.osu.edu/~janies/supramap2/nucleotides.fas">fasta format </a>the first taxon in the file will be considered the outgroup. The outgroup will be used to root the tree.  The choice of the outgroup taxon is up to the user.  In the case of temporal series of isolates of pathogens the outgroup is of often the oldest isolate.  In natural sciences, the outgroup is often selected because it is outside of the set of interest, termed the ingroup.  If the outgroup is related to but not a member of the ingroup then these two groups share a more ancient common ancestor than that shared by the ingroup.  Rooting on an ancestor more ancient than the ancestor of the ingroup provides a baseline from which the branching pattern and polarities of changes within the ingroup can be elucidated.</p>
 
-<p>2) A file in <a href="http://bmi.osu.edu/~janies/supramap2/lat.long.date.csv">csv format </a>with geographic and time references for each taxon contained in the fas file. The latitude longitude coordinates must be in decimal format. The date of isolation is in this format YYYY-MM-DD but is optional but useful. If you provide dates of isolation Supramap will build a Keyhole Markup File (KML) that allow you to animate the tree's growth over time Google Earth. Excel can output csv format (make sure its unix format however - a text editor such as bbedit or textpad can ensure this).</p>
+<h3>Geographic and Temporal References</h3>
+
+<p>A file in <a href="http://bmi.osu.edu/~janies/supramap2/lat.long.date.csv">csv format </a>with geographic and time references for each taxon contained in the fas file. The latitude longitude coordinates must be in decimal format. The date of isolation is in this format YYYY-MM-DD but is optional but useful. If you provide dates of isolation Supramap will build a Keyhole Markup File (KML) that allow you to animate the tree's growth over time Google Earth. Excel can output csv format (make sure its unix format however - a text editor such as bbedit or textpad can ensure this).</p>
 
 <p>In filling out your geographic and temporal references file, you might use this service if you have to <a href="http://www.getty.edu/research/conducting_research/vocabularies/tgn/">look up place names and convert them to decimal degrees</a> or the search field of Google Earth.</p>
 
 <p>The .csv file should include the header line of strain_name,latitude,longitude" or "strain_name,latitude,longitude,date". If you do not have coordinates for a specific taxon, include a line like "strain_name, 0, 0". If you have problems, make sure that the taxon names in the .fas and the .csv files match exactly in spelling and content.</p>
 
-<p> Once you have created a project and uploaded the files you will be presented an interface in which you organize sets of files into a job.  First you will be asked to define the job.  Defining the job means naming it and designating one .csv file and one or more .fas files.  Once you finish selecting files the job will be launched and you will see a confirmation message and the job status of "Running" in the interface.</p>
+<h3>Projects and Jobs</h3>
 
-<p>From this point the system will begin POY4 run on many processors in a Linux cluster based on a <a href = "http://bmi.osu.edu/~janies/supramap2/script.txt">default script</a>. You can then refresh the browser to check your results.  The duration of the run cannot be predicted. As a rule of thumb runs with 10s of taxa will be minutes and runs with 100s of taxa will be hours.  We currently have 10 hits to minimum tree length or 15 hours run time limit as implemented by the POY4 search command.  This command does the best search it can with the resources allocated.  Please feel free to contact if you have a need for more run time and or would like to run custom scripts</p>
+<p>Once you have created a project and uploaded the files you will be presented an interface in which you organize sets of files into a job. First you will be asked to define the job. Defining the job means naming it and designating one .csv file and one or more .fas files. Once you finish selecting files the job will be launched and you will see a confirmation message and the job status of "Running" in the interface.</p>
 
-<p>Once the interface indicates that the job status is complete you will be able to click tree stats and open KML.  In the case of the KML, you will be asked to download the KML file to your local machine.  One you have done that, clicking your local copy of the KML will invoke Google Earth on your local machine (if you don't have it installed yet go to <a href = "http://earth.google.com">Google Earth</a>, download and install and then click on your KML file).  If the tree does not automatically load in Google Earth you may need to use file:open in Google Earth.  Be sure to pull the time slider all the way to the right to see the entire tree if you used temporal data. Also check the left sidebar to make sure your Supramap KML layer is active and any superfluous layers are disabled.</p>
+<p>From this point the system will begin POY4 run on many processors in a Linux cluster based on a default script. You can then refresh the browser to check your results. The duration of the run cannot be predicted. As a rule of thumb runs with 10s of taxa will be minutes and runs with 100s of taxa will be hours. We currently have 10 hits to minimum tree length or 15 hours run time limit as implemented by the POY4 search command. This command does the best search it can with the resources allocated. Please feel free to contact if you have a need for more run time and or would like to run custom scripts.</p>
 
-<p>You should now be looking at the Supramap. Clicking on any of the nodes displays a summary of the mutations along the branch connecting that node to its ancestral node. </p>
+<h3>Results</h3>
+
+<p>Once the interface indicates that the job status is complete you will be able to click on three links (KML, TREE, and STATS) that appear at the bottom of the page. The KML link takes you to a tree projected into the earth and expressed in Keyhole Markup Language.  The TREE link will download a file of the tree expressed on nested parenthetical format viewable in <a href="http://taxonomy.zoology.gla.ac.uk/rod/treeview.html">treeview</a> and other programs.  The STATS link will provide the tree length in a text file.</p>
+
+<p>In the case of the KML file, you will be asked to download the KML file to your local machine. One you have done that, clicking your local copy of the KML will invoke <a href="ttp://e
+arth.google.com>">Google Earth</a> or your geographic browser of choice on your local machine. </p>
+
+<p>If the tree does not automatically load in Google Earth you may need to use file:open in Google Earth. Be sure to pull the time slider all the way to the right to see the entire tree if you used temporal data. Also check the left sidebar to make sure your Supramap KML layer is active and any superfluous layers are disabled.</p>
+
+<p>You should now be looking at the Supramap. Clicking on any of the nodes displays a summary of the mutations along the branch connecting that node to its ancestral node.</p>
+

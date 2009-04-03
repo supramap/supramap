@@ -98,9 +98,9 @@
         if job.status == "Completed" %>
         <tr>
           <td><%= h(job.name) %></td>
-          <td><%= link_to "KML",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.kml"%></td>
-          <td><%= link_to "Tree",  " /files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.tre"%></td>
-          <td><%= link_to "Stats",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.stats"%></td>
+          <td><%= link_to "KML",  "/sm/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.kml"%></td>
+          <td><%= link_to "Tree",  "/sm/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.tre"%></td>
+          <td><%= link_to "Stats",  "/sm/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.stats"%></td>
         </tr>
       <% end
       end %>
