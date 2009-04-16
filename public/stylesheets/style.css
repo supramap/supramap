@@ -9,7 +9,7 @@
 	}
 
 body{
-	background-image:url(/sm/images/background.jpg);
+	background-image:url(../images/background.jpg);
 	background-repeat:repeat-x;
 	background-position:top;
 	background-color:#101010;
@@ -17,7 +17,7 @@ body{
 	}
 
 #header{
-	background-image:url(/sm/images/banner.jpg);
+	background-image:url(../images/banner.jpg);
 	height:150px;
 	position:relative;
 	overflow:visible;
@@ -55,7 +55,7 @@ h1	{
 
 #rounded-corners {
 	margin:0 5% 25px 5%;
-	background-image: url(/sm/images/content_bg.png);
+	background-image: url(../images/content_bg.png);
 	height:28px;
 }
 

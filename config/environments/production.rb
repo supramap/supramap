@@ -13,6 +13,9 @@ config.action_controller.perform_caching             = true
 #config.action_view.cache_template_loading            = true
 config.action_mailer.perform_deliveries    =      true
 
+# production is run under Passenger, which needs a relative root
+config.action_controller.relative_url_root = "/sm"
+
 
 # Enable serving of images, stylesheets, and javascripts from an asset server
 # config.action_controller.asset_host                  = "http://assets.example.com"

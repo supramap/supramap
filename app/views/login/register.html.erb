@@ -1,59 +1,157 @@
+<?xml version="1.0"?>
 <%= error_messages_for "user",
 :header_message => "Registration Error",
 :message => "Sorry, but there were some problems with some of fields." %>
-
-<fieldset>
-	<legend>Register New User</legend>
-
-	<% form_for :user do |form| %>
-	<table>
-		<tr><td>First Name:</td><td><%= form.text_field :firstname, :size => 20 %></td></tr>
-		<tr><td>Last Name:</td><td><%= form.text_field :lastname, :size => 20 %></td></tr>
-		<tr><td>Username:</td><td><%= form.text_field :login, :size => 20 %></td></tr>
-		<tr><td><font size = "1">alphanumeric only</font></td></tr>
-		<tr><td>E-Mail:</td><td><%= form.text_field :email, :size => 20 %></td></tr>
-		<tr><td>Password:</td><td><%= form.password_field :password, :size => 20 %></td></tr>
-		<tr><td><font size = "1">6-20 characters, at least one nonletter</font></td></tr>
-		<tr><td>Confirm:</td><td><%= form.password_field :password_confirmation, :size => 20 %></td></tr>
-		<input type="hidden" id="user_id" name="user[admin]" value="0" />
-		<input type="hidden" id="user_id" name="user[auth]" value="0" />
-	</table>
-</fieldset>
-
-<fieldset>
-	<legend>end user license agreement</legend>
-	<fieldset>
-		<div style="height:250px;overflow:auto;"><font size = "1">
-
-			<p align = "left">
-				COPYRIGHT © 2008 THE OHIO STATE UNIVERSITY 
-			</p align = "left">
-			<p align = "left">
-				ALL RIGHTS RESERVED
-			</p align = "left">
-			<p align = "left">
-				Dr. Daniel Janies, Ph.D, Daniel.Janies@osumc.edu, 614-292-1202,
-			</p align = "left">
-			<p align = "left">
-				The Ohio State University College of Medicine provides this Web-Based Genotypic and Phenotypic Geospatial Generator Service (collectively the “Service”) as an informational service. Use of the Service is governed by the terms and conditions provided below. Please read the statements below carefully before accessing or using the Service. By accessing or using the Service, you agree to be bound by all the terms and conditions herein. 
-			</p align = "left">
-			<p align = "left">
-				Permission is granted to use this Service for individual, clinical, research, or noncommercial educational use only, provided that The Ohio State University and authors of the Service are acknowledged in any publications reporting its use, and the name of The Ohio State University or any of its officers, employees, students or board members is not used in any advertising or publicity pertaining to the use of the Service without specific, written prior authorization.  Those desiring to incorporate the Service into commercial products or use the Service for promotional purposes should contact, Technology Licensing and Commercialization, The Ohio State University, 1960 Kenny Road, Columbus, Ohio, 43210-1063, (614) 292-1315, http://tlc.osu.edu/. 
-			</p align = "left">
-			<p align = "left">
-				The Service is provided AS IS, WITHOUT REPRESENTATION AS TO ITS FITNESS FOR ANY PURPOSE, AND WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. No guarantees are made with respect to accuracy, completeness, errors, or omissions of content. The Ohio State University has no obligation to provide support, updates, enhancements, or other modifications.  In no event will the Ohio State University be liable for any decision made or action taken in reliance upon the information provided through the Service. THE OHIO STATE UNIVERSITY SHALL NOT BE LIABLE FOR ANY COMPENSATORY OR NON-COMPENSATORY DAMAGES, INCLUDING BUT NOT LIMITED TO SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WITH RESPECT TO ANY CLAIM ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE SERVICE, EVEN IF IT HAS BEEN OR IS HEREAFTER ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  
-			</p align = "left">
-			<p align = "left">
-				By clicking “I Agree”, you agree to the terms and conditions stated above.
-			</p align = "left">
-		</font>
-	</div>
-</fieldset>
-
-<table>
-	<tr>I Agree: <%= check_box :user, :eula %></tr>
-</table>
-
-<%= submit_tag "Register", :class => "submit" %>
-<% end%>
-</fieldset>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <fieldset>
+      <legend>Register New User</legend>
+      <% form_for :user do |form| %> <input type="hidden" id=
+      "user_id" name="user[admin]" value="0" /><input type="hidden"
+      id="user_id" name="user[auth]" value="0" />
+      <table>
+        <tr>
+          <td>
+            First Name:
+          </td>
+          <td>
+            <%= form.text_field :firstname, :size => 20 %>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Last Name:
+          </td>
+          <td>
+            <%= form.text_field :lastname, :size => 20 %>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Username:
+          </td>
+          <td>
+            <%= form.text_field :login, :size => 20 %>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <font size="1">alphanumeric only</font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            E-Mail:
+          </td>
+          <td>
+            <%= form.text_field :email, :size => 20 %>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Password:
+          </td>
+          <td>
+            <%= form.password_field :password, :size => 20 %>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <font size="1">6-20 characters, at least one
+            nonletter</font>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Confirm:
+          </td>
+          <td>
+            <%= form.password_field :password_confirmation, :size => 20 %>
+          </td>
+        </tr>
+      </table>
+    </fieldset>
+    <fieldset>
+      <legend>end user license agreement</legend>
+      <fieldset>
+        <div style="height:250px;overflow:auto;">
+          <p align="left">
+            <font size="1">COPYRIGHT © 2008 THE OHIO STATE
+            UNIVERSITY</font>
+          </p>
+          <p align="left">
+            <font size="1">ALL RIGHTS RESERVED</font>
+          </p>
+          <p align="left">
+            <font size="1">Dr. Daniel Janies, Ph.D,
+            Daniel.Janies@osumc.edu, 614-292-1202,</font>
+          </p>
+          <p align="left">
+            <font size="1">The Ohio State University College of
+            Medicine provides this Web-Based Genotypic and
+            Phenotypic Geospatial Generator Service (collectively
+            the “Service”) as an informational service. Use of the
+            Service is governed by the terms and conditions
+            provided below. Please read the statements below
+            carefully before accessing or using the Service. By
+            accessing or using the Service, you agree to be bound
+            by all the terms and conditions herein.</font>
+          </p>
+          <p align="left">
+            <font size="1">Permission is granted to use this
+            Service for individual, clinical, research, or
+            noncommercial educational use only, provided that The
+            Ohio State University and authors of the Service are
+            acknowledged in any publications reporting its use, and
+            the name of The Ohio State University or any of its
+            officers, employees, students or board members is not
+            used in any advertising or publicity pertaining to the
+            use of the Service without specific, written prior
+            authorization. Those desiring to incorporate the
+            Service into commercial products or use the Service for
+            promotional purposes should contact, Technology
+            Licensing and Commercialization, The Ohio State
+            University, 1960 Kenny Road, Columbus, Ohio,
+            43210-1063, (614) 292-1315, http://tlc.osu.edu/.</font>
+          </p>
+          <p align="left">
+            <font size="1">The Service is provided AS IS, WITHOUT
+            REPRESENTATION AS TO ITS FITNESS FOR ANY PURPOSE, AND
+            WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR
+            IMPLIED, INCLUDING WITHOUT LIMITATION THE IMPLIED
+            WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+            PURPOSE, AND NONINFRINGEMENT. No guarantees are made
+            with respect to accuracy, completeness, errors, or
+            omissions of content. The Ohio State University has no
+            obligation to provide support, updates, enhancements,
+            or other modifications. In no event will the Ohio State
+            University be liable for any decision made or action
+            taken in reliance upon the information provided through
+            the Service. THE OHIO STATE UNIVERSITY SHALL NOT BE
+            LIABLE FOR ANY COMPENSATORY OR NON-COMPENSATORY
+            DAMAGES, INCLUDING BUT NOT LIMITED TO SPECIAL,
+            INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WITH
+            RESPECT TO ANY CLAIM ARISING OUT OF OR IN CONNECTION
+            WITH THE USE OF THE SERVICE, EVEN IF IT HAS BEEN OR IS
+            HEREAFTER ADVISED OF THE POSSIBILITY OF SUCH
+            DAMAGES.</font>
+          </p>
+          <p align="left">
+            <font size="1">By clicking “I Agree”, you agree to the
+            terms and conditions stated above.</font>
+          </p>
+        </div>
+        </fieldset>I Agree:
+        <table>
+          <tr>
+            <%= check_box :user, :eula %>
+          </tr>
+          </table><%= submit_tag "Register", :class => "submit" %><% end%>
+    </fieldset>
+  </body>
+</html>

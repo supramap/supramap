@@ -13,9 +13,8 @@ require File.join(File.dirname(__FILE__), 'boot')
 # Specifies gem version of Rails to use when vendor/rails is not present
 RAILS_GEM_VERSION = '2.2.2' unless defined? RAILS_GEM_VERSION
 
-# Server info
+# supramap properties
 WSDL_URL = "http://127.0.0.1:8090/supramapws/supramapservice?wsdl"
-
 FILE_SERVER_ROOT = "#{RAILS_ROOT}/public/files"
 
 Rails::Initializer.run do |config|
@@ -39,7 +38,6 @@ Rails::Initializer.run do |config|
   # Force all environments to use the same logger level
   # (by default production uses :info, the others :debug)
   # config.log_level = :debug
-  config.action_controller.relative_url_root = "/sm"
   
   # Your secret key for verifying cookie session data integrity.
   # If you change this key, all old sessions will become invalid!
