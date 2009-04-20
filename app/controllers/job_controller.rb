@@ -1,15 +1,15 @@
 class JobController < ApplicationController
-  
+
   def define
     @project = Project.find(params[:id])
     @page_title = "Define a new job"
   end
   
   def select_files
-    unless params['cancel']
-      @sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
-    else
+    if params['cancel']
       redirect_to(:controller => "project", :action => "show", :id => params[:job][:project_id])
+    else
+      @sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
     end
   end
   
