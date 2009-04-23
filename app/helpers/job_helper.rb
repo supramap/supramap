@@ -8,13 +8,8 @@ module JobHelper
     files.find_all {|file| exts.include?(file.filetype)}
   end
   
-  def show_files(sfiles, set_of_exts)
-    files = get_files_by_ext(sfiles, set_of_exts)
-    if files.size != 0
-      render(:partial => "sfile", :collection => files)
-    else
-      "<tr><td>No files of this type uploaded</td></tr>"
-    end
+  def show_files(sfiles)
+    render(:partial => "sfile", :collection => sfiles)
   end
   
   # locals should contain:
@@ -22,6 +17,10 @@ module JobHelper
   #   files = array of sfiles
   #   file_exts = the type of files the table should display, i.e., csv
   def show_table_for_files(locals={})
-    render(:partial => "sfile_table", :locals => locals)
+    files = get_files_by_ext(locals[:files], locals[:file_exts])
+    unless files.empty?
+      locals[:files] = files
+      render(:partial => "sfile_table", :locals => locals)
+    end
   end
 end

@@ -20,7 +20,7 @@
     <td><%= link_to h(project.name), {:action => "show", :id => project.id} %></td>
     <td class="files"><%= h(project.sfiles.count) %></td>
     <td class="jobs"><%= h(project.jobs.count) %></td>
-    <td width="49%">
+    <td width="52%">
       <%= button_to "Rename", {:action => "edit", :id => project.id} %>
       <%= button_to "Delete", {:action => "delete", :id => project.id}, :confirm => "Are you sure you want to delete project #{h(project.name)} and all associated files?" %>
     </td>

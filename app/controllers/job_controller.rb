@@ -2,7 +2,7 @@ class JobController < ApplicationController
 
   def define
     @project = Project.find(params[:id])
-    @page_title = "Define a new job"
+    @sfiles = Sfile.find_all_by_project_id(@project.id)
   end
   
   def select_files
@@ -21,15 +21,21 @@ class JobController < ApplicationController
 
   def create
     @job = Job.new(params[:job])
-    if @job.save && (@job.start[0].to_i == 0)
-      flash[:notice] = "Job #{@job.name} successfully created and started."      
+    if @job.save
+      if @job.start[0].to_i == 0
+        flash[:notice] = "Job #{@job.name} successfully created and started."
+      else
+        @job.destroy
+        flash[:notice] = "Job #{@job.name} could not be started."
+      end
+      redirect_to(:controller => "project", :action => "show", :id => @job.project_id)
     else
-      @job.destroy
-      flash[:notice] = "Job #{@job.name} could not be created."
+      @project = Project.find(@job.project_id)
+      @sfiles = Sfile.find_all_by_project_id(@project.id)
+      render(:action => "define")
     end
-    redirect_to(:controller => "project", :action => "show", :id => @job.project_id)
   end
-  
+
   def stop
     @job = Job.find(params[:id])
     @job.stop

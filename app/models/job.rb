@@ -9,6 +9,13 @@ class Job < ActiveRecord::Base
     { :conditions => { :status => s } }
   }
 
+
+  def validate
+    if sfiles.size < 2 || sfiles.select {|file| file.filetype == "csv"}.size != 1
+      errors.add_to_base("You must select one csv file, and atleast one other file")
+    end
+  end
+  
   # create job dir before job is started
   def after_create
     begin 

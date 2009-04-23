@@ -5,7 +5,6 @@ class ProjectController < ApplicationController
   end
   
   def create
-    @page_id = "supramap"
     @project = Project.new(params[:project])
 
     if @project.save
@@ -39,12 +38,10 @@ class ProjectController < ApplicationController
   end
 
   def edit
-    @page_id = "supramap"
     @project = Project.find(params[:id])
   end
 
   def update
-    @page_id = "supramap"
     @project = Project.find(params[:id])
     @sfiles = Sfile.find_all_by_project_id(@project.id)
     @jobs = Job.find_all_by_project_id(@project.id)
@@ -57,7 +54,6 @@ class ProjectController < ApplicationController
 
 
   def show
-    @page_id = "supramap"
     @project = Project.find(params[:id])
     @page_title = "Show project #{@project.name}"
     @sfiles = Sfile.find_all_by_project_id(@project.id)
