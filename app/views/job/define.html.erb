@@ -18,9 +18,9 @@
         </font>
     </legend>
     <%=show_table_for_files({:files => @sfiles, :file_exts => ["csv"], :title => "Geographical files:"})%>
-    <%=show_table_for_files({:files => @sfiles, :file_exts => ["fasta","fas", "fna", "fa"], :title => "Sequence files:"})%>
+    <%=show_table_for_files({:files => @sfiles, :file_exts => ["fasta","fas", "fna", "fa", "afa"], :title => "Sequence files:"})%>
     <%=show_table_for_files({:files => @sfiles, :file_exts => ["tnt"], :title => "Categorical character files:"})%>    
-    <%=show_table_for_files({:files => @sfiles, :file_exts => ["tre", "tree"], :title => "Tree files:"})%>
+    <%=show_table_for_files({:files => @sfiles, :file_exts => ["tre", "tree", "topo"], :title => "Tree files:"})%>
     <%= submit_tag "Run Job", :class => "submit" %>
     <%= submit_tag "Cancel", :name => "cancel", :class => "submit" %></td>
     <% end %>

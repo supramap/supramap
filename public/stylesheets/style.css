@@ -300,3 +300,12 @@ table.files, table.job {
   font-size: 12px;
   list-style: square;
 }
+
+#news {
+	width: 600px;
+	border: 2px solid red;
+	margin:0 auto;
+	padding: 5px 5px 5px 5px;	
+	text-align: center;
+}
+

@@ -12,7 +12,7 @@ class JobController < ApplicationController
       @sfiles = Sfile.find_all_by_project_id(params[:job][:project_id])
     end
   end
-  
+
   def delete
     @job = Job.find(params[:id])
     @job.destroy
@@ -20,6 +20,11 @@ class JobController < ApplicationController
   end
 
   def create
+    if params['cancel']
+      redirect_to(:controller => "project", :action => "show", :id => params[:job][:project_id])
+      return
+    end
+    
     @job = Job.new(params[:job])
     if @job.save
       if @job.start[0].to_i == 0
