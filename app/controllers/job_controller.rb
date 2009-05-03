@@ -19,6 +19,7 @@ class JobController < ApplicationController
     redirect_to(:controller => "project", :action => "show", :id => @job.project_id)
   end
 
+  
   def create
     if params['cancel']
       redirect_to(:controller => "project", :action => "show", :id => params[:job][:project_id])

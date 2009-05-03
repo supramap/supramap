@@ -143,6 +143,11 @@ table {
 	background-color:#000;
 }
 
+table#wide {
+	width: 90%;
+}
+
+
 table#project {
   width: 400px;
   border: none; 
@@ -224,10 +229,10 @@ p#logout {
 }
 
 fieldset {
-	border:1px solid #222;
+	border:2px solid #222;
 	padding:0 10px 10px 10px;
 	background-color:#0a0a0a;
-	width:48%;
+	width:50%;
 	min-width:400px;
 	margin:1em auto;
 	text-align:center;
@@ -267,7 +272,7 @@ td.jobs, td.files {
 }
 
 table.files, table.job {
-    width: 70%
+    width: 80%
 }
 
 #errorExplanation {

@@ -1,19 +1,44 @@
 <% title("Add file to #{h(@project.name)}") %>
-<%= error_messages_for "sfile",
-:header_message => "File Error",
-:message => "Sorry, but there were some problems with the file." %>
-
+<%= error_messages_for "sfile", :header_message => "One or more errors occurred trying to upload the file."%>
 
 <fieldset><legend>Upload a file to project <i><%= h(@project.name) %></i></legend>
 
 <% form_for :sfile, :url => {:action => "create"}, :html => {:multipart => true} do |form| %>
+<input type="hidden" id="project_id" name="sfile[project_id]" value="<%= h(@project.id) %>" />
 <table>
   <tr>
-    <td>Select file</td>
+    <td>Select file:</td>
     <td><%= form.file_field "uploaded_file", :size => 20 %></td>
-    <input type="hidden" id="project_id" name="sfile[project_id]" value="<%= h(@project.id) %>" />
-    <td><%= submit_tag "Upload", :class => "submit" %></td>
   </tr>
 </table>
-<% end%>
 </fieldset>
+
+<fieldset><legend>file type</legend>
+<table>
+	<tr>
+		<td><%= radio_button :sfile, "filetype", "fasta" %></td>
+		<td>Is this a <i>sequence</i> file (e.g., a fasta file)?</td>
+	</tr>
+	<tr>
+		<td><%= radio_button :sfile, "filetype", "pre" %></td>
+		<td>Is this a <i>pre-aligned sequence</i> file?</td>
+	</tr>	
+	<tr>
+		<td><%= radio_button :sfile, "filetype", "geo" %></td>
+		<td>Is this a <i>geographical</i> file (e.g., a csv file)?</td>
+	</tr>
+	<tr>
+		<td><%= radio_button :sfile, "filetype", "cat" %></td>
+		<td>Is this a <i>categorical character</i> file (e.g., a tnt file)?</td>
+	</tr>
+	<tr>
+		<td><%= radio_button :sfile, "filetype", "tree" %></td>
+		<td>Is this a <i>tree</i> file?</td>
+	</tr>	
+	<tr>
+		<td align="center" colspan="2"><%= submit_tag "Upload", :class => "submit" %></td>
+	</tr>		
+</table>
+</fieldset>
+<% end%>
+

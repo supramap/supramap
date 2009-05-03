@@ -1,10 +1,4 @@
 <% title("Show Project :: #{h(@project.name)}") %>
-<%= error_messages_for 'job',
-:header_message => 'Job Error',
-:message => "Sorry, but there were some problems with the Job." %>
-<%= error_messages_for 'sfile',
-:header_message => 'File did not upload!',
-:message => "Sorry, but your file couldn't be found." %>
 <%= error_messages_for 'project',
 :header_message => "Project not renamed", 
 :message => "Sorry, but there were some problems renaming the project.  Changes will not be saved."%>
@@ -20,7 +14,7 @@
 
 <fieldset id="files">
 <legend>Files</legend>
-  <table>
+  <table class="wide">
     <% unless @sfiles.size == 0 %>
       <tr>
         <th>Name</th>
@@ -33,10 +27,10 @@
     <% end %>
     <% for sfile in @sfiles %>
       <tr>
-        <td><a href="/files/<%= h(sfile.project.user.login) %>/<%= h(sfile.project_id) %>/<%= h(sfile.filename) %>" title="Download File"><%= sfile.filename %></a></td>
-        <td><%= h(sfile.created_at.to_date) %></td>
+        <td><a href="/files/<%= h(sfile.project.user.login) %>/<%= h(sfile.project_id) %>/<%= h(sfile.name) %>" title="Download File"><%= sfile.name %></a></td>
+        <td><font size="2"><%= h(sfile.created_at.to_date) %></font></td>
         <td><%= get_file_type(sfile) %></td>
-        <td><%= button_to "Delete", {:controller => "sfile", :action => "delete", :id => sfile.id}, :confirm => "Are you sure you want to delete file #{h(sfile.filename)}?" %></td>
+        <td><%= button_to "Delete", {:controller => "sfile", :action => "delete", :id => sfile.id}, :confirm => "Are you sure you want to delete file #{h(sfile.name)}?" %></td>
       </tr>
     <% end %>
   </table>
@@ -46,7 +40,7 @@
 </fieldset>
 <fieldset id="jobs">
   <legend>Jobs</legend>
-  <table>
+  <table class="wide">
     <% unless @jobs.size == 0 %>
       <tr>
         <th>Name</th>
@@ -69,13 +63,13 @@
         <% if job.status == "Running" %>
           <td><%= button_to "Stop", {:controller => "job", :action => "stop", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
         <% else %>
-        <td><%= button_to "Delete", {:controller => "job", :action => "delete", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)} and associated results?" %></td>
+        <td><%= button_to "Delete", {:controller => "job", :action => "delete", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)}?" %></td>
         <% end %>
       </tr>
       <% job.sfiles.each do |file| %>
         <tr>
           <td>&nbsp;</td>
-          <td colspan="6" class="job_files"><%= h(file.filename) %></td>
+          <td colspan="6" class="job_files"><%= h(file.name) %></td>
         </tr>
 
       <% end %>
@@ -88,11 +82,11 @@
 
 <fieldset>
   <legend>Results</legend>  
-  <% if @jobs %>
+  <% if @jobs.size > 0 %>
     <table>
       <tr>
         <th>Job Name</th>
-        <th colspan="3">Download Results</th>
+        <th colspan="3">Results</th>
       </tr>
       <% @jobs.each do |job|
         if job.status == "Completed" %>
@@ -105,7 +99,7 @@
       <% end
       end %>
   <% else %>
-      <p>No results have been created for this project.</p>
+      <p>No results yet.</p>
   <%end%>
   </table>
 </fieldset>

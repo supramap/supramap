@@ -1,7 +1,7 @@
 <% title("Create Job") %>
 <%= error_messages_for 'job' %>
 <fieldset>
-  <legend>enter job name</legend>
+  <legend>job info</legend>
   <% form_for :job, :url => {:action => "create"} do |form| %>
   <input type="hidden" name="job[project_id]" value="<%= h(@project.id) %>" />
   <table class="job">
@@ -12,15 +12,16 @@
 </fieldset>
 <fieldset>
     <legend>
-        select job files</i>&nbsp;
+        job files</i>&nbsp;
         <font size="1">
             (<a href="#">Which files should I choose?</a>)
         </font>
     </legend>
-    <%=show_table_for_files({:files => @sfiles, :file_exts => ["csv"], :title => "Geographical files:"})%>
-    <%=show_table_for_files({:files => @sfiles, :file_exts => ["fasta","fas", "fna", "fa", "afa"], :title => "Sequence files:"})%>
-    <%=show_table_for_files({:files => @sfiles, :file_exts => ["tnt"], :title => "Categorical character files:"})%>    
-    <%=show_table_for_files({:files => @sfiles, :file_exts => ["tre", "tree", "topo"], :title => "Tree files:"})%>
+    <%=show_table_for_files({:files => @sfiles, :file_type => "geo", :title => "Geographical files:"})%>
+    <%=show_table_for_files({:files => @sfiles, :file_type => "fasta", :title => "Sequence files:"})%>
+    <%=show_table_for_files({:files => @sfiles, :file_type => "pre", :title => "Pre-aligned sequence files:"})%>
+    <%=show_table_for_files({:files => @sfiles, :file_type => "cat", :title => "Categorical character files:"})%>    
+    <%=show_table_for_files({:files => @sfiles, :file_type => "tree", :title => "Tree files:"})%>
     <%= submit_tag "Run Job", :class => "submit" %>
     <%= submit_tag "Cancel", :name => "cancel", :class => "submit" %></td>
     <% end %>

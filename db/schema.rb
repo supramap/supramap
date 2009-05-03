@@ -18,6 +18,7 @@ ActiveRecord::Schema.define(:version => 11) do
     t.string   "name"
     t.string   "status"
     t.string   "job_type"
+    t.boolean  "prealigned"
   end
 
   create_table "jobs_sfiles", :id => false, :force => true do |t|
@@ -29,16 +30,6 @@ ActiveRecord::Schema.define(:version => 11) do
     t.integer  "user_id"
     t.datetime "created_at"
     t.string   "name"
-  end
-
-  create_table "queries", :force => true do |t|
-    t.string   "anc_state"
-    t.string   "descs_state"
-    t.string   "position"
-    t.string   "insdel"
-    t.integer  "job_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
   end
 
   create_table "sessions", :force => true do |t|
@@ -53,30 +44,11 @@ ActiveRecord::Schema.define(:version => 11) do
 
   create_table "sfiles", :force => true do |t|
     t.integer  "project_id"
-    t.string   "filename"
+    t.string   "name"
     t.datetime "created_at"
     t.string   "filetype"
-  end
-
-  create_table "transformations", :force => true do |t|
-    t.integer "treenode_id"
-    t.boolean "definite"
-    t.string  "ancestral_state"
-    t.string  "descendant_state"
-    t.integer "position"
-    t.string  "type"
-    t.string  "cost"
-    t.string  "character"
-  end
-
-  create_table "treenodes", :force => true do |t|
-    t.integer  "job_id"
-    t.integer  "parent_id"
-    t.string   "strain_name"
-    t.integer  "rank"
-    t.float    "latitude"
-    t.float    "longitude"
-    t.datetime "isolation_date"
+    t.string   "ext"    
+    t.string   "desc"    
   end
 
   create_table "users", :force => true do |t|

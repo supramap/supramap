@@ -7,19 +7,19 @@ class SfileController < ApplicationController
   def create
     @sfile = Sfile.new(params[:sfile])  
     if @sfile.save
-      flash[:notice] = "File #{@sfile.filename} successfully uploaded."
+      flash[:notice] = "File #{@sfile.name} successfully uploaded."
+      redirect_to(:controller => "project", :action => "show", :id => @sfile.project_id)
     else
-      flash[:notice] = "An error occurred uploading the file."
+      @project = Project.find(@sfile.project_id)
+      render(:action => "add")
     end
-        
-    redirect_to(:controller => "project", :action => "show", :id => @sfile.project_id)
   end
 
   def delete
     @sfile = Sfile.find(params[:id])
     @sfile.destroy
     @project = Project.find(@sfile.project_id)
-    path = "#{FILE_SERVER_ROOT}/#{@project.user.login}/#{@project.id}/#{@sfile.filename}"
+    path = "#{FILE_SERVER_ROOT}/#{@project.user.login}/#{@project.id}/#{@sfile.name}"
       
     FileUtils.rm_r(path) unless !File.exist?(path)
     redirect_to(:controller => "project", :action => "show", :id => @sfile.project_id)

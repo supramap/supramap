@@ -11,7 +11,7 @@ class Job < ActiveRecord::Base
 
 
   def validate
-    if sfiles.size < 2 || sfiles.select {|file| file.filetype == "csv"}.size != 1
+    if sfiles.size < 2 || sfiles.select {|file| file.filetype == "geo"}.size != 1
       errors.add_to_base("You must select one csv file, and atleast one other file")
     end
   end
