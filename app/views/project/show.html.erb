@@ -27,7 +27,7 @@
     <% end %>
     <% for sfile in @sfiles %>
       <tr>
-        <td><a href="/files/<%= h(sfile.project.user.login) %>/<%= h(sfile.project_id) %>/<%= h(sfile.name) %>" title="Download File"><%= sfile.name %></a></td>
+        <td><a href="/sm/files/<%= h(sfile.project.user.login) %>/<%= h(sfile.project_id) %>/<%= h(sfile.name) %>" title="Download File"><%= sfile.name %></a></td>
         <td><font size="2"><%= h(sfile.created_at.to_date) %></font></td>
         <td><%= get_file_type(sfile) %></td>
         <td><%= button_to "Delete", {:controller => "sfile", :action => "delete", :id => sfile.id}, :confirm => "Are you sure you want to delete file #{h(sfile.name)}?" %></td>
