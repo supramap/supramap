@@ -41,7 +41,14 @@ class Job < ActiveRecord::Base
   
   def start
     driver = SOAP::WSDLDriverFactory.new(WSDL_URL).create_rpc_driver
-    stat = driver.startPOYJob(self.id)
+    
+    begin
+      stat = driver.startPOYJob(self.id)
+    rescue SOAP::FaultError => error
+      logger.error(error)
+      stat = -1
+      errors.add_to_base(error)
+    end
     self.status = "Running" if stat == 0
     return stat
   end

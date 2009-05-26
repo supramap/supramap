@@ -47,8 +47,8 @@ ActiveRecord::Schema.define(:version => 11) do
     t.string   "name"
     t.datetime "created_at"
     t.string   "filetype"
-    t.string   "ext"    
-    t.string   "desc"    
+    t.string   "ext"
+    t.string   "desc"
   end
 
   create_table "users", :force => true do |t|

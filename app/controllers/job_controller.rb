@@ -30,16 +30,17 @@ class JobController < ApplicationController
     if @job.save
       if @job.start[0].to_i == 0
         flash[:notice] = "Job #{@job.name} successfully created and started."
+        redirect_to(:controller => "project", :action => "show", :id => @job.project_id)
+        return
       else
         @job.destroy
-        flash[:notice] = "Job #{@job.name} could not be started."
+        # don't need to show flash message if errors exist
+        flash[:notice] = "Job #{@job.name} could not be started." if @job.errors.empty?
       end
-      redirect_to(:controller => "project", :action => "show", :id => @job.project_id)
-    else
-      @project = Project.find(@job.project_id)
-      @sfiles = Sfile.find_all_by_project_id(@project.id)
-      render(:action => "define")
     end
+    @project = Project.find(@job.project_id)
+    @sfiles = Sfile.find_all_by_project_id(@project.id)
+    render(:action => "define")
   end
 
   def stop

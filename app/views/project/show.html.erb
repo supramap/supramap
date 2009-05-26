@@ -1,7 +1,7 @@
 <% title("Show Project :: #{h(@project.name)}") %>
-<%= error_messages_for 'project',
-:header_message => "Project not renamed", 
-:message => "Sorry, but there were some problems renaming the project.  Changes will not be saved."%>
+<%= error_messages_for 'project' %>
+<%= error_messages_for 'job' %>
+
 
 <table id="project">
   <tr>
@@ -52,13 +52,12 @@
     <% else %>
       <p>No jobs defined for this project.</p>
     <% end %>
-    <% complete = false %>
     <% for job in @jobs %>
       <tr>
         <td><%= h(job.name) %></td>
         <td class="started_at"><%= job.created_at.to_time.to_s(:db) %></td>
         <td><%= h(job.job_type)%> </td>
-        <td class="status"><%= job.status %></td>
+        <td class="status"><%= job.status %><br><font size="2"><%= show_error_log(job) %></font></td>
 
         <% if job.status == "Running" %>
           <td><%= button_to "Stop", {:controller => "job", :action => "stop", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
