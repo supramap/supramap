@@ -14,6 +14,7 @@ class SupramapController < ApplicationController
   def home
     @page_id = "home"
     @page_title = "Home"
+    @GE_API = true
   end
 
   def make_a_supramap

@@ -10,8 +10,37 @@
     <!--[if lt IE 7.]>
     <script defer type="text/javascript" src="http://homepage.ntlworld.com/bobosola/pngfix.js"></script>
     <![endif]-->
+	<% if !(@GEAPI.nil?) && @GEAPI %>
+	<script src="http://www.google.com/jsapi?key=ABQIAAAAd_tmRg3zO4Dx3qy9eol3CxS2MMeSBqUXGdiXTBL-DmkcuSXkRxR3kz4_jti3BNF71vESx986kXtUBg"></script>
+	<script>
+		google.load("earth", "1");
+		
+		var ge = null;
+		
+		function init() {
+		  google.earth.createInstance("map3d", initCallback, failureCallback);
+		}
+		
+		function initCallback(object) {
+			ge = object;
+			ge.getWindow().setVisibility(true);
+			ge.getNavigationControl().setVisibility(ge.VISIBILITY_SHOW);
+			
+			var nl = ge.createNetworkLink("");
+			var link = ge.createLink("");
+			link.setHref("http://bmi.osu.edu/~janies/H1N1/H1N1_NA.kmz");
+			nl.setLink(link);
+			nl.setVisibility(true);
+			ge.getGlobe().getFeatures().appendChild(nl);
+		}
+		
+		function failureCallback(object) {
+		}
+	</script>
+	<% end %>
   </head>
-  <body id="<%= h(@page_id) %>">
+  <% if !(@GEAPI.nil?) && @GEAPI %><body id="<%= h(@page_id) %>" onload="init()">
+  <% else %><body id="<%= h(@page_id) %>"><% end %>
     <div id="header">
       <h1>SupraMap</h1>
 
