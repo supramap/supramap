@@ -10,7 +10,6 @@
     <!--[if lt IE 7.]>
     <script defer type="text/javascript" src="http://homepage.ntlworld.com/bobosola/pngfix.js"></script>
     <![endif]-->
-	<% if !(@GEAPI.nil?) && @GEAPI %>
 	<script src="http://www.google.com/jsapi?key=ABQIAAAAd_tmRg3zO4Dx3qy9eol3CxS2MMeSBqUXGdiXTBL-DmkcuSXkRxR3kz4_jti3BNF71vESx986kXtUBg"></script>
 	<script>
 		google.load("earth", "1");
@@ -37,10 +36,8 @@
 		function failureCallback(object) {
 		}
 	</script>
-	<% end %>
   </head>
-  <% if !(@GEAPI.nil?) && @GEAPI %><body id="<%= h(@page_id) %>" onload="init()">
-  <% else %><body id="<%= h(@page_id) %>"><% end %>
+  <body id="<%= h(@page_id) %>" onload="init()">
     <div id="header">
       <h1>SupraMap</h1>
 
