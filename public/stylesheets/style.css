@@ -15,6 +15,13 @@ body{
 	font-size:90%;
 	}
 
+#map3d_container *{
+	background-color:#fff;
+	color:#000;
+	border-color:#c8c8c8;
+	font-size:9pt;
+	}
+
 #header{
 	background-image:url(../images/banner.jpg);
 	height:150px;
