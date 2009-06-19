@@ -321,3 +321,10 @@ table.files, table.job {
 	text-align: center;
 }
 
+#welcome {
+	margin:1em auto;
+	line-height:1.6em;
+	color:#ddd;
+	max-width:600px;
+}
+

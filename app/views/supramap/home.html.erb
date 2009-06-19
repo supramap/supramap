@@ -1,9 +1,12 @@
-<h2>Welcome</h2>
-<p>Welcome to Supramap, a web application for integrating genetic, evolutionary, geospatial, and temporal data.</p>
-<p>Downloading maps requires no registration.</p>
-
-<p>See the map below for H1N1 or the publications page for SARS and Avian Influenza.</p>
-<p>Running the application to create your <i>own</i> maps requires free and simple <%= link_to "registration", { :action => "make_a_supramap" }, { :class => "make-a-supramap" } %>.</p>
+<div id="welcome">
+<p>Welcome to Supramap, a web application for integrating genetic, evolutionary, geospatial, and temporal data.
+<ul>
+    <li>See the H1N1 supramap below, or the publications page for SARS and Avian Influenza.  (Dowloading maps does <u>not</u> require registration.)</li>	
+    <li>Create your <i>own</i> maps by starting with simple and free <%= link_to "registration", {:controller => "login", :action => "register" }%>.</li>
+</ul>
+<br><font size="1">Note: If your browser supports the time bar in the map below, separate the two time selectors to see how H1N1 spreads over time.</font>
+</p>
+</div>
 
 <h2>Evolution and spread of H1N1 influenza</h2>
 <br/>&nbsp;
