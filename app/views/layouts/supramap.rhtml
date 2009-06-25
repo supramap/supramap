@@ -31,6 +31,13 @@
 			nl.setLink(link);
 			nl.setVisibility(true);
 			ge.getGlobe().getFeatures().appendChild(nl);
+                        var b = ge.createHtmlStringBalloon('');
+                        b.setMaxWidth(500);
+                        b.setContentString(
+                        '<b>Evolution and Spread of H1N1</b>' +
+                        '<p>Data provided by contributors to GISAID.org and NIH\'s Genbank.</p>' +
+                        '<p>Phylogenetic mapping by <a href="http://supramap.osu.edu">Supramap.osu.edu</a></p>'); 
+                        ge.setBalloon(b);
 		}
 		
 		function failureCallback(object) {

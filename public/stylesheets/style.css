@@ -161,14 +161,11 @@ table#project {
 }
 
 td.right {
-  align: right;
-  float: clear;
   color: red;
 }
 
 .alignright {
   float: right;
-  align: right;
 }
 
 input[type='submit'] {
@@ -249,7 +246,6 @@ legend {
 	border:1px solid#222;
 	padding:6px;
 	font-size:1.1em;
-	#text-transform:lowercase;
 }
 
 td {
