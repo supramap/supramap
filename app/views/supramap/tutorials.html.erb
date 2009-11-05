@@ -1,33 +1,171 @@
-<h2>How to make Supramaps</h2>
+<h2>How to run Supramap</h2>
 
-<p>Upon registration, the user should create a project, click on the project name, and upload data files in the interface provided.  The files required are: </p>
+<p>Upon registration, the user should create a project, click on the project
+name, and upload data files in the interface provided. All files are plain
+text format. Be sure to use Unix line breaks. <a href="http://www.barebones.com/products/bbedit/">BBEdit</a> 
+and <a href="http://www.textpad.com/">Text Pad</a> are good
+editors to make compliant files. Extensions don't matter but might help you to
+organize your files. The files that Supramap can read include: </p>
 
-<h3>Genetic Data</h3>
+<h3>Sequence Files (Genetic Data)</h3>
 
-<p>A file of raw nucleotide data in <a href="http://bmi.osu.edu/~janies/supramap2/nucleotides.fas">fasta format </a>the first taxon in the file will be considered the outgroup. The outgroup will be used to root the tree.  The choice of the outgroup taxon is up to the user.  In the case of temporal series of isolates of pathogens the outgroup is of often the oldest isolate.  In natural sciences, the outgroup is often selected because it is outside of the set of interest, termed the ingroup.  If the outgroup is related to but not a member of the ingroup then these two groups share a more ancient common ancestor than that shared by the ingroup.  Rooting on an ancestor more ancient than the ancestor of the ingroup provides a baseline from which the branching pattern and polarities of changes within the ingroup can be elucidated.</p>
+<p> A sequence file is presented in <a href="http://bmi.osu.edu/~janies/supramap2/nucleotides.fas">FASTA </a> format
+(.fas). The file contains sequence data (e.g. nucleotides or amino acids)
+labeled with taxon names. The sequence data can be prealinged or raw unaligned
+data. One file can be used for each locus and multiple files can be used.
+Missing data is tolerated if multiple files are used. See POY documentation
+for details on how to manage missing data.</p>
 
-<h3>Geographic and Temporal References</h3>
+<p>
+    Example:<br><br>
+    <font size="2">>NC_001608<br>
+    gaagaatattaacattgacattgagacttgtcagtctgttaatattcttgaagagatgg
+    <br>>EU051644<br>
+    aggcaaattcaagtacatgcagagcaaggactgatacaatatccaacagcttggcaatc
+    <br>>EU051642<br>
+    aggcaaattcaagtacatgcagagcaaggactgatacaatatccaacagcttggcaatc</font>
 
-<p>A file in <a href="http://bmi.osu.edu/~janies/supramap2/lat.long.date.csv">csv format </a>with geographic and time references for each taxon contained in the fas file. The latitude longitude coordinates must be in decimal format. The date of isolation is in this format YYYY-MM-DD but is optional but useful. If you provide dates of isolation Supramap will build a Keyhole Markup File (KML) that allow you to animate the tree's growth over time Google Earth. Excel can output csv format (make sure its unix format however - a text editor such as bbedit or textpad can ensure this).</p>
+</p>
 
-<p>In filling out your geographic and temporal references file, you might use this service if you have to <a href="http://www.getty.edu/research/conducting_research/vocabularies/tgn/">look up place names and convert them to decimal degrees</a> or the search field of Google Earth.</p>
+<p> The first taxon in the file will be considered the <b>outgroup</b>. The outgroup
+will be used to root the tree. The choice of the outgroup taxon is up to the
+user. In the case of temporal series of isolates of pathogens the outgroup is
+of often the oldest isolate. In natural sciences, the outgroup is often
+selected because it is outside of the set of interest, termed the ingroup. If
+the outgroup is related to but not a member of the ingroup then these two
+groups share a more ancient common ancestor than that shared by the ingroup.
+Rooting on an ancestor more ancient than the ancestor of the ingroup provides
+a baseline from which the branching pattern and polarities of changes within
+the ingroup can be elucidated. </p>
 
-<p>The .csv file should include the header line of strain_name,latitude,longitude" or "strain_name,latitude,longitude,date". If you do not have coordinates for a specific taxon, include a line like "strain_name, 0, 0". If you have problems, make sure that the taxon names in the .fas and the .csv files match exactly in spelling and content.</p>
+<h3>Categorical Character Files</h3>
 
-<h3>Projects and Jobs</h3>
+<p> Categorical data files are in <a href="http://www.zmuc.dk/public/phylogeny/TNT/">TNT</a> (.tnt) format including a header and
+footer. The file can be used for any phenotypic data (e.g., viral host). The
+various character states (e.g., human, chimp, swine, avian) should be represented
+as integers for states zero through nine and then with letters up to 32 states
+(e.g., 0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W).
+</p>
 
-<p>Once you have created a project and uploaded the files you will be presented an interface in which you organize sets of files into a job. First you will be asked to define the job. Defining the job means naming it and designating one .csv file and one or more .fas files. Once you finish selecting files the job will be launched and you will see a confirmation message and the job status of "Running" in the interface.</p>
+<p>
+    Example:<br><br>
+    <font size="2">xread<br>
+    1 3<br>
+    NC_001608  0<br>
+    EU051644  0<br>
+    EU051642  0<br>
+    ;<br>
+    cc -.;</font><br>
+</p>
 
-<p>From this point the system will begin POY4 run on many processors in a Linux cluster based on a default script. You can then refresh the browser to check your results. The duration of the run cannot be predicted. As a rule of thumb runs with 10s of taxa will be minutes and runs with 100s of taxa will be hours. We currently have 10 hits to minimum tree length or 15 hours run time limit as implemented by the POY4 search command. This command does the best search it can with the resources allocated. Please feel free to contact if you have a need for more run time and or would like to run custom scripts.</p>
+<h3>Geographic and Temporal Reference Files</h3>
+
+<p>A <a href="http://bmi.osu.edu/~janies/supramap2/lat.long.date.csv">comma
+separated values</a> (.csv) file that contains the geographic and temporal
+data for each taxon is necessary. The latitude and longitude coordinates must be in
+decimal format. If you provide dates of isolation, Supramap will build a
+Keyhole Markup File (KML) that allow you to animate the tree's growth over
+time in <a href="http://earth.google.com">Google Earth</a> ™. Microsoft Excel ™ can output csv format but make sure it's in
+unix format - a text editor such as BBedit ™or Text Pad ™ can ensure this.</p>
+
+<p>The csv file must have a header followed by the data. The header line
+should be "strain_name,latitude,longitude" or
+"strain_name,latitude,longitude,date". If you do not have coordinates for a
+specific taxon, include a line like "strain_name, 0, 0". If you have problems,
+make sure that the taxon names in the .fas and the .csv files match exactly in
+spelling and content.</p>
+
+<p>Example:<br><br>
+<font size="2">strain_name,latitude,longitude<br>
+NC_001608,-0.0205406,37.9002956<br>
+EU051644,-0.8280967,11.5989086<br>
+EU051642,-0.8280967,11.5989086</font><br>
+</p>
+
+<p>
+Temporal data is optional in the format YYYY-MM-DD:<br><br>
+<font size="2">strain_name,latitude,longitude,date<br>
+NC_001608,-0.0205406,37.9002956,1967-12-12<br>
+EU051644,-0.8280967,11.5989086,2002-12-12<br>
+EU051642,-0.8280967,11.5989086,2001-12-12</font><br>
+</p>
+
+<p> In filling out your geographic and temporal references file, you might use
+an external data source such as <a href="http://www.getty.edu/research/conducting_research/vocabularies/tgn/">
+Getty Thesaurus of Geographic Names</a> or in the
+search field of Google Earth ™ to look up place names and convert them to
+decimal degrees. If you have a lot of place names to convert we may be able to
+help automate the process and feel free to contact us.</p>
+
+<h3>Tree files</h3>
+
+<p>
+    A tree file contains the evolutionary relationships of the taxa in nested parentheses ending in a semicolon.
+    It is usually generated by a phylogenetic tree search program.<br><br>
+    Example:<br><br>
+
+    <font size="2">(NC_001608, (EU051644, EU051642));</font><br><br>
+    Annotations in the tree such branch length or bootstrap values are not supported.
+</p>
+<p>Which files do I need and how do I organize them?
+    We have created a web interface where users can upload data files, name projects, and organize sets of 
+    data files into jobs to be executed on a computing cluster (treated below).  
+    As files are uploaded the user is asked to identify what kind of file is being uploaded.
+    A user can keep several files in a project and mix and match them as sets for various jobs.  
+    A valid job consists of at least one sequence data file and one and only one file of geographic and temporal references.<br><br>  
+    These are some valid sets of files for jobs:<br><br>
+    .fas (one or more) and .csv:<br>
+    .fas (one or more), .tre, and .csv:<br>
+    .tnt (one or more), and .csv:<br>
+    .tnt (one or more), .tre,  and .csv:<br>
+    .fas (one or more), .tnt (one or more), and .csv<br>
+    .fas (one or more), .tnt (one or more), .tre, and .csv:<br>
+</p>
+
+<h3>Projects, Jobs and Analyses</h3>
+
+<p>Once the user uploads files to a project, defines a valid job, and starts
+the job, the Supramap system will perform an analysis. Once you finish
+selecting files the job will be launched and you will see a confirmation
+message and the job status of "Running" in the jobs interface. If no tree is
+provided a direct optimization (alignment plus tree search) is performed,
+followed by diagnosis, and tree projection. If a tree is provided, that
+topology is used to diagnose the data and make the projection.</p>
+
+<p>Diagnosis is the proess of optimizing the variation in the character data
+on given tree or the best tree that results from tree search. For example, the
+variation in the nucleotide or amino acid data can be assigned to branches of
+the tree as mutations that occur between ancestor and descendent. Tree
+projection is the process of contorting the tree in space such that the
+terminal taxa are assigned to their points on the earth and the ancestral
+hierarchy is placed above the earth.</p>
 
 <h3>Results</h3>
 
-<p>Once the interface indicates that the job status is complete you will be able to click on three links (KML, TREE, and STATS) that appear at the bottom of the page. The KML link takes you to a tree projected into the earth and expressed in Keyhole Markup Language.  The TREE link will download a file of the tree expressed on nested parenthetical format viewable in <a href="http://taxonomy.zoology.gla.ac.uk/rod/treeview.html">treeview</a> and other programs.  The STATS link will provide the tree length in a text file.</p>
-
-<p>In the case of the KML file, you will be asked to download the KML file to your local machine. One you have done that, clicking your local copy of the KML will invoke <a href="ttp://e
-arth.google.com>">Google Earth</a> or your geographic browser of choice on your local machine. </p>
-
-<p>If the tree does not automatically load in Google Earth you may need to use file:open in Google Earth. Be sure to pull the time slider all the way to the right to see the entire tree if you used temporal data. Also check the left sidebar to make sure your Supramap KML layer is active and any superfluous layers are disabled.</p>
-
-<p>You should now be looking at the Supramap. Clicking on any of the nodes displays a summary of the mutations along the branch connecting that node to its ancestral node.</p>
-
+<p> The projected tree and mutations are stored in a Keyhole Markup file (KML)
+file suitable for viewing with Google Earth ™ or similar virtual globe or maps
+software. We also provide statistics on the run and a tree in nested
+parenthese format. Statistics include the optimal tree length found during the
+search and the number of times this length was hit. 
+</p>
+<p><a href="http://bmi.osu.edu/~janies/supramap2/script.psh">Currently a supramap
+analysis is bound to a search time of 3 minutes and 2Gb of memory</a>. This does
+not include the tree projection phase of the analysis so response time of the
+web application will be > 3 minues before complete. Please feel free to
+contact if you have a need for more run time and or would like to run custom
+scripts. </p> 
+<p> In the case of the KML file, you will be asked to download
+the KML file to your local machine. One you have done that, clicking your
+local copy of the KML will invoke Google Earth ™ or your geographic browser of
+choice on your local machine. </p> 
+<p> If the tree does not automatically load
+in Google Earth ™ you may need to use File > Open in Google Earth ™. Be sure
+to pull the time slider all the way to the right to see the entire tree if you
+used temporal data. Also check the left sidebar to make sure your Supramap KML
+layer is active and any superfluous layers are disabled. </p> 
+<p> You should now be looking at the Supramap. Make sure you click the box on the left side
+of Google Earth ™ to activate your KML. Once doing that make sure to spread
+the time bar to the right if you have used temporal references. Clicking on
+any of the nodes displays a summary of the mutations along the branch
+connecting that node to its ancestral node. Please contact us at
+supramap@gmail.com if you have any problems. </p>
