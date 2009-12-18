@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Google earth combined with evolutionary trees based on viral mutations are used to track the spread of influenza and sars over space, time, and hosts." />
+    <meta name="description" content="A web based application to combine genomic sequences with other information to provide maps of the movement of pathogens and key mutations among pathogensi, such as those that confer resistance to drugs or the ability to jump from animals to humans" />
     <meta name="keywords" content="supramap, phylogeny, virtual globe, SARS, h5n1, avian invluenza, phylogeography,  biogeography, genetic mutation, SARS-CoV, host shift, KML, Google Earth, types of mutations, supermap, bird flu, mutation, gene mutation, sars virus" />
     <%= stylesheet_link_tag 'style' %>
     <%= javascript_include_tag "prototype" %>
@@ -27,7 +27,8 @@
 			
 			var nl = ge.createNetworkLink("");
 			var link = ge.createLink("");
-			link.setHref("http://bmi.osu.edu/~janies/H1N1/H1N1_NA.kmz");
+			if(document.getElementById("home")) link.setHref("http://bmi.osu.edu/~janies/H1N1/H1N1_NA.kmz");
+			if(document.getElementById("publications")) link.setHref("http://supramap.osu.edu/h5n1_677/h5n1_677.kmz");
 			nl.setLink(link);
 			nl.setVisibility(true);
 			ge.getGlobe().getFeatures().appendChild(nl);
@@ -37,7 +38,7 @@
                         '<b>Evolution and Spread of H1N1</b>' +
                         '<p>Data provided by contributors to GISAID.org and NIH\'s Genbank.</p>' +
                         '<p>Phylogenetic mapping by <a href="http://supramap.osu.edu">Supramap.osu.edu</a></p>'); 
-                        ge.setBalloon(b);
+                        //ge.setBalloon(b);
 		}
 		
 		function failureCallback(object) {

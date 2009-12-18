@@ -85,7 +85,7 @@ h3	{
 	color:#999;
 	border-bottom:1px dotted #222;
 	}
-p	{
+p,ol	{
 	margin:1em auto;
 	line-height:1.6em;
 	color:#ddd;
@@ -129,7 +129,7 @@ cite
 	margin:0;
 	}
 
-#publications #page ul {
+#publications #page ul, #tutorials #page ul {
 	width: 600px;
 	margin:auto;
 	padding-left:2em;
@@ -324,3 +324,11 @@ table.files, table.job {
 	max-width:600px;
 }
 
+pre {
+	margin:1em auto;
+        max-width:600px;
+	font-family: Courier,Courier New;
+        line-height: 1.1em;
+        font-size:0.9em;
+	color:#9f9;
+}
