@@ -1,7 +1,8 @@
 <p>
 <a href="#section1">How to run Supramap</a><br/>
 <a href="#section2">How to install POY (and make Supramaps offline)</a><br/>
-<a href="#section3">How to make a Supramap KML from only a *.tre and *.csv</a>
+<a href="#section3">How to make a Supramap KML from only a *.tre and *.csv</a><br/>
+<a href="#section4">How to color tree branches in Supramap KMLs</a>
 </p>
 
 <h2 id="section1">How to run Supramap</h2>
@@ -73,18 +74,19 @@ EU051642,-0.8280967,11.5989086,2001-12-12</pre></p>
 <p>These are some valid sets of files for jobs:</p>
 <ol>
 <li>.fas (one or more) and .csv:</li>
-<li>.fas (one or more), .tre, and .csv:</li>
+<li>.fas (one or more), .tre, and .csv (coming soon)</li>
 <li>.tnt (one or more), and .csv:</li>
-<li>.tnt (one or more), .tre,  and .csv:</li>
+<li>.tnt (one or more), .tre,  and .csv (coming soon)</li>
 <li>.fas (one or more), .tnt (one or more), and .csv</li>
-<li>.fas (one or more), .tnt (one or more), .tre, and .csv:</li>
+<li>.fas (one or more), .tnt (one or more), .tre, and .csv (coming soon)</li>
+<li><a href="http://supramap.osu.edu/sm/supramap/tutorials#section3">.tre and .csv</a></li>
 </ol>
 
 <h3>Projects, Jobs and Analyses</h3>
 
 <p>Once the user uploads files to a project, defines a valid job, and starts the job, the Supramap system will perform an analysis. Once you finish selecting files the job will be launched and you will see a confirmation message and the job status of "Running" in the jobs interface. If no tree is provided a direct optimization (alignment plus tree search) is performed, followed by diagnosis, and tree projection. If a tree is provided, that topology is used to diagnose the data and make the projection.</p>
 
-<p>Diagnosis is the proess of optimizing the variation in the character data on given tree or the best tree that results from tree search. For example, the variation in the nucleotide or amino acid data can be assigned to branches of the tree as mutations that occur between ancestor and descendent. Tree projection is the process of contorting the tree in space such that the terminal taxa are assigned to their points on the earth and the ancestral hierarchy is placed above the earth.</p>
+<p>Diagnosis is the proess of optimizing variation in the character data on given tree or the best tree that results from tree search. For example, the variation in the nucleotide or amino acid data can be assigned to branches of the tree as mutations that occur between ancestor and descendent. Tree projection is the process of contorting the tree in space such that the terminal taxa are assigned to their points on the earth and the ancestral hierarchy is placed above the earth.</p>
 
 <h3>Results</h3>
 
@@ -103,7 +105,7 @@ EU051642,-0.8280967,11.5989086,2001-12-12</pre></p>
 
 <h2 id="section2">How to install POY (and make Supramaps offline)</h2>
 
-<p>You will need a computer running a recent Linux distribution or Mac OS X (10.4 or 10.5; the Supramap plug-in will not work under OS X 10.6 Leopard Snow). Under OS X, make sure you have the <a href="http://developer.apple.com/technology/xcode.html" target="_blank">latest Xcode</a>.</p>
+<p>You will need a computer running a recent Linux distribution or Mac OS X (10.4 or 10.5; the Supramap plug-in will not work under OS X 10.6 Snow Leopard). Under OS X, make sure you have the <a href="http://developer.apple.com/technology/xcode.html" target="_blank">latest Xcode</a>.</p>
 
 <h3>Compilation</h3>
 
@@ -161,3 +163,22 @@ exit ()</pre></li>
 <pre>./csv.tre-to-kml_osx-10.4-10.6 -tree &lt;path to .tre file&gt; -csv &lt;path to .csv file&gt;</pre>
 
 <p>Here are links to two example data files to get you started: <a href="http://supramap.osu.edu/csv.tre-to-kml/ebola.tre" target="_blank">ebola.tre</a> &nbsp;&nbsp; <a href="http://bmi.osu.edu/~janies/Nnessandsuf/ebola.ngene.latlong.noreston.csv" target="_blank">ebola.ngene.latlong.noreston.csv</a></p>
+
+<p>&nbsp;</p>
+
+<h2 id="section4">How to color tree branches in Supramap KMLs</h2>
+
+<p>Supramaps can be colored to denote a mutation of interest or a change in a character state.  In order to color tree branches you must do the following:</p>
+<ol>
+<li>Download the <a href="http://supramap.osu.edu/sm/files/color-lines.rb" target="_blank">color-lines.rb</a> script. (ruby required: <a href="http://www.ruby-lang.org">http://www.ruby-lang.org</a>)</li>
+<li>chmod a+x color-lines.rb</li>
+<li>To color nucleotide based trees, run the following:<br/>
+./color-lines.rb --dna n --file path/to/kml<br/>
+The argument “n” is an integer denoting the alignment column containing the mutations of interest, and the argument “/path/to/kml” is the location of the kml file to be colored.</li>
+<li>To color character based trees, run the following:</li> 
+./color-lines.rb --file path/to/kml</li>
+<li>The script will create a new kml called OriginalName-colored.kml.  Load this file in Google Earth.  Red, green, blue, and purple lines represent adenine, guanine, cytosine, and thymine/uracil respectively.</li>
+</ol>
+<p>
+  To run Supramap on the clusters at the Department of Biomedical Informatics, Ohio State University College of Medicine or The Ohio Supercomputer Center contact <a href="mailto:supramap@gmail.com">supramap@gmail.com</a>.
+</p>

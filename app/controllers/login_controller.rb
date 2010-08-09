@@ -118,8 +118,7 @@ class LoginController < ApplicationController
   def list_users
     @page_id = "supramap"
     @page_title = "List Users"
-
-    @all_users = User.find(:all)
+    @all_users = User.find(:all, :order => "created_at")
   end
   
 end
