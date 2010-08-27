@@ -5,7 +5,7 @@ require "fastercsv"
 
 class SupramapController < ApplicationController
 
-  before_filter :authorize, :except => [:index, :home, :about, :tutorials, :theory, :publications, :contact_us]
+  before_filter :authorize, :except => [:acknowledgements, :index, :home, :about, :tutorials, :theory, :publications, :contact_us]
 
   def index
     redirect_to :action => "home"
