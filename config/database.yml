@@ -22,7 +22,8 @@ development:
   database: supramap
   username: supramap
   password: supram@p1
-  socket: 
+  host: 140.254.80.125
+  pool: 5
 
 # Warning: The database defined as 'test' will be erased and
 # re-generated from your development database when you run 'rake'.
@@ -33,7 +34,8 @@ test:
   database: supramap_test
   username: supramap
   password: supram@p1
-  socket:
+  host: 140.254.80.125
+  pool: 5
 
 production:
   adapter: mysql                                  
@@ -41,4 +43,5 @@ production:
   database: supramap
   username: supramap
   password: supram@p1
-  socket: 
+  host: 140.254.80.125
+  pool: 5

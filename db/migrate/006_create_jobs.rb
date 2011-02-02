@@ -7,6 +7,7 @@ class CreateJobs < ActiveRecord::Migration
       t.column :name, :string
       t.column :status, :string
       t.column :job_type, :string
+      t.column :job_code, :integer
     end
   end
 

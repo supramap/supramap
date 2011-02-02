@@ -12,9 +12,10 @@ require File.join(File.dirname(__FILE__), 'boot')
 
 # Specifies gem version of Rails to use when vendor/rails is not present
 RAILS_GEM_VERSION = '2.2.2' unless defined? RAILS_GEM_VERSION
-
+#RAILS_GEM_VERSION = '2.3.8' unless defined? RAILS_GEM_VERSION
 # supramap properties
-WSDL_URL = "http://127.0.0.1:8090/supramapws/supramapservice?wsdl"
+#WSDL_URL = "http://127.0.0.1:8090/supramapws/supramapservice?wsdl"
+puts "Rails Root: #{RAILS_ROOT}"
 FILE_SERVER_ROOT = "#{RAILS_ROOT}/public/files"
 
 Rails::Initializer.run do |config|

@@ -27,7 +27,7 @@
     <% end %>
     <% for sfile in @sfiles %>
       <tr>
-        <td><a href="/sm/files/<%= h(sfile.project.user.login) %>/<%= h(sfile.project_id) %>/<%= h(sfile.name) %>" title="Download File"><%= sfile.name %></a></td>
+        <td><a href="/files/<%= h(sfile.project.user.login) %>/<%= h(sfile.project_id) %>/<%= h(sfile.name) %>" title="Download File"><%= sfile.name %></a></td>
         <td><font size="2"><%= h(sfile.created_at.to_date) %></font></td>
         <td><%= get_file_type(sfile) %></td>
         <td><%= button_to "Delete", {:controller => "sfile", :action => "delete", :id => sfile.id}, :confirm => "Are you sure you want to delete file #{h(sfile.name)}?" %></td>
@@ -57,10 +57,10 @@
         <td><%= h(job.name) %></td>
         <td class="started_at"><%= job.created_at.to_time.to_s(:db) %></td>
         <td><%= h(job.job_type)%> </td>
-        <td class="status"><%= job.status %><br><font size="2"><%= show_error_log(job) %></font></td>
+        <td class="status"><%= job.status %><br><font size="2"><%#= show_error_log(job) %></font></td>
 
         <% if job.status == "Running" %>
-          <td><%= button_to "Stop", {:controller => "job", :action => "stop", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
+          <td><%#= button_to "Stop", {:controller => "job", :action => "stop", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
         <% else %>
         <td><%= button_to "Delete", {:controller => "job", :action => "delete", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)}?" %></td>
         <% end %>
@@ -91,9 +91,9 @@
         if job.status == "Completed" %>
         <tr>
           <td><%= h(job.name) %></td>
-          <td><%= link_to "KML",  "/sm/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.kml"%></td>
-          <td><%= link_to "Tree",  "/sm/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.tre"%></td>
-          <td><%= link_to "Stats",  "/sm/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.stats"%></td>
+          <td><%= link_to "KML",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.kml"%></td>
+          <td><%= link_to "Tree",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.tre"%></td>
+          <td><%= link_to "Stats",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.stats"%></td>
         </tr>
       <% end
       end %>

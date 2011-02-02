@@ -58,6 +58,8 @@ class ProjectController < ApplicationController
     @page_title = "Show project #{@project.name}"
     @sfiles = Sfile.find_all_by_project_id(@project.id)
     @jobs = Job.find_all_by_project_id(@project.id)
+
+    @jobs.select { |j| j.status == "Running"  }.each{ |j|j.is_done }
   end
   
 end
