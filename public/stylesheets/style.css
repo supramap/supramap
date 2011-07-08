@@ -90,7 +90,7 @@ h3	{
 	color:#999;
 	border-bottom:1px dotted #222;
 	}
-p,ol	{
+p,ol,#content_item	{
 	margin:1em auto;
 	line-height:1.6em;
 	color:#ddd;
