@@ -1,0 +1,14 @@
+read("H7.fix.tree")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("h7julytree_results.kml", kml:(supramap, "location.host.csv"))
+
+report(asciitrees)
+report("h7julytree_results.tre",trees)
+report("h7julytree_results.stats",treestats)
+exit()

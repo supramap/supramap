@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+					
+<Document>
+<LookAt >
+<longitude>121.3682</longitude>
+<latitude>25.0175</latitude>
+<altitude>200</altitude>
+<range>45000</range>
+<heading>45</heading>
+<tilt>30</tilt>
+</LookAt> 
+</Document>
+
+
+</kml>

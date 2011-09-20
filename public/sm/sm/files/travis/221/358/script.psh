@@ -1,0 +1,8 @@
+read(prealigned:("/home/supramap/supramap/public/files/travis/221/data.fas", tcm:(1,1)))
+read("/home/supramap/supramap/public/files/travis/221/tree.tre")
+set(log: "/home/supramap/supramap/public/files/travis/221/358/poy.log")
+
+transform (static_approx)
+report("/home/supramap/supramap/public/files/travis/221/358/clouse_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/travis/221/locations.csv"))
+
+exit()

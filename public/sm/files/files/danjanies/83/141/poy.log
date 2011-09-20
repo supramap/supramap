@@ -1,0 +1,1853 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 136 -- Wagner tree with cost 91.
+Status : Wagner : 3 of 136 -- Wagner tree with cost 95.
+Status : Wagner : 4 of 136 -- Wagner tree with cost 212.
+Status : Wagner : 5 of 136 -- Wagner tree with cost 268.
+Status : Wagner : 6 of 136 -- Wagner tree with cost 313.
+Status : Wagner : 7 of 136 -- Wagner tree with cost 334.
+Status : Wagner : 8 of 136 -- Wagner tree with cost 414.
+Status : Wagner : 9 of 136 -- Wagner tree with cost 422.
+Status : Wagner : 10 of 136 -- Wagner tree with cost 494.
+Status : Wagner : 11 of 136 -- Wagner tree with cost 510.
+Status : Wagner : 12 of 136 -- Wagner tree with cost 607.
+Status : Wagner : 13 of 136 -- Wagner tree with cost 648.
+Status : Wagner : 14 of 136 -- Wagner tree with cost 687.
+Status : Wagner : 15 of 136 -- Wagner tree with cost 693.
+Status : Wagner : 16 of 136 -- Wagner tree with cost 693.
+Status : Wagner : 17 of 136 -- Wagner tree with cost 767.
+Status : Wagner : 18 of 136 -- Wagner tree with cost 786.
+Status : Wagner : 19 of 136 -- Wagner tree with cost 852.
+Status : Wagner : 20 of 136 -- Wagner tree with cost 923.
+Status : Wagner : 21 of 136 -- Wagner tree with cost 926.
+Status : Wagner : 22 of 136 -- Wagner tree with cost 955.
+Status : Wagner : 23 of 136 -- Wagner tree with cost 970.
+Status : Wagner : 24 of 136 -- Wagner tree with cost 971.
+Status : Wagner : 25 of 136 -- Wagner tree with cost 1019.
+Status : Wagner : 26 of 136 -- Wagner tree with cost 1024.
+Status : Wagner : 27 of 136 -- Wagner tree with cost 1029.
+Status : Wagner : 28 of 136 -- Wagner tree with cost 1030.
+Status : Wagner : 29 of 136 -- Wagner tree with cost 1162.
+Status : Wagner : 30 of 136 -- Wagner tree with cost 1181.
+Status : Wagner : 31 of 136 -- Wagner tree with cost 1181.
+Status : Wagner : 32 of 136 -- Wagner tree with cost 1239.
+Status : Wagner : 33 of 136 -- Wagner tree with cost 1251.
+Status : Wagner : 34 of 136 -- Wagner tree with cost 1259.
+Status : Wagner : 35 of 136 -- Wagner tree with cost 1266.
+Status : Wagner : 36 of 136 -- Wagner tree with cost 1299.
+Status : Wagner : 37 of 136 -- Wagner tree with cost 1301.
+Status : Wagner : 38 of 136 -- Wagner tree with cost 1305.
+Status : Wagner : 39 of 136 -- Wagner tree with cost 1308.
+Status : Wagner : 40 of 136 -- Wagner tree with cost 1322.
+Status : Wagner : 41 of 136 -- Wagner tree with cost 1322.
+Status : Wagner : 42 of 136 -- Wagner tree with cost 1360.
+Status : Wagner : 43 of 136 -- Wagner tree with cost 1395.
+Status : Wagner : 44 of 136 -- Wagner tree with cost 1409.
+Status : Wagner : 45 of 136 -- Wagner tree with cost 1474.
+Status : Wagner : 46 of 136 -- Wagner tree with cost 1479.
+Status : Wagner : 47 of 136 -- Wagner tree with cost 1509.
+Status : Wagner : 48 of 136 -- Wagner tree with cost 1535.
+Status : Wagner : 49 of 136 -- Wagner tree with cost 1575.
+Status : Wagner : 50 of 136 -- Wagner tree with cost 1619.
+Status : Wagner : 51 of 136 -- Wagner tree with cost 1658.
+Status : Wagner : 52 of 136 -- Wagner tree with cost 1665.
+Status : Wagner : 53 of 136 -- Wagner tree with cost 1670.
+Status : Wagner : 54 of 136 -- Wagner tree with cost 1717.
+Status : Wagner : 55 of 136 -- Wagner tree with cost 1720.
+Status : Wagner : 56 of 136 -- Wagner tree with cost 1720.
+Status : Wagner : 57 of 136 -- Wagner tree with cost 1741.
+Status : Wagner : 58 of 136 -- Wagner tree with cost 1744.
+Status : Wagner : 59 of 136 -- Wagner tree with cost 1784.
+Status : Wagner : 60 of 136 -- Wagner tree with cost 1786.
+Status : Wagner : 61 of 136 -- Wagner tree with cost 1796.
+Status : Wagner : 62 of 136 -- Wagner tree with cost 1823.
+Status : Wagner : 63 of 136 -- Wagner tree with cost 1823.
+Status : Wagner : 64 of 136 -- Wagner tree with cost 1823.
+Status : Wagner : 65 of 136 -- Wagner tree with cost 1824.
+Status : Wagner : 66 of 136 -- Wagner tree with cost 1839.
+Status : Wagner : 67 of 136 -- Wagner tree with cost 1851.
+Status : Wagner : 68 of 136 -- Wagner tree with cost 1851.
+Status : Wagner : 69 of 136 -- Wagner tree with cost 1851.
+Status : Wagner : 70 of 136 -- Wagner tree with cost 1892.
+Status : Wagner : 71 of 136 -- Wagner tree with cost 1932.
+Status : Wagner : 72 of 136 -- Wagner tree with cost 1954.
+Status : Wagner : 73 of 136 -- Wagner tree with cost 1962.
+Status : Wagner : 74 of 136 -- Wagner tree with cost 1972.
+Status : Wagner : 75 of 136 -- Wagner tree with cost 1973.
+Status : Wagner : 76 of 136 -- Wagner tree with cost 1990.
+Status : Wagner : 77 of 136 -- Wagner tree with cost 2006.
+Status : Wagner : 78 of 136 -- Wagner tree with cost 2030.
+Status : Wagner : 79 of 136 -- Wagner tree with cost 2038.
+Status : Wagner : 80 of 136 -- Wagner tree with cost 2038.
+Status : Wagner : 81 of 136 -- Wagner tree with cost 2057.
+Status : Wagner : 82 of 136 -- Wagner tree with cost 2057.
+Status : Wagner : 83 of 136 -- Wagner tree with cost 2059.
+Status : Wagner : 84 of 136 -- Wagner tree with cost 2063.
+Status : Wagner : 85 of 136 -- Wagner tree with cost 2082.
+Status : Wagner : 86 of 136 -- Wagner tree with cost 2086.
+Status : Wagner : 87 of 136 -- Wagner tree with cost 2104.
+Status : Wagner : 88 of 136 -- Wagner tree with cost 2123.
+Status : Wagner : 89 of 136 -- Wagner tree with cost 2125.
+Status : Wagner : 90 of 136 -- Wagner tree with cost 2127.
+Status : Wagner : 91 of 136 -- Wagner tree with cost 2130.
+Status : Wagner : 92 of 136 -- Wagner tree with cost 2134.
+Status : Wagner : 93 of 136 -- Wagner tree with cost 2149.
+Status : Wagner : 94 of 136 -- Wagner tree with cost 2153.
+Status : Wagner : 95 of 136 -- Wagner tree with cost 2276.
+Status : Wagner : 96 of 136 -- Wagner tree with cost 2294.
+Status : Wagner : 97 of 136 -- Wagner tree with cost 2318.
+Status : Wagner : 98 of 136 -- Wagner tree with cost 2319.
+Status : Wagner : 99 of 136 -- Wagner tree with cost 2319.
+Status : Wagner : 100 of 136 -- Wagner tree with cost 2336.
+Status : Wagner : 101 of 136 -- Wagner tree with cost 2337.
+Status : Wagner : 102 of 136 -- Wagner tree with cost 2371.
+Status : Wagner : 103 of 136 -- Wagner tree with cost 2371.
+Status : Wagner : 104 of 136 -- Wagner tree with cost 2388.
+Status : Wagner : 105 of 136 -- Wagner tree with cost 2388.
+Status : Wagner : 106 of 136 -- Wagner tree with cost 2409.
+Status : Wagner : 107 of 136 -- Wagner tree with cost 2427.
+Status : Wagner : 108 of 136 -- Wagner tree with cost 2461.
+Status : Wagner : 109 of 136 -- Wagner tree with cost 2475.
+Status : Wagner : 110 of 136 -- Wagner tree with cost 2482.
+Status : Wagner : 111 of 136 -- Wagner tree with cost 2549.
+Status : Wagner : 112 of 136 -- Wagner tree with cost 2626.
+Status : Wagner : 113 of 136 -- Wagner tree with cost 2640.
+Status : Wagner : 114 of 136 -- Wagner tree with cost 2660.
+Status : Wagner : 115 of 136 -- Wagner tree with cost 2660.
+Status : Wagner : 116 of 136 -- Wagner tree with cost 2689.
+Status : Wagner : 117 of 136 -- Wagner tree with cost 2705.
+Status : Wagner : 118 of 136 -- Wagner tree with cost 2716.
+Status : Wagner : 119 of 136 -- Wagner tree with cost 2719.
+Status : Wagner : 120 of 136 -- Wagner tree with cost 2723.
+Status : Wagner : 121 of 136 -- Wagner tree with cost 2732.
+Status : Wagner : 122 of 136 -- Wagner tree with cost 2743.
+Status : Wagner : 123 of 136 -- Wagner tree with cost 2750.
+Status : Wagner : 124 of 136 -- Wagner tree with cost 2777.
+Status : Wagner : 125 of 136 -- Wagner tree with cost 2777.
+Status : Wagner : 126 of 136 -- Wagner tree with cost 2778.
+Status : Wagner : 127 of 136 -- Wagner tree with cost 2778.
+Status : Wagner : 128 of 136 -- Wagner tree with cost 2778.
+Status : Wagner : 129 of 136 -- Wagner tree with cost 2815.
+Status : Wagner : 130 of 136 -- Wagner tree with cost 2819.
+Status : Wagner : 131 of 136 -- Wagner tree with cost 2829.
+Status : Wagner : 132 of 136 -- Wagner tree with cost 2833.
+Status : Wagner : 133 of 136 -- Wagner tree with cost 2833.
+Status : Wagner : 134 of 136 -- Wagner tree with cost 2839.
+Status : Wagner : 135 of 136 -- Wagner tree with cost 2839.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 2840 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   4 seconds
+Status : TBR : 2837 Searching
+Information : 
+                Timer:
+                   5 seconds
+Status : TBR : 2836 Searching
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Status : TBR : 2834 Searching
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   23 seconds
+Status : TBR : 2832 Searching
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Status : TBR : 2817 Searching
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   29 seconds
+Information : 
+                Timer:
+                   34 seconds
+Status : TBR : 2813 Searching
+Information : 
+                Timer:
+                   36 seconds
+Information : 
+                Timer:
+                   37 seconds
+Information : 
+                Timer:
+                   38 seconds
+Information : 
+                Timer:
+                   52 seconds
+Information : 
+                Timer:
+                   54 seconds
+Information : 
+                Timer:
+                   55 seconds
+Information : 
+                Timer:
+                   56 seconds
+Information : 
+                Timer:
+                   62 seconds
+Status : TBR : 2809 Searching
+Information : 
+                Timer:
+                   64 seconds
+Status : TBR : 2808 Searching
+Information : 
+                Timer:
+                   65 seconds
+Status : TBR : 2806 Searching
+Information : 
+                Timer:
+                   66 seconds
+Information : 
+                Timer:
+                   67 seconds
+Information : 
+                Timer:
+                   69 seconds
+Information : 
+                Timer:
+                   75 seconds
+Information : 
+                Timer:
+                   76 seconds
+Information : 
+                Timer:
+                   77 seconds
+Information : 
+                Timer:
+                   78 seconds
+Status : TBR Finished
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2806.; Time left: -2 s; Hits: 1
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Implied Alignments : 1 of 271 -- vertices calculated
+Status : Implied Alignments : 2 of 271 -- vertices calculated
+Status : Implied Alignments : 3 of 271 -- vertices calculated
+Status : Implied Alignments : 4 of 271 -- vertices calculated
+Status : Implied Alignments : 5 of 271 -- vertices calculated
+Status : Implied Alignments : 6 of 271 -- vertices calculated
+Status : Implied Alignments : 7 of 271 -- vertices calculated
+Status : Implied Alignments : 8 of 271 -- vertices calculated
+Status : Implied Alignments : 9 of 271 -- vertices calculated
+Status : Implied Alignments : 10 of 271 -- vertices calculated
+Status : Implied Alignments : 11 of 271 -- vertices calculated
+Status : Implied Alignments : 12 of 271 -- vertices calculated
+Status : Implied Alignments : 13 of 271 -- vertices calculated
+Status : Implied Alignments : 14 of 271 -- vertices calculated
+Status : Implied Alignments : 15 of 271 -- vertices calculated
+Status : Implied Alignments : 16 of 271 -- vertices calculated
+Status : Implied Alignments : 17 of 271 -- vertices calculated
+Status : Implied Alignments : 18 of 271 -- vertices calculated
+Status : Implied Alignments : 19 of 271 -- vertices calculated
+Status : Implied Alignments : 20 of 271 -- vertices calculated
+Status : Implied Alignments : 21 of 271 -- vertices calculated
+Status : Implied Alignments : 22 of 271 -- vertices calculated
+Status : Implied Alignments : 23 of 271 -- vertices calculated
+Status : Implied Alignments : 24 of 271 -- vertices calculated
+Status : Implied Alignments : 25 of 271 -- vertices calculated
+Status : Implied Alignments : 26 of 271 -- vertices calculated
+Status : Implied Alignments : 27 of 271 -- vertices calculated
+Status : Implied Alignments : 28 of 271 -- vertices calculated
+Status : Implied Alignments : 29 of 271 -- vertices calculated
+Status : Implied Alignments : 30 of 271 -- vertices calculated
+Status : Implied Alignments : 31 of 271 -- vertices calculated
+Status : Implied Alignments : 32 of 271 -- vertices calculated
+Status : Implied Alignments : 33 of 271 -- vertices calculated
+Status : Implied Alignments : 34 of 271 -- vertices calculated
+Status : Implied Alignments : 35 of 271 -- vertices calculated
+Status : Implied Alignments : 36 of 271 -- vertices calculated
+Status : Implied Alignments : 37 of 271 -- vertices calculated
+Status : Implied Alignments : 38 of 271 -- vertices calculated
+Status : Implied Alignments : 39 of 271 -- vertices calculated
+Status : Implied Alignments : 40 of 271 -- vertices calculated
+Status : Implied Alignments : 41 of 271 -- vertices calculated
+Status : Implied Alignments : 42 of 271 -- vertices calculated
+Status : Implied Alignments : 43 of 271 -- vertices calculated
+Status : Implied Alignments : 44 of 271 -- vertices calculated
+Status : Implied Alignments : 45 of 271 -- vertices calculated
+Status : Implied Alignments : 46 of 271 -- vertices calculated
+Status : Implied Alignments : 47 of 271 -- vertices calculated
+Status : Implied Alignments : 48 of 271 -- vertices calculated
+Status : Implied Alignments : 49 of 271 -- vertices calculated
+Status : Implied Alignments : 50 of 271 -- vertices calculated
+Status : Implied Alignments : 51 of 271 -- vertices calculated
+Status : Implied Alignments : 52 of 271 -- vertices calculated
+Status : Implied Alignments : 53 of 271 -- vertices calculated
+Status : Implied Alignments : 54 of 271 -- vertices calculated
+Status : Implied Alignments : 55 of 271 -- vertices calculated
+Status : Implied Alignments : 56 of 271 -- vertices calculated
+Status : Implied Alignments : 57 of 271 -- vertices calculated
+Status : Implied Alignments : 58 of 271 -- vertices calculated
+Status : Implied Alignments : 59 of 271 -- vertices calculated
+Status : Implied Alignments : 60 of 271 -- vertices calculated
+Status : Implied Alignments : 61 of 271 -- vertices calculated
+Status : Implied Alignments : 62 of 271 -- vertices calculated
+Status : Implied Alignments : 63 of 271 -- vertices calculated
+Status : Implied Alignments : 64 of 271 -- vertices calculated
+Status : Implied Alignments : 65 of 271 -- vertices calculated
+Status : Implied Alignments : 66 of 271 -- vertices calculated
+Status : Implied Alignments : 67 of 271 -- vertices calculated
+Status : Implied Alignments : 68 of 271 -- vertices calculated
+Status : Implied Alignments : 69 of 271 -- vertices calculated
+Status : Implied Alignments : 70 of 271 -- vertices calculated
+Status : Implied Alignments : 71 of 271 -- vertices calculated
+Status : Implied Alignments : 72 of 271 -- vertices calculated
+Status : Implied Alignments : 73 of 271 -- vertices calculated
+Status : Implied Alignments : 74 of 271 -- vertices calculated
+Status : Implied Alignments : 75 of 271 -- vertices calculated
+Status : Implied Alignments : 76 of 271 -- vertices calculated
+Status : Implied Alignments : 77 of 271 -- vertices calculated
+Status : Implied Alignments : 78 of 271 -- vertices calculated
+Status : Implied Alignments : 79 of 271 -- vertices calculated
+Status : Implied Alignments : 80 of 271 -- vertices calculated
+Status : Implied Alignments : 81 of 271 -- vertices calculated
+Status : Implied Alignments : 82 of 271 -- vertices calculated
+Status : Implied Alignments : 83 of 271 -- vertices calculated
+Status : Implied Alignments : 84 of 271 -- vertices calculated
+Status : Implied Alignments : 85 of 271 -- vertices calculated
+Status : Implied Alignments : 86 of 271 -- vertices calculated
+Status : Implied Alignments : 87 of 271 -- vertices calculated
+Status : Implied Alignments : 88 of 271 -- vertices calculated
+Status : Implied Alignments : 89 of 271 -- vertices calculated
+Status : Implied Alignments : 90 of 271 -- vertices calculated
+Status : Implied Alignments : 91 of 271 -- vertices calculated
+Status : Implied Alignments : 92 of 271 -- vertices calculated
+Status : Implied Alignments : 93 of 271 -- vertices calculated
+Status : Implied Alignments : 94 of 271 -- vertices calculated
+Status : Implied Alignments : 95 of 271 -- vertices calculated
+Status : Implied Alignments : 96 of 271 -- vertices calculated
+Status : Implied Alignments : 97 of 271 -- vertices calculated
+Status : Implied Alignments : 98 of 271 -- vertices calculated
+Status : Implied Alignments : 99 of 271 -- vertices calculated
+Status : Implied Alignments : 100 of 271 -- vertices calculated
+Status : Implied Alignments : 101 of 271 -- vertices calculated
+Status : Implied Alignments : 102 of 271 -- vertices calculated
+Status : Implied Alignments : 103 of 271 -- vertices calculated
+Status : Implied Alignments : 104 of 271 -- vertices calculated
+Status : Implied Alignments : 105 of 271 -- vertices calculated
+Status : Implied Alignments : 106 of 271 -- vertices calculated
+Status : Implied Alignments : 107 of 271 -- vertices calculated
+Status : Implied Alignments : 108 of 271 -- vertices calculated
+Status : Implied Alignments : 109 of 271 -- vertices calculated
+Status : Implied Alignments : 110 of 271 -- vertices calculated
+Status : Implied Alignments : 111 of 271 -- vertices calculated
+Status : Implied Alignments : 112 of 271 -- vertices calculated
+Status : Implied Alignments : 113 of 271 -- vertices calculated
+Status : Implied Alignments : 114 of 271 -- vertices calculated
+Status : Implied Alignments : 115 of 271 -- vertices calculated
+Status : Implied Alignments : 116 of 271 -- vertices calculated
+Status : Implied Alignments : 117 of 271 -- vertices calculated
+Status : Implied Alignments : 118 of 271 -- vertices calculated
+Status : Implied Alignments : 119 of 271 -- vertices calculated
+Status : Implied Alignments : 120 of 271 -- vertices calculated
+Status : Implied Alignments : 121 of 271 -- vertices calculated
+Status : Implied Alignments : 122 of 271 -- vertices calculated
+Status : Implied Alignments : 123 of 271 -- vertices calculated
+Status : Implied Alignments : 124 of 271 -- vertices calculated
+Status : Implied Alignments : 125 of 271 -- vertices calculated
+Status : Implied Alignments : 126 of 271 -- vertices calculated
+Status : Implied Alignments : 127 of 271 -- vertices calculated
+Status : Implied Alignments : 128 of 271 -- vertices calculated
+Status : Implied Alignments : 129 of 271 -- vertices calculated
+Status : Implied Alignments : 130 of 271 -- vertices calculated
+Status : Implied Alignments : 131 of 271 -- vertices calculated
+Status : Implied Alignments : 132 of 271 -- vertices calculated
+Status : Implied Alignments : 133 of 271 -- vertices calculated
+Status : Implied Alignments : 134 of 271 -- vertices calculated
+Status : Implied Alignments : 135 of 271 -- vertices calculated
+Status : Implied Alignments : 136 of 271 -- vertices calculated
+Status : Implied Alignments : 137 of 271 -- vertices calculated
+Status : Implied Alignments : 138 of 271 -- vertices calculated
+Status : Implied Alignments : 139 of 271 -- vertices calculated
+Status : Implied Alignments : 140 of 271 -- vertices calculated
+Status : Implied Alignments : 141 of 271 -- vertices calculated
+Status : Implied Alignments : 142 of 271 -- vertices calculated
+Status : Implied Alignments : 143 of 271 -- vertices calculated
+Status : Implied Alignments : 144 of 271 -- vertices calculated
+Status : Implied Alignments : 145 of 271 -- vertices calculated
+Status : Implied Alignments : 146 of 271 -- vertices calculated
+Status : Implied Alignments : 147 of 271 -- vertices calculated
+Status : Implied Alignments : 148 of 271 -- vertices calculated
+Status : Implied Alignments : 149 of 271 -- vertices calculated
+Status : Implied Alignments : 150 of 271 -- vertices calculated
+Status : Implied Alignments : 151 of 271 -- vertices calculated
+Status : Implied Alignments : 152 of 271 -- vertices calculated
+Status : Implied Alignments : 153 of 271 -- vertices calculated
+Status : Implied Alignments : 154 of 271 -- vertices calculated
+Status : Implied Alignments : 155 of 271 -- vertices calculated
+Status : Implied Alignments : 156 of 271 -- vertices calculated
+Status : Implied Alignments : 157 of 271 -- vertices calculated
+Status : Implied Alignments : 158 of 271 -- vertices calculated
+Status : Implied Alignments : 159 of 271 -- vertices calculated
+Status : Implied Alignments : 160 of 271 -- vertices calculated
+Status : Implied Alignments : 161 of 271 -- vertices calculated
+Status : Implied Alignments : 162 of 271 -- vertices calculated
+Status : Implied Alignments : 163 of 271 -- vertices calculated
+Status : Implied Alignments : 164 of 271 -- vertices calculated
+Status : Implied Alignments : 165 of 271 -- vertices calculated
+Status : Implied Alignments : 166 of 271 -- vertices calculated
+Status : Implied Alignments : 167 of 271 -- vertices calculated
+Status : Implied Alignments : 168 of 271 -- vertices calculated
+Status : Implied Alignments : 169 of 271 -- vertices calculated
+Status : Implied Alignments : 170 of 271 -- vertices calculated
+Status : Implied Alignments : 171 of 271 -- vertices calculated
+Status : Implied Alignments : 172 of 271 -- vertices calculated
+Status : Implied Alignments : 173 of 271 -- vertices calculated
+Status : Implied Alignments : 174 of 271 -- vertices calculated
+Status : Implied Alignments : 175 of 271 -- vertices calculated
+Status : Implied Alignments : 176 of 271 -- vertices calculated
+Status : Implied Alignments : 177 of 271 -- vertices calculated
+Status : Implied Alignments : 178 of 271 -- vertices calculated
+Status : Implied Alignments : 179 of 271 -- vertices calculated
+Status : Implied Alignments : 180 of 271 -- vertices calculated
+Status : Implied Alignments : 181 of 271 -- vertices calculated
+Status : Implied Alignments : 182 of 271 -- vertices calculated
+Status : Implied Alignments : 183 of 271 -- vertices calculated
+Status : Implied Alignments : 184 of 271 -- vertices calculated
+Status : Implied Alignments : 185 of 271 -- vertices calculated
+Status : Implied Alignments : 186 of 271 -- vertices calculated
+Status : Implied Alignments : 187 of 271 -- vertices calculated
+Status : Implied Alignments : 188 of 271 -- vertices calculated
+Status : Implied Alignments : 189 of 271 -- vertices calculated
+Status : Implied Alignments : 190 of 271 -- vertices calculated
+Status : Implied Alignments : 191 of 271 -- vertices calculated
+Status : Implied Alignments : 192 of 271 -- vertices calculated
+Status : Implied Alignments : 193 of 271 -- vertices calculated
+Status : Implied Alignments : 194 of 271 -- vertices calculated
+Status : Implied Alignments : 195 of 271 -- vertices calculated
+Status : Implied Alignments : 196 of 271 -- vertices calculated
+Status : Implied Alignments : 197 of 271 -- vertices calculated
+Status : Implied Alignments : 198 of 271 -- vertices calculated
+Status : Implied Alignments : 199 of 271 -- vertices calculated
+Status : Implied Alignments : 200 of 271 -- vertices calculated
+Status : Implied Alignments : 201 of 271 -- vertices calculated
+Status : Implied Alignments : 202 of 271 -- vertices calculated
+Status : Implied Alignments : 203 of 271 -- vertices calculated
+Status : Implied Alignments : 204 of 271 -- vertices calculated
+Status : Implied Alignments : 205 of 271 -- vertices calculated
+Status : Implied Alignments : 206 of 271 -- vertices calculated
+Status : Implied Alignments : 207 of 271 -- vertices calculated
+Status : Implied Alignments : 208 of 271 -- vertices calculated
+Status : Implied Alignments : 209 of 271 -- vertices calculated
+Status : Implied Alignments : 210 of 271 -- vertices calculated
+Status : Implied Alignments : 211 of 271 -- vertices calculated
+Status : Implied Alignments : 212 of 271 -- vertices calculated
+Status : Implied Alignments : 213 of 271 -- vertices calculated
+Status : Implied Alignments : 214 of 271 -- vertices calculated
+Status : Implied Alignments : 215 of 271 -- vertices calculated
+Status : Implied Alignments : 216 of 271 -- vertices calculated
+Status : Implied Alignments : 217 of 271 -- vertices calculated
+Status : Implied Alignments : 218 of 271 -- vertices calculated
+Status : Implied Alignments : 219 of 271 -- vertices calculated
+Status : Implied Alignments : 220 of 271 -- vertices calculated
+Status : Implied Alignments : 221 of 271 -- vertices calculated
+Status : Implied Alignments : 222 of 271 -- vertices calculated
+Status : Implied Alignments : 223 of 271 -- vertices calculated
+Status : Implied Alignments : 224 of 271 -- vertices calculated
+Status : Implied Alignments : 225 of 271 -- vertices calculated
+Status : Implied Alignments : 226 of 271 -- vertices calculated
+Status : Implied Alignments : 227 of 271 -- vertices calculated
+Status : Implied Alignments : 228 of 271 -- vertices calculated
+Status : Implied Alignments : 229 of 271 -- vertices calculated
+Status : Implied Alignments : 230 of 271 -- vertices calculated
+Status : Implied Alignments : 231 of 271 -- vertices calculated
+Status : Implied Alignments : 232 of 271 -- vertices calculated
+Status : Implied Alignments : 233 of 271 -- vertices calculated
+Status : Implied Alignments : 234 of 271 -- vertices calculated
+Status : Implied Alignments : 235 of 271 -- vertices calculated
+Status : Implied Alignments : 236 of 271 -- vertices calculated
+Status : Implied Alignments : 237 of 271 -- vertices calculated
+Status : Implied Alignments : 238 of 271 -- vertices calculated
+Status : Implied Alignments : 239 of 271 -- vertices calculated
+Status : Implied Alignments : 240 of 271 -- vertices calculated
+Status : Implied Alignments : 241 of 271 -- vertices calculated
+Status : Implied Alignments : 242 of 271 -- vertices calculated
+Status : Implied Alignments : 243 of 271 -- vertices calculated
+Status : Implied Alignments : 244 of 271 -- vertices calculated
+Status : Implied Alignments : 245 of 271 -- vertices calculated
+Status : Implied Alignments : 246 of 271 -- vertices calculated
+Status : Implied Alignments : 247 of 271 -- vertices calculated
+Status : Implied Alignments : 248 of 271 -- vertices calculated
+Status : Implied Alignments : 249 of 271 -- vertices calculated
+Status : Implied Alignments : 250 of 271 -- vertices calculated
+Status : Implied Alignments : 251 of 271 -- vertices calculated
+Status : Implied Alignments : 252 of 271 -- vertices calculated
+Status : Implied Alignments : 253 of 271 -- vertices calculated
+Status : Implied Alignments : 254 of 271 -- vertices calculated
+Status : Implied Alignments : 255 of 271 -- vertices calculated
+Status : Implied Alignments : 256 of 271 -- vertices calculated
+Status : Implied Alignments : 257 of 271 -- vertices calculated
+Status : Implied Alignments : 258 of 271 -- vertices calculated
+Status : Implied Alignments : 259 of 271 -- vertices calculated
+Status : Implied Alignments : 260 of 271 -- vertices calculated
+Status : Implied Alignments : 261 of 271 -- vertices calculated
+Status : Implied Alignments : 262 of 271 -- vertices calculated
+Status : Implied Alignments : 263 of 271 -- vertices calculated
+Status : Implied Alignments : 264 of 271 -- vertices calculated
+Status : Implied Alignments : 265 of 271 -- vertices calculated
+Status : Implied Alignments : 266 of 271 -- vertices calculated
+Status : Implied Alignments : 267 of 271 -- vertices calculated
+Status : Implied Alignments : 268 of 271 -- vertices calculated
+Status : Implied Alignments : 269 of 271 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status :
+Loading Characters : 0 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 1 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 2 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 3 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 4 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 5 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 6 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 7 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 8 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 9 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 32 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 33 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 34 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 35 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 36 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 37 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 38 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 39 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 40 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 41 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 42 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 43 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 44 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 45 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 46 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 47 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 48 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 49 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 50 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 51 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 52 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 53 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 54 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 55 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 56 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 57 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 58 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 59 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 60 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 61 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 62 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 63 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 64 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 65 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 66 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 67 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 68 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 69 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 70 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 71 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 72 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 73 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 74 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 75 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 76 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 77 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 78 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 79 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 80 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 81 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 82 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 83 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 84 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 85 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 86 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 87 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 88 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 89 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 90 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 91 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 92 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 93 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 94 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 95 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 96 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 97 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 98 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 99 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 100 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 101 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 102 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 103 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 104 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 105 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 106 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 107 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 108 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 109 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 110 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 111 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 112 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 113 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 114 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 115 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 116 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 117 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 118 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 119 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 120 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 121 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 122 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 123 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 124 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 125 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 126 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 127 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 128 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 129 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 130 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 131 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 132 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 133 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 134 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 135 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 136 of 136 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Perturb Iteration Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Automated Search : 0 Best tree: 2806.; Time left: -15 s; Hits: 2
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 4 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 8 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 9 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 10 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 11 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 12 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 13 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 14 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 15 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 16 of 16 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 9 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 10 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 11 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 12 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 13 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 14 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 15 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 16 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 17 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 18 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 19 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 20 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 21 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 22 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 23 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 24 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 25 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 26 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 27 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 28 of 28 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information :
+The search evaluated 60 independent repetitions with ratchet and fusing for 0 generations. The shortest tree was found 4 times.
+Status : Implied Alignments : 1 of 271 -- vertices calculated
+Status : Implied Alignments : 2 of 271 -- vertices calculated
+Status : Implied Alignments : 3 of 271 -- vertices calculated
+Status : Implied Alignments : 4 of 271 -- vertices calculated
+Status : Implied Alignments : 5 of 271 -- vertices calculated
+Status : Implied Alignments : 6 of 271 -- vertices calculated
+Status : Implied Alignments : 7 of 271 -- vertices calculated
+Status : Implied Alignments : 8 of 271 -- vertices calculated
+Status : Implied Alignments : 9 of 271 -- vertices calculated
+Status : Implied Alignments : 10 of 271 -- vertices calculated
+Status : Implied Alignments : 11 of 271 -- vertices calculated
+Status : Implied Alignments : 12 of 271 -- vertices calculated
+Status : Implied Alignments : 13 of 271 -- vertices calculated
+Status : Implied Alignments : 14 of 271 -- vertices calculated
+Status : Implied Alignments : 15 of 271 -- vertices calculated
+Status : Implied Alignments : 16 of 271 -- vertices calculated
+Status : Implied Alignments : 17 of 271 -- vertices calculated
+Status : Implied Alignments : 18 of 271 -- vertices calculated
+Status : Implied Alignments : 19 of 271 -- vertices calculated
+Status : Implied Alignments : 20 of 271 -- vertices calculated
+Status : Implied Alignments : 21 of 271 -- vertices calculated
+Status : Implied Alignments : 22 of 271 -- vertices calculated
+Status : Implied Alignments : 23 of 271 -- vertices calculated
+Status : Implied Alignments : 24 of 271 -- vertices calculated
+Status : Implied Alignments : 25 of 271 -- vertices calculated
+Status : Implied Alignments : 26 of 271 -- vertices calculated
+Status : Implied Alignments : 27 of 271 -- vertices calculated
+Status : Implied Alignments : 28 of 271 -- vertices calculated
+Status : Implied Alignments : 29 of 271 -- vertices calculated
+Status : Implied Alignments : 30 of 271 -- vertices calculated
+Status : Implied Alignments : 31 of 271 -- vertices calculated
+Status : Implied Alignments : 32 of 271 -- vertices calculated
+Status : Implied Alignments : 33 of 271 -- vertices calculated
+Status : Implied Alignments : 34 of 271 -- vertices calculated
+Status : Implied Alignments : 35 of 271 -- vertices calculated
+Status : Implied Alignments : 36 of 271 -- vertices calculated
+Status : Implied Alignments : 37 of 271 -- vertices calculated
+Status : Implied Alignments : 38 of 271 -- vertices calculated
+Status : Implied Alignments : 39 of 271 -- vertices calculated
+Status : Implied Alignments : 40 of 271 -- vertices calculated
+Status : Implied Alignments : 41 of 271 -- vertices calculated
+Status : Implied Alignments : 42 of 271 -- vertices calculated
+Status : Implied Alignments : 43 of 271 -- vertices calculated
+Status : Implied Alignments : 44 of 271 -- vertices calculated
+Status : Implied Alignments : 45 of 271 -- vertices calculated
+Status : Implied Alignments : 46 of 271 -- vertices calculated
+Status : Implied Alignments : 47 of 271 -- vertices calculated
+Status : Implied Alignments : 48 of 271 -- vertices calculated
+Status : Implied Alignments : 49 of 271 -- vertices calculated
+Status : Implied Alignments : 50 of 271 -- vertices calculated
+Status : Implied Alignments : 51 of 271 -- vertices calculated
+Status : Implied Alignments : 52 of 271 -- vertices calculated
+Status : Implied Alignments : 53 of 271 -- vertices calculated
+Status : Implied Alignments : 54 of 271 -- vertices calculated
+Status : Implied Alignments : 55 of 271 -- vertices calculated
+Status : Implied Alignments : 56 of 271 -- vertices calculated
+Status : Implied Alignments : 57 of 271 -- vertices calculated
+Status : Implied Alignments : 58 of 271 -- vertices calculated
+Status : Implied Alignments : 59 of 271 -- vertices calculated
+Status : Implied Alignments : 60 of 271 -- vertices calculated
+Status : Implied Alignments : 61 of 271 -- vertices calculated
+Status : Implied Alignments : 62 of 271 -- vertices calculated
+Status : Implied Alignments : 63 of 271 -- vertices calculated
+Status : Implied Alignments : 64 of 271 -- vertices calculated
+Status : Implied Alignments : 65 of 271 -- vertices calculated
+Status : Implied Alignments : 66 of 271 -- vertices calculated
+Status : Implied Alignments : 67 of 271 -- vertices calculated
+Status : Implied Alignments : 68 of 271 -- vertices calculated
+Status : Implied Alignments : 69 of 271 -- vertices calculated
+Status : Implied Alignments : 70 of 271 -- vertices calculated
+Status : Implied Alignments : 71 of 271 -- vertices calculated
+Status : Implied Alignments : 72 of 271 -- vertices calculated
+Status : Implied Alignments : 73 of 271 -- vertices calculated
+Status : Implied Alignments : 74 of 271 -- vertices calculated
+Status : Implied Alignments : 75 of 271 -- vertices calculated
+Status : Implied Alignments : 76 of 271 -- vertices calculated
+Status : Implied Alignments : 77 of 271 -- vertices calculated
+Status : Implied Alignments : 78 of 271 -- vertices calculated
+Status : Implied Alignments : 79 of 271 -- vertices calculated
+Status : Implied Alignments : 80 of 271 -- vertices calculated
+Status : Implied Alignments : 81 of 271 -- vertices calculated
+Status : Implied Alignments : 82 of 271 -- vertices calculated
+Status : Implied Alignments : 83 of 271 -- vertices calculated
+Status : Implied Alignments : 84 of 271 -- vertices calculated
+Status : Implied Alignments : 85 of 271 -- vertices calculated
+Status : Implied Alignments : 86 of 271 -- vertices calculated
+Status : Implied Alignments : 87 of 271 -- vertices calculated
+Status : Implied Alignments : 88 of 271 -- vertices calculated
+Status : Implied Alignments : 89 of 271 -- vertices calculated
+Status : Implied Alignments : 90 of 271 -- vertices calculated
+Status : Implied Alignments : 91 of 271 -- vertices calculated
+Status : Implied Alignments : 92 of 271 -- vertices calculated
+Status : Implied Alignments : 93 of 271 -- vertices calculated
+Status : Implied Alignments : 94 of 271 -- vertices calculated
+Status : Implied Alignments : 95 of 271 -- vertices calculated
+Status : Implied Alignments : 96 of 271 -- vertices calculated
+Status : Implied Alignments : 97 of 271 -- vertices calculated
+Status : Implied Alignments : 98 of 271 -- vertices calculated
+Status : Implied Alignments : 99 of 271 -- vertices calculated
+Status : Implied Alignments : 100 of 271 -- vertices calculated
+Status : Implied Alignments : 101 of 271 -- vertices calculated
+Status : Implied Alignments : 102 of 271 -- vertices calculated
+Status : Implied Alignments : 103 of 271 -- vertices calculated
+Status : Implied Alignments : 104 of 271 -- vertices calculated
+Status : Implied Alignments : 105 of 271 -- vertices calculated
+Status : Implied Alignments : 106 of 271 -- vertices calculated
+Status : Implied Alignments : 107 of 271 -- vertices calculated
+Status : Implied Alignments : 108 of 271 -- vertices calculated
+Status : Implied Alignments : 109 of 271 -- vertices calculated
+Status : Implied Alignments : 110 of 271 -- vertices calculated
+Status : Implied Alignments : 111 of 271 -- vertices calculated
+Status : Implied Alignments : 112 of 271 -- vertices calculated
+Status : Implied Alignments : 113 of 271 -- vertices calculated
+Status : Implied Alignments : 114 of 271 -- vertices calculated
+Status : Implied Alignments : 115 of 271 -- vertices calculated
+Status : Implied Alignments : 116 of 271 -- vertices calculated
+Status : Implied Alignments : 117 of 271 -- vertices calculated
+Status : Implied Alignments : 118 of 271 -- vertices calculated
+Status : Implied Alignments : 119 of 271 -- vertices calculated
+Status : Implied Alignments : 120 of 271 -- vertices calculated
+Status : Implied Alignments : 121 of 271 -- vertices calculated
+Status : Implied Alignments : 122 of 271 -- vertices calculated
+Status : Implied Alignments : 123 of 271 -- vertices calculated
+Status : Implied Alignments : 124 of 271 -- vertices calculated
+Status : Implied Alignments : 125 of 271 -- vertices calculated
+Status : Implied Alignments : 126 of 271 -- vertices calculated
+Status : Implied Alignments : 127 of 271 -- vertices calculated
+Status : Implied Alignments : 128 of 271 -- vertices calculated
+Status : Implied Alignments : 129 of 271 -- vertices calculated
+Status : Implied Alignments : 130 of 271 -- vertices calculated
+Status : Implied Alignments : 131 of 271 -- vertices calculated
+Status : Implied Alignments : 132 of 271 -- vertices calculated
+Status : Implied Alignments : 133 of 271 -- vertices calculated
+Status : Implied Alignments : 134 of 271 -- vertices calculated
+Status : Implied Alignments : 135 of 271 -- vertices calculated
+Status : Implied Alignments : 136 of 271 -- vertices calculated
+Status : Implied Alignments : 137 of 271 -- vertices calculated
+Status : Implied Alignments : 138 of 271 -- vertices calculated
+Status : Implied Alignments : 139 of 271 -- vertices calculated
+Status : Implied Alignments : 140 of 271 -- vertices calculated
+Status : Implied Alignments : 141 of 271 -- vertices calculated
+Status : Implied Alignments : 142 of 271 -- vertices calculated
+Status : Implied Alignments : 143 of 271 -- vertices calculated
+Status : Implied Alignments : 144 of 271 -- vertices calculated
+Status : Implied Alignments : 145 of 271 -- vertices calculated
+Status : Implied Alignments : 146 of 271 -- vertices calculated
+Status : Implied Alignments : 147 of 271 -- vertices calculated
+Status : Implied Alignments : 148 of 271 -- vertices calculated
+Status : Implied Alignments : 149 of 271 -- vertices calculated
+Status : Implied Alignments : 150 of 271 -- vertices calculated
+Status : Implied Alignments : 151 of 271 -- vertices calculated
+Status : Implied Alignments : 152 of 271 -- vertices calculated
+Status : Implied Alignments : 153 of 271 -- vertices calculated
+Status : Implied Alignments : 154 of 271 -- vertices calculated
+Status : Implied Alignments : 155 of 271 -- vertices calculated
+Status : Implied Alignments : 156 of 271 -- vertices calculated
+Status : Implied Alignments : 157 of 271 -- vertices calculated
+Status : Implied Alignments : 158 of 271 -- vertices calculated
+Status : Implied Alignments : 159 of 271 -- vertices calculated
+Status : Implied Alignments : 160 of 271 -- vertices calculated
+Status : Implied Alignments : 161 of 271 -- vertices calculated
+Status : Implied Alignments : 162 of 271 -- vertices calculated
+Status : Implied Alignments : 163 of 271 -- vertices calculated
+Status : Implied Alignments : 164 of 271 -- vertices calculated
+Status : Implied Alignments : 165 of 271 -- vertices calculated
+Status : Implied Alignments : 166 of 271 -- vertices calculated
+Status : Implied Alignments : 167 of 271 -- vertices calculated
+Status : Implied Alignments : 168 of 271 -- vertices calculated
+Status : Implied Alignments : 169 of 271 -- vertices calculated
+Status : Implied Alignments : 170 of 271 -- vertices calculated
+Status : Implied Alignments : 171 of 271 -- vertices calculated
+Status : Implied Alignments : 172 of 271 -- vertices calculated
+Status : Implied Alignments : 173 of 271 -- vertices calculated
+Status : Implied Alignments : 174 of 271 -- vertices calculated
+Status : Implied Alignments : 175 of 271 -- vertices calculated
+Status : Implied Alignments : 176 of 271 -- vertices calculated
+Status : Implied Alignments : 177 of 271 -- vertices calculated
+Status : Implied Alignments : 178 of 271 -- vertices calculated
+Status : Implied Alignments : 179 of 271 -- vertices calculated
+Status : Implied Alignments : 180 of 271 -- vertices calculated
+Status : Implied Alignments : 181 of 271 -- vertices calculated
+Status : Implied Alignments : 182 of 271 -- vertices calculated
+Status : Implied Alignments : 183 of 271 -- vertices calculated
+Status : Implied Alignments : 184 of 271 -- vertices calculated
+Status : Implied Alignments : 185 of 271 -- vertices calculated
+Status : Implied Alignments : 186 of 271 -- vertices calculated
+Status : Implied Alignments : 187 of 271 -- vertices calculated
+Status : Implied Alignments : 188 of 271 -- vertices calculated
+Status : Implied Alignments : 189 of 271 -- vertices calculated
+Status : Implied Alignments : 190 of 271 -- vertices calculated
+Status : Implied Alignments : 191 of 271 -- vertices calculated
+Status : Implied Alignments : 192 of 271 -- vertices calculated
+Status : Implied Alignments : 193 of 271 -- vertices calculated
+Status : Implied Alignments : 194 of 271 -- vertices calculated
+Status : Implied Alignments : 195 of 271 -- vertices calculated
+Status : Implied Alignments : 196 of 271 -- vertices calculated
+Status : Implied Alignments : 197 of 271 -- vertices calculated
+Status : Implied Alignments : 198 of 271 -- vertices calculated
+Status : Implied Alignments : 199 of 271 -- vertices calculated
+Status : Implied Alignments : 200 of 271 -- vertices calculated
+Status : Implied Alignments : 201 of 271 -- vertices calculated
+Status : Implied Alignments : 202 of 271 -- vertices calculated
+Status : Implied Alignments : 203 of 271 -- vertices calculated
+Status : Implied Alignments : 204 of 271 -- vertices calculated
+Status : Implied Alignments : 205 of 271 -- vertices calculated
+Status : Implied Alignments : 206 of 271 -- vertices calculated
+Status : Implied Alignments : 207 of 271 -- vertices calculated
+Status : Implied Alignments : 208 of 271 -- vertices calculated
+Status : Implied Alignments : 209 of 271 -- vertices calculated
+Status : Implied Alignments : 210 of 271 -- vertices calculated
+Status : Implied Alignments : 211 of 271 -- vertices calculated
+Status : Implied Alignments : 212 of 271 -- vertices calculated
+Status : Implied Alignments : 213 of 271 -- vertices calculated
+Status : Implied Alignments : 214 of 271 -- vertices calculated
+Status : Implied Alignments : 215 of 271 -- vertices calculated
+Status : Implied Alignments : 216 of 271 -- vertices calculated
+Status : Implied Alignments : 217 of 271 -- vertices calculated
+Status : Implied Alignments : 218 of 271 -- vertices calculated
+Status : Implied Alignments : 219 of 271 -- vertices calculated
+Status : Implied Alignments : 220 of 271 -- vertices calculated
+Status : Implied Alignments : 221 of 271 -- vertices calculated
+Status : Implied Alignments : 222 of 271 -- vertices calculated
+Status : Implied Alignments : 223 of 271 -- vertices calculated
+Status : Implied Alignments : 224 of 271 -- vertices calculated
+Status : Implied Alignments : 225 of 271 -- vertices calculated
+Status : Implied Alignments : 226 of 271 -- vertices calculated
+Status : Implied Alignments : 227 of 271 -- vertices calculated
+Status : Implied Alignments : 228 of 271 -- vertices calculated
+Status : Implied Alignments : 229 of 271 -- vertices calculated
+Status : Implied Alignments : 230 of 271 -- vertices calculated
+Status : Implied Alignments : 231 of 271 -- vertices calculated
+Status : Implied Alignments : 232 of 271 -- vertices calculated
+Status : Implied Alignments : 233 of 271 -- vertices calculated
+Status : Implied Alignments : 234 of 271 -- vertices calculated
+Status : Implied Alignments : 235 of 271 -- vertices calculated
+Status : Implied Alignments : 236 of 271 -- vertices calculated
+Status : Implied Alignments : 237 of 271 -- vertices calculated
+Status : Implied Alignments : 238 of 271 -- vertices calculated
+Status : Implied Alignments : 239 of 271 -- vertices calculated
+Status : Implied Alignments : 240 of 271 -- vertices calculated
+Status : Implied Alignments : 241 of 271 -- vertices calculated
+Status : Implied Alignments : 242 of 271 -- vertices calculated
+Status : Implied Alignments : 243 of 271 -- vertices calculated
+Status : Implied Alignments : 244 of 271 -- vertices calculated
+Status : Implied Alignments : 245 of 271 -- vertices calculated
+Status : Implied Alignments : 246 of 271 -- vertices calculated
+Status : Implied Alignments : 247 of 271 -- vertices calculated
+Status : Implied Alignments : 248 of 271 -- vertices calculated
+Status : Implied Alignments : 249 of 271 -- vertices calculated
+Status : Implied Alignments : 250 of 271 -- vertices calculated
+Status : Implied Alignments : 251 of 271 -- vertices calculated
+Status : Implied Alignments : 252 of 271 -- vertices calculated
+Status : Implied Alignments : 253 of 271 -- vertices calculated
+Status : Implied Alignments : 254 of 271 -- vertices calculated
+Status : Implied Alignments : 255 of 271 -- vertices calculated
+Status : Implied Alignments : 256 of 271 -- vertices calculated
+Status : Implied Alignments : 257 of 271 -- vertices calculated
+Status : Implied Alignments : 258 of 271 -- vertices calculated
+Status : Implied Alignments : 259 of 271 -- vertices calculated
+Status : Implied Alignments : 260 of 271 -- vertices calculated
+Status : Implied Alignments : 261 of 271 -- vertices calculated
+Status : Implied Alignments : 262 of 271 -- vertices calculated
+Status : Implied Alignments : 263 of 271 -- vertices calculated
+Status : Implied Alignments : 264 of 271 -- vertices calculated
+Status : Implied Alignments : 265 of 271 -- vertices calculated
+Status : Implied Alignments : 266 of 271 -- vertices calculated
+Status : Implied Alignments : 267 of 271 -- vertices calculated
+Status : Implied Alignments : 268 of 271 -- vertices calculated
+Status : Implied Alignments : 269 of 271 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status :
+Loading Characters : 0 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 1 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 2 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 3 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 4 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 5 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 6 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 7 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 8 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 9 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 32 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 33 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 34 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 35 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 36 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 37 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 38 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 39 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 40 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 41 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 42 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 43 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 44 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 45 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 46 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 47 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 48 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 49 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 50 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 51 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 52 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 53 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 54 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 55 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 56 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 57 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 58 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 59 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 60 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 61 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 62 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 63 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 64 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 65 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 66 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 67 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 68 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 69 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 70 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 71 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 72 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 73 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 74 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 75 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 76 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 77 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 78 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 79 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 80 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 81 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 82 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 83 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 84 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 85 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 86 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 87 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 88 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 89 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 90 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 91 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 92 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 93 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 94 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 95 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 96 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 97 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 98 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 99 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 100 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 101 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 102 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 103 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 104 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 105 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 106 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 107 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 108 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 109 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 110 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 111 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 112 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 113 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 114 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 115 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 116 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 117 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 118 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 119 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 120 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 121 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 122 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 123 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 124 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 125 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 126 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 127 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 128 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 129 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 130 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 131 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 132 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 133 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 134 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 135 of 136 -- Storing the character specifications
+Status :
+Loading Characters : 136 of 136 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Tree with cost 2794
+  |-----------------------------------------------------------------taxid402527  
+  |                                                                              
+  |   |-------------------------------------------------------------taxid11448   
+  |   |                                                                          
+  |   | |-----------------------------------------------------------taxid222752  
+  |   | |                                                                        
+  |   | |   |-------------------------------------------------------taxid183786  
+  |   | |   |                                                                    
+  |   | | |-| |-----------------------------------------------------taxid183787  
+  | |-| | | |-|                                                                  
+  | | |-| |   |-----------------------------------------------------taxid352348  
+  | |   | |                                                                      
+  | |   |-| |-------------------------------------------------------taxid400733  
+  | |     | |                                                                    
+  | |     |-|-------------------------------------------------------taxid222746  
+  | |       |                                                                    
+  | |       |-------------------------------------------------------taxid551235  
+  | |                                                                            
+  | |     |---------------------------------------------------------taxid426736  
+  | |     |                                                                      
+  | |     | |-------------------------------------------------------taxid400735  
+  | |   |-| |                                                                    
+  | |   | |-| |-----------------------------------------------------taxid424895  
+  | |   |   |-|                                                                  
+  | |   |     |-----------------------------------------------------taxid449402  
+  | |   |                                                                        
+  | |   |   |-------------------------------------------------------taxid173720  
+  | |   | |-|                                                                    
+  | |   | | |-------------------------------------------------------taxid367715  
+  | |   | |                                                                      
+  | |   | |   |-----------------------------------------------------taxid222750  
+  | |   | |   |                                                                  
+  | |   | | |-| |---------------------------------------------------taxid222740  
+  | |   | | | |-|                                                                
+  | |   | | |   |---------------------------------------------------taxid352555  
+  | |   | | |                                                                    
+  | |   | | |     |-------------------------------------------------taxid273378  
+  | |   | | |     |                                                              
+  | |   | | |   |-|-------------------------------------------------taxid273379  
+  | |   | | |   | |                                                              
+  | |   | | |   | |-------------------------------------------------taxid355933  
+  | |   | | |   |                                                                
+  | |   | | |   |   |-----------------------------------------------taxid573044  
+  | |   | | |   |   |                                                            
+  | |   | | |   | |-| |---------------------------------------------taxid573042  
+  | |   | | |   | | |-|                                                          
+  | |   | | |   | |   |---------------------------------------------taxid573043  
+  | |   | | |   | |                                                              
+  | |   | | |   | | |-----------------------------------------------taxid338846  
+  | |   | | |   | | |                                                            
+  | |   | | |   | | | |---------------------------------------------taxid576797  
+  | |   | | | |-| | | |                                                          
+  | |   | | | | | | | | |-------------------------------------------taxid512956  
+  | |   | | | | | | | |-|                                                        
+  | |   | | | | |-| | | |-------------------------------------------taxid576798  
+  | |   | | | |   | | |                                                          
+  | |   | | | |   |-| |   |-----------------------------------------taxid503283  
+  | |   | | | |     |-| |-|                                                      
+  | |   | | | |       | | |-----------------------------------------taxid512991  
+  | |   | | | |       | |                                                        
+  | |   | | | |       |-| |-----------------------------------------taxid576796  
+  | |   | | | |         | |                                                      
+  | |   | | | |         |-|-----------------------------------------taxid503260  
+  | |   | | | |           |                                                      
+  | |   | | | |           |-----------------------------------------taxid576795  
+  | |   | | | |                                                                  
+  | |   | | | |     |-----------------------------------------------taxid273377  
+  | |   | | | |   |-|                                                            
+  | |   | | | |   | |-----------------------------------------------taxid355931  
+  | |   | | | | |-|                                                              
+  | |   | | | | | | |-----------------------------------------------taxid371207  
+  | |   | | | | | |-|                                                            
+  | |   | | | | |   |-----------------------------------------------taxid371208  
+  | | |-| | | | |                                                                
+  | | | | | | | |     |---------------------------------------------taxid129775  
+  | | | | | | | |   |-|                                                          
+  | | | |-| | | |   | |---------------------------------------------taxid400734  
+  | | |   | | | | |-|                                                            
+  | | |   | | | | | | |---------------------------------------------taxid142940  
+  | | |   |-| | | | |-|                                                          
+  | | |     | | | |   |---------------------------------------------taxid371204  
+  | | |     | | | |                                                              
+  | | |     | | | | |-----------------------------------------------taxid404165  
+  | | |     | | | | |                                                            
+  | | |     | | | | |   |-------------------------------------------taxid135659  
+  | | |     | | | | |   |                                                        
+  | | |     | | | | | |-| |-----------------------------------------taxid135658  
+  | | |     | | | | | | |-|                                                      
+  | | |     |-| | | | |   |-----------------------------------------taxid135660  
+  | | |       | | | | |                                                          
+  | | |       | | | | | |-------------------------------------------taxid176676  
+  | | |       | | | | | |                                                        
+  | | |       | | | | | |   |---------------------------------------taxid186168  
+  | | |       | | | | | | |-|                                                    
+  | | |       | | | | | | | |---------------------------------------taxid496743  
+  | | |       | | | | | | |                                                      
+  | | |       | | | | | | | |---------------------------------------taxid274838  
+  | | |       |-| | | | | |-|                                                    
+  | | |         | | | | | | |---------------------------------------taxid404177  
+  | | |         | | | | | |                                                      
+  | | |         | | | | | | |---------------------------------------taxid196434  
+  | | |         |-| | | | | |                                                    
+  | | |           | | | | | |---------------------------------------taxid196441  
+  | | |           | | | | | |                                                    
+  | | |           |-| | | | | |-------------------------------------taxid196428  
+  | | |             | | | |-|-|                                                  
+  | | |             |-| | | | |-------------------------------------taxid222142  
+  | | |               | | | |                                                    
+  | | |               |-| | | |-------------------------------------taxid222140  
+  | | |                 |-| |-|                                                  
+  | | |                   |   |-------------------------------------taxid222144  
+  | | |                   |                                                      
+  | | |                   |   |-------------------------------------taxid404183  
+  | | |                   |   |                                                  
+  | | |                   | |-| |-----------------------------------taxid303925  
+  | | |                   | | |-|                                                
+  | | |                   | |   |-----------------------------------taxid404156  
+  | | |                   | |                                                    
+  | | |                   | | |-------------------------------------taxid432077  
+  | | |                   | | |                                                  
+  | | |                   |-| |-------------------------------------taxid274848  
+  | | |                     | |                                                  
+  | | |                     |-| |-----------------------------------taxid295670  
+  | | |                       | |                                                
+  | | |                       |-|-----------------------------------taxid374987  
+  | | |                         |                                                
+  | | |                         |-----------------------------------taxid374988  
+  | | |                                                                          
+  | | | |-----------------------------------------------------------taxid624772  
+  | | | |                                                                        
+  | | | |   |-------------------------------------------------------taxid166943  
+  | | | |   |                                                                    
+  | | | |   |   |---------------------------------------------------taxid441583  
+  | | | |   | |-|                                                                
+  | | | |   | | |---------------------------------------------------taxid441584  
+--| | | | |-| |                                                                  
+  | | | | | |-| |---------------------------------------------------taxid88299   
+  | | | | |   | |                                                                
+  | | | | |   |-| |-------------------------------------------------taxid166940  
+  |-| | | |     |-|                                                              
+    | | | |       |-------------------------------------------------taxid173717  
+    | | | |                                                                      
+    | | | |   |-----------------------------------------------------taxid624774  
+    | | | | |-|                                                                  
+    | | | | | |-----------------------------------------------------taxid624779  
+    | | | | |                                                                    
+    | | | | | |-----------------------------------------------------taxid624773  
+    | | | | | |                                                                  
+    | | | | | | |---------------------------------------------------taxid624775  
+    | | | | | | |                                                                
+    | | | | | | |   |-----------------------------------------------taxid624776  
+    | | | | | | |   |                                                            
+    | | | | | | |   | |---------------------------------------------taxid624784  
+    | | | | | | | |-| |                                                          
+    | | | | | | | | |-| |-------------------------------------------taxid161504  
+    | | | | | | | |   |-|                                                        
+    | | | | | | | |     |-------------------------------------------taxid169169  
+    | | | | | | | |                                                              
+    | | | | | | | |   |---------------------------------------------taxid624777  
+    | | | | | | | |   |                                                          
+    | | | | | | | |   | |-------------------------------------------taxid624788  
+    | | | | | | | |   | |                                                        
+    | | | | | | | |   | | |-----------------------------------------taxid624778  
+    | | | | | | | |   | | |                                                      
+    | | | | | | | |   | | |-----------------------------------------taxid382847  
+    | | | | | | | |   | | |                                                      
+    | | | | | | | | |-| | |-----------------------------------------taxid624781  
+    | | | | | | | | | |-| |                                                      
+    | | | | | | | | |   |-|   |-------------------------------------taxid624782  
+    | | | | | | | | |     | |-|                                                  
+    | | | | | | | | |     | | |-------------------------------------taxid624786  
+    |-| | | | | | | |     |-|                                                    
+      | | | | | | | |       | |-------------------------------------taxid624785  
+      | | | | | | | |       |-|                                                  
+      | | | | | | | |         |-------------------------------------taxid624787  
+      | | | | | | | |                                                            
+      | | | | | | | | |---------------------------------------------taxid624780  
+      | | | | | | | | |                                                          
+      | | | | | | | | | |-------------------------------------------taxid166942  
+      | | | | | | | | | |                                                        
+      | | | | | | | | | |   |---------------------------------------taxid487074  
+      | | | | | | | | | |   |                                                    
+      | | | | | | | | | |   |   |-----------------------------------taxid374441  
+      | | | | | | | | | |   |   |                                                
+      | | | | | | | | | |   |   | |---------------------------------taxid571201  
+      | | | | | | | | | |   |   | |                                              
+      | | | | | | | | | |   |   | | |-------------------------------taxid169165  
+      | | | | | | | | | |   |   | | |                                            
+      | | | | | | | | | |   | |-| | | |-----------------------------taxid161497  
+      | | | | | | | | | |   | | |-| | |                                          
+      | | | | | | | | | |   | |   |-| | |---------------------------taxid169160  
+      | | | | | | | | | |   | |     |-| |                                        
+      | | | | | | | | | |   | |       |-| |-------------------------taxid161500  
+      | | | | | | | | | |   | |         |-|                                      
+      | | | | | | | | | |   | |           |-------------------------taxid161501  
+      | | | | | | | | | |   | |                                                  
+      | | | | | | | | | |   | | |-----------------------------------taxid519832  
+      | | | | | | | | | | |-| | |                                                
+      | | | | | | | | | | | | | | |---------------------------------taxid519831  
+      |-| | | | | | | | | | | | | |                                              
+        | | | | | | | | | | | | | |   |-----------------------------taxid488881  
+        | | | | | | | | | | |-| | | |-|                                          
+        |-| | | | | | | | |   | | | | |-----------------------------taxid488885  
+          | | | | | | | | |   | | | |                                            
+          | | | | | | | | |   | | | | |-----------------------------taxid411157  
+          | | | | | | | | |   |-| | | |                                          
+          |-| | | | | | | |     |-| | | |---------------------------taxid519834  
+            | | | | | | | |       |-| | |                                        
+            |-| | | | | | |         | | | |-------------------------taxid519833  
+              |-| | | | | |         |-| | |                                      
+                | | | | | |           |-| | |-----------------------taxid488884  
+                |-| | | | |             |-| |                                    
+                  | | | | |               |-| |---------------------taxid488882  
+                  | | | | |                 |-|                                  
+                  | | | | |                   |---------------------taxid594672  
+                  | | | | |                                                      
+                  | | | | |   |-------------------------------------taxid161502  
+                  | | | | |   |                                                  
+                  |-| | | | |-| |-----------------------------------taxid161498  
+                    | | | | | |-|                                                
+                    | | | | |   |-----------------------------------taxid161499  
+                    | | | | |                                                    
+                    | | | | |   |-----------------------------------taxid614035  
+                    |-| | | |   |                                                
+                      |-| | |   | |---------------------------------taxid374442  
+                        | | |   | |                                              
+                        | | |   | |   |-----------------------------taxid455318  
+                        | | |   | | |-|                                          
+                        | | |   | | | |-----------------------------taxid619318  
+                        | | | |-| | |                                            
+                        | | | | |-| | |-----------------------------taxid374443  
+                        | | | |   |-| |                                          
+                        | | | |     | |-----------------------------taxid456289  
+                        |-| | |     |-|                                          
+                          | | |       | |---------------------------taxid456270  
+                          | | |       |-|                                        
+                          | | |         |---------------------------taxid456283  
+                          | | |                                                  
+                          | | | |-----------------------------------taxid641501  
+                          | | | |                                                
+                          | | | |-----------------------------------taxid641810  
+                          | | | |                                                
+                          | | | | |---------------------------------EPI177291    
+                          | | | | |                                              
+                          |-| | | |---------------------------------taxid641807  
+                            | | | |                                              
+                            | | | |---------------------------------EPI177316    
+                            | | | |                                              
+                            | | | |---------------------------------EPI176601    
+                            |-| | |                                              
+                              | | |---------------------------------EPI176593    
+                              | | |                                              
+                              | | |---------------------------------EPI177301    
+                              | | |                                              
+                              |-| |---------------------------------taxid641811  
+                                | |                                              
+                                |-|---------------------------------EPI176598    
+                                  |                                              
+                                  | |-------------------------------EPI176588    
+                                  | |                                            
+                                  | | |-----------------------------EPI177278    
+                                  | |-|                                          
+                                  | | |-----------------------------EPI177280    
+                                  | |                                            
+                                  |-| |-----------------------------EPI176638    
+                                    | |                                          
+                                    | | |---------------------------taxid641812  
+                                    |-| |                                        
+                                      |-| |-------------------------EPI176636    
+                                        |-|                                      
+                                          |-------------------------EPI176642    

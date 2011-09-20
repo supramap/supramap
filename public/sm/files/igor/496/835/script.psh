@@ -1,0 +1,14 @@
+read(prealigned: ("cladez.820.diffout.fas", tcm:(1,1)))
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("cladez_results.kml", kml:(supramap, "cladez.820.diffout.supermap.csv"))
+
+report(asciitrees)
+report("cladez_results.tre",trees)
+report("cladez_results.stats",treestats)
+exit()

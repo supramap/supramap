@@ -1,0 +1,1069 @@
+<?xml version="1.0"?>
+<forest>
+  <tree>
+    <node>
+      <id>root</id>
+    </node>
+    <node>
+      <id>Anabaena</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="71" AncS="T-" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="73" AncS="AC" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="76" AncS="AT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="78" AncS="A-" DescS="-" Type="Del" Cost="0.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="100" AncS="AT" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="109" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="110" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="121" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="127" AncS="AC" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="160" AncS="AGT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="193" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="227" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="253" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="304" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="305" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="308" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="314" AncS="AT" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="317" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="320" AncS="GT" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="326" AncS="AT" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="332" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="350" AncS="GT" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="353" AncS="AC" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="root" type="root"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>68</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="71" AncS="T-" DescS="-" Type="Del" Cost="0.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="73" AncS="AC" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="76" AncS="AT" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="78" AncS="A-" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="100" AncS="AT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="109" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="110" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="121" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="193" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="253" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="304" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="308" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="root" type="root"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>64</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="46" AncS="T" DescS="G" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="55" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="131" AncS="T" DescS="CT" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="154" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="160" AncS="AGT" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="281" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="314" AncS="AT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="320" AncS="GT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="326" AncS="AT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="332" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="350" AncS="GT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="353" AncS="AC" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="68" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>GiestA</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="97" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="98" AncS="G" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="118" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="127" AncS="AC" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="131" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="133" AncS="G" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="135" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="136" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="145" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="147" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="148" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="166" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="196" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="227" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="248" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="249" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="296" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="305" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="317" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="64" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>78</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="52" AncS="C" DescS="CT" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="65" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="76" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="91" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="93" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="103" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="112" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="116" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="119" AncS="C" DescS="G" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="121" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="127" AncS="AC" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="139" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="214" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="217" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="227" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="229" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="238" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="266" AncS="A" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="305" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="64" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>85</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="52" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="118" AncS="C" DescS="G" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="131" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="193" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="226" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="260" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="269" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="317" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="78" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>124</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="314" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="85" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>112</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="124" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>65</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="112" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>123</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="134" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="229" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="65" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>120</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="123" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>119</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="120" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>111</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="119" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>104</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="111" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>98</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="104" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>90</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="98" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>87</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="90" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>81</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="87" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>76</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="34" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="55" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="81" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>70</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="76" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>AustraliaJul</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="70" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>117</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="70" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>94</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="117" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>99</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="94" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>AustraliaTownA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="99" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>115</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="99" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>AustraliaTownB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="115" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>AustraliaSolB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="115" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>109</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="94" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>96</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="109" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>AustraliaSolA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="96" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>SenegalC</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="96" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>AustraliaSyd</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="109" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>SenegalB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="117" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>SenegalA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="76" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>HungaryB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="81" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>113</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="87" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FranceChan</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="113" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>GermanyB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="113" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>PortugalCaia</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="90" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>HungaryA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="98" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FranceVC</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="104" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>PortugalRsvr</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="111" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>GermanyA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="119" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>PortugalMarau</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="120" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FranceCour</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="123" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>103</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="65" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>102</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="103" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>93</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="102" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>88</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="93" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>86</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="88" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>84</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="86" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>82</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="84" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>73</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="82" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>66</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="73" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>121</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="1" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="2" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="20" AncS="A" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="21" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="22" AncS="G" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="66" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>91</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="121" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>75</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="91" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>BischoffB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="75" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>108</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="75" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>106</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="109" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="329" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="108" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>BrazilParan</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="106" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>BrazilBil</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="106" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>LemonD</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="108" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>LemonA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="91" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>LemonC</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="121" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>67</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="66" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>114</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="67" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>118</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="114" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>71</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="118" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>116</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="154" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="71" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>100</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="116" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>92</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="100" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>89</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="92" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>69</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="89" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>122</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="69" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FLcultureB</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="108" AncS="A" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="122" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>GriffinA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="122" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>72</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="69" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FLCrescent</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="232" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="249" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="72" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>77</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="72" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FLDoraC</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="150" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="77" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FLNewnans</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="106" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="77" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FLDoraB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="89" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FLcultureA</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="288" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="92" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>ToxFLA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="100" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>YaleA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="116" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>110</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="253" AncS="T" DescS="G" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="71" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>101</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="110" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>79</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="27" AncS="A" DescS="ACT" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="101" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>KerrA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="79" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>80</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="79" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>105</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="80" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>MacKintoshB</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="27" AncS="ACT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="105" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>KerrB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="105" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>95</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="27" AncS="ACT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="36" AncS="G" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="39" AncS="T" DescS="G" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="41" AncS="A" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="43" AncS="G" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="48" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="66" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="134" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="80" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>PrairieCreekcB</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="3" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="28" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="95" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>PrairieCreekcA</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="31" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="52" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="65" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="67" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="70" AncS="G" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="76" AncS="G" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="247" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="95" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>ReeseA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="101" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>ReeseB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="110" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>ManitouB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="118" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FLNJ</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="82" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="323" AncS="A" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="356" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="114" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>83</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="67" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>MexicoJab</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="83" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FLDoraA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="83" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>74</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="73" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>LemoncltA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="74" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>LemonB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="74" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>GlennFlintA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="82" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>ManitouA</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="52" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="56" AncS="G" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="63" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="69" AncS="-" DescS="A" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="307" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="308" AncS="T" DescS="G" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="310" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="84" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>FLDoraD</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="184" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="86" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>GlennFlintcltA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="88" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>MexicoEpa</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="93" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>BischoffA</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="169" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="196" AncS="T" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="214" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="102" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>BassA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="103" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>BassB</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="112" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>KoontzA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="124" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>107</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="85" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>KoontzB</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="281" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="305" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="107" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>MacKintoshA</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="107" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>GlennFlintB</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="110" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="111" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="131" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="317" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="78" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>97</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="112" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="127" AncS="AC" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="160" AncS="AGT" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment3" Pos="181" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="227" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="68" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>HardyA</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="248" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="252" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment3" Pos="305" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="97" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>HardyB</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment3" Pos="68" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="97" type="node"/>
+      </ancestors>
+    </node>
+  </tree>
+</forest>

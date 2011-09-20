@@ -1,49 +1,49 @@
 <%= error_messages_for "query",
-:header_message => 'query',
-:message => "Sorry, but there were some problems with the query." %>
+                       :header_message => 'query',
+                       :message => "Sorry, but there were some problems with the query." %>
 
 <% form_for :query do |form| %>
-<table>
-	<tr>
-		<th>Ancs</th>
-		<th>Descs</th>
-		<th>Position</th>
-		<th>InDel</th>
-	</tr>
-	<tr>
-		<td><%= form.select :anc_state, Query::AD_TYPES  %></td>
-		<td><%= form.select :desc_state,  Query::AD_TYPES  %></td>
-		<td><%= form.text_field :position, :size => 8 %></td>
-		<td><%= form.select :insdel, Query::INSDES %></td>
-		<td><%= submit_tag "View Table", :class => "submit" %></td>
-	</tr>
-</table>
+    <table>
+      <tr>
+        <th>Ancs</th>
+        <th>Descs</th>
+        <th>Position</th>
+        <th>InDel</th>
+      </tr>
+      <tr>
+        <td><%= form.select :anc_state, Query::AD_TYPES %></td>
+        <td><%= form.select :desc_state, Query::AD_TYPES %></td>
+        <td><%= form.text_field :position, :size => 8 %></td>
+        <td><%= form.select :insdel, Query::INSDES %></td>
+        <td><%= submit_tag "View Table", :class => "submit" %></td>
+      </tr>
+    </table>
 <% end %>
 
 <table><!-- id | parent_id | rank | latitude | longitude | isolation_date | strain_name-->
-	<tr>
-		<th>ID</th>
-		<th>Parent ID</th>
-		<th>Strain Name</th>
-		<th>Latitude</th>
-		<th>Longitude</th>
-		<th>Date</th>
-	</tr>
-	<% for treenode in @treenodes %>
-	<tr>
-		<td><%= h(treenode.id) %></td>
-		<td><%= h(treenode.parent_id) %></td>
-		<td><%= h(treenode.strain_name) %></td>
-		<td><%= h(treenode.latitude) %></td>
-		<td><%= h(treenode.longitude) %></td>
-		<td><%= h(treenode.isolation_date) %></td>
-	</tr>
-	<% treenode.transformations.each do |t| %>
-	<tr>
-		<td></td>
-		<td><%= h(t.position) %></td>
-		<td><%= h(t.ancestral_state) %> -> <%= h(t.descendant_state) %></td>
-	</tr>
-	<% end %>
-	<% end %>
+  <tr>
+    <th>ID</th>
+    <th>Parent ID</th>
+    <th>Strain Name</th>
+    <th>Latitude</th>
+    <th>Longitude</th>
+    <th>Date</th>
+  </tr>
+  <% for treenode in @treenodes %>
+      <tr>
+        <td><%= h(treenode.id) %></td>
+        <td><%= h(treenode.parent_id) %></td>
+        <td><%= h(treenode.strain_name) %></td>
+        <td><%= h(treenode.latitude) %></td>
+        <td><%= h(treenode.longitude) %></td>
+        <td><%= h(treenode.isolation_date) %></td>
+      </tr>
+      <% treenode.transformations.each do |t| %>
+          <tr>
+            <td></td>
+            <td><%= h(t.position) %></td>
+            <td><%= h(t.ancestral_state) %> -> <%= h(t.descendant_state) %></td>
+          </tr>
+      <% end %>
+  <% end %>
 </table>

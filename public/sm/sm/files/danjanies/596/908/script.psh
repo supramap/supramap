@@ -1,0 +1,15 @@
+read("UT-simple-Both-DO-NoAcc.tre")
+read(prealigned: ("UT-Both.dna.fas", tcm:(1,1)))
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("UTdna_results.kml", kml:(supramap, "latlongs-NoAcc.csv"))
+
+report(asciitrees)
+report("UTdna_results.tre",trees)
+report("UTdna_results.stats",treestats)
+exit()

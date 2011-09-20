@@ -1,0 +1,1611 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 200 -- Wagner tree with cost 174.
+Status : Wagner : 3 of 200 -- Wagner tree with cost 182.
+Status : Wagner : 4 of 200 -- Wagner tree with cost 198.
+Status : Wagner : 5 of 200 -- Wagner tree with cost 212.
+Status : Wagner : 6 of 200 -- Wagner tree with cost 212.
+Status : Wagner : 7 of 200 -- Wagner tree with cost 288.
+Status : Wagner : 8 of 200 -- Wagner tree with cost 291.
+Status : Wagner : 9 of 200 -- Wagner tree with cost 300.
+Status : Wagner : 10 of 200 -- Wagner tree with cost 324.
+Status : Wagner : 11 of 200 -- Wagner tree with cost 335.
+Status : Wagner : 12 of 200 -- Wagner tree with cost 457.
+Status : Wagner : 13 of 200 -- Wagner tree with cost 540.
+Status : Wagner : 14 of 200 -- Wagner tree with cost 636.
+Status : Wagner : 15 of 200 -- Wagner tree with cost 649.
+Status : Wagner : 16 of 200 -- Wagner tree with cost 681.
+Status : Wagner : 17 of 200 -- Wagner tree with cost 759.
+Status : Wagner : 18 of 200 -- Wagner tree with cost 792.
+Status : Wagner : 19 of 200 -- Wagner tree with cost 796.
+Status : Wagner : 20 of 200 -- Wagner tree with cost 812.
+Status : Wagner : 21 of 200 -- Wagner tree with cost 821.
+Status : Wagner : 22 of 200 -- Wagner tree with cost 826.
+Status : Wagner : 23 of 200 -- Wagner tree with cost 829.
+Status : Wagner : 24 of 200 -- Wagner tree with cost 845.
+Status : Wagner : 25 of 200 -- Wagner tree with cost 860.
+Status : Wagner : 26 of 200 -- Wagner tree with cost 867.
+Status : Wagner : 27 of 200 -- Wagner tree with cost 876.
+Status : Wagner : 28 of 200 -- Wagner tree with cost 888.
+Status : Wagner : 29 of 200 -- Wagner tree with cost 888.
+Status : Wagner : 30 of 200 -- Wagner tree with cost 892.
+Status : Wagner : 31 of 200 -- Wagner tree with cost 892.
+Status : Wagner : 32 of 200 -- Wagner tree with cost 919.
+Status : Wagner : 33 of 200 -- Wagner tree with cost 920.
+Status : Wagner : 34 of 200 -- Wagner tree with cost 927.
+Status : Wagner : 35 of 200 -- Wagner tree with cost 934.
+Status : Wagner : 36 of 200 -- Wagner tree with cost 945.
+Status : Wagner : 37 of 200 -- Wagner tree with cost 952.
+Status : Wagner : 38 of 200 -- Wagner tree with cost 999.
+Status : Wagner : 39 of 200 -- Wagner tree with cost 1010.
+Status : Wagner : 40 of 200 -- Wagner tree with cost 1075.
+Status : Wagner : 41 of 200 -- Wagner tree with cost 1078.
+Status : Wagner : 42 of 200 -- Wagner tree with cost 1104.
+Status : Wagner : 43 of 200 -- Wagner tree with cost 1119.
+Status : Wagner : 44 of 200 -- Wagner tree with cost 1127.
+Status : Wagner : 45 of 200 -- Wagner tree with cost 1142.
+Status : Wagner : 46 of 200 -- Wagner tree with cost 1150.
+Status : Wagner : 47 of 200 -- Wagner tree with cost 1155.
+Status : Wagner : 48 of 200 -- Wagner tree with cost 1253.
+Status : Wagner : 49 of 200 -- Wagner tree with cost 1256.
+Status : Wagner : 50 of 200 -- Wagner tree with cost 1311.
+Status : Wagner : 51 of 200 -- Wagner tree with cost 1323.
+Status : Wagner : 52 of 200 -- Wagner tree with cost 1323.
+Status : Wagner : 53 of 200 -- Wagner tree with cost 1326.
+Status : Wagner : 54 of 200 -- Wagner tree with cost 1327.
+Status : Wagner : 55 of 200 -- Wagner tree with cost 1365.
+Status : Wagner : 56 of 200 -- Wagner tree with cost 1367.
+Status : Wagner : 57 of 200 -- Wagner tree with cost 1371.
+Status : Wagner : 58 of 200 -- Wagner tree with cost 1408.
+Status : Wagner : 59 of 200 -- Wagner tree with cost 1409.
+Status : Wagner : 60 of 200 -- Wagner tree with cost 1411.
+Status : Wagner : 61 of 200 -- Wagner tree with cost 1416.
+Status : Wagner : 62 of 200 -- Wagner tree with cost 1416.
+Status : Wagner : 63 of 200 -- Wagner tree with cost 1420.
+Status : Wagner : 64 of 200 -- Wagner tree with cost 1420.
+Status : Wagner : 65 of 200 -- Wagner tree with cost 1425.
+Status : Wagner : 66 of 200 -- Wagner tree with cost 1428.
+Status : Wagner : 67 of 200 -- Wagner tree with cost 1432.
+Status : Wagner : 68 of 200 -- Wagner tree with cost 1447.
+Status : Wagner : 69 of 200 -- Wagner tree with cost 1448.
+Status : Wagner : 70 of 200 -- Wagner tree with cost 1449.
+Status : Wagner : 71 of 200 -- Wagner tree with cost 1449.
+Status : Wagner : 72 of 200 -- Wagner tree with cost 1449.
+Status : Wagner : 73 of 200 -- Wagner tree with cost 1453.
+Status : Wagner : 74 of 200 -- Wagner tree with cost 1460.
+Status : Wagner : 75 of 200 -- Wagner tree with cost 1483.
+Status : Wagner : 76 of 200 -- Wagner tree with cost 1483.
+Status : Wagner : 77 of 200 -- Wagner tree with cost 1494.
+Status : Wagner : 78 of 200 -- Wagner tree with cost 1504.
+Status : Wagner : 79 of 200 -- Wagner tree with cost 1505.
+Status : Wagner : 80 of 200 -- Wagner tree with cost 1542.
+Status : Wagner : 81 of 200 -- Wagner tree with cost 1556.
+Status : Wagner : 82 of 200 -- Wagner tree with cost 1562.
+Status : Wagner : 83 of 200 -- Wagner tree with cost 1562.
+Status : Wagner : 84 of 200 -- Wagner tree with cost 1562.
+Status : Wagner : 85 of 200 -- Wagner tree with cost 1573.
+Status : Wagner : 86 of 200 -- Wagner tree with cost 1576.
+Status : Wagner : 87 of 200 -- Wagner tree with cost 1580.
+Status : Wagner : 88 of 200 -- Wagner tree with cost 1584.
+Status : Wagner : 89 of 200 -- Wagner tree with cost 1586.
+Status : Wagner : 90 of 200 -- Wagner tree with cost 1588.
+Status : Wagner : 91 of 200 -- Wagner tree with cost 1594.
+Status : Wagner : 92 of 200 -- Wagner tree with cost 1598.
+Status : Wagner : 93 of 200 -- Wagner tree with cost 1601.
+Status : Wagner : 94 of 200 -- Wagner tree with cost 1609.
+Status : Wagner : 95 of 200 -- Wagner tree with cost 1618.
+Status : Wagner : 96 of 200 -- Wagner tree with cost 1619.
+Status : Wagner : 97 of 200 -- Wagner tree with cost 1623.
+Status : Wagner : 98 of 200 -- Wagner tree with cost 1625.
+Status : Wagner : 99 of 200 -- Wagner tree with cost 1640.
+Status : Wagner : 100 of 200 -- Wagner tree with cost 1650.
+Status : Wagner : 101 of 200 -- Wagner tree with cost 1651.
+Status : Wagner : 102 of 200 -- Wagner tree with cost 1654.
+Status : Wagner : 103 of 200 -- Wagner tree with cost 1657.
+Status : Wagner : 104 of 200 -- Wagner tree with cost 1719.
+Status : Wagner : 105 of 200 -- Wagner tree with cost 1719.
+Status : Wagner : 106 of 200 -- Wagner tree with cost 1724.
+Status : Wagner : 107 of 200 -- Wagner tree with cost 1725.
+Status : Wagner : 108 of 200 -- Wagner tree with cost 1725.
+Status : Wagner : 109 of 200 -- Wagner tree with cost 1779.
+Status : Wagner : 110 of 200 -- Wagner tree with cost 1784.
+Status : Wagner : 111 of 200 -- Wagner tree with cost 1784.
+Status : Wagner : 112 of 200 -- Wagner tree with cost 1787.
+Status : Wagner : 113 of 200 -- Wagner tree with cost 1810.
+Status : Wagner : 114 of 200 -- Wagner tree with cost 1811.
+Status : Wagner : 115 of 200 -- Wagner tree with cost 1812.
+Status : Wagner : 116 of 200 -- Wagner tree with cost 1819.
+Status : Wagner : 117 of 200 -- Wagner tree with cost 1852.
+Status : Wagner : 118 of 200 -- Wagner tree with cost 1856.
+Status : Wagner : 119 of 200 -- Wagner tree with cost 1887.
+Status : Wagner : 120 of 200 -- Wagner tree with cost 1891.
+Status : Wagner : 121 of 200 -- Wagner tree with cost 1894.
+Status : Wagner : 122 of 200 -- Wagner tree with cost 1897.
+Status : Wagner : 123 of 200 -- Wagner tree with cost 1912.
+Status : Wagner : 124 of 200 -- Wagner tree with cost 1950.
+Status : Wagner : 125 of 200 -- Wagner tree with cost 1950.
+Status : Wagner : 126 of 200 -- Wagner tree with cost 1950.
+Status : Wagner : 127 of 200 -- Wagner tree with cost 1951.
+Status : Wagner : 128 of 200 -- Wagner tree with cost 1954.
+Status : Wagner : 129 of 200 -- Wagner tree with cost 1962.
+Status : Wagner : 130 of 200 -- Wagner tree with cost 1967.
+Status : Wagner : 131 of 200 -- Wagner tree with cost 1969.
+Status : Wagner : 132 of 200 -- Wagner tree with cost 1970.
+Status : Wagner : 133 of 200 -- Wagner tree with cost 1978.
+Status : Wagner : 134 of 200 -- Wagner tree with cost 1981.
+Status : Wagner : 135 of 200 -- Wagner tree with cost 1984.
+Status : Wagner : 136 of 200 -- Wagner tree with cost 1990.
+Status : Wagner : 137 of 200 -- Wagner tree with cost 1991.
+Status : Wagner : 138 of 200 -- Wagner tree with cost 2067.
+Status : Wagner : 139 of 200 -- Wagner tree with cost 2069.
+Status : Wagner : 140 of 200 -- Wagner tree with cost 2077.
+Status : Wagner : 141 of 200 -- Wagner tree with cost 2080.
+Status : Wagner : 142 of 200 -- Wagner tree with cost 2092.
+Status : Wagner : 143 of 200 -- Wagner tree with cost 2098.
+Status : Wagner : 144 of 200 -- Wagner tree with cost 2106.
+Status : Wagner : 145 of 200 -- Wagner tree with cost 2108.
+Status : Wagner : 146 of 200 -- Wagner tree with cost 2119.
+Status : Wagner : 147 of 200 -- Wagner tree with cost 2123.
+Status : Wagner : 148 of 200 -- Wagner tree with cost 2128.
+Status : Wagner : 149 of 200 -- Wagner tree with cost 2131.
+Status : Wagner : 150 of 200 -- Wagner tree with cost 2138.
+Status : Wagner : 151 of 200 -- Wagner tree with cost 2141.
+Status : Wagner : 152 of 200 -- Wagner tree with cost 2141.
+Status : Wagner : 153 of 200 -- Wagner tree with cost 2145.
+Status : Wagner : 154 of 200 -- Wagner tree with cost 2164.
+Status : Wagner : 155 of 200 -- Wagner tree with cost 2170.
+Status : Wagner : 156 of 200 -- Wagner tree with cost 2171.
+Status : Wagner : 157 of 200 -- Wagner tree with cost 2176.
+Status : Wagner : 158 of 200 -- Wagner tree with cost 2178.
+Status : Wagner : 159 of 200 -- Wagner tree with cost 2178.
+Status : Wagner : 160 of 200 -- Wagner tree with cost 2179.
+Status : Wagner : 161 of 200 -- Wagner tree with cost 2181.
+Status : Wagner : 162 of 200 -- Wagner tree with cost 2183.
+Status : Wagner : 163 of 200 -- Wagner tree with cost 2191.
+Status : Wagner : 164 of 200 -- Wagner tree with cost 2215.
+Status : Wagner : 165 of 200 -- Wagner tree with cost 2215.
+Status : Wagner : 166 of 200 -- Wagner tree with cost 2223.
+Status : Wagner : 167 of 200 -- Wagner tree with cost 2233.
+Status : Wagner : 168 of 200 -- Wagner tree with cost 2234.
+Status : Wagner : 169 of 200 -- Wagner tree with cost 2240.
+Status : Wagner : 170 of 200 -- Wagner tree with cost 2241.
+Status : Wagner : 171 of 200 -- Wagner tree with cost 2242.
+Status : Wagner : 172 of 200 -- Wagner tree with cost 2246.
+Status : Wagner : 173 of 200 -- Wagner tree with cost 2247.
+Status : Wagner : 174 of 200 -- Wagner tree with cost 2250.
+Status : Wagner : 175 of 200 -- Wagner tree with cost 2252.
+Status : Wagner : 176 of 200 -- Wagner tree with cost 2259.
+Status : Wagner : 177 of 200 -- Wagner tree with cost 2267.
+Status : Wagner : 178 of 200 -- Wagner tree with cost 2270.
+Status : Wagner : 179 of 200 -- Wagner tree with cost 2271.
+Status : Wagner : 180 of 200 -- Wagner tree with cost 2275.
+Status : Wagner : 181 of 200 -- Wagner tree with cost 2281.
+Status : Wagner : 182 of 200 -- Wagner tree with cost 2293.
+Status : Wagner : 183 of 200 -- Wagner tree with cost 2293.
+Status : Wagner : 184 of 200 -- Wagner tree with cost 2293.
+Status : Wagner : 185 of 200 -- Wagner tree with cost 2293.
+Status : Wagner : 186 of 200 -- Wagner tree with cost 2297.
+Status : Wagner : 187 of 200 -- Wagner tree with cost 2297.
+Status : Wagner : 188 of 200 -- Wagner tree with cost 2302.
+Status : Wagner : 189 of 200 -- Wagner tree with cost 2304.
+Status : Wagner : 190 of 200 -- Wagner tree with cost 2311.
+Status : Wagner : 191 of 200 -- Wagner tree with cost 2313.
+Status : Wagner : 192 of 200 -- Wagner tree with cost 2314.
+Status : Wagner : 193 of 200 -- Wagner tree with cost 2317.
+Status : Wagner : 194 of 200 -- Wagner tree with cost 2322.
+Status : Wagner : 195 of 200 -- Wagner tree with cost 2350.
+Status : Wagner : 196 of 200 -- Wagner tree with cost 2368.
+Status : Wagner : 197 of 200 -- Wagner tree with cost 2368.
+Status : Wagner : 198 of 200 -- Wagner tree with cost 2369.
+Status : Wagner : 199 of 200 -- Wagner tree with cost 2370.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR Finished
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2373.; Time left: -113 s; Hits: 1
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 4 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 8 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 8 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 9 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 10 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 11 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 12 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 13 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 14 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 15 of 16 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 16 of 16 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 9 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 10 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 11 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 12 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 13 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 14 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 15 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 16 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 17 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 18 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 19 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 20 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 21 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 22 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 23 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 24 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 25 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 26 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 27 of 28 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 28 of 28 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information :
+The search evaluated 60 independent repetitions with ratchet and fusing for 0 generations. The shortest tree was found 1 times.
+Status : test: Implied Alignments : 1 of 399 -- vertices calculated
+Status : test: Implied Alignments : 2 of 399 -- vertices calculated
+Status : test: Implied Alignments : 3 of 399 -- vertices calculated
+Status : test: Implied Alignments : 4 of 399 -- vertices calculated
+Status : test: Implied Alignments : 5 of 399 -- vertices calculated
+Status : test: Implied Alignments : 6 of 399 -- vertices calculated
+Status : test: Implied Alignments : 7 of 399 -- vertices calculated
+Status : test: Implied Alignments : 8 of 399 -- vertices calculated
+Status : test: Implied Alignments : 9 of 399 -- vertices calculated
+Status : test: Implied Alignments : 10 of 399 -- vertices calculated
+Status : test: Implied Alignments : 11 of 399 -- vertices calculated
+Status : test: Implied Alignments : 12 of 399 -- vertices calculated
+Status : test: Implied Alignments : 13 of 399 -- vertices calculated
+Status : test: Implied Alignments : 14 of 399 -- vertices calculated
+Status : test: Implied Alignments : 15 of 399 -- vertices calculated
+Status : test: Implied Alignments : 16 of 399 -- vertices calculated
+Status : test: Implied Alignments : 17 of 399 -- vertices calculated
+Status : test: Implied Alignments : 18 of 399 -- vertices calculated
+Status : test: Implied Alignments : 19 of 399 -- vertices calculated
+Status : test: Implied Alignments : 20 of 399 -- vertices calculated
+Status : test: Implied Alignments : 21 of 399 -- vertices calculated
+Status : test: Implied Alignments : 22 of 399 -- vertices calculated
+Status : test: Implied Alignments : 23 of 399 -- vertices calculated
+Status : test: Implied Alignments : 24 of 399 -- vertices calculated
+Status : test: Implied Alignments : 25 of 399 -- vertices calculated
+Status : test: Implied Alignments : 26 of 399 -- vertices calculated
+Status : test: Implied Alignments : 27 of 399 -- vertices calculated
+Status : test: Implied Alignments : 28 of 399 -- vertices calculated
+Status : test: Implied Alignments : 29 of 399 -- vertices calculated
+Status : test: Implied Alignments : 30 of 399 -- vertices calculated
+Status : test: Implied Alignments : 31 of 399 -- vertices calculated
+Status : test: Implied Alignments : 32 of 399 -- vertices calculated
+Status : test: Implied Alignments : 33 of 399 -- vertices calculated
+Status : test: Implied Alignments : 34 of 399 -- vertices calculated
+Status : test: Implied Alignments : 35 of 399 -- vertices calculated
+Status : test: Implied Alignments : 36 of 399 -- vertices calculated
+Status : test: Implied Alignments : 37 of 399 -- vertices calculated
+Status : test: Implied Alignments : 38 of 399 -- vertices calculated
+Status : test: Implied Alignments : 39 of 399 -- vertices calculated
+Status : test: Implied Alignments : 40 of 399 -- vertices calculated
+Status : test: Implied Alignments : 41 of 399 -- vertices calculated
+Status : test: Implied Alignments : 42 of 399 -- vertices calculated
+Status : test: Implied Alignments : 43 of 399 -- vertices calculated
+Status : test: Implied Alignments : 44 of 399 -- vertices calculated
+Status : test: Implied Alignments : 45 of 399 -- vertices calculated
+Status : test: Implied Alignments : 46 of 399 -- vertices calculated
+Status : test: Implied Alignments : 47 of 399 -- vertices calculated
+Status : test: Implied Alignments : 48 of 399 -- vertices calculated
+Status : test: Implied Alignments : 49 of 399 -- vertices calculated
+Status : test: Implied Alignments : 50 of 399 -- vertices calculated
+Status : test: Implied Alignments : 51 of 399 -- vertices calculated
+Status : test: Implied Alignments : 52 of 399 -- vertices calculated
+Status : test: Implied Alignments : 53 of 399 -- vertices calculated
+Status : test: Implied Alignments : 54 of 399 -- vertices calculated
+Status : test: Implied Alignments : 55 of 399 -- vertices calculated
+Status : test: Implied Alignments : 56 of 399 -- vertices calculated
+Status : test: Implied Alignments : 57 of 399 -- vertices calculated
+Status : test: Implied Alignments : 58 of 399 -- vertices calculated
+Status : test: Implied Alignments : 59 of 399 -- vertices calculated
+Status : test: Implied Alignments : 60 of 399 -- vertices calculated
+Status : test: Implied Alignments : 61 of 399 -- vertices calculated
+Status : test: Implied Alignments : 62 of 399 -- vertices calculated
+Status : test: Implied Alignments : 63 of 399 -- vertices calculated
+Status : test: Implied Alignments : 64 of 399 -- vertices calculated
+Status : test: Implied Alignments : 65 of 399 -- vertices calculated
+Status : test: Implied Alignments : 66 of 399 -- vertices calculated
+Status : test: Implied Alignments : 67 of 399 -- vertices calculated
+Status : test: Implied Alignments : 68 of 399 -- vertices calculated
+Status : test: Implied Alignments : 69 of 399 -- vertices calculated
+Status : test: Implied Alignments : 70 of 399 -- vertices calculated
+Status : test: Implied Alignments : 71 of 399 -- vertices calculated
+Status : test: Implied Alignments : 72 of 399 -- vertices calculated
+Status : test: Implied Alignments : 73 of 399 -- vertices calculated
+Status : test: Implied Alignments : 74 of 399 -- vertices calculated
+Status : test: Implied Alignments : 75 of 399 -- vertices calculated
+Status : test: Implied Alignments : 76 of 399 -- vertices calculated
+Status : test: Implied Alignments : 77 of 399 -- vertices calculated
+Status : test: Implied Alignments : 78 of 399 -- vertices calculated
+Status : test: Implied Alignments : 79 of 399 -- vertices calculated
+Status : test: Implied Alignments : 80 of 399 -- vertices calculated
+Status : test: Implied Alignments : 81 of 399 -- vertices calculated
+Status : test: Implied Alignments : 82 of 399 -- vertices calculated
+Status : test: Implied Alignments : 83 of 399 -- vertices calculated
+Status : test: Implied Alignments : 84 of 399 -- vertices calculated
+Status : test: Implied Alignments : 85 of 399 -- vertices calculated
+Status : test: Implied Alignments : 86 of 399 -- vertices calculated
+Status : test: Implied Alignments : 87 of 399 -- vertices calculated
+Status : test: Implied Alignments : 88 of 399 -- vertices calculated
+Status : test: Implied Alignments : 89 of 399 -- vertices calculated
+Status : test: Implied Alignments : 90 of 399 -- vertices calculated
+Status : test: Implied Alignments : 91 of 399 -- vertices calculated
+Status : test: Implied Alignments : 92 of 399 -- vertices calculated
+Status : test: Implied Alignments : 93 of 399 -- vertices calculated
+Status : test: Implied Alignments : 94 of 399 -- vertices calculated
+Status : test: Implied Alignments : 95 of 399 -- vertices calculated
+Status : test: Implied Alignments : 96 of 399 -- vertices calculated
+Status : test: Implied Alignments : 97 of 399 -- vertices calculated
+Status : test: Implied Alignments : 98 of 399 -- vertices calculated
+Status : test: Implied Alignments : 99 of 399 -- vertices calculated
+Status : test: Implied Alignments : 100 of 399 -- vertices calculated
+Status : test: Implied Alignments : 101 of 399 -- vertices calculated
+Status : test: Implied Alignments : 102 of 399 -- vertices calculated
+Status : test: Implied Alignments : 103 of 399 -- vertices calculated
+Status : test: Implied Alignments : 104 of 399 -- vertices calculated
+Status : test: Implied Alignments : 105 of 399 -- vertices calculated
+Status : test: Implied Alignments : 106 of 399 -- vertices calculated
+Status : test: Implied Alignments : 107 of 399 -- vertices calculated
+Status : test: Implied Alignments : 108 of 399 -- vertices calculated
+Status : test: Implied Alignments : 109 of 399 -- vertices calculated
+Status : test: Implied Alignments : 110 of 399 -- vertices calculated
+Status : test: Implied Alignments : 111 of 399 -- vertices calculated
+Status : test: Implied Alignments : 112 of 399 -- vertices calculated
+Status : test: Implied Alignments : 113 of 399 -- vertices calculated
+Status : test: Implied Alignments : 114 of 399 -- vertices calculated
+Status : test: Implied Alignments : 115 of 399 -- vertices calculated
+Status : test: Implied Alignments : 116 of 399 -- vertices calculated
+Status : test: Implied Alignments : 117 of 399 -- vertices calculated
+Status : test: Implied Alignments : 118 of 399 -- vertices calculated
+Status : test: Implied Alignments : 119 of 399 -- vertices calculated
+Status : test: Implied Alignments : 120 of 399 -- vertices calculated
+Status : test: Implied Alignments : 121 of 399 -- vertices calculated
+Status : test: Implied Alignments : 122 of 399 -- vertices calculated
+Status : test: Implied Alignments : 123 of 399 -- vertices calculated
+Status : test: Implied Alignments : 124 of 399 -- vertices calculated
+Status : test: Implied Alignments : 125 of 399 -- vertices calculated
+Status : test: Implied Alignments : 126 of 399 -- vertices calculated
+Status : test: Implied Alignments : 127 of 399 -- vertices calculated
+Status : test: Implied Alignments : 128 of 399 -- vertices calculated
+Status : test: Implied Alignments : 129 of 399 -- vertices calculated
+Status : test: Implied Alignments : 130 of 399 -- vertices calculated
+Status : test: Implied Alignments : 131 of 399 -- vertices calculated
+Status : test: Implied Alignments : 132 of 399 -- vertices calculated
+Status : test: Implied Alignments : 133 of 399 -- vertices calculated
+Status : test: Implied Alignments : 134 of 399 -- vertices calculated
+Status : test: Implied Alignments : 135 of 399 -- vertices calculated
+Status : test: Implied Alignments : 136 of 399 -- vertices calculated
+Status : test: Implied Alignments : 137 of 399 -- vertices calculated
+Status : test: Implied Alignments : 138 of 399 -- vertices calculated
+Status : test: Implied Alignments : 139 of 399 -- vertices calculated
+Status : test: Implied Alignments : 140 of 399 -- vertices calculated
+Status : test: Implied Alignments : 141 of 399 -- vertices calculated
+Status : test: Implied Alignments : 142 of 399 -- vertices calculated
+Status : test: Implied Alignments : 143 of 399 -- vertices calculated
+Status : test: Implied Alignments : 144 of 399 -- vertices calculated
+Status : test: Implied Alignments : 145 of 399 -- vertices calculated
+Status : test: Implied Alignments : 146 of 399 -- vertices calculated
+Status : test: Implied Alignments : 147 of 399 -- vertices calculated
+Status : test: Implied Alignments : 148 of 399 -- vertices calculated
+Status : test: Implied Alignments : 149 of 399 -- vertices calculated
+Status : test: Implied Alignments : 150 of 399 -- vertices calculated
+Status : test: Implied Alignments : 151 of 399 -- vertices calculated
+Status : test: Implied Alignments : 152 of 399 -- vertices calculated
+Status : test: Implied Alignments : 153 of 399 -- vertices calculated
+Status : test: Implied Alignments : 154 of 399 -- vertices calculated
+Status : test: Implied Alignments : 155 of 399 -- vertices calculated
+Status : test: Implied Alignments : 156 of 399 -- vertices calculated
+Status : test: Implied Alignments : 157 of 399 -- vertices calculated
+Status : test: Implied Alignments : 158 of 399 -- vertices calculated
+Status : test: Implied Alignments : 159 of 399 -- vertices calculated
+Status : test: Implied Alignments : 160 of 399 -- vertices calculated
+Status : test: Implied Alignments : 161 of 399 -- vertices calculated
+Status : test: Implied Alignments : 162 of 399 -- vertices calculated
+Status : test: Implied Alignments : 163 of 399 -- vertices calculated
+Status : test: Implied Alignments : 164 of 399 -- vertices calculated
+Status : test: Implied Alignments : 165 of 399 -- vertices calculated
+Status : test: Implied Alignments : 166 of 399 -- vertices calculated
+Status : test: Implied Alignments : 167 of 399 -- vertices calculated
+Status : test: Implied Alignments : 168 of 399 -- vertices calculated
+Status : test: Implied Alignments : 169 of 399 -- vertices calculated
+Status : test: Implied Alignments : 170 of 399 -- vertices calculated
+Status : test: Implied Alignments : 171 of 399 -- vertices calculated
+Status : test: Implied Alignments : 172 of 399 -- vertices calculated
+Status : test: Implied Alignments : 173 of 399 -- vertices calculated
+Status : test: Implied Alignments : 174 of 399 -- vertices calculated
+Status : test: Implied Alignments : 175 of 399 -- vertices calculated
+Status : test: Implied Alignments : 176 of 399 -- vertices calculated
+Status : test: Implied Alignments : 177 of 399 -- vertices calculated
+Status : test: Implied Alignments : 178 of 399 -- vertices calculated
+Status : test: Implied Alignments : 179 of 399 -- vertices calculated
+Status : test: Implied Alignments : 180 of 399 -- vertices calculated
+Status : test: Implied Alignments : 181 of 399 -- vertices calculated
+Status : test: Implied Alignments : 182 of 399 -- vertices calculated
+Status : test: Implied Alignments : 183 of 399 -- vertices calculated
+Status : test: Implied Alignments : 184 of 399 -- vertices calculated
+Status : test: Implied Alignments : 185 of 399 -- vertices calculated
+Status : test: Implied Alignments : 186 of 399 -- vertices calculated
+Status : test: Implied Alignments : 187 of 399 -- vertices calculated
+Status : test: Implied Alignments : 188 of 399 -- vertices calculated
+Status : test: Implied Alignments : 189 of 399 -- vertices calculated
+Status : test: Implied Alignments : 190 of 399 -- vertices calculated
+Status : test: Implied Alignments : 191 of 399 -- vertices calculated
+Status : test: Implied Alignments : 192 of 399 -- vertices calculated
+Status : test: Implied Alignments : 193 of 399 -- vertices calculated
+Status : test: Implied Alignments : 194 of 399 -- vertices calculated
+Status : test: Implied Alignments : 195 of 399 -- vertices calculated
+Status : test: Implied Alignments : 196 of 399 -- vertices calculated
+Status : test: Implied Alignments : 197 of 399 -- vertices calculated
+Status : test: Implied Alignments : 198 of 399 -- vertices calculated
+Status : test: Implied Alignments : 199 of 399 -- vertices calculated
+Status : test: Implied Alignments : 200 of 399 -- vertices calculated
+Status : test: Implied Alignments : 201 of 399 -- vertices calculated
+Status : test: Implied Alignments : 202 of 399 -- vertices calculated
+Status : test: Implied Alignments : 203 of 399 -- vertices calculated
+Status : test: Implied Alignments : 204 of 399 -- vertices calculated
+Status : test: Implied Alignments : 205 of 399 -- vertices calculated
+Status : test: Implied Alignments : 206 of 399 -- vertices calculated
+Status : test: Implied Alignments : 207 of 399 -- vertices calculated
+Status : test: Implied Alignments : 208 of 399 -- vertices calculated
+Status : test: Implied Alignments : 209 of 399 -- vertices calculated
+Status : test: Implied Alignments : 210 of 399 -- vertices calculated
+Status : test: Implied Alignments : 211 of 399 -- vertices calculated
+Status : test: Implied Alignments : 212 of 399 -- vertices calculated
+Status : test: Implied Alignments : 213 of 399 -- vertices calculated
+Status : test: Implied Alignments : 214 of 399 -- vertices calculated
+Status : test: Implied Alignments : 215 of 399 -- vertices calculated
+Status : test: Implied Alignments : 216 of 399 -- vertices calculated
+Status : test: Implied Alignments : 217 of 399 -- vertices calculated
+Status : test: Implied Alignments : 218 of 399 -- vertices calculated
+Status : test: Implied Alignments : 219 of 399 -- vertices calculated
+Status : test: Implied Alignments : 220 of 399 -- vertices calculated
+Status : test: Implied Alignments : 221 of 399 -- vertices calculated
+Status : test: Implied Alignments : 222 of 399 -- vertices calculated
+Status : test: Implied Alignments : 223 of 399 -- vertices calculated
+Status : test: Implied Alignments : 224 of 399 -- vertices calculated
+Status : test: Implied Alignments : 225 of 399 -- vertices calculated
+Status : test: Implied Alignments : 226 of 399 -- vertices calculated
+Status : test: Implied Alignments : 227 of 399 -- vertices calculated
+Status : test: Implied Alignments : 228 of 399 -- vertices calculated
+Status : test: Implied Alignments : 229 of 399 -- vertices calculated
+Status : test: Implied Alignments : 230 of 399 -- vertices calculated
+Status : test: Implied Alignments : 231 of 399 -- vertices calculated
+Status : test: Implied Alignments : 232 of 399 -- vertices calculated
+Status : test: Implied Alignments : 233 of 399 -- vertices calculated
+Status : test: Implied Alignments : 234 of 399 -- vertices calculated
+Status : test: Implied Alignments : 235 of 399 -- vertices calculated
+Status : test: Implied Alignments : 236 of 399 -- vertices calculated
+Status : test: Implied Alignments : 237 of 399 -- vertices calculated
+Status : test: Implied Alignments : 238 of 399 -- vertices calculated
+Status : test: Implied Alignments : 239 of 399 -- vertices calculated
+Status : test: Implied Alignments : 240 of 399 -- vertices calculated
+Status : test: Implied Alignments : 241 of 399 -- vertices calculated
+Status : test: Implied Alignments : 242 of 399 -- vertices calculated
+Status : test: Implied Alignments : 243 of 399 -- vertices calculated
+Status : test: Implied Alignments : 244 of 399 -- vertices calculated
+Status : test: Implied Alignments : 245 of 399 -- vertices calculated
+Status : test: Implied Alignments : 246 of 399 -- vertices calculated
+Status : test: Implied Alignments : 247 of 399 -- vertices calculated
+Status : test: Implied Alignments : 248 of 399 -- vertices calculated
+Status : test: Implied Alignments : 249 of 399 -- vertices calculated
+Status : test: Implied Alignments : 250 of 399 -- vertices calculated
+Status : test: Implied Alignments : 251 of 399 -- vertices calculated
+Status : test: Implied Alignments : 252 of 399 -- vertices calculated
+Status : test: Implied Alignments : 253 of 399 -- vertices calculated
+Status : test: Implied Alignments : 254 of 399 -- vertices calculated
+Status : test: Implied Alignments : 255 of 399 -- vertices calculated
+Status : test: Implied Alignments : 256 of 399 -- vertices calculated
+Status : test: Implied Alignments : 257 of 399 -- vertices calculated
+Status : test: Implied Alignments : 258 of 399 -- vertices calculated
+Status : test: Implied Alignments : 259 of 399 -- vertices calculated
+Status : test: Implied Alignments : 260 of 399 -- vertices calculated
+Status : test: Implied Alignments : 261 of 399 -- vertices calculated
+Status : test: Implied Alignments : 262 of 399 -- vertices calculated
+Status : test: Implied Alignments : 263 of 399 -- vertices calculated
+Status : test: Implied Alignments : 264 of 399 -- vertices calculated
+Status : test: Implied Alignments : 265 of 399 -- vertices calculated
+Status : test: Implied Alignments : 266 of 399 -- vertices calculated
+Status : test: Implied Alignments : 267 of 399 -- vertices calculated
+Status : test: Implied Alignments : 268 of 399 -- vertices calculated
+Status : test: Implied Alignments : 269 of 399 -- vertices calculated
+Status : test: Implied Alignments : 270 of 399 -- vertices calculated
+Status : test: Implied Alignments : 271 of 399 -- vertices calculated
+Status : test: Implied Alignments : 272 of 399 -- vertices calculated
+Status : test: Implied Alignments : 273 of 399 -- vertices calculated
+Status : test: Implied Alignments : 274 of 399 -- vertices calculated
+Status : test: Implied Alignments : 275 of 399 -- vertices calculated
+Status : test: Implied Alignments : 276 of 399 -- vertices calculated
+Status : test: Implied Alignments : 277 of 399 -- vertices calculated
+Status : test: Implied Alignments : 278 of 399 -- vertices calculated
+Status : test: Implied Alignments : 279 of 399 -- vertices calculated
+Status : test: Implied Alignments : 280 of 399 -- vertices calculated
+Status : test: Implied Alignments : 281 of 399 -- vertices calculated
+Status : test: Implied Alignments : 282 of 399 -- vertices calculated
+Status : test: Implied Alignments : 283 of 399 -- vertices calculated
+Status : test: Implied Alignments : 284 of 399 -- vertices calculated
+Status : test: Implied Alignments : 285 of 399 -- vertices calculated
+Status : test: Implied Alignments : 286 of 399 -- vertices calculated
+Status : test: Implied Alignments : 287 of 399 -- vertices calculated
+Status : test: Implied Alignments : 288 of 399 -- vertices calculated
+Status : test: Implied Alignments : 289 of 399 -- vertices calculated
+Status : test: Implied Alignments : 290 of 399 -- vertices calculated
+Status : test: Implied Alignments : 291 of 399 -- vertices calculated
+Status : test: Implied Alignments : 292 of 399 -- vertices calculated
+Status : test: Implied Alignments : 293 of 399 -- vertices calculated
+Status : test: Implied Alignments : 294 of 399 -- vertices calculated
+Status : test: Implied Alignments : 295 of 399 -- vertices calculated
+Status : test: Implied Alignments : 296 of 399 -- vertices calculated
+Status : test: Implied Alignments : 297 of 399 -- vertices calculated
+Status : test: Implied Alignments : 298 of 399 -- vertices calculated
+Status : test: Implied Alignments : 299 of 399 -- vertices calculated
+Status : test: Implied Alignments : 300 of 399 -- vertices calculated
+Status : test: Implied Alignments : 301 of 399 -- vertices calculated
+Status : test: Implied Alignments : 302 of 399 -- vertices calculated
+Status : test: Implied Alignments : 303 of 399 -- vertices calculated
+Status : test: Implied Alignments : 304 of 399 -- vertices calculated
+Status : test: Implied Alignments : 305 of 399 -- vertices calculated
+Status : test: Implied Alignments : 306 of 399 -- vertices calculated
+Status : test: Implied Alignments : 307 of 399 -- vertices calculated
+Status : test: Implied Alignments : 308 of 399 -- vertices calculated
+Status : test: Implied Alignments : 309 of 399 -- vertices calculated
+Status : test: Implied Alignments : 310 of 399 -- vertices calculated
+Status : test: Implied Alignments : 311 of 399 -- vertices calculated
+Status : test: Implied Alignments : 312 of 399 -- vertices calculated
+Status : test: Implied Alignments : 313 of 399 -- vertices calculated
+Status : test: Implied Alignments : 314 of 399 -- vertices calculated
+Status : test: Implied Alignments : 315 of 399 -- vertices calculated
+Status : test: Implied Alignments : 316 of 399 -- vertices calculated
+Status : test: Implied Alignments : 317 of 399 -- vertices calculated
+Status : test: Implied Alignments : 318 of 399 -- vertices calculated
+Status : test: Implied Alignments : 319 of 399 -- vertices calculated
+Status : test: Implied Alignments : 320 of 399 -- vertices calculated
+Status : test: Implied Alignments : 321 of 399 -- vertices calculated
+Status : test: Implied Alignments : 322 of 399 -- vertices calculated
+Status : test: Implied Alignments : 323 of 399 -- vertices calculated
+Status : test: Implied Alignments : 324 of 399 -- vertices calculated
+Status : test: Implied Alignments : 325 of 399 -- vertices calculated
+Status : test: Implied Alignments : 326 of 399 -- vertices calculated
+Status : test: Implied Alignments : 327 of 399 -- vertices calculated
+Status : test: Implied Alignments : 328 of 399 -- vertices calculated
+Status : test: Implied Alignments : 329 of 399 -- vertices calculated
+Status : test: Implied Alignments : 330 of 399 -- vertices calculated
+Status : test: Implied Alignments : 331 of 399 -- vertices calculated
+Status : test: Implied Alignments : 332 of 399 -- vertices calculated
+Status : test: Implied Alignments : 333 of 399 -- vertices calculated
+Status : test: Implied Alignments : 334 of 399 -- vertices calculated
+Status : test: Implied Alignments : 335 of 399 -- vertices calculated
+Status : test: Implied Alignments : 336 of 399 -- vertices calculated
+Status : test: Implied Alignments : 337 of 399 -- vertices calculated
+Status : test: Implied Alignments : 338 of 399 -- vertices calculated
+Status : test: Implied Alignments : 339 of 399 -- vertices calculated
+Status : test: Implied Alignments : 340 of 399 -- vertices calculated
+Status : test: Implied Alignments : 341 of 399 -- vertices calculated
+Status : test: Implied Alignments : 342 of 399 -- vertices calculated
+Status : test: Implied Alignments : 343 of 399 -- vertices calculated
+Status : test: Implied Alignments : 344 of 399 -- vertices calculated
+Status : test: Implied Alignments : 345 of 399 -- vertices calculated
+Status : test: Implied Alignments : 346 of 399 -- vertices calculated
+Status : test: Implied Alignments : 347 of 399 -- vertices calculated
+Status : test: Implied Alignments : 348 of 399 -- vertices calculated
+Status : test: Implied Alignments : 349 of 399 -- vertices calculated
+Status : test: Implied Alignments : 350 of 399 -- vertices calculated
+Status : test: Implied Alignments : 351 of 399 -- vertices calculated
+Status : test: Implied Alignments : 352 of 399 -- vertices calculated
+Status : test: Implied Alignments : 353 of 399 -- vertices calculated
+Status : test: Implied Alignments : 354 of 399 -- vertices calculated
+Status : test: Implied Alignments : 355 of 399 -- vertices calculated
+Status : test: Implied Alignments : 356 of 399 -- vertices calculated
+Status : test: Implied Alignments : 357 of 399 -- vertices calculated
+Status : test: Implied Alignments : 358 of 399 -- vertices calculated
+Status : test: Implied Alignments : 359 of 399 -- vertices calculated
+Status : test: Implied Alignments : 360 of 399 -- vertices calculated
+Status : test: Implied Alignments : 361 of 399 -- vertices calculated
+Status : test: Implied Alignments : 362 of 399 -- vertices calculated
+Status : test: Implied Alignments : 363 of 399 -- vertices calculated
+Status : test: Implied Alignments : 364 of 399 -- vertices calculated
+Status : test: Implied Alignments : 365 of 399 -- vertices calculated
+Status : test: Implied Alignments : 366 of 399 -- vertices calculated
+Status : test: Implied Alignments : 367 of 399 -- vertices calculated
+Status : test: Implied Alignments : 368 of 399 -- vertices calculated
+Status : test: Implied Alignments : 369 of 399 -- vertices calculated
+Status : test: Implied Alignments : 370 of 399 -- vertices calculated
+Status : test: Implied Alignments : 371 of 399 -- vertices calculated
+Status : test: Implied Alignments : 372 of 399 -- vertices calculated
+Status : test: Implied Alignments : 373 of 399 -- vertices calculated
+Status : test: Implied Alignments : 374 of 399 -- vertices calculated
+Status : test: Implied Alignments : 375 of 399 -- vertices calculated
+Status : test: Implied Alignments : 376 of 399 -- vertices calculated
+Status : test: Implied Alignments : 377 of 399 -- vertices calculated
+Status : test: Implied Alignments : 378 of 399 -- vertices calculated
+Status : test: Implied Alignments : 379 of 399 -- vertices calculated
+Status : test: Implied Alignments : 380 of 399 -- vertices calculated
+Status : test: Implied Alignments : 381 of 399 -- vertices calculated
+Status : test: Implied Alignments : 382 of 399 -- vertices calculated
+Status : test: Implied Alignments : 383 of 399 -- vertices calculated
+Status : test: Implied Alignments : 384 of 399 -- vertices calculated
+Status : test: Implied Alignments : 385 of 399 -- vertices calculated
+Status : test: Implied Alignments : 386 of 399 -- vertices calculated
+Status : test: Implied Alignments : 387 of 399 -- vertices calculated
+Status : test: Implied Alignments : 388 of 399 -- vertices calculated
+Status : test: Implied Alignments : 389 of 399 -- vertices calculated
+Status : test: Implied Alignments : 390 of 399 -- vertices calculated
+Status : test: Implied Alignments : 391 of 399 -- vertices calculated
+Status : test: Implied Alignments : 392 of 399 -- vertices calculated
+Status : test: Implied Alignments : 393 of 399 -- vertices calculated
+Status : test: Implied Alignments : 394 of 399 -- vertices calculated
+Status : test: Implied Alignments : 395 of 399 -- vertices calculated
+Status : test: Implied Alignments : 396 of 399 -- vertices calculated
+Status : test: Implied Alignments : 397 of 399 -- vertices calculated
+Status : test: Implied Alignments Finished
+Status : Static Approximation Finished
+Status :
+Loading Characters : 0 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 1 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 2 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 3 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 4 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 5 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 6 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 7 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 8 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 9 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 32 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 33 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 34 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 35 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 36 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 37 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 38 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 39 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 40 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 41 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 42 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 43 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 44 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 45 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 46 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 47 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 48 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 49 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 50 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 51 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 52 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 53 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 54 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 55 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 56 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 57 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 58 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 59 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 60 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 61 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 62 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 63 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 64 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 65 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 66 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 67 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 68 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 69 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 70 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 71 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 72 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 73 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 74 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 75 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 76 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 77 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 78 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 79 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 80 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 81 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 82 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 83 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 84 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 85 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 86 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 87 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 88 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 89 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 90 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 91 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 92 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 93 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 94 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 95 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 96 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 97 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 98 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 99 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 100 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 101 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 102 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 103 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 104 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 105 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 106 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 107 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 108 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 109 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 110 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 111 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 112 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 113 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 114 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 115 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 116 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 117 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 118 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 119 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 120 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 121 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 122 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 123 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 124 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 125 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 126 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 127 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 128 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 129 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 130 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 131 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 132 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 133 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 134 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 135 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 136 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 137 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 138 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 139 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 140 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 141 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 142 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 143 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 144 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 145 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 146 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 147 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 148 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 149 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 150 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 151 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 152 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 153 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 154 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 155 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 156 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 157 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 158 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 159 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 160 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 161 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 162 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 163 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 164 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 165 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 166 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 167 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 168 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 169 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 170 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 171 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 172 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 173 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 174 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 175 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 176 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 177 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 178 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 179 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 180 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 181 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 182 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 183 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 184 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 185 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 186 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 187 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 188 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 189 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 190 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 191 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 192 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 193 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 194 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 195 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 196 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 197 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 198 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 199 of 200 -- Storing the character specifications
+Status :
+Loading Characters : 200 of 200 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Tree with cost 2359
+  |-----------------------------------------------------------------------3AG_Beijing_1931              
+  |                                                                                                     
+  |   |-------------------------------------------------------------------FJ003_dog_Fujian_2008         
+  |   |                                                                                                 
+  |   |-------------------------------------------------------------------FJ006_dog_Fujian_2008         
+  | |-|                                                                                                 
+  | | |-------------------------------------------------------------------FJ004_dog_Fujian_2008         
+  | | |                                                                                                 
+  | | |-------------------------------------------------------------------FJ005_dog_Fujian_2008         
+  | |                                                                                                   
+  | | |-------------------------------------------------------------------DRV_deer_Jilin_1989           
+  | | |                                                                                                 
+  | | |   |---------------------------------------------------------------Mongolia7_Mongolia_2005       
+  | | |   |                                                                                             
+  | | |   | |-------------------------------------------------------------Mongolia6_Mongolia_2005       
+  | | | |-| |                                                                                           
+  | | | | |-|-------------------------------------------------------------Mongolia3_Mongolia_2005       
+  | | | |   |                                                                                           
+  | | | |   |-------------------------------------------------------------Mongolia4_Mongolia_2005       
+  | | | |                                                                                               
+  | | | |   |-------------------------------------------------------------Sq48_dog_Henan_2005           
+  | | | |   |                                                                                           
+  | | | |   |-------------------------------------------------------------Wg68_dog_Hunan_2004           
+  | | | |   |                                                                                           
+  | | | |   |-------------------------------------------------------------Wg22_dog_Hunan_2004           
+  | | | |   |                                                                                           
+  | | | |   |-------------------------------------------------------------Wx0H_human_Jiangsu_2004       
+  | | | | |-|                                                                                           
+  | | | | | |-------------------------------------------------------------A10_human_Guizhou_2004        
+  | | | | | |                                                                                           
+  | | | | | |-------------------------------------------------------------A158_dog_Guizhou_2004         
+  | | | | | |                                                                                           
+  | | | | | | |-----------------------------------------------------------Sq17_dog_Henan_2005           
+  | | | | | |-|                                                                                         
+  | | | | |   |-----------------------------------------------------------Sq30_dog_Henan_2005           
+  | | | | |                                                                                             
+  | | | | |   |-----------------------------------------------------------MRV_mouse_Henan_1989          
+  | | | | | |-|                                                                                         
+  | | | | | | |-----------------------------------------------------------Yc63_dog_Jiangsu_2004         
+  | | | | | |                                                                                           
+  | | | | | |     |-------------------------------------------------------NNV_Human_India_2008          
+  | | | | | |     |                                                                                     
+  | | | | | |   |-| |-----------------------------------------------------04027AFG_Afghanistan_1996     
+  | | | | | |   | |-|                                                                                   
+  | | | | | |   |   |-----------------------------------------------------9901NEP_Nepal_1998            
+  | | | | | |   |                                                                                       
+  | | | | | |   |   |-----------------------------------------------------NM925_raccoon_Neimeng_2007    
+  | | | | | |   |   |                                                                                   
+  | | | | | |   | |-|-----------------------------------------------------927A_raccoon_Neimeng_2007     
+  | | | | | |   | | |                                                                                   
+  | | | | | |   | | |-----------------------------------------------------927B_raccoon_Neimeng_2007     
+  | | | | | |   | |                                                                                     
+  | | | | | |   | |   |---------------------------------------------------SKRRD9903YG_South_Korea_1999  
+  | | | | | |   | |   |                                                                                 
+  | | | | | |   | |   | |-------------------------------------------------SKRBV0404HC_South_Korea_2004  
+  | | | | | | |-| | |-| |                                                                               
+  | | | | | | | | | | |-|-------------------------------------------------SKRBV0403CW_South_Korea_2004  
+  | | | | | | | | | |   |                                                                               
+  | | | | | | | |-| |   |-------------------------------------------------SKRRD0205HC_South_Korea_2002  
+  | | | | | | |   | |                                                                                   
+  | | | | | | |   | | |---------------------------------------------------SKRBV9801YC_South_Korea_1998  
+  | | | | | | |   |-| |                                                                                 
+  | | | | | | |     | |---------------------------------------------------SKRDG0203CW_South_Korea_2002  
+  | | | | | | |     | |                                                                                 
+  | | | | | | |     |-| |-------------------------------------------------SKRRD9902PJ_South_Korea_1999  
+  | | | | | | |       | |                                                                               
+  | | | | | | |       |-| |-----------------------------------------------SKRDG9901GY_South_Korea_1999  
+  | | | | | | |         |-|                                                                             
+  | | | | | | |           |-----------------------------------------------SKRRD9901PJ_South_Korea_1999  
+  | | | | | | |                                                                                         
+  | | | | | | |     |-----------------------------------------------------9702INDI_India_1997           
+  | | | | | | |   |-|                                                                                   
+  | | | | | | |   | |-----------------------------------------------------AF374721_India_2001           
+  | | | | | | |   |                                                                                     
+  | | | | | | |   | |-----------------------------------------------------1294_Sri_Lanka_1986           
+  | | | | | | |   | |                                                                                   
+  | | | | | | |   | |   |-------------------------------------------------SRL1036_Sri_Lanka_1996        
+  | | | | | | |   | | |-|                                                                               
+  | | | | | | | |-| | | |-------------------------------------------------SRL1060_Sri_Lanka_1996        
+  | | | | | | | | | | |                                                                                 
+  | | | | | | | | |-| | |-------------------------------------------------SRL1143_Sri_Lanka_1996        
+  | | | | | | | |   |-| |                                                                               
+  | | | | | | | |     | |-------------------------------------------------SRL1145_Sri_Lanka_1996        
+  | | | | | | | |     |-|                                                                               
+  | | | | | | | |       |-------------------------------------------------SRL1032_Sri_Lanka_1996        
+  | | | | | | | |       |                                                                               
+  | | | | | | | |       |-------------------------------------------------SRL1077_Sri_Lanka_1996        
+  | | | | | | | |                                                                                       
+  | | | | | | | |     |---------------------------------------------------Tc06_dog_Yunnan_2006          
+  | | | | | | | |     |                                                                                 
+  | | | | | | | |     |   |-----------------------------------------------8738THA_Thailand_1983         
+  | | | | | | | |     | |-|                                                                             
+  | | | | | | | |     | | |-----------------------------------------------8764THA_Thailand_1983         
+  | | | | | | | |     | |                                                                               
+  | | | | | | | |     | |   |---------------------------------------------9913BIR_Myanmar_1999          
+  | | | | | | | |     | | |-|                                                                           
+  | | | | | | | |     | | | |---------------------------------------------9915BIR_Myanmar_1999          
+  | | | | | | | |     | | |                                                                             
+  | | | | | | | |     | | | |---------------------------------------------N11_dog_Guangxi_1997          
+  | | | | | | | |     | | | |                                                                           
+  | | | | | | | |     | | | |     |---------------------------------------02001LAO_Laos_2002            
+  | | | | | | | |     | | | |   |-|                                                                     
+  | | | | | | | |     | | | |   | |---------------------------------------9910LAO_Laos_1999             
+  | | | | | | | |     | | | | |-|                                                                       
+  | | | | | | | |   |-| | | | | | |---------------------------------------9914CBG_Cambodia_1997         
+  | | | | | | | |   | |-| | | | |-|                                                                     
+  | | | | | | | |   |   | | | |   |---------------------------------------GXN119_dog_Guangxi_2004       
+  | | | | | | | |   |   |-| | |                                                                         
+  | | | | | | | |   |     | | |   |---------------------------------------8734THA_Thailand_1983         
+  | | | | | | | |   |     |-| | |-|                                                                     
+  | | | | | | | |   |       | | | |---------------------------------------8743THA_Thailand_1983         
+  | | | | | | | |   |       |-| |                                                                       
+  | | | | | | | |   |         | | |---------------------------------------9908CBG_Cambodia_1999         
+  | | | | | | | |   |         | | |                                                                     
+  | | | | | | | |   |         |-| | |-------------------------------------9911CBG_Cambodia_1998         
+  | | | | | | | |   |           | | |                                                                   
+  | | | | | | | |   |           |-| |-------------------------------------9912CBG_Cambodia_1998         
+  | | | | | | | |   |             |-|                                                                   
+  | | | | | | | |   |               | |-----------------------------------02006CBG_Cambodia_1998        
+  | | | | | | | |   |               |-|                                                                 
+  | | | | | | | |   |                 |-----------------------------------9916CBG_Cambodia_1999         
+  | | | | | | | |   |                                                                                   
+  | | | | | | | |   |   |-------------------------------------------------94273PHI_Philippines_1994     
+  | | | | | | | |   |   |                                                                               
+  | | | | | | | |   |   |   |---------------------------------------------03006PHI_Philippines_2001     
+  | | | | | | | |   |   | |-|                                                                           
+  | | | | | | | |   |   | | |---------------------------------------------03007PHI_Philippines_2001     
+  | | | | | | | |   | |-| |                                                                             
+  | | | | | | | |   | | |-| |---------------------------------------------94280PHI_Philippines_1994     
+  | | | | | | | |   | |   | |                                                                           
+  | | | | | | | |   | |   |-| |-------------------------------------------04030PHI_Philippines_2004     
+  | | | | | | | |   | |     |-|                                                                         
+  | | | | | | | |   | |       |-------------------------------------------94270PHI_Philippines_1994     
+  | | | | | | | |   | |                                                                                 
+  | | | | | | | |   | |     |---------------------------------------------JX08-47_ferret_Jiangxi_2008   
+  | | | | | | | |   | |   |-|                                                                           
+  | | | | | | | |   | |   | |---------------------------------------------JX08-58_ferret_Jiangxi_2008   
+  | | | | | | | |   | |   |                                                                             
+  | | | | | | | |   | |   |   |-------------------------------------------JX08-45_ferret_Jiangxi_2008   
+  | | | | | | | |   | | |-| |-|                                                                         
+  | | | | | | | |   | | | | | |-------------------------------------------JX08-48_ferret_Jiangxi_2008   
+  | | | | | | | |   | | | |-|                                                                           
+  | | | | | | | |   | | |   | |-------------------------------------------ZJ-LA_ferret_Zhejiang_2008    
+  | | | | | | | |   | | |   |-|                                                                         
+  | | | | | | | |   | | |     |-------------------------------------------ZJF1_ferret_Zhejiang_2008     
+  | | | | | | | |   | | |                                                                               
+  | | | | | | | |   | | |   |---------------------------------------------GX01_dog_Guangxi_2004         
+  | | | | | | | |   | | | |-|                                                                           
+  | | | | | | | |   | | | | |---------------------------------------------HuNPN01_pig_Hunan_2005        
+  | | | | | | | | |-| | | |                                                                             
+  | | | | | | | | | | | | |     |-----------------------------------------GXLA_dog_Guangxi_2003         
+  | | | | | | | | | | | | |   |-|                                                                       
+  | | | | | | | | | | | | |   | |-----------------------------------------GXSL_cow_Guangxi_2005         
+  | | | | | | | | | | | | |   |                                                                         
+  | | | | | | | | | | | | |   | |-----------------------------------------GX091_dog_Guangxi_2004        
+  | | | | | | | | | | | | |   | |                                                                       
+  | | | | | | | | | | | | |   | | |---------------------------------------GN07_dog_Guangdong_2007       
+  | | | | | | | | | | | | |   | | |                                                                     
+  | | | | | | | | | | | | |   | | | |-------------------------------------FJ002_dog_Fujian_2008         
+  | | | | | | | | | | | | | |-| | | |                                                                   
+  | | | | | | | | | |-| | | | | | | |-------------------------------------HN10_dog_Hunan_2006           
+  | | | | | | | | |   | | | | |-| | |                                                                   
+  | | | | | | | | |   | | | |   |-| | |-----------------------------------FJ001_dog_Fujian_2008         
+  | | | | | | | | |   | | | |     |-| |                                                                 
+  | | | | | | | | |   | | | |       | | |---------------------------------FJ014_dog_Fujian_2007         
+  | | | | | | | | |   | | | |       |-| |                                                               
+  | | | | | | | | |   |-| | |         |-| |-------------------------------FJ012_dog_Fujian_2007         
+  | | | | | | | | |     | | |           |-|                                                             
+  | | | | | | | | |     | | |             |-------------------------------FJ013_dog_Fujian_2007         
+  | | | | | | | | |     | | |                                                                           
+  | | | | | | | | |     |-| |   |-----------------------------------------GX2_dog_Guangxi_1994          
+  | | | | | | | | |       | | |-|                                                                       
+  | | | | | | | | |       | | | |-----------------------------------------GX4_dog_Guangxi_1994          
+  | | | | | | | | |       | | |                                                                         
+  | | | | | | | | |       | | |   |---------------------------------------LU_deer_Henan_1993            
+  | | | | | | | | |       | | | |-|                                                                     
+  | | | | | | | | |       |-| | | |---------------------------------------Nu_human_Ningxia_1986         
+  | | | | | | | | |         | | |                                                                       
+  | | | | | | | | |         | | | |---------------------------------------GXHX_dog_Guangxi_2005         
+  | | | | | | | | |         | | | |                                                                     
+  | | | | | | | | |         | | | | |-------------------------------------GX195_dog_Guangxi_2004        
+  | | | | | | | | |         | | | |-|                                                                   
+  | | | | | | | | |         |-| | | |-------------------------------------GX260_cow_Guangxi_2004        
+  | | | | | | | | |           | | |                                                                     
+  | | | | | | | | |           |-| | |-------------------------------------GX014_dog_Guangxi_2003        
+  | | | | | | | | |             | |-|                                                                   
+  | | | | | | | | |             |-| |-------------------------------------GXWXp_dog_Guangxi_2005        
+  | | | | | | | | |               |                                                                     
+  | | | | | | | | |               | |-------------------------------------GX08_dog_Guangxi_2003         
+  | | | | | | | | |               |-|                                                                   
+  | | | | | | | | |               | |-------------------------------------GX09_dog_Guangxi_2003         
+  | | | | | | | | |               |                                                                     
+  | | | | | | | | |               | |-------------------------------------A101_dog_Guizhou_2005         
+  | | | | | | | | |               |-|                                                                   
+  | | | | | | | | |                 |-------------------------------------A103_dog_Guizhou_2005         
+  | | | | | | | | |                                                                                     
+  | | | | | | | | |   |---------------------------------------------------CQ92_dog_Chonqqing_1992       
+  | | | | | | | | | |-|                                                                                 
+  | | | | | | | | | | |---------------------------------------------------J_human_Ningxia_1985          
+--| | | | | | | | | |                                                                                   
+  | | | | | | | | | | |---------------------------------------------------03003INDO_Indonesia_2003      
+  |-| | | | | | | | | |                                                                                 
+    | | | | | | | | | | |-------------------------------------------------HNDB18_dog_Hunan_2005         
+    | | | | | | | | | | |                                                                               
+    |-| | | | | | | | | | |-----------------------------------------------HNDB11_dog_Hunan_2005         
+      | | | | | | | | | | |                                                                             
+      |-| | | | | | | | | | |---------------------------------------------HNDB28_dog_Hunan_2005         
+        | | | | | | | | | | |                                                                           
+        | | | | | | | | | | |   |-----------------------------------------Hb10_dog_Henan_2005           
+        | | | | | | | | | | |   |                                                                       
+        | | | | | | | | | | |   | |---------------------------------------FY10_dog_Anhui_2004           
+        | | | | | | | | | | |   | |                                                                     
+        |-| | | | | | | | | |   | |---------------------------------------Sq6_dog_Henan_2005            
+          | | | | | | | | | |   | |                                                                     
+          | | | | | | | | | |   | |---------------------------------------FY7_dog_Anhui_2004            
+          | | | | | | | | | |   | |                                                                     
+          | | | | | | | | | |   | |---------------------------------------FY4_dog_Anhui_2004            
+          |-| | | | | | | | |   | |                                                                     
+            | | | | | | | | |   | |---------------------------------------FY5_dog_Anhui_2004            
+            | | | | | | | | |   | |                                                                     
+            | | | | | | | | |   | |---------------------------------------FY9_dog_Anhui_2004            
+            | | | | | | | | |   | |                                                                     
+            | | | | | | | | |   | | |-------------------------------------Sq59_dog_Henan_2005           
+            | | | | | | | | |   | |-|                                                                   
+            | | | | | | | | |   | | |-------------------------------------Zt07_dog_Yunnan_2007          
+            | | | | | | | | |   | |                                                                     
+            |-| | | | | | | |   | | |-------------------------------------FY13_dog_Anhui_2005           
+              | | | | | | | |   | |-|                                                                   
+              | | | | | | | |   | | |-------------------------------------FY14_dog_Anhui_2005           
+              | | | | | | | |   | |                                                                     
+              | | | | | | | | |-| | |-------------------------------------FY1_dog_Anhui_2004            
+              | | | | | | | | | |-| |                                                                   
+              | | | | | | | | |   | | |-----------------------------------FY6_dog_Anhui_2004            
+              | | | | | | | | |   |-| |                                                                 
+              | | | | | | | | |   | |-| |---------------------------------FY3_dog_Anhui_2004            
+              | | | | | | | | |   |   |-|                                                               
+              | | | | | | | | |   |     |---------------------------------FY8_dog_Anhui_2004            
+              | | | | | | | | |   |                                                                     
+              |-| | | | | | | |   | |-------------------------------------FY16_dog_Anhui_2005           
+                | | | | | | | |   | |                                                                   
+                | | | | | | | |   | | |-----------------------------------FY2_dog_Anhui_2004            
+                | | | | | | | |   |-| |                                                                 
+                | | | | | | | |   | |-| |---------------------------------FY12_dog_Anhui_2005           
+                | | | | | | | |   |   |-|                                                               
+                | | | | | | | |   |     |---------------------------------FY15_dog_Anhui_2005           
+                | | | | | | | |   |                                                                     
+                | | | | | | | |   | |-------------------------------------Sq21_dog_Henan_2005           
+                | | | | | | | |   | |                                                                   
+                | | | | | | | |   | |-------------------------------------Sq10_dog_Henan_2005           
+                | | | | | | | |   |-|                                                                   
+                | | | | | | | |     |-------------------------------------Sq35_dog_Henan_2005           
+                | | | | | | | |     |                                                                   
+                | | | | | | | |     |-------------------------------------Sq9_dog_Henan_2005            
+                | | | | | | | |                                                                         
+                | | | | | | | |   |---------------------------------------WJ_dog_Anhui_1989             
+                | | | | | | | |   |                                                                     
+                | | | | | | | |   | |-------------------------------------H69_dog_Anhui_1969            
+                | | | | | | | |   |-|                                                                   
+                | | | | | | | |   | |-------------------------------------H89_dog_Anhui_1989            
+                | | | | | | | |   |                                                                     
+                | | | | | | | |   | |-------------------------------------FEIDONG_dog_Anhui_1989        
+                | | | | | | | |   | |                                                                   
+                | | | | | | | | |-| |-------------------------------------HeF_dog_Anhui_1989            
+                | | | | | | | | | | |                                                                   
+                | | | | | | | | | | | |-----------------------------------H_dog_Anhui_1989              
+                | | | | | | | | | |-| |                                                                 
+                | | | | | | | | |   | |-----------------------------------SBH_human_Shanghai_1992       
+                | | | | | | | | |   |-|                                                                 
+                | | | | | | | | |     | |---------------------------------FS_dog_Guangxi_1998           
+                | | | | | | | | |     |-|                                                               
+                | | | | | | | | |       |---------------------------------He_dog_Anhui_1989             
+                | | | | | | | | |                                                                       
+                | | | | | | | | |   |-------------------------------------WH5_dog_Hubei_2005            
+                |-| | | | | | | |   |                                                                   
+                  | | | | | | | | |-| |-----------------------------------QC_human_Hubei_2006           
+                  | | | | | | | | | |-|                                                                 
+                  | | | | | | | | |   |-----------------------------------hubei070308_cow_Hubei_2007    
+                  | | | | | | | | |                                                                     
+                  | | | | | | | | | |-------------------------------------HNDB33_dog_Hunan_2006         
+                  | | | | | | | | | |                                                                   
+                  | | | | | | | | | | |-----------------------------------Xx35_dog_Hunan_2004           
+                  | | | | | | | | |-| |                                                                 
+                  | | | | | | | | | |-| |---------------------------------Xx33_dog_Hunan_2004           
+                  | | | | | | | | |   |-|                                                               
+                  | | | | | | | | |     |---------------------------------Xx34_dog_Hunan_2004           
+                  | | | | | | | | |                                                                     
+                  | | | | | | | | | |-------------------------------------HuNDN16_dog_Hunan_2005        
+                  | | | | | | | | | |                                                                   
+                  | | | | | | | | | | |-----------------------------------DK13_dog_Hunan_2004           
+                  | | | | | | | | | | |                                                                 
+                  | | | | | | | | | | |-----------------------------------Wg430_dog_Hunan_2004          
+                  | | | | | | | | | | |                                                                 
+                  | | | | | | | | | | |-----------------------------------A148_dog_Guizhou_2004         
+                  | | | | | | | | | | |                                                                 
+                  | | | | | | | | | | | |---------------------------------Wg12_dog_Hunan_2004           
+                  | | | | | | | | | | |-|                                                               
+                  | | | | | | | | |-| | |---------------------------------Wg27_dog_Hunan_2004           
+                  |-| | | | | | | | |-|                                                                 
+                    | | | | | | | |   | |---------------------------------Wg13_dog_Hunan_2004           
+                    |-| | | | | | |   |-|                                                               
+                      |-| | | | | |   | |---------------------------------Wg26_dog_Hunan_2004           
+                        |-| | | | |   |                                                                 
+                          |-| | | |   | |---------------------------------Wx1_dog_Jiangsu_2005          
+                            | | | |   | |                                                               
+                            | | | |   |-|---------------------------------Wg407_dog_Hunan_2004          
+                            | | | |     |                                                               
+                            | | | |     |---------------------------------Wg432_dog_Hunan_2004          
+                            | | | |                                                                     
+                            | | | |     |---------------------------------JX09-17_ferret_Jiangxi_2009   
+                            | | | |   |-|                                                               
+                            | | | |   | |---------------------------------NC_dog_Jiangxi_2004           
+                            | | | |   |                                                                 
+                            | | | |   |   |-------------------------------GX074_dog_Guangxi_2003        
+                            | | | |   | |-|                                                             
+                            |-| | |   | | |-------------------------------GXBS_dog_Guangxi_2005         
+                              | | |   | |                                                               
+                              | | |   | |   |-----------------------------GX219_dog_Guangxi_2003        
+                              | | |   | | |-|                                                           
+                              | | |   | | | |-----------------------------GX304_cow_Guangxi_2004        
+                              | | |   | | |                                                             
+                              | | |   | | |   |---------------------------Yue1_dog_Guangxi_1997         
+                              | | |   | | | |-|                                                         
+                              | | |   | | | | |---------------------------Yue2_dog_Guangxi_1997         
+                              | | | |-| | | |                                                           
+                              | | | | | | | | |---------------------------gk5_dog_Guizhou_2006          
+                              | | | | |-| | | |                                                         
+                              | | | |   | | | |---------------------------Qj07_dog_Yunnan_2007          
+                              | | | |   |-| | |                                                         
+                              | | | |     | | | |-------------------------GXBM_dog_Guangxi_2003         
+                              | | | |     |-| | |                                                       
+                              |-| | |       | | |-------------------------Yl66_dog_Guangxi_2004         
+                                | | |       |-| |                                                       
+                                | | |         | |-------------------------gg4_dog_Guizhou_2006          
+                                | | |         |-|                                                       
+                                | | |           | |-----------------------Qx2_dog_Guizhou_2004          
+                                | | |           | |                                                     
+                                |-| |           |-|-----------------------Qx1_dog_Guizhou_2004          
+                                  | |             |                                                     
+                                  | |             |-----------------------Qx5_dog_Guizhou_2004          
+                                  | |                                                                   
+                                  | | |-----------------------------------SBD_dog_Shanghai_1992         
+                                  | | |                                                                 
+                                  | | |   |-------------------------------ZJD11_dog_Zhejiang_2008       
+                                  | | |   |                                                             
+                                  | | |   |-------------------------------ZJCA1_dog_Zhejiang_2008       
+                                  | | | |-|                                                             
+                                  | | | | | |-----------------------------BZ-1_dog_Sichuan_2009         
+                                  | | | | |-|                                                           
+                                  | | | |   |-----------------------------HZ-6_dog_Shanxi_2009          
+                                  | | | |                                                               
+                                  | | | | |-------------------------------Wz0H_human_Zhejiang_2006      
+                                  | | | | |                                                             
+                                  | | | | |-------------------------------LH_dog_Zhejiang_2006          
+                                  | | | | |                                                             
+                                  | | | | | |-----------------------------Md06_dog_Yunnan_2006          
+                                  | | | | |-|                                                           
+                                  | | | | | |-----------------------------SH06_dog_Shanghai_2006        
+                                  | | | | |                                                             
+                                  | | | | | |-----------------------------ZJD6_dog_Zhejiang_2008        
+                                  | | | | | |                                                           
+                                  |-| | | | |-----------------------------Wz1H_human_Zhejiang_2008      
+                                    | | | | |                                                           
+                                    | | | | |-----------------------------ZJD3_dog_Zhejiang_2008        
+                                    | | | | |                                                           
+                                    | | | | | |---------------------------ZJD1_dog_Zhejiang_2008        
+                                    | | | |-| |                                                         
+                                    | | | | | |---------------------------ZJD2_dog_Zhejiang_2008        
+                                    | | | | | |                                                         
+                                    | | | | |-|---------------------------ZJD9_dog_Zhejiang_2008        
+                                    |-| | |   |                                                         
+                                      | | |   |---------------------------ZJD10_dog_Zhejiang_2008       
+                                      |-| |   |                                                         
+                                        | |   |---------------------------ZJD8_dog_Zhejiang_2008        
+                                        | |                                                             
+                                        |-| |-----------------------------FJ010_dog_Fujian_2008         
+                                          | |                                                           
+                                          | |-----------------------------JSL26_dog_Jiangsu_2005        
+                                          | |                                                           
+                                          | |-----------------------------JSL27_dog_Jiangsu_2005        
+                                          | |                                                           
+                                          | |-----------------------------FJ008_dog_Fujian_2008         
+                                          | |                                                           
+                                          | |-----------------------------Hu1_human_Beijing_2007        
+                                          | |                                                           
+                                          | | |---------------------------FJ011_dog_Fujian_2008         
+                                          | | |                                                         
+                                          |-|-| |-------------------------JSL29_dog_Jiangsu_2005        
+                                            | |-|                                                       
+                                            |   |-------------------------JSS62_dog_Jiangsu_2005        
+                                            |                                                           
+                                            | |---------------------------BD06_dog_Hebei_2006           
+                                            | |                                                         
+                                            | |---------------------------FJ009_dog_Fujian_2008         
+                                            | |                                                         
+                                            |-|---------------------------WJ07-2_dog_Hebei_2007         
+                                              |                                                         
+                                              |---------------------------GC07_dog_Hebei_2007           
+                                              |                                                         
+                                              |---------------------------Hebei0_H__human_Hebei_2007    

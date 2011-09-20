@@ -1,0 +1,1616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <kml  xmlns="http://earth.google.com/kml/2.0">
+<Document><Name>POY analysis</Name>
+<Style id="00a"><IconStyle><scale>0.35</scale>
+<Icon><href>http://supramap.osu.edu/supramap/images/circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle><scale>0</scale>
+</LabelStyle>
+<LineStyle><width>1.5</width>
+</LineStyle>
+</Style>
+<Style id="00b"><IconStyle><scale>0.75</scale>
+<Icon><href>http://supramap.osu.edu/supramap/images/circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle></LabelStyle>
+<LineStyle><width>1.5</width>
+</LineStyle>
+</Style>
+<Style id="00c"><IconStyle><scale>0.95</scale>
+<Icon><href>http://supramap.osu.edu/supramap/images/circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle></LabelStyle>
+<LineStyle><width>4</width>
+</LineStyle>
+</Style>
+<StyleMap id="00"><Pair><key>normal</key>
+<styleUrl>#00a</styleUrl>
+</Pair>
+<Pair><key>highlight</key>
+<styleUrl>#00c</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="01"><Pair><key>normal</key>
+<styleUrl>#00b</styleUrl>
+</Pair>
+<Pair><key>highlight</key>
+<styleUrl>#00c</styleUrl>
+</Pair>
+</StyleMap>
+<Folder><name>1</name>
+<Folder><name>Tree</name>
+<Placemark id="pm_Cota114"><visibility></visibility>
+<name>Cota114</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.2231</longitude>
+<latitude>-18.193</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_21">21</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_20">20</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Cota114"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Cota114"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2231,-18.193,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2231,-18.193,0. -69.2239189819,-18.1939398438,5468.75 -69.2247379639,-18.1948796875,10937.5 -69.2255569458,-18.1958195312,16406.25 -69.2263759277,-18.196759375,21875. -69.2271949097,-18.1976992187,27343.75 -69.2280138916,-18.1986390625,32812.5 -69.2288328735,-18.1995789063,38281.25 -69.2296518555,-18.20051875,43750. -69.2304708374,-18.2014585938,49218.75 -69.2312898193,-18.2023984375,54687.5 -69.2321088013,-18.2033382813,60156.25 -69.2329277832,-18.204278125,65625. -69.2337467651,-18.2052179688,71093.75 -69.2345657471,-18.2061578125,76562.5 -69.235384729,-18.2070976563,82031.25 -69.2362037109,-18.2080375,87500. -69.2370226929,-18.2089773438,92968.75 -69.2378416748,-18.2099171875,98437.5 -69.2386606567,-18.2108570313,103906.25 -69.2394796387,-18.211796875,109375. -69.2402986206,-18.2127367188,114843.75 -69.2411176025,-18.2136765625,120312.5 -69.2419365845,-18.2146164063,125781.25 -69.2427555664,-18.21555625,131250. -69.2435745483,-18.2164960938,136718.75 -69.2443935303,-18.2174359375,142187.5 -69.2452125122,-18.2183757812,147656.25 -69.2460314941,-18.219315625,153125. -69.2468504761,-18.2202554688,158593.75 -69.247669458,-18.2211953125,164062.5 -69.2484884399,-18.2221351563,169531.25 -69.2493074219,-18.223075,175000. -69.2501264038,-18.2240148438,180468.75 -69.2509453857,-18.2249546875,185937.5 -69.2517643677,-18.2258945313,191406.25 -69.2525833496,-18.226834375,196875. -69.2534023315,-18.2277742188,202343.75 -69.2542213135,-18.2287140625,207812.5 -69.2550402954,-18.2296539063,213281.25 -69.2558592773,-18.23059375,218750. -69.2566782593,-18.2315335938,224218.75 -69.2574972412,-18.2324734375,229687.5 -69.2583162231,-18.2334132812,235156.25 -69.2591352051,-18.234353125,240625. -69.259954187,-18.2352929687,246093.75 -69.2607731689,-18.2362328125,251562.5 -69.2615921509,-18.2371726562,257031.25 -69.2624111328,-18.2381125,262500. -69.2632301147,-18.2390523438,267968.75 -69.2640490967,-18.2399921875,273437.5 -69.2648680786,-18.2409320313,278906.25 -69.2656870605,-18.241871875,284375. -69.2665060425,-18.2428117188,289843.75 -69.2673250244,-18.2437515625,295312.5 -69.2681440063,-18.2446914062,300781.25 -69.2689629883,-18.24563125,306250. -69.2697819702,-18.2465710937,311718.75 -69.2706009521,-18.2475109375,317187.5 -69.2714199341,-18.2484507812,322656.25 -69.272238916,-18.249390625,328125. -69.2730578979,-18.2503304687,333593.75 -69.2738768799,-18.2512703125,339062.5 -69.2746958618,-18.2522101562,344531.25 -69.2755148438,-18.25315,350000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Laus234"><visibility></visibility>
+<name>Laus234</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.3372</longitude>
+<latitude>-18.282</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_20">20</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_17">17</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Laus234"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Laus234"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3372,-18.282,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3372,-18.282,0. -69.3370551514,-18.2824890625,4687.5 -69.3369103027,-18.282978125,9375. -69.3367654541,-18.2834671875,14062.5 -69.3366206055,-18.28395625,18750. -69.3364757568,-18.2844453125,23437.5 -69.3363309082,-18.284934375,28125. -69.3361860596,-18.2854234375,32812.5 -69.3360412109,-18.2859125,37500. -69.3358963623,-18.2864015625,42187.5 -69.3357515137,-18.286890625,46875. -69.335606665,-18.2873796875,51562.5 -69.3354618164,-18.28786875,56250. -69.3353169678,-18.2883578125,60937.5 -69.3351721191,-18.288846875,65625. -69.3350272705,-18.2893359375,70312.5 -69.3348824219,-18.289825,75000. -69.3347375732,-18.2903140625,79687.5 -69.3345927246,-18.290803125,84375. -69.334447876,-18.2912921875,89062.5 -69.3343030273,-18.29178125,93750. -69.3341581787,-18.2922703125,98437.5 -69.3340133301,-18.292759375,103125. -69.3338684814,-18.2932484375,107812.5 -69.3337236328,-18.2937375,112500. -69.3335787842,-18.2942265625,117187.5 -69.3334339355,-18.294715625,121875. -69.3332890869,-18.2952046875,126562.5 -69.3331442383,-18.29569375,131250. -69.3329993896,-18.2961828125,135937.5 -69.332854541,-18.296671875,140625. -69.3327096924,-18.2971609375,145312.5 -69.3325648437,-18.29765,150000. -69.3324199951,-18.2981390625,154687.5 -69.3322751465,-18.298628125,159375. -69.3321302979,-18.2991171875,164062.5 -69.3319854492,-18.29960625,168750. -69.3318406006,-18.3000953125,173437.5 -69.331695752,-18.300584375,178125. -69.3315509033,-18.3010734375,182812.5 -69.3314060547,-18.3015625,187500. -69.3312612061,-18.3020515625,192187.5 -69.3311163574,-18.302540625,196875. -69.3309715088,-18.3030296875,201562.5 -69.3308266602,-18.30351875,206250. -69.3306818115,-18.3040078125,210937.5 -69.3305369629,-18.304496875,215625. -69.3303921143,-18.3049859375,220312.5 -69.3302472656,-18.305475,225000. -69.330102417,-18.3059640625,229687.5 -69.3299575684,-18.306453125,234375. -69.3298127197,-18.3069421875,239062.5 -69.3296678711,-18.30743125,243750. -69.3295230225,-18.3079203125,248437.5 -69.3293781738,-18.308409375,253125. -69.3292333252,-18.3088984375,257812.5 -69.3290884766,-18.3093875,262500. -69.3289436279,-18.3098765625,267187.5 -69.3287987793,-18.310365625,271875. -69.3286539307,-18.3108546875,276562.5 -69.328509082,-18.31134375,281250. -69.3283642334,-18.3118328125,285937.5 -69.3282193848,-18.312321875,290625. -69.3280745361,-18.3128109375,295312.5 -69.3279296875,-18.3133,300000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Lau307"><visibility></visibility>
+<name>Lau307</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.312</longitude>
+<latitude>-18.4262</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_18">18</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_19">19</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Lau307"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Lau307"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.312,-18.4262,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.312,-18.4262,0. -69.312,-18.4262,1562.5 -69.312,-18.4262,3125. -69.312,-18.4262,4687.5 -69.312,-18.4262,6250. -69.312,-18.4262,7812.5 -69.312,-18.4262,9375. -69.312,-18.4262,10937.5 -69.312,-18.4262,12500. -69.312,-18.4262,14062.5 -69.312,-18.4262,15625. -69.312,-18.4262,17187.5 -69.312,-18.4262,18750. -69.312,-18.4262,20312.5 -69.312,-18.4262,21875. -69.312,-18.4262,23437.5 -69.312,-18.4262,25000. -69.312,-18.4262,26562.5 -69.312,-18.4262,28125. -69.312,-18.4262,29687.5 -69.312,-18.4262,31250. -69.312,-18.4262,32812.5 -69.312,-18.4262,34375. -69.312,-18.4262,35937.5 -69.312,-18.4262,37500. -69.312,-18.4262,39062.5 -69.312,-18.4262,40625. -69.312,-18.4262,42187.5 -69.312,-18.4262,43750. -69.312,-18.4262,45312.5 -69.312,-18.4262,46875. -69.312,-18.4262,48437.5 -69.312,-18.4262,50000. -69.312,-18.4262,51562.5 -69.312,-18.4262,53125. -69.312,-18.4262,54687.5 -69.312,-18.4262,56250. -69.312,-18.4262,57812.5 -69.312,-18.4262,59375. -69.312,-18.4262,60937.5 -69.312,-18.4262,62500. -69.312,-18.4262,64062.5 -69.312,-18.4262,65625. -69.312,-18.4262,67187.5 -69.312,-18.4262,68750. -69.312,-18.4262,70312.5 -69.312,-18.4262,71875. -69.312,-18.4262,73437.5 -69.312,-18.4262,75000. -69.312,-18.4262,76562.5 -69.312,-18.4262,78125. -69.312,-18.4262,79687.5 -69.312,-18.4262,81250. -69.312,-18.4262,82812.5 -69.312,-18.4262,84375. -69.312,-18.4262,85937.5 -69.312,-18.4262,87500. -69.312,-18.4262,89062.5 -69.312,-18.4262,90625. -69.312,-18.4262,92187.5 -69.312,-18.4262,93750. -69.312,-18.4262,95312.5 -69.312,-18.4262,96875. -69.312,-18.4262,98437.5 -69.312,-18.4262,100000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Lau308"><visibility></visibility>
+<name>Lau308</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.311</longitude>
+<latitude>-18.4263</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_19">19</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Lau306">Lau306</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:269</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Lau308"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Lau308"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.311,-18.4263,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.311,-18.4263,0. -69.311015625,-18.4262984375,781.25 -69.31103125,-18.426296875,1562.5 -69.311046875,-18.4262953125,2343.75 -69.3110625,-18.42629375,3125. -69.311078125,-18.4262921875,3906.25 -69.31109375,-18.426290625,4687.5 -69.311109375,-18.4262890625,5468.75 -69.311125,-18.4262875,6250. -69.311140625,-18.4262859375,7031.25 -69.31115625,-18.426284375,7812.5 -69.311171875,-18.4262828125,8593.75 -69.3111875,-18.42628125,9375. -69.311203125,-18.4262796875,10156.25 -69.31121875,-18.426278125,10937.5 -69.311234375,-18.4262765625,11718.75 -69.31125,-18.426275,12500. -69.311265625,-18.4262734375,13281.25 -69.31128125,-18.426271875,14062.5 -69.311296875,-18.4262703125,14843.75 -69.3113125,-18.42626875,15625. -69.311328125,-18.4262671875,16406.25 -69.31134375,-18.426265625,17187.5 -69.311359375,-18.4262640625,17968.75 -69.311375,-18.4262625,18750. -69.311390625,-18.4262609375,19531.25 -69.31140625,-18.426259375,20312.5 -69.311421875,-18.4262578125,21093.75 -69.3114375,-18.42625625,21875. -69.311453125,-18.4262546875,22656.25 -69.31146875,-18.426253125,23437.5 -69.311484375,-18.4262515625,24218.75 -69.3115,-18.42625,25000. -69.311515625,-18.4262484375,25781.25 -69.31153125,-18.426246875,26562.5 -69.311546875,-18.4262453125,27343.75 -69.3115625,-18.42624375,28125. -69.311578125,-18.4262421875,28906.25 -69.31159375,-18.426240625,29687.5 -69.311609375,-18.4262390625,30468.75 -69.311625,-18.4262375,31250. -69.311640625,-18.4262359375,32031.25 -69.31165625,-18.426234375,32812.5 -69.311671875,-18.4262328125,33593.75 -69.3116875,-18.42623125,34375. -69.311703125,-18.4262296875,35156.25 -69.31171875,-18.426228125,35937.5 -69.311734375,-18.4262265625,36718.75 -69.31175,-18.426225,37500. -69.311765625,-18.4262234375,38281.25 -69.31178125,-18.426221875,39062.5 -69.311796875,-18.4262203125,39843.75 -69.3118125,-18.42621875,40625. -69.311828125,-18.4262171875,41406.25 -69.31184375,-18.426215625,42187.5 -69.311859375,-18.4262140625,42968.75 -69.311875,-18.4262125,43750. -69.311890625,-18.4262109375,44531.25 -69.31190625,-18.426209375,45312.5 -69.311921875,-18.4262078125,46093.75 -69.3119375,-18.42620625,46875. -69.311953125,-18.4262046875,47656.25 -69.31196875,-18.426203125,48437.5 -69.311984375,-18.4262015625,49218.75 -69.312,-18.4262,50000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Lau306"><visibility></visibility>
+<name>Lau306</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.313</longitude>
+<latitude>-18.4261</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_19">19</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Lau308">Lau308</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Lau306"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Lau306"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.313,-18.4261,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.313,-18.4261,0. -69.312984375,-18.4261015625,781.25 -69.31296875,-18.426103125,1562.5 -69.312953125,-18.4261046875,2343.75 -69.3129375,-18.42610625,3125. -69.312921875,-18.4261078125,3906.25 -69.31290625,-18.426109375,4687.5 -69.312890625,-18.4261109375,5468.75 -69.312875,-18.4261125,6250. -69.312859375,-18.4261140625,7031.25 -69.31284375,-18.426115625,7812.5 -69.312828125,-18.4261171875,8593.75 -69.3128125,-18.42611875,9375. -69.312796875,-18.4261203125,10156.25 -69.31278125,-18.426121875,10937.5 -69.312765625,-18.4261234375,11718.75 -69.31275,-18.426125,12500. -69.312734375,-18.4261265625,13281.25 -69.31271875,-18.426128125,14062.5 -69.312703125,-18.4261296875,14843.75 -69.3126875,-18.42613125,15625. -69.312671875,-18.4261328125,16406.25 -69.31265625,-18.426134375,17187.5 -69.312640625,-18.4261359375,17968.75 -69.312625,-18.4261375,18750. -69.312609375,-18.4261390625,19531.25 -69.31259375,-18.426140625,20312.5 -69.312578125,-18.4261421875,21093.75 -69.3125625,-18.42614375,21875. -69.312546875,-18.4261453125,22656.25 -69.31253125,-18.426146875,23437.5 -69.312515625,-18.4261484375,24218.75 -69.3125,-18.42615,25000. -69.312484375,-18.4261515625,25781.25 -69.31246875,-18.426153125,26562.5 -69.312453125,-18.4261546875,27343.75 -69.3124375,-18.42615625,28125. -69.312421875,-18.4261578125,28906.25 -69.31240625,-18.426159375,29687.5 -69.312390625,-18.4261609375,30468.75 -69.312375,-18.4261625,31250. -69.312359375,-18.4261640625,32031.25 -69.31234375,-18.426165625,32812.5 -69.312328125,-18.4261671875,33593.75 -69.3123125,-18.42616875,34375. -69.312296875,-18.4261703125,35156.25 -69.31228125,-18.426171875,35937.5 -69.312265625,-18.4261734375,36718.75 -69.31225,-18.426175,37500. -69.312234375,-18.4261765625,38281.25 -69.31221875,-18.426178125,39062.5 -69.312203125,-18.4261796875,39843.75 -69.3121875,-18.42618125,40625. -69.312171875,-18.4261828125,41406.25 -69.31215625,-18.426184375,42187.5 -69.312140625,-18.4261859375,42968.75 -69.312125,-18.4261875,43750. -69.312109375,-18.4261890625,44531.25 -69.31209375,-18.426190625,45312.5 -69.312078125,-18.4261921875,46093.75 -69.3120625,-18.42619375,46875. -69.312046875,-18.4261953125,47656.25 -69.31203125,-18.426196875,48437.5 -69.312015625,-18.4261984375,49218.75 -69.312,-18.4262,50000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_19"><visibility></visibility>
+<name>19</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.312</longitude>
+<latitude>-18.4262</latitude>
+<altitude>50000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_18">18</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Lau307">Lau307</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Lau306">Lau306</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Lau308">Lau308</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_19"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="19"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.312,-18.4262,50000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.312,-18.4262,50000. -69.312,-18.4262,50781.25 -69.312,-18.4262,51562.5 -69.312,-18.4262,52343.75 -69.312,-18.4262,53125. -69.312,-18.4262,53906.25 -69.312,-18.4262,54687.5 -69.312,-18.4262,55468.75 -69.312,-18.4262,56250. -69.312,-18.4262,57031.25 -69.312,-18.4262,57812.5 -69.312,-18.4262,58593.75 -69.312,-18.4262,59375. -69.312,-18.4262,60156.25 -69.312,-18.4262,60937.5 -69.312,-18.4262,61718.75 -69.312,-18.4262,62500. -69.312,-18.4262,63281.25 -69.312,-18.4262,64062.5 -69.312,-18.4262,64843.75 -69.312,-18.4262,65625. -69.312,-18.4262,66406.25 -69.312,-18.4262,67187.5 -69.312,-18.4262,67968.75 -69.312,-18.4262,68750. -69.312,-18.4262,69531.25 -69.312,-18.4262,70312.5 -69.312,-18.4262,71093.75 -69.312,-18.4262,71875. -69.312,-18.4262,72656.25 -69.312,-18.4262,73437.5 -69.312,-18.4262,74218.75 -69.312,-18.4262,75000. -69.312,-18.4262,75781.25 -69.312,-18.4262,76562.5 -69.312,-18.4262,77343.75 -69.312,-18.4262,78125. -69.312,-18.4262,78906.25 -69.312,-18.4262,79687.5 -69.312,-18.4262,80468.75 -69.312,-18.4262,81250. -69.312,-18.4262,82031.25 -69.312,-18.4262,82812.5 -69.312,-18.4262,83593.75 -69.312,-18.4262,84375. -69.312,-18.4262,85156.25 -69.312,-18.4262,85937.5 -69.312,-18.4262,86718.75 -69.312,-18.4262,87500. -69.312,-18.4262,88281.25 -69.312,-18.4262,89062.5 -69.312,-18.4262,89843.75 -69.312,-18.4262,90625. -69.312,-18.4262,91406.25 -69.312,-18.4262,92187.5 -69.312,-18.4262,92968.75 -69.312,-18.4262,93750. -69.312,-18.4262,94531.25 -69.312,-18.4262,95312.5 -69.312,-18.4262,96093.75 -69.312,-18.4262,96875. -69.312,-18.4262,97656.25 -69.312,-18.4262,98437.5 -69.312,-18.4262,99218.75 -69.312,-18.4262,100000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_18"><visibility></visibility>
+<name>18</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.312</longitude>
+<latitude>-18.4262</latitude>
+<altitude>100000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_17">17</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_16">16</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_19">19</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Lau307">Lau307</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:28</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:407</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:411</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:417</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:462</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:485</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:579</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:625</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/fabypmor/259/pruebaarbol.txt:ia:697</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_18"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="18"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.312,-18.4262,100000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.312,-18.4262,100000. -69.3121040527,-18.424925,102343.75 -69.3122081055,-18.42365,104687.5 -69.3123121582,-18.422375,107031.25 -69.3124162109,-18.4211,109375. -69.3125202637,-18.419825,111718.75 -69.3126243164,-18.41855,114062.5 -69.3127283691,-18.417275,116406.25 -69.3128324219,-18.416,118750. -69.3129364746,-18.414725,121093.75 -69.3130405273,-18.41345,123437.5 -69.3131445801,-18.412175,125781.25 -69.3132486328,-18.4109,128125. -69.3133526855,-18.409625,130468.75 -69.3134567383,-18.40835,132812.5 -69.313560791,-18.407075,135156.25 -69.3136648438,-18.4058,137500. -69.3137688965,-18.404525,139843.75 -69.3138729492,-18.40325,142187.5 -69.313977002,-18.401975,144531.25 -69.3140810547,-18.4007,146875. -69.3141851074,-18.399425,149218.75 -69.3142891602,-18.39815,151562.5 -69.3143932129,-18.396875,153906.25 -69.3144972656,-18.3956,156250. -69.3146013184,-18.394325,158593.75 -69.3147053711,-18.39305,160937.5 -69.3148094238,-18.391775,163281.25 -69.3149134766,-18.3905,165625. -69.3150175293,-18.389225,167968.75 -69.315121582,-18.38795,170312.5 -69.3152256348,-18.386675,172656.25 -69.3153296875,-18.3854,175000. -69.3154337402,-18.384125,177343.75 -69.315537793,-18.38285,179687.5 -69.3156418457,-18.381575,182031.25 -69.3157458984,-18.3803,184375. -69.3158499512,-18.379025,186718.75 -69.3159540039,-18.37775,189062.5 -69.3160580566,-18.376475,191406.25 -69.3161621094,-18.3752,193750. -69.3162661621,-18.373925,196093.75 -69.3163702148,-18.37265,198437.5 -69.3164742676,-18.371375,200781.25 -69.3165783203,-18.3701,203125. -69.316682373,-18.368825,205468.75 -69.3167864258,-18.36755,207812.5 -69.3168904785,-18.366275,210156.25 -69.3169945313,-18.365,212500. -69.317098584,-18.363725,214843.75 -69.3172026367,-18.36245,217187.5 -69.3173066895,-18.361175,219531.25 -69.3174107422,-18.3599,221875. -69.3175147949,-18.358625,224218.75 -69.3176188477,-18.35735,226562.5 -69.3177229004,-18.356075,228906.25 -69.3178269531,-18.3548,231250. -69.3179310059,-18.353525,233593.75 -69.3180350586,-18.35225,235937.5 -69.3181391113,-18.350975,238281.25 -69.3182431641,-18.3497,240625. -69.3183472168,-18.348425,242968.75 -69.3184512695,-18.34715,245312.5 -69.3185553223,-18.345875,247656.25 -69.318659375,-18.3446,250000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Laus226"><visibility></visibility>
+<name>Laus226</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.3373</longitude>
+<latitude>-18.281</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_16">16</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_15">15</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Laus226"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Laus226"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3373,-18.281,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3373,-18.281,0. -69.337112793,-18.28071875,3125. -69.3369255859,-18.2804375,6250. -69.3367383789,-18.28015625,9375. -69.3365511719,-18.279875,12500. -69.3363639648,-18.27959375,15625. -69.3361767578,-18.2793125,18750. -69.3359895508,-18.27903125,21875. -69.3358023438,-18.27875,25000. -69.3356151367,-18.27846875,28125. -69.3354279297,-18.2781875,31250. -69.3352407227,-18.27790625,34375. -69.3350535156,-18.277625,37500. -69.3348663086,-18.27734375,40625. -69.3346791016,-18.2770625,43750. -69.3344918945,-18.27678125,46875. -69.3343046875,-18.2765,50000. -69.3341174805,-18.27621875,53125. -69.3339302734,-18.2759375,56250. -69.3337430664,-18.27565625,59375. -69.3335558594,-18.275375,62500. -69.3333686523,-18.27509375,65625. -69.3331814453,-18.2748125,68750. -69.3329942383,-18.27453125,71875. -69.3328070313,-18.27425,75000. -69.3326198242,-18.27396875,78125. -69.3324326172,-18.2736875,81250. -69.3322454102,-18.27340625,84375. -69.3320582031,-18.273125,87500. -69.3318709961,-18.27284375,90625. -69.3316837891,-18.2725625,93750. -69.331496582,-18.27228125,96875. -69.331309375,-18.272,100000. -69.331122168,-18.27171875,103125. -69.3309349609,-18.2714375,106250. -69.3307477539,-18.27115625,109375. -69.3305605469,-18.270875,112500. -69.3303733398,-18.27059375,115625. -69.3301861328,-18.2703125,118750. -69.3299989258,-18.27003125,121875. -69.3298117187,-18.26975,125000. -69.3296245117,-18.26946875,128125. -69.3294373047,-18.2691875,131250. -69.3292500977,-18.26890625,134375. -69.3290628906,-18.268625,137500. -69.3288756836,-18.26834375,140625. -69.3286884766,-18.2680625,143750. -69.3285012695,-18.26778125,146875. -69.3283140625,-18.2675,150000. -69.3281268555,-18.26721875,153125. -69.3279396484,-18.2669375,156250. -69.3277524414,-18.26665625,159375. -69.3275652344,-18.266375,162500. -69.3273780273,-18.26609375,165625. -69.3271908203,-18.2658125,168750. -69.3270036133,-18.26553125,171875. -69.3268164063,-18.26525,175000. -69.3266291992,-18.26496875,178125. -69.3264419922,-18.2646875,181250. -69.3262547852,-18.26440625,184375. -69.3260675781,-18.264125,187500. -69.3258803711,-18.26384375,190625. -69.3256931641,-18.2635625,193750. -69.325505957,-18.26328125,196875. -69.32531875,-18.263,200000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Laus236"><visibility></visibility>
+<name>Laus236</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.3371</longitude>
+<latitude>-18.283</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_15">15</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_14">14</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Laus236"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Laus236"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3371,-18.283,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3371,-18.283,0. -69.3367287109,-18.28240625,2343.75 -69.3363574219,-18.2818125,4687.5 -69.3359861328,-18.28121875,7031.25 -69.3356148437,-18.280625,9375. -69.3352435547,-18.28003125,11718.75 -69.3348722656,-18.2794375,14062.5 -69.3345009766,-18.27884375,16406.25 -69.3341296875,-18.27825,18750. -69.3337583984,-18.27765625,21093.75 -69.3333871094,-18.2770625,23437.5 -69.3330158203,-18.27646875,25781.25 -69.3326445312,-18.275875,28125. -69.3322732422,-18.27528125,30468.75 -69.3319019531,-18.2746875,32812.5 -69.3315306641,-18.27409375,35156.25 -69.331159375,-18.2735,37500. -69.3307880859,-18.27290625,39843.75 -69.3304167969,-18.2723125,42187.5 -69.3300455078,-18.27171875,44531.25 -69.3296742188,-18.271125,46875. -69.3293029297,-18.27053125,49218.75 -69.3289316406,-18.2699375,51562.5 -69.3285603516,-18.26934375,53906.25 -69.3281890625,-18.26875,56250. -69.3278177734,-18.26815625,58593.75 -69.3274464844,-18.2675625,60937.5 -69.3270751953,-18.26696875,63281.25 -69.3267039063,-18.266375,65625. -69.3263326172,-18.26578125,67968.75 -69.3259613281,-18.2651875,70312.5 -69.3255900391,-18.26459375,72656.25 -69.32521875,-18.264,75000. -69.3248474609,-18.26340625,77343.75 -69.3244761719,-18.2628125,79687.5 -69.3241048828,-18.26221875,82031.25 -69.3237335938,-18.261625,84375. -69.3233623047,-18.26103125,86718.75 -69.3229910156,-18.2604375,89062.5 -69.3226197266,-18.25984375,91406.25 -69.3222484375,-18.25925,93750. -69.3218771484,-18.25865625,96093.75 -69.3215058594,-18.2580625,98437.5 -69.3211345703,-18.25746875,100781.25 -69.3207632813,-18.256875,103125. -69.3203919922,-18.25628125,105468.75 -69.3200207031,-18.2556875,107812.5 -69.3196494141,-18.25509375,110156.25 -69.319278125,-18.2545,112500. -69.3189068359,-18.25390625,114843.75 -69.3185355469,-18.2533125,117187.5 -69.3181642578,-18.25271875,119531.25 -69.3177929688,-18.252125,121875. -69.3174216797,-18.25153125,124218.75 -69.3170503906,-18.2509375,126562.5 -69.3166791016,-18.25034375,128906.25 -69.3163078125,-18.24975,131250. -69.3159365234,-18.24915625,133593.75 -69.3155652344,-18.2485625,135937.5 -69.3151939453,-18.24796875,138281.25 -69.3148226563,-18.247375,140625. -69.3144513672,-18.24678125,142968.75 -69.3140800781,-18.2461875,145312.5 -69.3137087891,-18.24559375,147656.25 -69.3133375,-18.245,150000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Laus101"><visibility></visibility>
+<name>Laus101</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.312</longitude>
+<latitude>-18.212</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_14">14</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_13">13</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Laus101"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Laus101"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.312,-18.212,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.312,-18.212,0. -69.3116496094,-18.211921875,1562.5 -69.3112992188,-18.21184375,3125. -69.3109488281,-18.211765625,4687.5 -69.3105984375,-18.2116875,6250. -69.3102480469,-18.211609375,7812.5 -69.3098976563,-18.21153125,9375. -69.3095472656,-18.211453125,10937.5 -69.309196875,-18.211375,12500. -69.3088464844,-18.211296875,14062.5 -69.3084960937,-18.21121875,15625. -69.3081457031,-18.211140625,17187.5 -69.3077953125,-18.2110625,18750. -69.3074449219,-18.210984375,20312.5 -69.3070945312,-18.21090625,21875. -69.3067441406,-18.210828125,23437.5 -69.30639375,-18.21075,25000. -69.3060433594,-18.210671875,26562.5 -69.3056929688,-18.21059375,28125. -69.3053425781,-18.210515625,29687.5 -69.3049921875,-18.2104375,31250. -69.3046417969,-18.210359375,32812.5 -69.3042914063,-18.21028125,34375. -69.3039410156,-18.210203125,35937.5 -69.303590625,-18.210125,37500. -69.3032402344,-18.210046875,39062.5 -69.3028898437,-18.20996875,40625. -69.3025394531,-18.209890625,42187.5 -69.3021890625,-18.2098125,43750. -69.3018386719,-18.209734375,45312.5 -69.3014882812,-18.20965625,46875. -69.3011378906,-18.209578125,48437.5 -69.3007875,-18.2095,50000. -69.3004371094,-18.209421875,51562.5 -69.3000867188,-18.20934375,53125. -69.2997363281,-18.209265625,54687.5 -69.2993859375,-18.2091875,56250. -69.2990355469,-18.209109375,57812.5 -69.2986851563,-18.20903125,59375. -69.2983347656,-18.208953125,60937.5 -69.297984375,-18.208875,62500. -69.2976339844,-18.208796875,64062.5 -69.2972835937,-18.20871875,65625. -69.2969332031,-18.208640625,67187.5 -69.2965828125,-18.2085625,68750. -69.2962324219,-18.208484375,70312.5 -69.2958820312,-18.20840625,71875. -69.2955316406,-18.208328125,73437.5 -69.29518125,-18.20825,75000. -69.2948308594,-18.208171875,76562.5 -69.2944804688,-18.20809375,78125. -69.2941300781,-18.208015625,79687.5 -69.2937796875,-18.2079375,81250. -69.2934292969,-18.207859375,82812.5 -69.2930789063,-18.20778125,84375. -69.2927285156,-18.207703125,85937.5 -69.292378125,-18.207625,87500. -69.2920277344,-18.207546875,89062.5 -69.2916773437,-18.20746875,90625. -69.2913269531,-18.207390625,92187.5 -69.2909765625,-18.2073125,93750. -69.2906261719,-18.207234375,95312.5 -69.2902757812,-18.20715625,96875. -69.2899253906,-18.207078125,98437.5 -69.289575,-18.207,100000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Cota112"><visibility></visibility>
+<name>Cota112</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.2233</longitude>
+<latitude>-18.191</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_13">13</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Laus102">Laus102</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Cota112"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Cota112"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2233,-18.191,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2233,-18.191,0. -69.2239851562,-18.191171875,781.25 -69.2246703125,-18.19134375,1562.5 -69.2253554687,-18.191515625,2343.75 -69.226040625,-18.1916875,3125. -69.2267257812,-18.191859375,3906.25 -69.2274109375,-18.19203125,4687.5 -69.2280960937,-18.192203125,5468.75 -69.22878125,-18.192375,6250. -69.2294664062,-18.192546875,7031.25 -69.2301515625,-18.19271875,7812.5 -69.2308367187,-18.192890625,8593.75 -69.231521875,-18.1930625,9375. -69.2322070312,-18.193234375,10156.25 -69.2328921875,-18.19340625,10937.5 -69.2335773437,-18.193578125,11718.75 -69.2342625,-18.19375,12500. -69.2349476563,-18.193921875,13281.25 -69.2356328125,-18.19409375,14062.5 -69.2363179688,-18.194265625,14843.75 -69.237003125,-18.1944375,15625. -69.2376882813,-18.194609375,16406.25 -69.2383734375,-18.19478125,17187.5 -69.2390585938,-18.194953125,17968.75 -69.23974375,-18.195125,18750. -69.2404289063,-18.195296875,19531.25 -69.2411140625,-18.19546875,20312.5 -69.2417992188,-18.195640625,21093.75 -69.242484375,-18.1958125,21875. -69.2431695313,-18.195984375,22656.25 -69.2438546875,-18.19615625,23437.5 -69.2445398438,-18.196328125,24218.75 -69.245225,-18.1965,25000. -69.2459101563,-18.196671875,25781.25 -69.2465953125,-18.19684375,26562.5 -69.2472804688,-18.197015625,27343.75 -69.247965625,-18.1971875,28125. -69.2486507813,-18.197359375,28906.25 -69.2493359375,-18.19753125,29687.5 -69.2500210938,-18.197703125,30468.75 -69.25070625,-18.197875,31250. -69.2513914063,-18.198046875,32031.25 -69.2520765625,-18.19821875,32812.5 -69.2527617188,-18.198390625,33593.75 -69.253446875,-18.1985625,34375. -69.2541320313,-18.198734375,35156.25 -69.2548171875,-18.19890625,35937.5 -69.2555023438,-18.199078125,36718.75 -69.2561875,-18.19925,37500. -69.2568726563,-18.199421875,38281.25 -69.2575578125,-18.19959375,39062.5 -69.2582429688,-18.199765625,39843.75 -69.258928125,-18.1999375,40625. -69.2596132813,-18.200109375,41406.25 -69.2602984375,-18.20028125,42187.5 -69.2609835938,-18.200453125,42968.75 -69.26166875,-18.200625,43750. -69.2623539063,-18.200796875,44531.25 -69.2630390625,-18.20096875,45312.5 -69.2637242188,-18.201140625,46093.75 -69.264409375,-18.2013125,46875. -69.2650945313,-18.201484375,47656.25 -69.2657796875,-18.20165625,48437.5 -69.2664648438,-18.201828125,49218.75 -69.26715,-18.202,50000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Laus102"><visibility></visibility>
+<name>Laus102</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.311</longitude>
+<latitude>-18.213</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_13">13</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Cota112">Cota112</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Laus102"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Laus102"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.311,-18.213,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.311,-18.213,0. -69.3103148438,-18.212828125,781.25 -69.3096296875,-18.21265625,1562.5 -69.3089445313,-18.212484375,2343.75 -69.308259375,-18.2123125,3125. -69.3075742188,-18.212140625,3906.25 -69.3068890625,-18.21196875,4687.5 -69.3062039063,-18.211796875,5468.75 -69.30551875,-18.211625,6250. -69.3048335938,-18.211453125,7031.25 -69.3041484375,-18.21128125,7812.5 -69.3034632813,-18.211109375,8593.75 -69.302778125,-18.2109375,9375. -69.3020929688,-18.210765625,10156.25 -69.3014078125,-18.21059375,10937.5 -69.3007226563,-18.210421875,11718.75 -69.3000375,-18.21025,12500. -69.2993523438,-18.210078125,13281.25 -69.2986671875,-18.20990625,14062.5 -69.2979820313,-18.209734375,14843.75 -69.297296875,-18.2095625,15625. -69.2966117188,-18.209390625,16406.25 -69.2959265625,-18.20921875,17187.5 -69.2952414062,-18.209046875,17968.75 -69.29455625,-18.208875,18750. -69.2938710937,-18.208703125,19531.25 -69.2931859375,-18.20853125,20312.5 -69.2925007812,-18.208359375,21093.75 -69.291815625,-18.2081875,21875. -69.2911304687,-18.208015625,22656.25 -69.2904453125,-18.20784375,23437.5 -69.2897601562,-18.207671875,24218.75 -69.289075,-18.2075,25000. -69.2883898437,-18.207328125,25781.25 -69.2877046875,-18.20715625,26562.5 -69.2870195312,-18.206984375,27343.75 -69.286334375,-18.2068125,28125. -69.2856492187,-18.206640625,28906.25 -69.2849640625,-18.20646875,29687.5 -69.2842789062,-18.206296875,30468.75 -69.28359375,-18.206125,31250. -69.2829085937,-18.205953125,32031.25 -69.2822234375,-18.20578125,32812.5 -69.2815382812,-18.205609375,33593.75 -69.280853125,-18.2054375,34375. -69.2801679687,-18.205265625,35156.25 -69.2794828125,-18.20509375,35937.5 -69.2787976562,-18.204921875,36718.75 -69.2781125,-18.20475,37500. -69.2774273437,-18.204578125,38281.25 -69.2767421875,-18.20440625,39062.5 -69.2760570312,-18.204234375,39843.75 -69.275371875,-18.2040625,40625. -69.2746867187,-18.203890625,41406.25 -69.2740015625,-18.20371875,42187.5 -69.2733164062,-18.203546875,42968.75 -69.27263125,-18.203375,43750. -69.2719460937,-18.203203125,44531.25 -69.2712609375,-18.20303125,45312.5 -69.2705757812,-18.202859375,46093.75 -69.269890625,-18.2026875,46875. -69.2692054687,-18.202515625,47656.25 -69.2685203125,-18.20234375,48437.5 -69.2678351562,-18.202171875,49218.75 -69.26715,-18.202,50000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_13"><visibility></visibility>
+<name>13</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.26715</longitude>
+<latitude>-18.202</latitude>
+<altitude>50000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_14">14</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Laus101">Laus101</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Laus102">Laus102</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Cota112">Cota112</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_13"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="13"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.26715,-18.202,50000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.26715,-18.202,50000. -69.2675003906,-18.202078125,50781.25 -69.2678507812,-18.20215625,51562.5 -69.2682011719,-18.202234375,52343.75 -69.2685515625,-18.2023125,53125. -69.2689019531,-18.202390625,53906.25 -69.2692523437,-18.20246875,54687.5 -69.2696027344,-18.202546875,55468.75 -69.269953125,-18.202625,56250. -69.2703035156,-18.202703125,57031.25 -69.2706539063,-18.20278125,57812.5 -69.2710042969,-18.202859375,58593.75 -69.2713546875,-18.2029375,59375. -69.2717050781,-18.203015625,60156.25 -69.2720554688,-18.20309375,60937.5 -69.2724058594,-18.203171875,61718.75 -69.27275625,-18.20325,62500. -69.2731066406,-18.203328125,63281.25 -69.2734570312,-18.20340625,64062.5 -69.2738074219,-18.203484375,64843.75 -69.2741578125,-18.2035625,65625. -69.2745082031,-18.203640625,66406.25 -69.2748585937,-18.20371875,67187.5 -69.2752089844,-18.203796875,67968.75 -69.275559375,-18.203875,68750. -69.2759097656,-18.203953125,69531.25 -69.2762601563,-18.20403125,70312.5 -69.2766105469,-18.204109375,71093.75 -69.2769609375,-18.2041875,71875. -69.2773113281,-18.204265625,72656.25 -69.2776617188,-18.20434375,73437.5 -69.2780121094,-18.204421875,74218.75 -69.2783625,-18.2045,75000. -69.2787128906,-18.204578125,75781.25 -69.2790632812,-18.20465625,76562.5 -69.2794136719,-18.204734375,77343.75 -69.2797640625,-18.2048125,78125. -69.2801144531,-18.204890625,78906.25 -69.2804648437,-18.20496875,79687.5 -69.2808152344,-18.205046875,80468.75 -69.281165625,-18.205125,81250. -69.2815160156,-18.205203125,82031.25 -69.2818664063,-18.20528125,82812.5 -69.2822167969,-18.205359375,83593.75 -69.2825671875,-18.2054375,84375. -69.2829175781,-18.205515625,85156.25 -69.2832679688,-18.20559375,85937.5 -69.2836183594,-18.205671875,86718.75 -69.28396875,-18.20575,87500. -69.2843191406,-18.205828125,88281.25 -69.2846695312,-18.20590625,89062.5 -69.2850199219,-18.205984375,89843.75 -69.2853703125,-18.2060625,90625. -69.2857207031,-18.206140625,91406.25 -69.2860710937,-18.20621875,92187.5 -69.2864214844,-18.206296875,92968.75 -69.286771875,-18.206375,93750. -69.2871222656,-18.206453125,94531.25 -69.2874726563,-18.20653125,95312.5 -69.2878230469,-18.206609375,96093.75 -69.2881734375,-18.2066875,96875. -69.2885238281,-18.206765625,97656.25 -69.2888742188,-18.20684375,98437.5 -69.2892246094,-18.206921875,99218.75 -69.289575,-18.207,100000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_14"><visibility></visibility>
+<name>14</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.289575</longitude>
+<latitude>-18.207</latitude>
+<altitude>100000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_15">15</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Laus236">Laus236</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_13">13</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Laus101">Laus101</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_14"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="14"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.289575,-18.207,100000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.289575,-18.207,100000. -69.2899462891,-18.20759375,100781.25 -69.2903175781,-18.2081875,101562.5 -69.2906888672,-18.20878125,102343.75 -69.2910601563,-18.209375,103125. -69.2914314453,-18.20996875,103906.25 -69.2918027344,-18.2105625,104687.5 -69.2921740234,-18.21115625,105468.75 -69.2925453125,-18.21175,106250. -69.2929166016,-18.21234375,107031.25 -69.2932878906,-18.2129375,107812.5 -69.2936591797,-18.21353125,108593.75 -69.2940304688,-18.214125,109375. -69.2944017578,-18.21471875,110156.25 -69.2947730469,-18.2153125,110937.5 -69.2951443359,-18.21590625,111718.75 -69.295515625,-18.2165,112500. -69.2958869141,-18.21709375,113281.25 -69.2962582031,-18.2176875,114062.5 -69.2966294922,-18.21828125,114843.75 -69.2970007813,-18.218875,115625. -69.2973720703,-18.21946875,116406.25 -69.2977433594,-18.2200625,117187.5 -69.2981146484,-18.22065625,117968.75 -69.2984859375,-18.22125,118750. -69.2988572266,-18.22184375,119531.25 -69.2992285156,-18.2224375,120312.5 -69.2995998047,-18.22303125,121093.75 -69.2999710938,-18.223625,121875. -69.3003423828,-18.22421875,122656.25 -69.3007136719,-18.2248125,123437.5 -69.3010849609,-18.22540625,124218.75 -69.30145625,-18.226,125000. -69.3018275391,-18.22659375,125781.25 -69.3021988281,-18.2271875,126562.5 -69.3025701172,-18.22778125,127343.75 -69.3029414062,-18.228375,128125. -69.3033126953,-18.22896875,128906.25 -69.3036839844,-18.2295625,129687.5 -69.3040552734,-18.23015625,130468.75 -69.3044265625,-18.23075,131250. -69.3047978516,-18.23134375,132031.25 -69.3051691406,-18.2319375,132812.5 -69.3055404297,-18.23253125,133593.75 -69.3059117187,-18.233125,134375. -69.3062830078,-18.23371875,135156.25 -69.3066542969,-18.2343125,135937.5 -69.3070255859,-18.23490625,136718.75 -69.307396875,-18.2355,137500. -69.3077681641,-18.23609375,138281.25 -69.3081394531,-18.2366875,139062.5 -69.3085107422,-18.23728125,139843.75 -69.3088820312,-18.237875,140625. -69.3092533203,-18.23846875,141406.25 -69.3096246094,-18.2390625,142187.5 -69.3099958984,-18.23965625,142968.75 -69.3103671875,-18.24025,143750. -69.3107384766,-18.24084375,144531.25 -69.3111097656,-18.2414375,145312.5 -69.3114810547,-18.24203125,146093.75 -69.3118523437,-18.242625,146875. -69.3122236328,-18.24321875,147656.25 -69.3125949219,-18.2438125,148437.5 -69.3129662109,-18.24440625,149218.75 -69.3133375,-18.245,150000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_15"><visibility></visibility>
+<name>15</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.3133375</longitude>
+<latitude>-18.245</latitude>
+<altitude>150000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_16">16</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Laus226">Laus226</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_14">14</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Laus236">Laus236</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_15"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="15"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3133375,-18.245,150000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3133375,-18.245,150000. -69.313524707,-18.24528125,150781.25 -69.3137119141,-18.2455625,151562.5 -69.3138991211,-18.24584375,152343.75 -69.3140863281,-18.246125,153125. -69.3142735352,-18.24640625,153906.25 -69.3144607422,-18.2466875,154687.5 -69.3146479492,-18.24696875,155468.75 -69.3148351563,-18.24725,156250. -69.3150223633,-18.24753125,157031.25 -69.3152095703,-18.2478125,157812.5 -69.3153967773,-18.24809375,158593.75 -69.3155839844,-18.248375,159375. -69.3157711914,-18.24865625,160156.25 -69.3159583984,-18.2489375,160937.5 -69.3161456055,-18.24921875,161718.75 -69.3163328125,-18.2495,162500. -69.3165200195,-18.24978125,163281.25 -69.3167072266,-18.2500625,164062.5 -69.3168944336,-18.25034375,164843.75 -69.3170816406,-18.250625,165625. -69.3172688477,-18.25090625,166406.25 -69.3174560547,-18.2511875,167187.5 -69.3176432617,-18.25146875,167968.75 -69.3178304688,-18.25175,168750. -69.3180176758,-18.25203125,169531.25 -69.3182048828,-18.2523125,170312.5 -69.3183920898,-18.25259375,171093.75 -69.3185792969,-18.252875,171875. -69.3187665039,-18.25315625,172656.25 -69.3189537109,-18.2534375,173437.5 -69.319140918,-18.25371875,174218.75 -69.319328125,-18.254,175000. -69.319515332,-18.25428125,175781.25 -69.3197025391,-18.2545625,176562.5 -69.3198897461,-18.25484375,177343.75 -69.3200769531,-18.255125,178125. -69.3202641602,-18.25540625,178906.25 -69.3204513672,-18.2556875,179687.5 -69.3206385742,-18.25596875,180468.75 -69.3208257812,-18.25625,181250. -69.3210129883,-18.25653125,182031.25 -69.3212001953,-18.2568125,182812.5 -69.3213874023,-18.25709375,183593.75 -69.3215746094,-18.257375,184375. -69.3217618164,-18.25765625,185156.25 -69.3219490234,-18.2579375,185937.5 -69.3221362305,-18.25821875,186718.75 -69.3223234375,-18.2585,187500. -69.3225106445,-18.25878125,188281.25 -69.3226978516,-18.2590625,189062.5 -69.3228850586,-18.25934375,189843.75 -69.3230722656,-18.259625,190625. -69.3232594727,-18.25990625,191406.25 -69.3234466797,-18.2601875,192187.5 -69.3236338867,-18.26046875,192968.75 -69.3238210938,-18.26075,193750. -69.3240083008,-18.26103125,194531.25 -69.3241955078,-18.2613125,195312.5 -69.3243827148,-18.26159375,196093.75 -69.3245699219,-18.261875,196875. -69.3247571289,-18.26215625,197656.25 -69.3249443359,-18.2624375,198437.5 -69.325131543,-18.26271875,199218.75 -69.32531875,-18.263,200000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_16"><visibility></visibility>
+<name>16</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.32531875</longitude>
+<latitude>-18.263</latitude>
+<altitude>200000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_17">17</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_18">18</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_15">15</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Laus226">Laus226</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_16"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="16"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.32531875,-18.263,200000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.32531875,-18.263,200000. -69.3252146973,-18.264275,200781.25 -69.3251106445,-18.26555,201562.5 -69.3250065918,-18.266825,202343.75 -69.3249025391,-18.2681,203125. -69.3247984863,-18.269375,203906.25 -69.3246944336,-18.27065,204687.5 -69.3245903809,-18.271925,205468.75 -69.3244863281,-18.2732,206250. -69.3243822754,-18.274475,207031.25 -69.3242782227,-18.27575,207812.5 -69.3241741699,-18.277025,208593.75 -69.3240701172,-18.2783,209375. -69.3239660645,-18.279575,210156.25 -69.3238620117,-18.28085,210937.5 -69.323757959,-18.282125,211718.75 -69.3236539063,-18.2834,212500. -69.3235498535,-18.284675,213281.25 -69.3234458008,-18.28595,214062.5 -69.323341748,-18.287225,214843.75 -69.3232376953,-18.2885,215625. -69.3231336426,-18.289775,216406.25 -69.3230295898,-18.29105,217187.5 -69.3229255371,-18.292325,217968.75 -69.3228214844,-18.2936,218750. -69.3227174316,-18.294875,219531.25 -69.3226133789,-18.29615,220312.5 -69.3225093262,-18.297425,221093.75 -69.3224052734,-18.2987,221875. -69.3223012207,-18.299975,222656.25 -69.322197168,-18.30125,223437.5 -69.3220931152,-18.302525,224218.75 -69.3219890625,-18.3038,225000. -69.3218850098,-18.305075,225781.25 -69.321780957,-18.30635,226562.5 -69.3216769043,-18.307625,227343.75 -69.3215728516,-18.3089,228125. -69.3214687988,-18.310175,228906.25 -69.3213647461,-18.31145,229687.5 -69.3212606934,-18.312725,230468.75 -69.3211566406,-18.314,231250. -69.3210525879,-18.315275,232031.25 -69.3209485352,-18.31655,232812.5 -69.3208444824,-18.317825,233593.75 -69.3207404297,-18.3191,234375. -69.320636377,-18.320375,235156.25 -69.3205323242,-18.32165,235937.5 -69.3204282715,-18.322925,236718.75 -69.3203242188,-18.3242,237500. -69.320220166,-18.325475,238281.25 -69.3201161133,-18.32675,239062.5 -69.3200120605,-18.328025,239843.75 -69.3199080078,-18.3293,240625. -69.3198039551,-18.330575,241406.25 -69.3196999023,-18.33185,242187.5 -69.3195958496,-18.333125,242968.75 -69.3194917969,-18.3344,243750. -69.3193877441,-18.335675,244531.25 -69.3192836914,-18.33695,245312.5 -69.3191796387,-18.338225,246093.75 -69.3190755859,-18.3395,246875. -69.3189715332,-18.340775,247656.25 -69.3188674805,-18.34205,248437.5 -69.3187634277,-18.343325,249218.75 -69.318659375,-18.3446,250000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_17"><visibility></visibility>
+<name>17</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.318659375</longitude>
+<latitude>-18.3446</latitude>
+<altitude>250000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_20">20</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Laus234">Laus234</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_16">16</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_18">18</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_17"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="17"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.318659375,-18.3446,250000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.318659375,-18.3446,250000. -69.3188042236,-18.3441109375,250781.25 -69.3189490723,-18.343621875,251562.5 -69.3190939209,-18.3431328125,252343.75 -69.3192387695,-18.34264375,253125. -69.3193836182,-18.3421546875,253906.25 -69.3195284668,-18.341665625,254687.5 -69.3196733154,-18.3411765625,255468.75 -69.3198181641,-18.3406875,256250. -69.3199630127,-18.3401984375,257031.25 -69.3201078613,-18.339709375,257812.5 -69.32025271,-18.3392203125,258593.75 -69.3203975586,-18.33873125,259375. -69.3205424072,-18.3382421875,260156.25 -69.3206872559,-18.337753125,260937.5 -69.3208321045,-18.3372640625,261718.75 -69.3209769531,-18.336775,262500. -69.3211218018,-18.3362859375,263281.25 -69.3212666504,-18.335796875,264062.5 -69.321411499,-18.3353078125,264843.75 -69.3215563477,-18.33481875,265625. -69.3217011963,-18.3343296875,266406.25 -69.3218460449,-18.333840625,267187.5 -69.3219908936,-18.3333515625,267968.75 -69.3221357422,-18.3328625,268750. -69.3222805908,-18.3323734375,269531.25 -69.3224254395,-18.331884375,270312.5 -69.3225702881,-18.3313953125,271093.75 -69.3227151367,-18.33090625,271875. -69.3228599854,-18.3304171875,272656.25 -69.323004834,-18.329928125,273437.5 -69.3231496826,-18.3294390625,274218.75 -69.3232945313,-18.32895,275000. -69.3234393799,-18.3284609375,275781.25 -69.3235842285,-18.327971875,276562.5 -69.3237290771,-18.3274828125,277343.75 -69.3238739258,-18.32699375,278125. -69.3240187744,-18.3265046875,278906.25 -69.324163623,-18.326015625,279687.5 -69.3243084717,-18.3255265625,280468.75 -69.3244533203,-18.3250375,281250. -69.3245981689,-18.3245484375,282031.25 -69.3247430176,-18.324059375,282812.5 -69.3248878662,-18.3235703125,283593.75 -69.3250327148,-18.32308125,284375. -69.3251775635,-18.3225921875,285156.25 -69.3253224121,-18.322103125,285937.5 -69.3254672607,-18.3216140625,286718.75 -69.3256121094,-18.321125,287500. -69.325756958,-18.3206359375,288281.25 -69.3259018066,-18.320146875,289062.5 -69.3260466553,-18.3196578125,289843.75 -69.3261915039,-18.31916875,290625. -69.3263363525,-18.3186796875,291406.25 -69.3264812012,-18.318190625,292187.5 -69.3266260498,-18.3177015625,292968.75 -69.3267708984,-18.3172125,293750. -69.3269157471,-18.3167234375,294531.25 -69.3270605957,-18.316234375,295312.5 -69.3272054443,-18.3157453125,296093.75 -69.327350293,-18.31525625,296875. -69.3274951416,-18.3147671875,297656.25 -69.3276399902,-18.314278125,298437.5 -69.3277848389,-18.3137890625,299218.75 -69.3279296875,-18.3133,300000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_20"><visibility></visibility>
+<name>20</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.3279296875</longitude>
+<latitude>-18.3133</latitude>
+<altitude>300000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_21">21</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Cota114">Cota114</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_17">17</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Laus234">Laus234</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_20"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="20"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3279296875,-18.3133,300000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.3279296875,-18.3133,300000. -69.3271107056,-18.3123601562,300781.25 -69.3262917236,-18.3114203125,301562.5 -69.3254727417,-18.3104804687,302343.75 -69.3246537598,-18.309540625,303125. -69.3238347778,-18.3086007812,303906.25 -69.3230157959,-18.3076609375,304687.5 -69.322196814,-18.3067210937,305468.75 -69.321377832,-18.30578125,306250. -69.3205588501,-18.3048414062,307031.25 -69.3197398682,-18.3039015625,307812.5 -69.3189208862,-18.3029617188,308593.75 -69.3181019043,-18.302021875,309375. -69.3172829224,-18.3010820313,310156.25 -69.3164639404,-18.3001421875,310937.5 -69.3156449585,-18.2992023438,311718.75 -69.3148259766,-18.2982625,312500. -69.3140069946,-18.2973226562,313281.25 -69.3131880127,-18.2963828125,314062.5 -69.3123690308,-18.2954429687,314843.75 -69.3115500488,-18.294503125,315625. -69.3107310669,-18.2935632812,316406.25 -69.309912085,-18.2926234375,317187.5 -69.309093103,-18.2916835937,317968.75 -69.3082741211,-18.29074375,318750. -69.3074551392,-18.2898039062,319531.25 -69.3066361572,-18.2888640625,320312.5 -69.3058171753,-18.2879242187,321093.75 -69.3049981934,-18.286984375,321875. -69.3041792114,-18.2860445312,322656.25 -69.3033602295,-18.2851046875,323437.5 -69.3025412476,-18.2841648437,324218.75 -69.3017222656,-18.283225,325000. -69.3009032837,-18.2822851562,325781.25 -69.3000843018,-18.2813453125,326562.5 -69.2992653198,-18.2804054688,327343.75 -69.2984463379,-18.279465625,328125. -69.297627356,-18.2785257812,328906.25 -69.296808374,-18.2775859375,329687.5 -69.2959893921,-18.2766460937,330468.75 -69.2951704102,-18.27570625,331250. -69.2943514282,-18.2747664062,332031.25 -69.2935324463,-18.2738265625,332812.5 -69.2927134644,-18.2728867187,333593.75 -69.2918944824,-18.271946875,334375. -69.2910755005,-18.2710070312,335156.25 -69.2902565186,-18.2700671875,335937.5 -69.2894375366,-18.2691273437,336718.75 -69.2886185547,-18.2681875,337500. -69.2877995728,-18.2672476562,338281.25 -69.2869805908,-18.2663078125,339062.5 -69.2861616089,-18.2653679687,339843.75 -69.285342627,-18.264428125,340625. -69.284523645,-18.2634882812,341406.25 -69.2837046631,-18.2625484375,342187.5 -69.2828856812,-18.2616085937,342968.75 -69.2820666992,-18.26066875,343750. -69.2812477173,-18.2597289062,344531.25 -69.2804287354,-18.2587890625,345312.5 -69.2796097534,-18.2578492187,346093.75 -69.2787907715,-18.256909375,346875. -69.2779717896,-18.2559695312,347656.25 -69.2771528076,-18.2550296875,348437.5 -69.2763338257,-18.2540898437,349218.75 -69.2755148438,-18.25315,350000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_21"><visibility></visibility>
+<name>21</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.2755148438</longitude>
+<latitude>-18.25315</latitude>
+<altitude>350000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_22">22</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_Cota113">Cota113</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_20">20</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Cota114">Cota114</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_21"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="21"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2755148438,-18.25315,350000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2755148438,-18.25315,350000. -69.275106134,-18.2526722656,350781.25 -69.2746974243,-18.2521945312,351562.5 -69.2742887146,-18.2517167969,352343.75 -69.2738800049,-18.2512390625,353125. -69.2734712952,-18.2507613281,353906.25 -69.2730625854,-18.2502835937,354687.5 -69.2726538757,-18.2498058594,355468.75 -69.272245166,-18.249328125,356250. -69.2718364563,-18.2488503906,357031.25 -69.2714277466,-18.2483726562,357812.5 -69.2710190369,-18.2478949219,358593.75 -69.2706103271,-18.2474171875,359375. -69.2702016174,-18.2469394531,360156.25 -69.2697929077,-18.2464617187,360937.5 -69.269384198,-18.2459839844,361718.75 -69.2689754883,-18.24550625,362500. -69.2685667786,-18.2450285156,363281.25 -69.2681580688,-18.2445507812,364062.5 -69.2677493591,-18.2440730469,364843.75 -69.2673406494,-18.2435953125,365625. -69.2669319397,-18.2431175781,366406.25 -69.26652323,-18.2426398437,367187.5 -69.2661145203,-18.2421621094,367968.75 -69.2657058105,-18.241684375,368750. -69.2652971008,-18.2412066406,369531.25 -69.2648883911,-18.2407289062,370312.5 -69.2644796814,-18.2402511719,371093.75 -69.2640709717,-18.2397734375,371875. -69.263662262,-18.2392957031,372656.25 -69.2632535522,-18.2388179687,373437.5 -69.2628448425,-18.2383402344,374218.75 -69.2624361328,-18.2378625,375000. -69.2620274231,-18.2373847656,375781.25 -69.2616187134,-18.2369070312,376562.5 -69.2612100037,-18.2364292969,377343.75 -69.2608012939,-18.2359515625,378125. -69.2603925842,-18.2354738281,378906.25 -69.2599838745,-18.2349960937,379687.5 -69.2595751648,-18.2345183594,380468.75 -69.2591664551,-18.234040625,381250. -69.2587577454,-18.2335628906,382031.25 -69.2583490356,-18.2330851562,382812.5 -69.2579403259,-18.2326074219,383593.75 -69.2575316162,-18.2321296875,384375. -69.2571229065,-18.2316519531,385156.25 -69.2567141968,-18.2311742187,385937.5 -69.2563054871,-18.2306964844,386718.75 -69.2558967773,-18.23021875,387500. -69.2554880676,-18.2297410156,388281.25 -69.2550793579,-18.2292632812,389062.5 -69.2546706482,-18.2287855469,389843.75 -69.2542619385,-18.2283078125,390625. -69.2538532288,-18.2278300781,391406.25 -69.253444519,-18.2273523437,392187.5 -69.2530358093,-18.2268746094,392968.75 -69.2526270996,-18.226396875,393750. -69.2522183899,-18.2259191406,394531.25 -69.2518096802,-18.2254414062,395312.5 -69.2514009705,-18.2249636719,396093.75 -69.2509922607,-18.2244859375,396875. -69.250583551,-18.2240082031,397656.25 -69.2501748413,-18.2235304687,398437.5 -69.2497661316,-18.2230527344,399218.75 -69.2493574219,-18.222575,400000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_Cota113"><visibility></visibility>
+<name>Cota113</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.2232</longitude>
+<latitude>-18.192</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_22">22</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_21">21</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_Cota113"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="Cota113"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2232,-18.192,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2232,-18.192,0. -69.2236087097,-18.1924777344,6250. -69.2240174194,-18.1929554688,12500. -69.2244261292,-18.1934332031,18750. -69.2248348389,-18.1939109375,25000. -69.2252435486,-18.1943886719,31250. -69.2256522583,-18.1948664063,37500. -69.226060968,-18.1953441406,43750. -69.2264696777,-18.195821875,50000. -69.2268783875,-18.1962996094,56250. -69.2272870972,-18.1967773438,62500. -69.2276958069,-18.1972550781,68750. -69.2281045166,-18.1977328125,75000. -69.2285132263,-18.1982105469,81250. -69.228921936,-18.1986882812,87500. -69.2293306458,-18.1991660156,93750. -69.2297393555,-18.19964375,100000. -69.2301480652,-18.2001214844,106250. -69.2305567749,-18.2005992187,112500. -69.2309654846,-18.2010769531,118750. -69.2313741943,-18.2015546875,125000. -69.2317829041,-18.2020324219,131250. -69.2321916138,-18.2025101562,137500. -69.2326003235,-18.2029878906,143750. -69.2330090332,-18.203465625,150000. -69.2334177429,-18.2039433594,156250. -69.2338264526,-18.2044210937,162500. -69.2342351624,-18.2048988281,168750. -69.2346438721,-18.2053765625,175000. -69.2350525818,-18.2058542969,181250. -69.2354612915,-18.2063320312,187500. -69.2358700012,-18.2068097656,193750. -69.2362787109,-18.2072875,200000. -69.2366874207,-18.2077652344,206250. -69.2370961304,-18.2082429687,212500. -69.2375048401,-18.2087207031,218750. -69.2379135498,-18.2091984375,225000. -69.2383222595,-18.2096761719,231250. -69.2387309692,-18.2101539062,237500. -69.239139679,-18.2106316406,243750. -69.2395483887,-18.211109375,250000. -69.2399570984,-18.2115871094,256250. -69.2403658081,-18.2120648437,262500. -69.2407745178,-18.2125425781,268750. -69.2411832275,-18.2130203125,275000. -69.2415919373,-18.2134980469,281250. -69.242000647,-18.2139757812,287500. -69.2424093567,-18.2144535156,293750. -69.2428180664,-18.21493125,300000. -69.2432267761,-18.2154089844,306250. -69.2436354858,-18.2158867187,312500. -69.2440441956,-18.2163644531,318750. -69.2444529053,-18.2168421875,325000. -69.244861615,-18.2173199219,331250. -69.2452703247,-18.2177976562,337500. -69.2456790344,-18.2182753906,343750. -69.2460877441,-18.218753125,350000. -69.2464964539,-18.2192308594,356250. -69.2469051636,-18.2197085937,362500. -69.2473138733,-18.2201863281,368750. -69.247722583,-18.2206640625,375000. -69.2481312927,-18.2211417969,381250. -69.2485400024,-18.2216195312,387500. -69.2489487122,-18.2220972656,393750. -69.2493574219,-18.222575,400000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_22"><visibility></visibility>
+<name>22</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.2493574219</longitude>
+<latitude>-18.222575</latitude>
+<altitude>400000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_root">root</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_CHU102">CHU102</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_Cota113">Cota113</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_21">21</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_22"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="22"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2493574219,-18.222575,400000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2493574219,-18.222575,400000. -69.248674942,-18.2227423828,400781.25 -69.2479924622,-18.2229097656,401562.5 -69.2473099823,-18.2230771484,402343.75 -69.2466275024,-18.2232445312,403125. -69.2459450226,-18.2234119141,403906.25 -69.2452625427,-18.2235792969,404687.5 -69.2445800629,-18.2237466797,405468.75 -69.243897583,-18.2239140625,406250. -69.2432151031,-18.2240814453,407031.25 -69.2425326233,-18.2242488281,407812.5 -69.2418501434,-18.2244162109,408593.75 -69.2411676636,-18.2245835937,409375. -69.2404851837,-18.2247509766,410156.25 -69.2398027039,-18.2249183594,410937.5 -69.239120224,-18.2250857422,411718.75 -69.2384377441,-18.225253125,412500. -69.2377552643,-18.2254205078,413281.25 -69.2370727844,-18.2255878906,414062.5 -69.2363903046,-18.2257552734,414843.75 -69.2357078247,-18.2259226562,415625. -69.2350253448,-18.2260900391,416406.25 -69.234342865,-18.2262574219,417187.5 -69.2336603851,-18.2264248047,417968.75 -69.2329779053,-18.2265921875,418750. -69.2322954254,-18.2267595703,419531.25 -69.2316129456,-18.2269269531,420312.5 -69.2309304657,-18.2270943359,421093.75 -69.2302479858,-18.2272617187,421875. -69.229565506,-18.2274291016,422656.25 -69.2288830261,-18.2275964844,423437.5 -69.2282005463,-18.2277638672,424218.75 -69.2275180664,-18.22793125,425000. -69.2268355865,-18.2280986328,425781.25 -69.2261531067,-18.2282660156,426562.5 -69.2254706268,-18.2284333984,427343.75 -69.224788147,-18.2286007812,428125. -69.2241056671,-18.2287681641,428906.25 -69.2234231873,-18.2289355469,429687.5 -69.2227407074,-18.2291029297,430468.75 -69.2220582275,-18.2292703125,431250. -69.2213757477,-18.2294376953,432031.25 -69.2206932678,-18.2296050781,432812.5 -69.220010788,-18.2297724609,433593.75 -69.2193283081,-18.2299398437,434375. -69.2186458282,-18.2301072266,435156.25 -69.2179633484,-18.2302746094,435937.5 -69.2172808685,-18.2304419922,436718.75 -69.2165983887,-18.230609375,437500. -69.2159159088,-18.2307767578,438281.25 -69.215233429,-18.2309441406,439062.5 -69.2145509491,-18.2311115234,439843.75 -69.2138684692,-18.2312789063,440625. -69.2131859894,-18.2314462891,441406.25 -69.2125035095,-18.2316136719,442187.5 -69.2118210297,-18.2317810547,442968.75 -69.2111385498,-18.2319484375,443750. -69.2104560699,-18.2321158203,444531.25 -69.2097735901,-18.2322832031,445312.5 -69.2090911102,-18.2324505859,446093.75 -69.2084086304,-18.2326179687,446875. -69.2077261505,-18.2327853516,447656.25 -69.2070436707,-18.2329527344,448437.5 -69.2063611908,-18.2331201172,449218.75 -69.2056787109,-18.2332875,450000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_CHU102"><visibility></visibility>
+<name>CHU102</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.162</longitude>
+<latitude>-18.244</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_root">root</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_22">22</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_CHU102"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="CHU102"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.162,-18.244,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.162,-18.244,0. -69.1626824799,-18.2438326172,7031.25 -69.1633649597,-18.2436652344,14062.5 -69.1640474396,-18.2434978516,21093.75 -69.1647299194,-18.2433304687,28125. -69.1654123993,-18.2431630859,35156.25 -69.1660948792,-18.2429957031,42187.5 -69.166777359,-18.2428283203,49218.75 -69.1674598389,-18.2426609375,56250. -69.1681423187,-18.2424935547,63281.25 -69.1688247986,-18.2423261719,70312.5 -69.1695072784,-18.2421587891,77343.75 -69.1701897583,-18.2419914063,84375. -69.1708722382,-18.2418240234,91406.25 -69.171554718,-18.2416566406,98437.5 -69.1722371979,-18.2414892578,105468.75 -69.1729196777,-18.241321875,112500. -69.1736021576,-18.2411544922,119531.25 -69.1742846375,-18.2409871094,126562.5 -69.1749671173,-18.2408197266,133593.75 -69.1756495972,-18.2406523437,140625. -69.176332077,-18.2404849609,147656.25 -69.1770145569,-18.2403175781,154687.5 -69.1776970367,-18.2401501953,161718.75 -69.1783795166,-18.2399828125,168750. -69.1790619965,-18.2398154297,175781.25 -69.1797444763,-18.2396480469,182812.5 -69.1804269562,-18.2394806641,189843.75 -69.181109436,-18.2393132813,196875. -69.1817919159,-18.2391458984,203906.25 -69.1824743958,-18.2389785156,210937.5 -69.1831568756,-18.2388111328,217968.75 -69.1838393555,-18.23864375,225000. -69.1845218353,-18.2384763672,232031.25 -69.1852043152,-18.2383089844,239062.5 -69.185886795,-18.2381416016,246093.75 -69.1865692749,-18.2379742188,253125. -69.1872517548,-18.2378068359,260156.25 -69.1879342346,-18.2376394531,267187.5 -69.1886167145,-18.2374720703,274218.75 -69.1892991943,-18.2373046875,281250. -69.1899816742,-18.2371373047,288281.25 -69.1906641541,-18.2369699219,295312.5 -69.1913466339,-18.2368025391,302343.75 -69.1920291138,-18.2366351562,309375. -69.1927115936,-18.2364677734,316406.25 -69.1933940735,-18.2363003906,323437.5 -69.1940765533,-18.2361330078,330468.75 -69.1947590332,-18.235965625,337500. -69.1954415131,-18.2357982422,344531.25 -69.1961239929,-18.2356308594,351562.5 -69.1968064728,-18.2354634766,358593.75 -69.1974889526,-18.2352960937,365625. -69.1981714325,-18.2351287109,372656.25 -69.1988539124,-18.2349613281,379687.5 -69.1995363922,-18.2347939453,386718.75 -69.2002188721,-18.2346265625,393750. -69.2009013519,-18.2344591797,400781.25 -69.2015838318,-18.2342917969,407812.5 -69.2022663116,-18.2341244141,414843.75 -69.2029487915,-18.2339570313,421875. -69.2036312714,-18.2337896484,428906.25 -69.2043137512,-18.2336222656,435937.5 -69.2049962311,-18.2334548828,442968.75 -69.2056787109,-18.2332875,450000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_root"><visibility></visibility>
+<name>root</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-69.2056787109</longitude>
+<latitude>-18.2332875</latitude>
+<altitude>450000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_CHU102">CHU102</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_22">22</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><BallonStyle><textColor>FF000000</textColor>
+<bgColor>FFffffff</bgColor>
+</BallonStyle>
+<LineStyle id="ls_root"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="root"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-69.2056787109,-18.2332875,450000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates></coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+</Folder>
+</Folder>
+</Document>
+</kml>

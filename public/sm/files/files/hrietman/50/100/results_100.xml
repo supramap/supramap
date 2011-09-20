@@ -1,0 +1,724 @@
+<?xml version="1.0"?>
+<forest>
+  <tree>
+    <node>
+      <id>root</id>
+    </node>
+    <node>
+      <id>TOMATO_BAC_SL_MboI-40B16</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="2" AncS="CT-" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="11" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="13" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="16" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="18" AncS="AC" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="41" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="68" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="147" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="176" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="185" AncS="GT" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="237" AncS="CG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="287" AncS="AC" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="305" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="344" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="359" AncS="AC" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="370" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="385" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="392" AncS="AC" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="393" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="394" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="397" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="402" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="413" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="440" AncS="ACT" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="467" AncS="CG" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="515" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="520" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="535" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="545" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="552" AncS="CG" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="566" AncS="AT" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="568" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="592" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="612" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="619" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="root" type="root"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>28</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="11" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="13" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="16" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="18" AncS="AC" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="41" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="68" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="147" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="176" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="185" AncS="GT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="237" AncS="CG" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="287" AncS="AC" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="305" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="344" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="359" AncS="AC" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="370" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="385" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="392" AncS="AC" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="393" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="394" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="397" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="402" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="413" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="467" AncS="CG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="515" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="520" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="535" AncS="AG" DescS="A" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="545" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="552" AncS="CG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="566" AncS="AT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="568" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="592" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="612" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="619" AncS="AG" DescS="G" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="root" type="root"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>35</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="1" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="2" AncS="CT-" DescS="-" Type="Del" Cost="0.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="3" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="218" AncS="A" DescS="G" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="357" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="440" AncS="ACT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="473" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="28" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>29</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="4" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="5" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="6" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="7" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="8" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="9" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="10" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="35" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>24</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="11" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="12" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="13" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="14" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="15" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="16" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="17" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="18" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="29" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>23</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="19" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="24" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>30</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="41" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="42" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="621" AncS="C" DescS="CT" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="23" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN22698_betty</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="621" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="30" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>37</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="43" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="44" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="45" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="46" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="47" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="30" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>36</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="48" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="49" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="50" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="51" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="52" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="53" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="621" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="37" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>33</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="54" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="55" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="56" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="57" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="36" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>21</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="58" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="59" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="60" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="33" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>34</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="147" AncS="T" DescS="CT" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="546" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="547" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="549" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="550" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="551" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="553" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="555" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="557" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="559" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="560" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="561" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="562" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="563" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="564" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="565" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="566" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="567" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="569" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="571" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="572" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="573" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="574" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="576" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="577" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="578" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="579" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="581" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="582" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="583" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="584" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="585" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="586" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="587" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="588" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="591" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="593" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="594" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="595" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="596" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="598" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="599" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="600" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="602" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="603" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="604" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="605" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="609" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="612" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="613" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="614" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="615" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="616" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="618" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="619" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="621" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="623" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="624" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="625" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="626" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="627" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="629" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="630" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="21" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>26</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="558" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="568" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="575" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="580" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="589" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="590" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="592" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="601" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="606" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="607" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="608" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="610" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="611" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="617" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="620" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="622" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="34" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>38</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="147" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="494" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="496" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="498" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="500" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="502" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="504" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="505" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="506" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="508" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="509" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="510" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="511" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="513" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="514" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="517" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="518" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="519" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="520" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="521" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="522" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="524" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="525" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="526" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="529" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="530" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="532" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="533" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="534" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="535" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="536" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="538" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="540" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="541" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="543" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="544" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="548" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="552" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="554" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="570" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="597" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="628" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="26" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN23074_2</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="203" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="340" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="357" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="454" AncS="G" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="473" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="476" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="477" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="478" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="480" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="482" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="483" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="484" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="486" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="487" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="488" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="491" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="492" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="495" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="497" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="499" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="501" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="503" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="516" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="523" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="527" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="531" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="539" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="542" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="545" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="38" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN23010_betty</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="20" AncS="-" DescS="C" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="21" AncS="-" DescS="A" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="22" AncS="-" DescS="A" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="23" AncS="-" DescS="G" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="24" AncS="-" DescS="A" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="25" AncS="-" DescS="G" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="26" AncS="-" DescS="G" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="27" AncS="-" DescS="T" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="28" AncS="-" DescS="T" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="29" AncS="-" DescS="T" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="30" AncS="-" DescS="T" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="31" AncS="-" DescS="G" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="32" AncS="-" DescS="T" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="33" AncS="-" DescS="T" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="34" AncS="-" DescS="C" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="35" AncS="-" DescS="A" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="36" AncS="-" DescS="T" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="37" AncS="-" DescS="A" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="38" AncS="-" DescS="A" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="39" AncS="-" DescS="A" Type="Ins" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="40" AncS="-" DescS="C" Type="Ins" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="38" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN23074_1</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="61" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="62" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="63" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="64" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="65" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="66" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="67" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="68" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="69" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="70" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="71" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="72" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="73" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="74" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="75" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="76" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="77" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="78" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="79" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="80" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="81" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="82" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="83" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="84" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="85" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="86" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="87" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="88" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="89" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="90" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="91" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="147" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="26" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN23075_2</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="147" AncS="CT" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="218" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="357" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="395" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="440" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="473" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="498" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="34" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>31</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="61" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="62" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="63" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="64" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="65" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="66" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="67" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="68" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="69" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="70" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="71" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="72" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="73" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="74" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="75" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="76" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="77" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="78" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="79" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="80" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="21" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>22</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="31" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN23010</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="22" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>27</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="357" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="374" AncS="T" DescS="G" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="473" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="22" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN17687</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="81" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="82" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="83" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="84" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="85" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="86" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="87" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="88" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="89" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="90" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="91" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="92" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="93" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="94" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="95" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="96" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="97" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="98" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="99" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="100" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="101" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="102" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="103" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="104" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="105" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="106" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="107" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="108" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="109" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="110" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="111" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="112" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="113" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="114" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="115" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="116" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="117" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="118" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="119" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="120" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="121" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="122" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="123" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="124" AncS="C" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="125" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="126" AncS="A" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="127" AncS="T" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="128" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="27" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN17690</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="454" AncS="G" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="27" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>Dph_7999</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="31" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN962577-53682_blb1</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="33" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN21364</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="205" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="218" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="357" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="395" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="440" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="473" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="36" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN22698_2C6</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="596" AncS="G" DescS="-" Type="Del" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="621" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="37" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN22698</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="23" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>32</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="440" AncS="C" DescS="CT" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="24" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>25</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="395" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="440" AncS="CT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="473" AncS="C" DescS="A" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="32" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN23075_1</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="147" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="218" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="357" AncS="A" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="498" AncS="C" DescS="T" Type="Ti" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="25" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN21363_2</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="118" AncS="T" DescS="C" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="128" AncS="G" DescS="T" Type="Tv" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="337" AncS="C" DescS="G" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="25" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN21363_1</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="32" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN960626</id>
+      <transformations/>
+      <ancestors>
+        <ancestor id="29" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN962577</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="16" AncS="G" DescS="C" Type="Tv" Cost="1.000000" Definite="true"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="35" type="node"/>
+      </ancestors>
+    </node>
+    <node>
+      <id>CGN22732</id>
+      <transformations>
+        <transformation Character="ImpliedAlignment17" Pos="2" AncS="CT-" DescS="C" Type="ABC" Cost="0.000000" Definite="false"/>
+        <transformation Character="ImpliedAlignment17" Pos="395" AncS="G" DescS="A" Type="Ti" Cost="1.000000" Definite="true"/>
+        <transformation Character="ImpliedAlignment17" Pos="440" AncS="ACT" DescS="T" Type="ABC" Cost="0.000000" Definite="false"/>
+      </transformations>
+      <ancestors>
+        <ancestor id="28" type="node"/>
+      </ancestors>
+    </node>
+  </tree>
+</forest>

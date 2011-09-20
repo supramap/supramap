@@ -1,0 +1,10 @@
+read(prealigned:("/home/supramap/supramap/public/files/travis/27/H7.HA.final.prealigned.afa", tcm:(1,1)))
+read("/home/supramap/supramap/public/files/travis/27/H7.HA.RAxML_bestTree.topo")
+set(log: "/home/supramap/supramap/public/files/travis/27/144/poy.log")
+
+transform (static_approx)
+report("/home/supramap/supramap/public/files/travis/27/144/prealigned_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/travis/27/H7.HA.Lat.Long.csv"))
+report(asciitrees)
+report("/home/supramap/supramap/public/files/travis/27/144/prealigned_results.tre",trees)
+report("/home/supramap/supramap/public/files/travis/27/144/prealigned_results.stats",treestats)
+exit()

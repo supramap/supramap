@@ -1,0 +1,2169 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 695 -- Wagner tree with cost 0.
+Status : Wagner : 3 of 695 -- Wagner tree with cost 0.
+Status : Wagner : 4 of 695 -- Wagner tree with cost 0.
+Status : Wagner : 5 of 695 -- Wagner tree with cost 0.
+Status : Wagner : 6 of 695 -- Wagner tree with cost 0.
+Status : Wagner : 7 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 8 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 9 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 10 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 11 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 12 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 13 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 14 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 15 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 16 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 17 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 18 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 19 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 20 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 21 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 22 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 23 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 24 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 25 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 26 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 27 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 28 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 29 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 30 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 31 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 32 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 33 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 34 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 35 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 36 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 37 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 38 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 39 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 40 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 41 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 42 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 43 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 44 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 45 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 46 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 47 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 48 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 49 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 50 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 51 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 52 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 53 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 54 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 55 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 56 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 57 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 58 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 59 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 60 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 61 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 62 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 63 of 695 -- Wagner tree with cost 1.
+Status : Wagner : 64 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 65 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 66 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 67 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 68 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 69 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 70 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 71 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 72 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 73 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 74 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 75 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 76 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 77 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 78 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 79 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 80 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 81 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 82 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 83 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 84 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 85 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 86 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 87 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 88 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 89 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 90 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 91 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 92 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 93 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 94 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 95 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 96 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 97 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 98 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 99 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 100 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 101 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 102 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 103 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 104 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 105 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 106 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 107 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 108 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 109 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 110 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 111 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 112 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 113 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 114 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 115 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 116 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 117 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 118 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 119 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 120 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 121 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 122 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 123 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 124 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 125 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 126 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 127 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 128 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 129 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 130 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 131 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 132 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 133 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 134 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 135 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 136 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 137 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 138 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 139 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 140 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 141 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 142 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 143 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 144 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 145 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 146 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 147 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 148 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 149 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 150 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 151 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 152 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 153 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 154 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 155 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 156 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 157 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 158 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 159 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 160 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 161 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 162 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 163 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 164 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 165 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 166 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 167 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 168 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 169 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 170 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 171 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 172 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 173 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 174 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 175 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 176 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 177 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 178 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 179 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 180 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 181 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 182 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 183 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 184 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 185 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 186 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 187 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 188 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 189 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 190 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 191 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 192 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 193 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 194 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 195 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 196 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 197 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 198 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 199 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 200 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 201 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 202 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 203 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 204 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 205 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 206 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 207 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 208 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 209 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 210 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 211 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 212 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 213 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 214 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 215 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 216 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 217 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 218 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 219 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 220 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 221 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 222 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 223 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 224 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 225 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 226 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 227 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 228 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 229 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 230 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 231 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 232 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 233 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 234 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 235 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 236 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 237 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 238 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 239 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 240 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 241 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 242 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 243 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 244 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 245 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 246 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 247 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 248 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 249 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 250 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 251 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 252 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 253 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 254 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 255 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 256 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 257 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 258 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 259 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 260 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 261 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 262 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 263 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 264 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 265 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 266 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 267 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 268 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 269 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 270 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 271 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 272 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 273 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 274 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 275 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 276 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 277 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 278 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 279 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 280 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 281 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 282 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 283 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 284 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 285 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 286 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 287 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 288 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 289 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 290 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 291 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 292 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 293 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 294 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 295 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 296 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 297 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 298 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 299 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 300 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 301 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 302 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 303 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 304 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 305 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 306 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 307 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 308 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 309 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 310 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 311 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 312 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 313 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 314 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 315 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 316 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 317 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 318 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 319 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 320 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 321 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 322 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 323 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 324 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 325 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 326 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 327 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 328 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 329 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 330 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 331 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 332 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 333 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 334 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 335 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 336 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 337 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 338 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 339 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 340 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 341 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 342 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 343 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 344 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 345 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 346 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 347 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 348 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 349 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 350 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 351 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 352 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 353 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 354 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 355 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 356 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 357 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 358 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 359 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 360 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 361 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 362 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 363 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 364 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 365 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 366 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 367 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 368 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 369 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 370 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 371 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 372 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 373 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 374 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 375 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 376 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 377 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 378 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 379 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 380 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 381 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 382 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 383 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 384 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 385 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 386 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 387 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 388 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 389 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 390 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 391 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 392 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 393 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 394 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 395 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 396 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 397 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 398 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 399 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 400 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 401 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 402 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 403 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 404 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 405 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 406 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 407 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 408 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 409 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 410 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 411 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 412 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 413 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 414 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 415 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 416 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 417 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 418 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 419 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 420 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 421 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 422 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 423 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 424 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 425 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 426 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 427 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 428 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 429 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 430 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 431 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 432 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 433 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 434 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 435 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 436 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 437 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 438 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 439 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 440 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 441 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 442 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 443 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 444 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 445 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 446 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 447 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 448 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 449 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 450 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 451 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 452 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 453 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 454 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 455 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 456 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 457 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 458 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 459 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 460 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 461 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 462 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 463 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 464 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 465 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 466 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 467 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 468 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 469 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 470 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 471 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 472 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 473 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 474 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 475 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 476 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 477 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 478 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 479 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 480 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 481 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 482 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 483 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 484 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 485 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 486 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 487 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 488 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 489 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 490 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 491 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 492 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 493 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 494 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 495 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 496 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 497 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 498 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 499 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 500 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 501 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 502 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 503 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 504 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 505 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 506 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 507 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 508 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 509 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 510 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 511 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 512 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 513 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 514 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 515 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 516 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 517 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 518 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 519 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 520 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 521 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 522 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 523 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 524 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 525 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 526 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 527 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 528 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 529 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 530 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 531 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 532 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 533 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 534 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 535 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 536 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 537 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 538 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 539 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 540 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 541 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 542 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 543 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 544 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 545 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 546 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 547 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 548 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 549 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 550 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 551 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 552 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 553 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 554 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 555 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 556 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 557 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 558 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 559 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 560 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 561 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 562 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 563 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 564 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 565 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 566 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 567 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 568 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 569 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 570 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 571 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 572 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 573 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 574 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 575 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 576 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 577 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 578 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 579 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 580 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 581 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 582 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 583 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 584 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 585 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 586 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 587 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 588 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 589 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 590 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 591 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 592 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 593 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 594 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 595 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 596 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 597 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 598 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 599 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 600 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 601 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 602 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 603 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 604 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 605 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 606 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 607 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 608 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 609 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 610 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 611 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 612 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 613 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 614 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 615 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 616 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 617 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 618 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 619 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 620 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 621 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 622 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 623 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 624 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 625 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 626 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 627 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 628 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 629 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 630 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 631 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 632 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 633 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 634 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 635 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 636 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 637 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 638 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 639 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 640 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 641 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 642 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 643 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 644 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 645 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 646 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 647 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 648 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 649 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 650 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 651 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 652 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 653 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 654 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 655 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 656 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 657 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 658 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 659 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 660 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 661 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 662 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 663 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 664 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 665 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 666 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 667 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 668 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 669 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 670 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 671 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 672 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 673 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 674 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 675 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 676 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 677 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 678 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 679 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 680 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 681 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 682 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 683 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 684 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 685 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 686 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 687 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 688 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 689 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 690 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 691 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 692 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 693 of 695 -- Wagner tree with cost 3.
+Status : Wagner : 694 of 695 -- Wagner tree with cost 3.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 3 Searching
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   37 seconds
+Information : 
+                Timer:
+                   46 seconds
+Information : 
+                Timer:
+                   56 seconds
+Information : 
+                Timer:
+                   66 seconds
+Information : 
+                Timer:
+                   76 seconds
+Information : 
+                Timer:
+                   86 seconds
+Information : 
+                Timer:
+                   96 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 3.; Time left: -0 s; Hits: 1
+Status : Perturb Iteration Finished
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 3.; Time left: -0 s; Hits: 1
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information :
+The search evaluated 60 independent repetitions with ratchet and fusing for 0 generations. The shortest tree was found 77 times.
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Tree with cost 3
+  |-----taxid402516  
+  |                  
+  | |---taxid375740  
+  | |                
+  | |---taxid506304  
+  | |                
+  | |---taxid437371  
+  | |                
+  | |---taxid445369  
+  | |                
+  | |---taxid121453  
+  | |                
+  | |---taxid121436  
+  | |                
+  | |---taxid433440  
+  | |                
+  | |---taxid519821  
+  | |                
+  | |---taxid437374  
+  | |                
+  | |---taxid338846  
+  | |                
+  | |---taxid285967  
+  | |                
+  | |---taxid217829  
+  | |                
+  | |---taxid437364  
+  | |                
+  | |---taxid506292  
+  | |                
+  | |---taxid293052  
+  | |                
+  | |---taxid402522  
+  | |                
+  | |---taxid490411  
+  | |                
+  | |---taxid200395  
+  | |                
+  | |---taxid404573  
+  | |                
+  | |---taxid217837  
+  | |                
+  | |---taxid506256  
+  | |                
+  | |---taxid352523  
+  | |                
+  | |---taxid437377  
+  | |                
+  | |---taxid200611  
+  | |                
+  | |---taxid159201  
+  | |                
+  | |---taxid506289  
+  | |                
+  | |---taxid402526  
+  | |                
+  | |---taxid382787  
+  | |                
+  | |---taxid244949  
+  | |                
+  | |---taxid200394  
+  | |                
+  | |---taxid251307  
+  | |                
+  | |---taxid402521  
+  | |                
+  | |---taxid490446  
+  | |                
+  | |---taxid351918  
+  | |                
+  | |---taxid387258  
+  | |                
+  | |---taxid490437  
+  | |                
+  | |---taxid444838  
+  | |                
+  | |---taxid445383  
+  | |                
+  | |---taxid437399  
+  | |                
+  | |---taxid437404  
+  | |                
+  | |---taxid437361  
+  | |                
+  | |---taxid451801  
+  | |                
+  | |---taxid251298  
+  | |                
+  | |---taxid506260  
+  | |                
+  | |---taxid244948  
+  | |                
+  | |---taxid217836  
+  | |                
+  | |---taxid506302  
+  | |                
+  | |---taxid200610  
+  | |                
+  | |---taxid121456  
+  | |                
+  | |---taxid445384  
+  | |                
+  | |---taxid445381  
+  | |                
+  | |---taxid251306  
+  | |                
+  | |---taxid570902  
+  | |                
+  | |---taxid431913  
+  | |                
+  | |---taxid251297  
+  | |                
+  | |---taxid444828  
+  | |                
+  | |---taxid490460  
+  | |                
+  | |---taxid294371  
+  | |                
+  | |---taxid380337  
+  | |                
+  | |---taxid173719  
+  | |                
+  | |---taxid11397   
+  | |                
+  | |---taxid445368  
+  | |                
+  | |---taxid265122  
+  | |                
+  | |---taxid121536  
+  | |                
+  | |---taxid437373  
+  | |                
+  | |---taxid375737  
+  | |                
+  | |---taxid121448  
+  | |                
+  | |---taxid402518  
+  | |                
+  | |---taxid380988  
+  | |                
+  | |---taxid490462  
+  | |                
+  | |---taxid434339  
+  | |                
+  | |---taxid569321  
+  | |                
+  | |---taxid506268  
+  | |                
+  | |---taxid198311  
+  | |                
+  | |---taxid490432  
+  | |                
+  | |---taxid392810  
+  | |                
+  | |---taxid381509  
+  | |                
+  | |---taxid490452  
+  | |                
+  | |---taxid433439  
+  | |                
+  | |---taxid402523  
+  | |                
+  | |---taxid217828  
+  | |                
+  | |---taxid159217  
+  | |                
+  | |---taxid437376  
+  | |                
+  | |---taxid490453  
+  | |                
+  | |---taxid199442  
+  | |                
+  | |---taxid506297  
+  | |                
+  | |---taxid293820  
+  | |                
+  | |---taxid283366  
+  | |                
+  | |---taxid506288  
+  | |                
+  | |---taxid437402  
+  | |                
+  | |---taxid121452  
+  | |                
+  | |---taxid505213  
+  | |                
+  | |---taxid200608  
+  | |                
+  | |---taxid433438  
+  | |                
+  | |---taxid490414  
+  | |                
+  | |---taxid445379  
+  | |                
+  | |---taxid490430  
+  | |                
+  | |---taxid445382  
+  | |                
+  | |---taxid506261  
+  | |                
+  | |---taxid437372  
+  | |                
+  | |---taxid490478  
+  | |                
+  | |---taxid292723  
+  | |                
+  | |---taxid200396  
+  | |                
+  | |---taxid445373  
+  | |                
+  | |---taxid490398  
+  | |                
+  | |---taxid445377  
+  | |                
+  | |---taxid121450  
+  | |                
+  | |---taxid217835  
+  | |                
+  | |---taxid506259  
+  | |                
+  | |---taxid490451  
+  | |                
+  | |---taxid445371  
+  | |                
+  | |---taxid490395  
+  | |                
+  | |---taxid434338  
+  | |                
+  | |---taxid506267  
+  | |                
+  | |---taxid380986  
+  | |                
+  | |---taxid570903  
+  | |                
+  | |---taxid500687  
+  | |                
+  | |---taxid437400  
+  | |                
+  | |---taxid490459  
+  | |                
+  | |---taxid375734  
+  | |                
+  | |---taxid444846  
+  | |                
+  | |---taxid244953  
+  | |                
+  | |---taxid490396  
+  | |                
+  | |---taxid437360  
+  | |                
+  | |---taxid247487  
+  | |                
+  | |---taxid500685  
+  | |                
+  | |---taxid490444  
+  | |                
+  | |---taxid506281  
+  | |                
+  | |---taxid490471  
+  | |                
+  | |---taxid402519  
+  | |                
+  | |---taxid506262  
+  | |                
+  | |---taxid445370  
+  | |                
+  | |---taxid434337  
+  | |                
+  | |---taxid434340  
+  | |                
+  | |---taxid244952  
+  | |                
+  | |---taxid490472  
+  | |                
+  | |---taxid444842  
+  | |                
+  | |---taxid444827  
+  | |                
+  | |---taxid121451  
+  | |                
+  | |---taxid490489  
+  | |                
+  | |---taxid490431  
+  | |                
+  | |---taxid121449  
+  | |                
+  | |---taxid200397  
+  | |                
+  | |---taxid293322  
+  | |                
+  | |---taxid490436  
+  | |                
+  | |---taxid490461  
+  | |                
+  | |---taxid490412  
+  | |                
+  | |---taxid490447  
+  | |                
+  | |---taxid244951  
+  | |                
+  | |---taxid490392  
+  | |                
+  | |---taxid279570  
+  | |                
+  | |---taxid445366  
+  | |                
+  | |---taxid444844  
+  | |                
+  | |---taxid445378  
+  | |                
+  | |---taxid380340  
+  | |                
+  | |---taxid329581  
+  | |                
+  | |---taxid490485  
+  | |                
+  | |---taxid490450  
+  | |                
+  | |---taxid217834  
+  | |                
+  | |---taxid490475  
+  | |                
+  | |---taxid490397  
+  | |                
+  | |---taxid498207  
+  | |                
+  | |---taxid260806  
+  | |                
+  | |---taxid258962  
+  | |                
+  | |---taxid200393  
+  | |                
+  | |---taxid490481  
+  | |                
+  | |---taxid244950  
+  | |                
+  | |---taxid437401  
+  | |                
+  | |---taxid278189  
+  | |                
+  | |---taxid445375  
+  | |                
+  | |---taxid386312  
+  | |                
+  | |---taxid121437  
+  | |                
+  | |---taxid445376  
+  | |                
+  | |---taxid217831  
+  | |                
+  | |---taxid292791  
+  | |                
+  | |---taxid293181  
+  | |                
+  | |---taxid576144  
+  | |                
+  | |---taxid414453  
+  | |                
+  | |---taxid200398  
+  | |                
+  | |---taxid284523  
+  | |                
+  | |---taxid506254  
+  | |                
+  | |---taxid217833  
+  | |                
+  | |---taxid500688  
+  | |                
+  | |---taxid273683  
+  | |                
+  | |---taxid338858  
+  | |                
+  | |---taxid437405  
+  | |                
+  | | |-taxid279384  
+  | | |              
+  | |-|-taxid159222  
+  | | |              
+  | | |-taxid475495  
+  | |                
+  | | |-taxid569283  
+  | | |              
+  | | |-taxid490401  
+  | | |              
+  | | |-taxid329590  
+  | | |              
+  | | |-taxid506275  
+  | | |              
+  | | |-taxid569294  
+  | | |              
+  | | |-taxid441963  
+  | | |              
+  | | |-taxid121455  
+  | | |              
+  | | |-taxid348297  
+  | | |              
+  | | |-taxid578414  
+  | | |              
+  | | |-taxid329584  
+  | | |              
+  | | |-taxid578452  
+  | | |              
+  | | |-taxid569343  
+  | | |              
+  | | |-taxid431918  
+  | | |              
+  | | |-taxid487494  
+  | | |              
+  | | |-taxid487501  
+  | | |              
+  | | |-taxid159200  
+  | | |              
+  | | |-taxid444826  
+  | | |              
+  | | |-taxid304342  
+  | | |              
+  | | |-taxid402447  
+  | | |              
+  | | |-taxid454446  
+  | | |              
+  | | |-taxid121435  
+  | | |              
+  | | |-taxid159229  
+  | | |              
+  | | |-taxid226624  
+  | | |              
+  | | |-taxid399790  
+  | | |              
+  | | |-taxid569333  
+  | | |              
+  | | |-taxid329585  
+  | | |              
+  | | |-taxid569278  
+  | | |              
+  | | |-taxid569303  
+  | | |              
+  | | |-taxid444829  
+  | | |              
+  | | |-taxid506298  
+  | | |              
+  | | |-taxid226628  
+  | | |              
+  | | |-taxid265120  
+  | | |              
+  | | |-taxid159227  
+  | | |              
+  | | |-taxid226629  
+  | | |              
+  | | |-taxid578431  
+  | | |              
+  | | |-taxid437367  
+  | | |              
+  | | |-taxid578423  
+  | | |              
+  | | |-taxid506279  
+  | | |              
+  | | |-taxid121444  
+  | | |              
+  | | |-taxid569308  
+  | | |              
+  | | |-taxid380283  
+  | | |              
+  | | |-taxid487493  
+  | | |              
+  | | |-taxid226657  
+  | | |              
+  | | |-taxid278129  
+  | | |              
+  | | |-taxid569324  
+  | | |              
+  | | |-taxid87504   
+  | | |              
+  | | |-taxid375741  
+  | | |              
+  | | |-taxid578381  
+  | | |              
+  | | |-taxid445380  
+  | | |              
+  | | |-taxid490455  
+  | | |              
+  | | |-taxid159226  
+  | | |              
+  | | |-taxid431914  
+  | | |              
+  | | |-taxid375735  
+  | | |              
+  | | |-taxid490438  
+  | | |              
+  | | |-taxid506294  
+  | | |              
+  | | |-taxid226635  
+  | | |              
+  | | |-taxid569298  
+  | | |              
+  | | |-taxid519825  
+  | | |              
+  | | |-taxid569314  
+  | | |              
+  | | |-taxid393175  
+  | | |              
+  | | |-taxid329579  
+  | | |              
+  | | |-taxid352618  
+  | | |              
+  | | |-taxid578442  
+  | | |              
+  | | |-taxid542867  
+  | | |              
+  | | |-taxid437379  
+  | | |              
+  | | |-taxid159225  
+  | | |              
+  | | |-taxid569347  
+  | | |              
+  | | |-taxid121442  
+  | | |              
+  | | |-taxid226655  
+  | | |              
+  | | |-taxid569292  
+  | | |              
+  | | |-taxid578407  
+  | | |              
+  | | |-taxid226639  
+  | | |              
+  | | |-taxid375742  
+  | | |              
+  | | |-taxid506271  
+  | | |              
+  | | |-taxid569311  
+  | | |              
+  | | |-taxid569299  
+  | | |              
+  | | |-taxid226642  
+  | | |              
+  | | |-taxid228078  
+  | | |              
+  | | |-taxid121445  
+  | | |              
+  | | |-taxid487500  
+  | | |              
+  | | |-taxid569317  
+  | | |              
+  | | |-taxid87501   
+  | | |              
+  | | |-taxid393176  
+  | | |              
+  | | |-taxid279398  
+  | | |              
+  | | |-taxid506296  
+  | | |              
+  | | |-taxid159209  
+  | | |              
+  | | |-taxid121432  
+  | | |              
+  | | |-taxid552791  
+  | | |              
+  | | |-taxid226647  
+  | | |              
+  | | |-taxid445256  
+  | | |              
+  | | |-taxid551230  
+  | | |              
+  | | |-taxid290499  
+  | | |              
+  | | |-taxid434344  
+  | | |              
+  | | |-taxid578429  
+  | | |              
+  | | |-taxid159231  
+  | | |              
+  | | |-taxid569329  
+  | | |              
+  | | |-taxid444841  
+  | | |              
+  | | |-taxid437427  
+  | | |              
+  | | |-taxid121441  
+  | | |              
+  | | |-taxid226622  
+  | | |              
+  | | |-taxid506273  
+  | | |              
+  | | |-taxid437390  
+  | | |              
+  | | |-taxid569281  
+  | | |              
+  | | |-taxid578408  
+  | | |              
+  | | |-taxid159197  
+  | | |              
+  | | |-taxid578446  
+  | | |              
+  | | |-taxid87508   
+  | | |              
+  | | |-taxid87511   
+  | | |              
+  | | |-taxid402497  
+  | | |              
+  | | |-taxid121447  
+  | | |              
+  | | |-taxid578428  
+  | | |              
+  | | |-taxid569313  
+  | | |              
+  | | |-taxid569300  
+  | | |              
+  | | |-taxid578391  
+  | | |              
+  | | |-taxid578433  
+  | | |              
+  | | |-taxid490456  
+  | | |              
+  | | |-taxid490420  
+  | | |              
+  | | |-taxid569295  
+  | | |              
+  | | |-taxid569296  
+  | | |              
+  | | |-taxid227298  
+  | | |              
+  | | |-taxid542850  
+  | | |              
+  | | |-taxid569334  
+  | | |              
+  | | |-taxid159219  
+  | | |              
+  | | |-taxid578451  
+  | | |              
+  | | |-taxid170848  
+  | | |              
+  | | |-taxid578410  
+  | | |              
+  | | |-taxid444845  
+  | | |              
+  | | |-taxid192007  
+  | | |              
+  | | |-taxid437432  
+  | | |              
+  | | |-taxid192002  
+  | | |              
+  | | |-taxid578453  
+  | | |              
+  | | |-taxid159202  
+  | | |              
+  | | |-taxid490486  
+  | | |              
+  | | |-taxid578445  
+  | | |              
+  | | |-taxid437383  
+  | | |              
+  | | |-taxid226621  
+  | | |              
+  | | |-taxid338859  
+  | | |              
+  | | |-taxid578449  
+  | | |              
+  | | |-taxid383314  
+  | | |              
+  | | |-taxid375733  
+  | | |              
+  | | |-taxid569344  
+  | | |              
+  | | |-taxid352555  
+  | | |              
+  | | |-taxid375738  
+  | | |              
+  | | |-taxid440591  
+  | | |              
+  | | |-taxid329587  
+  | | |              
+  | | |-taxid506269  
+  | | |              
+  | | |-taxid437392  
+  | | |              
+  | | |-taxid578404  
+  | | |              
+  | | |-taxid569307  
+  | | |              
+  | | |-taxid542955  
+  | | |              
+  | | |-taxid578440  
+  | | |              
+  | | |-taxid87506   
+  | | |              
+  | | |-taxid475516  
+  | | |              
+  | | |-taxid159204  
+  | | |              
+  | | |-taxid490418  
+  | | |              
+  | | |-taxid578402  
+  | | |              
+  | | |-taxid475518  
+  | | |              
+--| | |-taxid444825  
+  |-| |              
+    | |-taxid569319  
+    | |              
+    | |-taxid506251  
+    | |              
+    | |-taxid551234  
+    | |              
+    | |-taxid578438  
+    | |              
+    | |-taxid487503  
+    | |              
+    | |-taxid428676  
+    | |              
+    | |-taxid326199  
+    | |              
+    | |-taxid578426  
+    | |              
+    | |-taxid226617  
+    | |              
+    | |-taxid490480  
+    | |              
+    | |-taxid578380  
+    | |              
+    | |-taxid192003  
+    | |              
+    | |-taxid578400  
+    | |              
+    | |-taxid506303  
+    | |              
+    | |-taxid226619  
+    | |              
+    | |-taxid569315  
+    | |              
+    | |-taxid569346  
+    | |              
+    | |-taxid87503   
+    | |              
+    | |-taxid578425  
+    | |              
+    | |-taxid226620  
+    | |              
+    | |-taxid444839  
+    | |              
+    | |-taxid490473  
+    | |              
+    | |-taxid578420  
+    | |              
+    | |-taxid578424  
+    | |              
+    | |-taxid433442  
+    | |              
+    | |-taxid226662  
+    | |              
+    | |-taxid87502   
+    | |              
+    | |-taxid304343  
+    | |              
+    | |-taxid159198  
+    | |              
+    | |-taxid490393  
+    | |              
+    | |-taxid519082  
+    | |              
+    | |-taxid578388  
+    | |              
+    | |-taxid159199  
+    | |              
+    | |-taxid475519  
+    | |              
+    | |-taxid475588  
+    | |              
+    | |-taxid506293  
+    | |              
+    | |-taxid542852  
+    | |              
+    | |-taxid506301  
+    | |              
+    | |-taxid226652  
+    | |              
+    | |-taxid121446  
+    | |              
+    | |-taxid578447  
+    | |              
+    | |-taxid569338  
+    | |              
+    | |-taxid431917  
+    | |              
+    | |-taxid506290  
+    | |              
+    | |-taxid506280  
+    | |              
+    | |-taxid578409  
+    | |              
+    | |-taxid226644  
+    | |              
+    | |-taxid444824  
+    | |              
+    | |-taxid393177  
+    | |              
+    | |-taxid578389  
+    | |              
+    | |-taxid437384  
+    | |              
+    | |-taxid578422  
+    | |              
+    | |-taxid121439  
+    | |              
+    | |-taxid399791  
+    | |              
+    | |-taxid192004  
+    | |              
+    | |-taxid251308  
+    | |              
+    | |-taxid329582  
+    | |              
+    | |-taxid578437  
+    | |              
+    | |-taxid87500   
+    | |              
+    | |-taxid226645  
+    | |              
+    | |-taxid490477  
+    | |              
+    | |-taxid378156  
+    | |              
+    | |-taxid226636  
+    | |              
+    | |-taxid226633  
+    | |              
+    | |-taxid444835  
+    | |              
+    | |-taxid506264  
+    | |              
+    | |-taxid455039  
+    | |              
+    | |-taxid506257  
+    | |              
+    | |-taxid578387  
+    | |              
+    | |-taxid450015  
+    | |              
+    | |-taxid87513   
+    | |              
+    | |-taxid578386  
+    | |              
+    | |-taxid578396  
+    | |              
+    | |-taxid329580  
+    | |              
+    | |-taxid226626  
+    | |              
+    | |-taxid569293  
+    | |              
+    | |-taxid226656  
+    | |              
+    | |-taxid542956  
+    | |              
+    | |-taxid487502  
+    | |              
+    | |-taxid329588  
+    | |              
+    | |-taxid578398  
+    | |              
+    | |-taxid475527  
+    | |              
+    | |-taxid278190  
+    | |              
+    | |-taxid519823  
+    | |              
+    | |-taxid578401  
+    | |              
+    | |-taxid569277  
+    | |              
+    | |-taxid569327  
+    | |              
+    | |-taxid159205  
+    | |              
+    | |-taxid506300  
+    | |              
+    | |-taxid226641  
+    | |              
+    | |-taxid200612  
+    | |              
+    | |-taxid578419  
+    | |              
+    | |-taxid578421  
+    | |              
+    | |-taxid342184  
+    | |              
+    |-|-taxid569331  
+      |              
+      |-taxid226659  
+      |              
+      |-taxid444843  
+      |              
+      |-taxid578395  
+      |              
+      |-taxid444834  
+      |              
+      |-taxid393173  
+      |              
+      |-taxid490445  
+      |              
+      |-taxid121458  
+      |              
+      |-taxid578443  
+      |              
+      |-taxid569339  
+      |              
+      |-taxid569297  
+      |              
+      |-taxid578434  
+      |              
+      |-taxid578436  
+      |              
+      |-taxid475508  
+      |              
+      |-taxid578393  
+      |              
+      |-taxid87505   
+      |              
+      |-taxid490400  
+      |              
+      |-taxid267381  
+      |              
+      |-taxid487497  
+      |              
+      |-taxid121431  
+      |              
+      |-taxid487495  
+      |              
+      |-taxid569284  
+      |              
+      |-taxid87496   
+      |              
+      |-taxid290500  
+      |              
+      |-taxid569291  
+      |              
+      |-taxid578403  
+      |              
+      |-taxid578390  
+      |              
+      |-taxid437370  
+      |              
+      |-taxid542884  
+      |              
+      |-taxid437378  
+      |              
+      |-taxid578392  
+      |              
+      |-taxid159228  
+      |              
+      |-taxid569345  
+      |              
+      |-taxid569349  
+      |              
+      |-taxid121457  
+      |              
+      |-taxid506282  
+      |              
+      |-taxid569289  
+      |              
+      |-taxid578435  
+      |              
+      |-taxid451802  
+      |              
+      |-taxid265121  
+      |              
+      |-taxid434342  
+      |              
+      |-taxid226648  
+      |              
+      |-taxid159215  
+      |              
+      |-taxid159194  
+      |              
+      |-taxid490413  
+      |              
+      |-taxid380284  
+      |              
+      |-taxid570904  
+      |              
+      |-taxid121438  
+      |              
+      |-taxid490457  
+      |              
+      |-taxid569335  
+      |              
+      |-taxid329592  
+      |              
+      |-taxid578411  
+      |              
+      |-taxid352609  
+      |              
+      |-taxid578379  
+      |              
+      |-taxid455040  
+      |              
+      |-taxid121460  
+      |              
+      |-taxid397292  
+      |              
+      |-taxid87512   
+      |              
+      |-taxid578441  
+      |              
+      |-taxid159195  
+      |              
+      |-taxid490440  
+      |              
+      |-taxid437369  
+      |              
+      |-taxid302450  
+      |              
+      |-taxid444840  
+      |              
+      |-taxid437431  
+      |              
+      |-taxid444836  
+      |              
+      |-taxid578416  
+      |              
+      |-taxid490423  
+      |              
+      |-taxid192000  
+      |              
+      |-taxid569340  
+      |              
+      |-taxid578439  
+      |              
+      |-taxid475512  
+      |              
+      |-taxid578385  
+      |              
+      |-taxid490435  
+      |              
+      |-taxid226638  
+      |              
+      |-taxid226649  
+      |              
+      |-taxid490408  
+      |              
+      |-taxid578399  
+      |              
+      |-taxid304341  
+      |              
+      |-taxid578432  
+      |              
+      |-taxid490402  
+      |              
+      |-taxid569323  
+      |              
+      |-taxid437388  
+      |              
+      |-taxid569328  
+      |              
+      |-taxid569287  
+      |              
+      |-taxid226630  
+      |              
+      |-taxid475510  
+      |              
+      |-taxid578382  
+      |              
+      |-taxid505212  
+      |              
+      |-taxid226643  
+      |              
+      |-taxid569337  
+      |              
+      |-taxid490476  
+      |              
+      |-taxid490466  
+      |              
+      |-taxid378154  
+      |              
+      |-taxid542846  
+      |              
+      |-taxid569285  
+      |              
+      |-taxid352610  
+      |              
+      |-taxid384493  
+      |              
+      |-taxid569318  
+      |              
+      |-taxid226625  
+      |              
+      |-taxid444833  
+      |              
+      |-taxid226640  
+      |              
+      |-taxid393178  
+      |              
+      |-taxid578405  
+      |              
+      |-taxid226660  
+      |              
+      |-taxid490404  
+      |              
+      |-taxid159196  
+      |              
+      |-taxid578384  
+      |              
+      |-taxid542885  
+      |              
+      |-taxid542953  
+      |              
+      |-taxid569301  
+      |              
+      |-taxid569341  
+      |              
+      |-taxid329591  
+      |              
+      |-taxid226653  
+      |              
+      |-taxid444837  
+      |              
+      |-taxid490405  
+      |              
+      |-taxid578418  
+      |              
+      |-taxid490443  
+      |              
+      |-taxid519824  
+      |              
+      |-taxid578378  
+      |              
+      |-taxid569330  
+      |              
+      |-taxid329578  
+      |              
+      |-taxid578412  
+      |              
+      |-taxid578406  
+      |              
+      |-taxid487498  
+      |              
+      |-taxid569312  
+      |              
+      |-taxid121434  
+      |              
+      |-taxid87514   
+      |              
+      |-taxid352613  
+      |              
+      |-taxid402489  
+      |              
+      |-taxid490394  
+      |              
+      |-taxid490407  
+      |              
+      |-taxid121440  
+      |              
+      |-taxid434343  
+      |              
+      |-taxid506274  
+      |              
+      |-taxid329586  
+      |              
+      |-taxid569309  
+      |              
+      |-taxid569322  
+      |              
+      |-taxid542880  
+      |              
+      |-taxid569290  
+      |              
+      |-taxid352607  
+      |              
+      |-taxid226650  
+      |              
+      |-taxid444830  
+      |              
+      |-taxid569306  
+      |              
+      |-taxid506277  
+      |              
+      |-taxid490449  
+      |              
+      |-taxid578377  
+      |              
+      |-taxid490469  
+      |              
+      |-taxid402490  
+      |              
+      |-taxid578448  
+      |              
+      |-taxid329589  
+      |              
+      |-taxid170849  
+      |              
+      |-taxid284241  
+      |              
+      |-taxid490482  
+      |              
+      |-taxid329583  
+      |              
+      |-taxid437368  
+      |              
+      |-taxid192008  
+      |              
+      |-taxid578413  
+      |              
+      |-taxid569302  
+      |              
+      |-taxid490426  
+      |              
+      |-taxid578427  
+      |              
+      |-taxid428675  
+      |              
+      |-taxid490391  
+      |              
+      |-taxid226637  
+      |              
+      |-taxid505211  
+      |              
+      |-taxid433441  
+      |              
+      |-taxid402476  
+      |              
+      |-taxid227295  
+      |              
+      |-taxid578397  
+      |              
+      |-taxid487504  
+      |              
+      |-taxid226627  
+      |              
+      |-taxid578417  
+      |              
+      |-taxid569280  
+      |              
+      |-taxid393172  
+      |              
+      |-taxid578394  
+      |              
+      |-taxid569350  
+      |              
+      |-taxid159216  
+      |              
+      |-taxid437387  
+      |              
+      |-taxid569348  
+      |              
+      |-taxid159230  
+      |              
+      |-taxid121454  
+      |              
+      |-taxid569320  
+      |              
+      |-taxid437389  
+      |              
+      |-taxid375744  
+      |              
+      |-taxid569304  
+      |              
+      |-taxid121443  
+      |              
+      |-taxid159203  
+      |              
+      |-taxid506276  
+      |              
+      |-taxid433591  
+      |              
+      |-taxid431916  
+      |              
+      |-taxid490410  
+      |              
+      |-taxid578444  
+      |              
+      |-taxid352515  
+      |              
+      |-taxid569325  
+      |              
+      |-taxid487496  
+      |              
+      |-taxid569305  
+      |              
+      |-taxid506287  
+      |              
+      |-taxid578383  
+      |              
+      |-taxid226618  
+      |              
+      |-taxid490434  
+      |              
+      |-taxid279386  
+      |              
+      |-taxid159223  
+      |              
+      |-taxid569336  
+      |              
+      |-taxid569288  
+      |              
+      |-taxid352699  
+      |              
+      |-taxid490406  
+      |              
+      |-taxid490433  
+      |              
+      |-taxid542952  
+      |              
+      |-taxid159210  
+      |              
+      |-taxid569332  
+      |              
+      |-taxid490439  
+      |              
+      |-taxid378155  
+      |              
+      |-taxid569310  
+      |              
+      |-taxid226654  
+      |              
+      |-taxid506306  
+      |              
+      |-taxid490417  
+      |              
+      |-taxid490487  
+      |              
+      |-taxid475522  
+      |              
+      |-taxid226664  
+      |              
+      |-taxid569279  
+      |              
+      |-taxid222719  
+      |              
+      |-taxid159207  
+      |              
+      |-taxid431915  
+      |              
+      |-taxid385636  
+      |              
+      |-taxid552635  
+      |              
+      |-taxid226632  
+      |              
+      |-taxid437391  
+      |              
+      |-taxid487499  
+      |              
+      |-taxid87507   
+      |              
+      |-taxid352544  
+      |              
+      |-taxid87497   
+      |              
+      |-taxid490474  
+      |              
+      |-taxid475511  
+      |              
+      |-taxid569316  
+      |              
+      |-taxid378158  
+      |              
+      |-taxid437380  
+      |              
+      |-taxid352620  
+      |              
+      |-taxid159233  
+      |              
+      |-taxid226623  
+      |              
+      |-taxid87510   
+      |              
+      |-taxid192001  
+      |              
+      |-taxid226634  
+      |              
+      |-taxid170844  
+      |              
+      |-taxid121459  
+      |              
+      |-taxid547400  
+      |              
+      |-taxid490419  
+      |              
+      |-taxid226658  
+      |              
+      |-taxid569342  
+      |              
+      |-taxid542889  
+      |              
+      |-taxid87498   
+      |              
+      |-taxid578415  
+      |              
+      |-taxid506283  
+      |              
+      |-taxid578450  

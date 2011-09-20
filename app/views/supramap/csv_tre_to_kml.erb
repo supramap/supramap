@@ -1,0 +1,19 @@
+<h2>How to make a Supramap KML from only a *.tre and *.csv</h2>
+
+<table>
+  <% form_tag ({:action => 'create_kml'}, :multipart => true) do %>
+      <tr>
+        <td>tre:</td>
+        <td> <%= file_field_tag 'tre' %>       </td>
+      <tr>
+        <td>csv:</td>
+        <td> <%= file_field_tag 'cvs' %>       </td>
+      <tr>
+        <td> <%= submit_tag "Submit" %>    </td>
+  <% end %>
+</table>
+
+<br/><br/>
+<p>The following web page will take a file with georeferences (and optionally, temporal data) in CSV format<a href="http://bmi.osu.edu/~janies/Nnessandsuf/ebola.ngene.latlong.noreston.csv">(example CSV)</a>, and a tree file<a href="http://supramap.osu.edu/csv.tre-to-kml/ebola.tre">(example tree file)</a> for
+  the taxa listed in the CSV, and make a Supramap KML. However, the resulting KML does not show any mutation data. This
+  is a quick way to visualize a Supramap for a precomputed tree.</p>

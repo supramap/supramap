@@ -1,0 +1,14 @@
+read("GAB-210.fas")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("Job 1_results.kml", kml:(supramap, "GAB-210.csv"))
+
+report(asciitrees)
+report("Job 1_results.tre",trees)
+report("Job 1_results.stats",treestats)
+exit()

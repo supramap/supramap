@@ -1,0 +1,1266 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 326 -- Wagner tree with cost 2.
+Status : Wagner : 3 of 326 -- Wagner tree with cost 2.
+Status : Wagner : 4 of 326 -- Wagner tree with cost 7.
+Status : Wagner : 5 of 326 -- Wagner tree with cost 11.
+Status : Wagner : 6 of 326 -- Wagner tree with cost 13.
+Status : Wagner : 7 of 326 -- Wagner tree with cost 19.
+Status : Wagner : 8 of 326 -- Wagner tree with cost 19.
+Status : Wagner : 9 of 326 -- Wagner tree with cost 21.
+Status : Wagner : 10 of 326 -- Wagner tree with cost 21.
+Status : Wagner : 11 of 326 -- Wagner tree with cost 40.
+Status : Wagner : 12 of 326 -- Wagner tree with cost 40.
+Status : Wagner : 13 of 326 -- Wagner tree with cost 40.
+Status : Wagner : 14 of 326 -- Wagner tree with cost 41.
+Status : Wagner : 15 of 326 -- Wagner tree with cost 43.
+Status : Wagner : 16 of 326 -- Wagner tree with cost 45.
+Status : Wagner : 17 of 326 -- Wagner tree with cost 45.
+Status : Wagner : 18 of 326 -- Wagner tree with cost 45.
+Status : Wagner : 19 of 326 -- Wagner tree with cost 46.
+Status : Wagner : 20 of 326 -- Wagner tree with cost 47.
+Status : Wagner : 21 of 326 -- Wagner tree with cost 48.
+Status : Wagner : 22 of 326 -- Wagner tree with cost 50.
+Status : Wagner : 23 of 326 -- Wagner tree with cost 52.
+Status : Wagner : 24 of 326 -- Wagner tree with cost 53.
+Status : Wagner : 25 of 326 -- Wagner tree with cost 55.
+Status : Wagner : 26 of 326 -- Wagner tree with cost 56.
+Status : Wagner : 27 of 326 -- Wagner tree with cost 56.
+Status : Wagner : 28 of 326 -- Wagner tree with cost 56.
+Status : Wagner : 29 of 326 -- Wagner tree with cost 56.
+Status : Wagner : 30 of 326 -- Wagner tree with cost 61.
+Status : Wagner : 31 of 326 -- Wagner tree with cost 62.
+Status : Wagner : 32 of 326 -- Wagner tree with cost 62.
+Status : Wagner : 33 of 326 -- Wagner tree with cost 62.
+Status : Wagner : 34 of 326 -- Wagner tree with cost 62.
+Status : Wagner : 35 of 326 -- Wagner tree with cost 63.
+Status : Wagner : 36 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 37 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 38 of 326 -- Wagner tree with cost 65.
+Status : Wagner : 39 of 326 -- Wagner tree with cost 65.
+Status : Wagner : 40 of 326 -- Wagner tree with cost 70.
+Status : Wagner : 41 of 326 -- Wagner tree with cost 70.
+Status : Wagner : 42 of 326 -- Wagner tree with cost 70.
+Status : Wagner : 43 of 326 -- Wagner tree with cost 71.
+Status : Wagner : 44 of 326 -- Wagner tree with cost 71.
+Status : Wagner : 45 of 326 -- Wagner tree with cost 72.
+Status : Wagner : 46 of 326 -- Wagner tree with cost 73.
+Status : Wagner : 47 of 326 -- Wagner tree with cost 76.
+Status : Wagner : 48 of 326 -- Wagner tree with cost 76.
+Status : Wagner : 49 of 326 -- Wagner tree with cost 77.
+Status : Wagner : 50 of 326 -- Wagner tree with cost 78.
+Status : Wagner : 51 of 326 -- Wagner tree with cost 78.
+Status : Wagner : 52 of 326 -- Wagner tree with cost 85.
+Status : Wagner : 53 of 326 -- Wagner tree with cost 86.
+Status : Wagner : 54 of 326 -- Wagner tree with cost 86.
+Status : Wagner : 55 of 326 -- Wagner tree with cost 86.
+Status : Wagner : 56 of 326 -- Wagner tree with cost 86.
+Status : Wagner : 57 of 326 -- Wagner tree with cost 86.
+Status : Wagner : 58 of 326 -- Wagner tree with cost 93.
+Status : Wagner : 59 of 326 -- Wagner tree with cost 93.
+Status : Wagner : 60 of 326 -- Wagner tree with cost 93.
+Status : Wagner : 61 of 326 -- Wagner tree with cost 95.
+Status : Wagner : 62 of 326 -- Wagner tree with cost 95.
+Status : Wagner : 63 of 326 -- Wagner tree with cost 95.
+Status : Wagner : 64 of 326 -- Wagner tree with cost 95.
+Status : Wagner : 65 of 326 -- Wagner tree with cost 95.
+Status : Wagner : 66 of 326 -- Wagner tree with cost 95.
+Status : Wagner : 67 of 326 -- Wagner tree with cost 101.
+Status : Wagner : 68 of 326 -- Wagner tree with cost 101.
+Status : Wagner : 69 of 326 -- Wagner tree with cost 101.
+Status : Wagner : 70 of 326 -- Wagner tree with cost 101.
+Status : Wagner : 71 of 326 -- Wagner tree with cost 101.
+Status : Wagner : 72 of 326 -- Wagner tree with cost 103.
+Status : Wagner : 73 of 326 -- Wagner tree with cost 106.
+Status : Wagner : 74 of 326 -- Wagner tree with cost 107.
+Status : Wagner : 75 of 326 -- Wagner tree with cost 107.
+Status : Wagner : 76 of 326 -- Wagner tree with cost 107.
+Status : Wagner : 77 of 326 -- Wagner tree with cost 109.
+Status : Wagner : 78 of 326 -- Wagner tree with cost 109.
+Status : Wagner : 79 of 326 -- Wagner tree with cost 109.
+Status : Wagner : 80 of 326 -- Wagner tree with cost 109.
+Status : Wagner : 81 of 326 -- Wagner tree with cost 110.
+Status : Wagner : 82 of 326 -- Wagner tree with cost 110.
+Status : Wagner : 83 of 326 -- Wagner tree with cost 110.
+Status : Wagner : 84 of 326 -- Wagner tree with cost 137.
+Status : Wagner : 85 of 326 -- Wagner tree with cost 138.
+Status : Wagner : 86 of 326 -- Wagner tree with cost 139.
+Status : Wagner : 87 of 326 -- Wagner tree with cost 139.
+Status : Wagner : 88 of 326 -- Wagner tree with cost 141.
+Status : Wagner : 89 of 326 -- Wagner tree with cost 143.
+Status : Wagner : 90 of 326 -- Wagner tree with cost 144.
+Status : Wagner : 91 of 326 -- Wagner tree with cost 145.
+Status : Wagner : 92 of 326 -- Wagner tree with cost 145.
+Status : Wagner : 93 of 326 -- Wagner tree with cost 145.
+Status : Wagner : 94 of 326 -- Wagner tree with cost 145.
+Status : Wagner : 95 of 326 -- Wagner tree with cost 145.
+Status : Wagner : 96 of 326 -- Wagner tree with cost 148.
+Status : Wagner : 97 of 326 -- Wagner tree with cost 148.
+Status : Wagner : 98 of 326 -- Wagner tree with cost 151.
+Status : Wagner : 99 of 326 -- Wagner tree with cost 151.
+Status : Wagner : 100 of 326 -- Wagner tree with cost 151.
+Status : Wagner : 101 of 326 -- Wagner tree with cost 152.
+Status : Wagner : 102 of 326 -- Wagner tree with cost 154.
+Status : Wagner : 103 of 326 -- Wagner tree with cost 154.
+Status : Wagner : 104 of 326 -- Wagner tree with cost 154.
+Status : Wagner : 105 of 326 -- Wagner tree with cost 154.
+Status : Wagner : 106 of 326 -- Wagner tree with cost 155.
+Status : Wagner : 107 of 326 -- Wagner tree with cost 156.
+Status : Wagner : 108 of 326 -- Wagner tree with cost 156.
+Status : Wagner : 109 of 326 -- Wagner tree with cost 156.
+Status : Wagner : 110 of 326 -- Wagner tree with cost 156.
+Status : Wagner : 111 of 326 -- Wagner tree with cost 156.
+Status : Wagner : 112 of 326 -- Wagner tree with cost 158.
+Status : Wagner : 113 of 326 -- Wagner tree with cost 158.
+Status : Wagner : 114 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 115 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 116 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 117 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 118 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 119 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 120 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 121 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 122 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 123 of 326 -- Wagner tree with cost 163.
+Status : Wagner : 124 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 125 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 126 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 127 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 128 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 129 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 130 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 131 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 132 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 133 of 326 -- Wagner tree with cost 164.
+Status : Wagner : 134 of 326 -- Wagner tree with cost 165.
+Status : Wagner : 135 of 326 -- Wagner tree with cost 165.
+Status : Wagner : 136 of 326 -- Wagner tree with cost 166.
+Status : Wagner : 137 of 326 -- Wagner tree with cost 166.
+Status : Wagner : 138 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 139 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 140 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 141 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 142 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 143 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 144 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 145 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 146 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 147 of 326 -- Wagner tree with cost 173.
+Status : Wagner : 148 of 326 -- Wagner tree with cost 173.
+Status : Wagner : 149 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 150 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 151 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 152 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 153 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 154 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 155 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 156 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 157 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 158 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 159 of 326 -- Wagner tree with cost 174.
+Status : Wagner : 160 of 326 -- Wagner tree with cost 176.
+Status : Wagner : 161 of 326 -- Wagner tree with cost 176.
+Status : Wagner : 162 of 326 -- Wagner tree with cost 177.
+Status : Wagner : 163 of 326 -- Wagner tree with cost 177.
+Status : Wagner : 164 of 326 -- Wagner tree with cost 177.
+Status : Wagner : 165 of 326 -- Wagner tree with cost 177.
+Status : Wagner : 166 of 326 -- Wagner tree with cost 178.
+Status : Wagner : 167 of 326 -- Wagner tree with cost 178.
+Status : Wagner : 168 of 326 -- Wagner tree with cost 178.
+Status : Wagner : 169 of 326 -- Wagner tree with cost 178.
+Status : Wagner : 170 of 326 -- Wagner tree with cost 178.
+Status : Wagner : 171 of 326 -- Wagner tree with cost 182.
+Status : Wagner : 172 of 326 -- Wagner tree with cost 183.
+Status : Wagner : 173 of 326 -- Wagner tree with cost 183.
+Status : Wagner : 174 of 326 -- Wagner tree with cost 183.
+Status : Wagner : 175 of 326 -- Wagner tree with cost 183.
+Status : Wagner : 176 of 326 -- Wagner tree with cost 185.
+Status : Wagner : 177 of 326 -- Wagner tree with cost 185.
+Status : Wagner : 178 of 326 -- Wagner tree with cost 185.
+Status : Wagner : 179 of 326 -- Wagner tree with cost 185.
+Status : Wagner : 180 of 326 -- Wagner tree with cost 186.
+Status : Wagner : 181 of 326 -- Wagner tree with cost 187.
+Status : Wagner : 182 of 326 -- Wagner tree with cost 187.
+Status : Wagner : 183 of 326 -- Wagner tree with cost 187.
+Status : Wagner : 184 of 326 -- Wagner tree with cost 189.
+Status : Wagner : 185 of 326 -- Wagner tree with cost 190.
+Status : Wagner : 186 of 326 -- Wagner tree with cost 192.
+Status : Wagner : 187 of 326 -- Wagner tree with cost 193.
+Status : Wagner : 188 of 326 -- Wagner tree with cost 193.
+Status : Wagner : 189 of 326 -- Wagner tree with cost 193.
+Status : Wagner : 190 of 326 -- Wagner tree with cost 193.
+Status : Wagner : 191 of 326 -- Wagner tree with cost 193.
+Status : Wagner : 192 of 326 -- Wagner tree with cost 193.
+Status : Wagner : 193 of 326 -- Wagner tree with cost 194.
+Status : Wagner : 194 of 326 -- Wagner tree with cost 194.
+Status : Wagner : 195 of 326 -- Wagner tree with cost 194.
+Status : Wagner : 196 of 326 -- Wagner tree with cost 194.
+Status : Wagner : 197 of 326 -- Wagner tree with cost 194.
+Status : Wagner : 198 of 326 -- Wagner tree with cost 195.
+Status : Wagner : 199 of 326 -- Wagner tree with cost 196.
+Status : Wagner : 200 of 326 -- Wagner tree with cost 196.
+Status : Wagner : 201 of 326 -- Wagner tree with cost 196.
+Status : Wagner : 202 of 326 -- Wagner tree with cost 196.
+Status : Wagner : 203 of 326 -- Wagner tree with cost 196.
+Status : Wagner : 204 of 326 -- Wagner tree with cost 198.
+Status : Wagner : 205 of 326 -- Wagner tree with cost 198.
+Status : Wagner : 206 of 326 -- Wagner tree with cost 199.
+Status : Wagner : 207 of 326 -- Wagner tree with cost 199.
+Status : Wagner : 208 of 326 -- Wagner tree with cost 199.
+Status : Wagner : 209 of 326 -- Wagner tree with cost 199.
+Status : Wagner : 210 of 326 -- Wagner tree with cost 200.
+Status : Wagner : 211 of 326 -- Wagner tree with cost 200.
+Status : Wagner : 212 of 326 -- Wagner tree with cost 200.
+Status : Wagner : 213 of 326 -- Wagner tree with cost 201.
+Status : Wagner : 214 of 326 -- Wagner tree with cost 201.
+Status : Wagner : 215 of 326 -- Wagner tree with cost 201.
+Status : Wagner : 216 of 326 -- Wagner tree with cost 201.
+Status : Wagner : 217 of 326 -- Wagner tree with cost 203.
+Status : Wagner : 218 of 326 -- Wagner tree with cost 203.
+Status : Wagner : 219 of 326 -- Wagner tree with cost 205.
+Status : Wagner : 220 of 326 -- Wagner tree with cost 206.
+Status : Wagner : 221 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 222 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 223 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 224 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 225 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 226 of 326 -- Wagner tree with cost 211.
+Status : Wagner : 227 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 228 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 229 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 230 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 231 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 232 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 233 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 234 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 235 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 236 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 237 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 238 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 239 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 240 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 241 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 242 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 243 of 326 -- Wagner tree with cost 213.
+Status : Wagner : 244 of 326 -- Wagner tree with cost 227.
+Status : Wagner : 245 of 326 -- Wagner tree with cost 227.
+Status : Wagner : 246 of 326 -- Wagner tree with cost 227.
+Status : Wagner : 247 of 326 -- Wagner tree with cost 229.
+Status : Wagner : 248 of 326 -- Wagner tree with cost 233.
+Status : Wagner : 249 of 326 -- Wagner tree with cost 233.
+Status : Wagner : 250 of 326 -- Wagner tree with cost 233.
+Status : Wagner : 251 of 326 -- Wagner tree with cost 234.
+Status : Wagner : 252 of 326 -- Wagner tree with cost 234.
+Status : Wagner : 253 of 326 -- Wagner tree with cost 235.
+Status : Wagner : 254 of 326 -- Wagner tree with cost 235.
+Status : Wagner : 255 of 326 -- Wagner tree with cost 235.
+Status : Wagner : 256 of 326 -- Wagner tree with cost 237.
+Status : Wagner : 257 of 326 -- Wagner tree with cost 238.
+Status : Wagner : 258 of 326 -- Wagner tree with cost 241.
+Status : Wagner : 259 of 326 -- Wagner tree with cost 242.
+Status : Wagner : 260 of 326 -- Wagner tree with cost 242.
+Status : Wagner : 261 of 326 -- Wagner tree with cost 242.
+Status : Wagner : 262 of 326 -- Wagner tree with cost 242.
+Status : Wagner : 263 of 326 -- Wagner tree with cost 242.
+Status : Wagner : 264 of 326 -- Wagner tree with cost 242.
+Status : Wagner : 265 of 326 -- Wagner tree with cost 243.
+Status : Wagner : 266 of 326 -- Wagner tree with cost 244.
+Status : Wagner : 267 of 326 -- Wagner tree with cost 246.
+Status : Wagner : 268 of 326 -- Wagner tree with cost 246.
+Status : Wagner : 269 of 326 -- Wagner tree with cost 246.
+Status : Wagner : 270 of 326 -- Wagner tree with cost 246.
+Status : Wagner : 271 of 326 -- Wagner tree with cost 246.
+Status : Wagner : 272 of 326 -- Wagner tree with cost 246.
+Status : Wagner : 273 of 326 -- Wagner tree with cost 247.
+Status : Wagner : 274 of 326 -- Wagner tree with cost 248.
+Status : Wagner : 275 of 326 -- Wagner tree with cost 248.
+Status : Wagner : 276 of 326 -- Wagner tree with cost 248.
+Status : Wagner : 277 of 326 -- Wagner tree with cost 248.
+Status : Wagner : 278 of 326 -- Wagner tree with cost 248.
+Status : Wagner : 279 of 326 -- Wagner tree with cost 249.
+Status : Wagner : 280 of 326 -- Wagner tree with cost 251.
+Status : Wagner : 281 of 326 -- Wagner tree with cost 251.
+Status : Wagner : 282 of 326 -- Wagner tree with cost 252.
+Status : Wagner : 283 of 326 -- Wagner tree with cost 252.
+Status : Wagner : 284 of 326 -- Wagner tree with cost 252.
+Status : Wagner : 285 of 326 -- Wagner tree with cost 252.
+Status : Wagner : 286 of 326 -- Wagner tree with cost 253.
+Status : Wagner : 287 of 326 -- Wagner tree with cost 253.
+Status : Wagner : 288 of 326 -- Wagner tree with cost 256.
+Status : Wagner : 289 of 326 -- Wagner tree with cost 257.
+Status : Wagner : 290 of 326 -- Wagner tree with cost 257.
+Status : Wagner : 291 of 326 -- Wagner tree with cost 257.
+Status : Wagner : 292 of 326 -- Wagner tree with cost 258.
+Status : Wagner : 293 of 326 -- Wagner tree with cost 258.
+Status : Wagner : 294 of 326 -- Wagner tree with cost 259.
+Status : Wagner : 295 of 326 -- Wagner tree with cost 259.
+Status : Wagner : 296 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 297 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 298 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 299 of 326 -- Wagner tree with cost 261.
+Status : Wagner : 300 of 326 -- Wagner tree with cost 261.
+Status : Wagner : 301 of 326 -- Wagner tree with cost 261.
+Status : Wagner : 302 of 326 -- Wagner tree with cost 261.
+Status : Wagner : 303 of 326 -- Wagner tree with cost 261.
+Status : Wagner : 304 of 326 -- Wagner tree with cost 261.
+Status : Wagner : 305 of 326 -- Wagner tree with cost 262.
+Status : Wagner : 306 of 326 -- Wagner tree with cost 262.
+Status : Wagner : 307 of 326 -- Wagner tree with cost 265.
+Status : Wagner : 308 of 326 -- Wagner tree with cost 265.
+Status : Wagner : 309 of 326 -- Wagner tree with cost 266.
+Status : Wagner : 310 of 326 -- Wagner tree with cost 266.
+Status : Wagner : 311 of 326 -- Wagner tree with cost 267.
+Status : Wagner : 312 of 326 -- Wagner tree with cost 267.
+Status : Wagner : 313 of 326 -- Wagner tree with cost 267.
+Status : Wagner : 314 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 315 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 316 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 317 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 318 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 319 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 320 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 321 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 322 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 323 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 324 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 325 of 326 -- Wagner tree with cost 275.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 275 Searching
+Status : TBR : 274 Searching
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 273 Searching
+Status : TBR : 272 Searching
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 272.; Time left: 2 m, 25 s; Hits: 1
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 343 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 342 Searching
+Status : TBR : 341 Searching
+Status : TBR : 340 Searching
+Status : TBR : 339 Searching
+Status : TBR : 338 Searching
+Status : TBR : 337 Searching
+Status : TBR : 336 Searching
+Status : TBR : 335 Searching
+Status : TBR : 334 Searching
+Status : TBR : 333 Searching
+Status : TBR : 332 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 338 Searching
+Status : TBR : 337 Searching
+Status : TBR : 336 Searching
+Status : TBR : 335 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 334 Searching
+Status : TBR : 333 Searching
+Status : TBR : 332 Searching
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 331 Searching
+Status : TBR : 330 Searching
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 324 Searching
+Status : TBR : 323 Searching
+Status : TBR : 322 Searching
+Status : TBR : 321 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 320 Searching
+Status : TBR : 319 Searching
+Status : TBR : 318 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 329 Searching
+Status : TBR : 328 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 327 Searching
+Status : TBR : 326 Searching
+Status : TBR : 325 Searching
+Status : TBR : 324 Searching
+Status : TBR : 323 Searching
+Status : TBR : 322 Searching
+Status : TBR : 321 Searching
+Status : TBR : 320 Searching
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : TBR : 271 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Status : TBR Finished
+Status : TBR : 271 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   29 seconds
+Information : 
+                Timer:
+                   30 seconds
+Information : 
+                Timer:
+                   31 seconds
+Information : 
+                Timer:
+                   32 seconds
+Information : 
+                Timer:
+                   33 seconds
+Information : 
+                Timer:
+                   34 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 271.; Time left: 48 s; Hits: 1
+Status : RAS + TBR Finished
+Status : Automated Search : 0 Best tree: 271.; Time left: 48 s; Hits: 1
+Status : Fusing Trees : 0 Generation 1
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 271.; Time left: 48 s; Hits: 1
+Status : Automated Search : 0 Best tree: 271.; Time left: 48 s; Hits: 1
+Status : Fusing Trees : 0 Generation 2
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 271.; Time left: 48 s; Hits: 1
+Status : Automated Search : 0 Best tree: 271.; Time left: 47 s; Hits: 1
+Status : Fusing Trees : 0 Generation 3
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 271.; Time left: 47 s; Hits: 1
+Status : Automated Search : 0 Best tree: 271.; Time left: 47 s; Hits: 1
+Status : Fusing Trees : 0 Generation 4
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 271.; Time left: 47 s; Hits: 1
+Status : Automated Search : 0 Best tree: 271.; Time left: 47 s; Hits: 1
+Status : Fusing Trees : 0 Generation 5
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 271.; Time left: 47 s; Hits: 1
+Status : Fusing Trees Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 2
+Status : Wagner : 2 of 326 -- Wagner tree with cost 3.
+Status : Wagner : 3 of 326 -- Wagner tree with cost 9.
+Status : Wagner : 4 of 326 -- Wagner tree with cost 33.
+Status : Wagner : 5 of 326 -- Wagner tree with cost 33.
+Status : Wagner : 6 of 326 -- Wagner tree with cost 35.
+Status : Wagner : 7 of 326 -- Wagner tree with cost 35.
+Status : Wagner : 8 of 326 -- Wagner tree with cost 37.
+Status : Wagner : 9 of 326 -- Wagner tree with cost 39.
+Status : Wagner : 10 of 326 -- Wagner tree with cost 39.
+Status : Wagner : 11 of 326 -- Wagner tree with cost 39.
+Status : Wagner : 12 of 326 -- Wagner tree with cost 39.
+Status : Wagner : 13 of 326 -- Wagner tree with cost 39.
+Status : Wagner : 14 of 326 -- Wagner tree with cost 40.
+Status : Wagner : 15 of 326 -- Wagner tree with cost 41.
+Status : Wagner : 16 of 326 -- Wagner tree with cost 41.
+Status : Wagner : 17 of 326 -- Wagner tree with cost 48.
+Status : Wagner : 18 of 326 -- Wagner tree with cost 49.
+Status : Wagner : 19 of 326 -- Wagner tree with cost 52.
+Status : Wagner : 20 of 326 -- Wagner tree with cost 53.
+Status : Wagner : 21 of 326 -- Wagner tree with cost 53.
+Status : Wagner : 22 of 326 -- Wagner tree with cost 62.
+Status : Wagner : 23 of 326 -- Wagner tree with cost 62.
+Status : Wagner : 24 of 326 -- Wagner tree with cost 63.
+Status : Wagner : 25 of 326 -- Wagner tree with cost 63.
+Status : Wagner : 26 of 326 -- Wagner tree with cost 63.
+Status : Wagner : 27 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 28 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 29 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 30 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 31 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 32 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 33 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 34 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 35 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 36 of 326 -- Wagner tree with cost 64.
+Status : Wagner : 37 of 326 -- Wagner tree with cost 66.
+Status : Wagner : 38 of 326 -- Wagner tree with cost 66.
+Status : Wagner : 39 of 326 -- Wagner tree with cost 69.
+Status : Wagner : 40 of 326 -- Wagner tree with cost 70.
+Status : Wagner : 41 of 326 -- Wagner tree with cost 70.
+Status : Wagner : 42 of 326 -- Wagner tree with cost 70.
+Status : Wagner : 43 of 326 -- Wagner tree with cost 71.
+Status : Wagner : 44 of 326 -- Wagner tree with cost 71.
+Status : Wagner : 45 of 326 -- Wagner tree with cost 71.
+Status : Wagner : 46 of 326 -- Wagner tree with cost 71.
+Status : Wagner : 47 of 326 -- Wagner tree with cost 72.
+Status : Wagner : 48 of 326 -- Wagner tree with cost 73.
+Status : Wagner : 49 of 326 -- Wagner tree with cost 75.
+Status : Wagner : 50 of 326 -- Wagner tree with cost 75.
+Status : Wagner : 51 of 326 -- Wagner tree with cost 75.
+Status : Wagner : 52 of 326 -- Wagner tree with cost 76.
+Status : Wagner : 53 of 326 -- Wagner tree with cost 82.
+Status : Wagner : 54 of 326 -- Wagner tree with cost 83.
+Status : Wagner : 55 of 326 -- Wagner tree with cost 83.
+Status : Wagner : 56 of 326 -- Wagner tree with cost 89.
+Status : Wagner : 57 of 326 -- Wagner tree with cost 90.
+Status : Wagner : 58 of 326 -- Wagner tree with cost 90.
+Status : Wagner : 59 of 326 -- Wagner tree with cost 90.
+Status : Wagner : 60 of 326 -- Wagner tree with cost 90.
+Status : Wagner : 61 of 326 -- Wagner tree with cost 90.
+Status : Wagner : 62 of 326 -- Wagner tree with cost 90.
+Status : Wagner : 63 of 326 -- Wagner tree with cost 90.
+Status : Wagner : 64 of 326 -- Wagner tree with cost 91.
+Status : Wagner : 65 of 326 -- Wagner tree with cost 91.
+Status : Wagner : 66 of 326 -- Wagner tree with cost 92.
+Status : Wagner : 67 of 326 -- Wagner tree with cost 92.
+Status : Wagner : 68 of 326 -- Wagner tree with cost 92.
+Status : Wagner : 69 of 326 -- Wagner tree with cost 98.
+Status : Wagner : 70 of 326 -- Wagner tree with cost 101.
+Status : Wagner : 71 of 326 -- Wagner tree with cost 102.
+Status : Wagner : 72 of 326 -- Wagner tree with cost 103.
+Status : Wagner : 73 of 326 -- Wagner tree with cost 104.
+Status : Wagner : 74 of 326 -- Wagner tree with cost 104.
+Status : Wagner : 75 of 326 -- Wagner tree with cost 104.
+Status : Wagner : 76 of 326 -- Wagner tree with cost 104.
+Status : Wagner : 77 of 326 -- Wagner tree with cost 106.
+Status : Wagner : 78 of 326 -- Wagner tree with cost 106.
+Status : Wagner : 79 of 326 -- Wagner tree with cost 106.
+Status : Wagner : 80 of 326 -- Wagner tree with cost 106.
+Status : Wagner : 81 of 326 -- Wagner tree with cost 107.
+Status : Wagner : 82 of 326 -- Wagner tree with cost 107.
+Status : Wagner : 83 of 326 -- Wagner tree with cost 107.
+Status : Wagner : 84 of 326 -- Wagner tree with cost 108.
+Status : Wagner : 85 of 326 -- Wagner tree with cost 108.
+Status : Wagner : 86 of 326 -- Wagner tree with cost 108.
+Status : Wagner : 87 of 326 -- Wagner tree with cost 109.
+Status : Wagner : 88 of 326 -- Wagner tree with cost 110.
+Status : Wagner : 89 of 326 -- Wagner tree with cost 111.
+Status : Wagner : 90 of 326 -- Wagner tree with cost 115.
+Status : Wagner : 91 of 326 -- Wagner tree with cost 115.
+Status : Wagner : 92 of 326 -- Wagner tree with cost 116.
+Status : Wagner : 93 of 326 -- Wagner tree with cost 116.
+Status : Wagner : 94 of 326 -- Wagner tree with cost 116.
+Status : Wagner : 95 of 326 -- Wagner tree with cost 116.
+Status : Wagner : 96 of 326 -- Wagner tree with cost 118.
+Status : Wagner : 97 of 326 -- Wagner tree with cost 124.
+Status : Wagner : 98 of 326 -- Wagner tree with cost 125.
+Status : Wagner : 99 of 326 -- Wagner tree with cost 126.
+Status : Wagner : 100 of 326 -- Wagner tree with cost 126.
+Status : Wagner : 101 of 326 -- Wagner tree with cost 126.
+Status : Wagner : 102 of 326 -- Wagner tree with cost 126.
+Status : Wagner : 103 of 326 -- Wagner tree with cost 126.
+Status : Wagner : 104 of 326 -- Wagner tree with cost 126.
+Status : Wagner : 105 of 326 -- Wagner tree with cost 126.
+Status : Wagner : 106 of 326 -- Wagner tree with cost 126.
+Status : Wagner : 107 of 326 -- Wagner tree with cost 127.
+Status : Wagner : 108 of 326 -- Wagner tree with cost 128.
+Status : Wagner : 109 of 326 -- Wagner tree with cost 128.
+Status : Wagner : 110 of 326 -- Wagner tree with cost 131.
+Status : Wagner : 111 of 326 -- Wagner tree with cost 133.
+Status : Wagner : 112 of 326 -- Wagner tree with cost 134.
+Status : Wagner : 113 of 326 -- Wagner tree with cost 134.
+Status : Wagner : 114 of 326 -- Wagner tree with cost 134.
+Status : Wagner : 115 of 326 -- Wagner tree with cost 134.
+Status : Wagner : 116 of 326 -- Wagner tree with cost 134.
+Status : Wagner : 117 of 326 -- Wagner tree with cost 135.
+Status : Wagner : 118 of 326 -- Wagner tree with cost 135.
+Status : Wagner : 119 of 326 -- Wagner tree with cost 135.
+Status : Wagner : 120 of 326 -- Wagner tree with cost 136.
+Status : Wagner : 121 of 326 -- Wagner tree with cost 136.
+Status : Wagner : 122 of 326 -- Wagner tree with cost 136.
+Status : Wagner : 123 of 326 -- Wagner tree with cost 137.
+Status : Wagner : 124 of 326 -- Wagner tree with cost 138.
+Status : Wagner : 125 of 326 -- Wagner tree with cost 138.
+Status : Wagner : 126 of 326 -- Wagner tree with cost 140.
+Status : Wagner : 127 of 326 -- Wagner tree with cost 143.
+Status : Wagner : 128 of 326 -- Wagner tree with cost 143.
+Status : Wagner : 129 of 326 -- Wagner tree with cost 144.
+Status : Wagner : 130 of 326 -- Wagner tree with cost 144.
+Status : Wagner : 131 of 326 -- Wagner tree with cost 144.
+Status : Wagner : 132 of 326 -- Wagner tree with cost 146.
+Status : Wagner : 133 of 326 -- Wagner tree with cost 146.
+Status : Wagner : 134 of 326 -- Wagner tree with cost 146.
+Status : Wagner : 135 of 326 -- Wagner tree with cost 146.
+Status : Wagner : 136 of 326 -- Wagner tree with cost 146.
+Status : Wagner : 137 of 326 -- Wagner tree with cost 147.
+Status : Wagner : 138 of 326 -- Wagner tree with cost 148.
+Status : Wagner : 139 of 326 -- Wagner tree with cost 148.
+Status : Wagner : 140 of 326 -- Wagner tree with cost 148.
+Status : Wagner : 141 of 326 -- Wagner tree with cost 148.
+Status : Wagner : 142 of 326 -- Wagner tree with cost 148.
+Status : Wagner : 143 of 326 -- Wagner tree with cost 150.
+Status : Wagner : 144 of 326 -- Wagner tree with cost 150.
+Status : Wagner : 145 of 326 -- Wagner tree with cost 150.
+Status : Wagner : 146 of 326 -- Wagner tree with cost 151.
+Status : Wagner : 147 of 326 -- Wagner tree with cost 151.
+Status : Wagner : 148 of 326 -- Wagner tree with cost 151.
+Status : Wagner : 149 of 326 -- Wagner tree with cost 151.
+Status : Wagner : 150 of 326 -- Wagner tree with cost 153.
+Status : Wagner : 151 of 326 -- Wagner tree with cost 153.
+Status : Wagner : 152 of 326 -- Wagner tree with cost 153.
+Status : Wagner : 153 of 326 -- Wagner tree with cost 167.
+Status : Wagner : 154 of 326 -- Wagner tree with cost 167.
+Status : Wagner : 155 of 326 -- Wagner tree with cost 167.
+Status : Wagner : 156 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 157 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 158 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 159 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 160 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 161 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 162 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 163 of 326 -- Wagner tree with cost 170.
+Status : Wagner : 164 of 326 -- Wagner tree with cost 171.
+Status : Wagner : 165 of 326 -- Wagner tree with cost 171.
+Status : Wagner : 166 of 326 -- Wagner tree with cost 171.
+Status : Wagner : 167 of 326 -- Wagner tree with cost 171.
+Status : Wagner : 168 of 326 -- Wagner tree with cost 172.
+Status : Wagner : 169 of 326 -- Wagner tree with cost 172.
+Status : Wagner : 170 of 326 -- Wagner tree with cost 195.
+Status : Wagner : 171 of 326 -- Wagner tree with cost 197.
+Status : Wagner : 172 of 326 -- Wagner tree with cost 198.
+Status : Wagner : 173 of 326 -- Wagner tree with cost 198.
+Status : Wagner : 174 of 326 -- Wagner tree with cost 198.
+Status : Wagner : 175 of 326 -- Wagner tree with cost 203.
+Status : Wagner : 176 of 326 -- Wagner tree with cost 203.
+Status : Wagner : 177 of 326 -- Wagner tree with cost 203.
+Status : Wagner : 178 of 326 -- Wagner tree with cost 205.
+Status : Wagner : 179 of 326 -- Wagner tree with cost 205.
+Status : Wagner : 180 of 326 -- Wagner tree with cost 208.
+Status : Wagner : 181 of 326 -- Wagner tree with cost 208.
+Status : Wagner : 182 of 326 -- Wagner tree with cost 208.
+Status : Wagner : 183 of 326 -- Wagner tree with cost 208.
+Status : Wagner : 184 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 185 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 186 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 187 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 188 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 189 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 190 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 191 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 192 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 193 of 326 -- Wagner tree with cost 209.
+Status : Wagner : 194 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 195 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 196 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 197 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 198 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 199 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 200 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 201 of 326 -- Wagner tree with cost 210.
+Status : Wagner : 202 of 326 -- Wagner tree with cost 211.
+Status : Wagner : 203 of 326 -- Wagner tree with cost 212.
+Status : Wagner : 204 of 326 -- Wagner tree with cost 214.
+Status : Wagner : 205 of 326 -- Wagner tree with cost 214.
+Status : Wagner : 206 of 326 -- Wagner tree with cost 214.
+Status : Wagner : 207 of 326 -- Wagner tree with cost 214.
+Status : Wagner : 208 of 326 -- Wagner tree with cost 214.
+Status : Wagner : 209 of 326 -- Wagner tree with cost 214.
+Status : Wagner : 210 of 326 -- Wagner tree with cost 215.
+Status : Wagner : 211 of 326 -- Wagner tree with cost 216.
+Status : Wagner : 212 of 326 -- Wagner tree with cost 216.
+Status : Wagner : 213 of 326 -- Wagner tree with cost 216.
+Status : Wagner : 214 of 326 -- Wagner tree with cost 216.
+Status : Wagner : 215 of 326 -- Wagner tree with cost 217.
+Status : Wagner : 216 of 326 -- Wagner tree with cost 218.
+Status : Wagner : 217 of 326 -- Wagner tree with cost 218.
+Status : Wagner : 218 of 326 -- Wagner tree with cost 218.
+Status : Wagner : 219 of 326 -- Wagner tree with cost 219.
+Status : Wagner : 220 of 326 -- Wagner tree with cost 219.
+Status : Wagner : 221 of 326 -- Wagner tree with cost 220.
+Status : Wagner : 222 of 326 -- Wagner tree with cost 220.
+Status : Wagner : 223 of 326 -- Wagner tree with cost 220.
+Status : Wagner : 224 of 326 -- Wagner tree with cost 220.
+Status : Wagner : 225 of 326 -- Wagner tree with cost 221.
+Status : Wagner : 226 of 326 -- Wagner tree with cost 224.
+Status : Wagner : 227 of 326 -- Wagner tree with cost 225.
+Status : Wagner : 228 of 326 -- Wagner tree with cost 226.
+Status : Wagner : 229 of 326 -- Wagner tree with cost 226.
+Status : Wagner : 230 of 326 -- Wagner tree with cost 227.
+Status : Wagner : 231 of 326 -- Wagner tree with cost 227.
+Status : Wagner : 232 of 326 -- Wagner tree with cost 227.
+Status : Wagner : 233 of 326 -- Wagner tree with cost 230.
+Status : Wagner : 234 of 326 -- Wagner tree with cost 230.
+Status : Wagner : 235 of 326 -- Wagner tree with cost 230.
+Status : Wagner : 236 of 326 -- Wagner tree with cost 231.
+Status : Wagner : 237 of 326 -- Wagner tree with cost 231.
+Status : Wagner : 238 of 326 -- Wagner tree with cost 231.
+Status : Wagner : 239 of 326 -- Wagner tree with cost 231.
+Status : Wagner : 240 of 326 -- Wagner tree with cost 231.
+Status : Wagner : 241 of 326 -- Wagner tree with cost 231.
+Status : Wagner : 242 of 326 -- Wagner tree with cost 231.
+Status : Wagner : 243 of 326 -- Wagner tree with cost 233.
+Status : Wagner : 244 of 326 -- Wagner tree with cost 233.
+Status : Wagner : 245 of 326 -- Wagner tree with cost 233.
+Status : Wagner : 246 of 326 -- Wagner tree with cost 234.
+Status : Wagner : 247 of 326 -- Wagner tree with cost 234.
+Status : Wagner : 248 of 326 -- Wagner tree with cost 236.
+Status : Wagner : 249 of 326 -- Wagner tree with cost 236.
+Status : Wagner : 250 of 326 -- Wagner tree with cost 237.
+Status : Wagner : 251 of 326 -- Wagner tree with cost 237.
+Status : Wagner : 252 of 326 -- Wagner tree with cost 237.
+Status : Wagner : 253 of 326 -- Wagner tree with cost 238.
+Status : Wagner : 254 of 326 -- Wagner tree with cost 240.
+Status : Wagner : 255 of 326 -- Wagner tree with cost 240.
+Status : Wagner : 256 of 326 -- Wagner tree with cost 240.
+Status : Wagner : 257 of 326 -- Wagner tree with cost 241.
+Status : Wagner : 258 of 326 -- Wagner tree with cost 241.
+Status : Wagner : 259 of 326 -- Wagner tree with cost 241.
+Status : Wagner : 260 of 326 -- Wagner tree with cost 241.
+Status : Wagner : 261 of 326 -- Wagner tree with cost 243.
+Status : Wagner : 262 of 326 -- Wagner tree with cost 243.
+Status : Wagner : 263 of 326 -- Wagner tree with cost 243.
+Status : Wagner : 264 of 326 -- Wagner tree with cost 244.
+Status : Wagner : 265 of 326 -- Wagner tree with cost 244.
+Status : Wagner : 266 of 326 -- Wagner tree with cost 245.
+Status : Wagner : 267 of 326 -- Wagner tree with cost 245.
+Status : Wagner : 268 of 326 -- Wagner tree with cost 246.
+Status : Wagner : 269 of 326 -- Wagner tree with cost 246.
+Status : Wagner : 270 of 326 -- Wagner tree with cost 246.
+Status : Wagner : 271 of 326 -- Wagner tree with cost 248.
+Status : Wagner : 272 of 326 -- Wagner tree with cost 249.
+Status : Wagner : 273 of 326 -- Wagner tree with cost 250.
+Status : Wagner : 274 of 326 -- Wagner tree with cost 254.
+Status : Wagner : 275 of 326 -- Wagner tree with cost 254.
+Status : Wagner : 276 of 326 -- Wagner tree with cost 254.
+Status : Wagner : 277 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 278 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 279 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 280 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 281 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 282 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 283 of 326 -- Wagner tree with cost 260.
+Status : Wagner : 284 of 326 -- Wagner tree with cost 262.
+Status : Wagner : 285 of 326 -- Wagner tree with cost 262.
+Status : Wagner : 286 of 326 -- Wagner tree with cost 262.
+Status : Wagner : 287 of 326 -- Wagner tree with cost 262.
+Status : Wagner : 288 of 326 -- Wagner tree with cost 264.
+Status : Wagner : 289 of 326 -- Wagner tree with cost 264.
+Status : Wagner : 290 of 326 -- Wagner tree with cost 264.
+Status : Wagner : 291 of 326 -- Wagner tree with cost 264.
+Status : Wagner : 292 of 326 -- Wagner tree with cost 264.
+Status : Wagner : 293 of 326 -- Wagner tree with cost 264.
+Status : Wagner : 294 of 326 -- Wagner tree with cost 265.
+Status : Wagner : 295 of 326 -- Wagner tree with cost 265.
+Status : Wagner : 296 of 326 -- Wagner tree with cost 265.
+Status : Wagner : 297 of 326 -- Wagner tree with cost 265.
+Status : Wagner : 298 of 326 -- Wagner tree with cost 265.
+Status : Wagner : 299 of 326 -- Wagner tree with cost 269.
+Status : Wagner : 300 of 326 -- Wagner tree with cost 270.
+Status : Wagner : 301 of 326 -- Wagner tree with cost 270.
+Status : Wagner : 302 of 326 -- Wagner tree with cost 270.
+Status : Wagner : 303 of 326 -- Wagner tree with cost 270.
+Status : Wagner : 304 of 326 -- Wagner tree with cost 270.
+Status : Wagner : 305 of 326 -- Wagner tree with cost 272.
+Status : Wagner : 306 of 326 -- Wagner tree with cost 272.
+Status : Wagner : 307 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 308 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 309 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 310 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 311 of 326 -- Wagner tree with cost 273.
+Status : Wagner : 312 of 326 -- Wagner tree with cost 275.
+Status : Wagner : 313 of 326 -- Wagner tree with cost 275.
+Status : Wagner : 314 of 326 -- Wagner tree with cost 275.
+Status : Wagner : 315 of 326 -- Wagner tree with cost 275.
+Status : Wagner : 316 of 326 -- Wagner tree with cost 275.
+Status : Wagner : 317 of 326 -- Wagner tree with cost 276.
+Status : Wagner : 318 of 326 -- Wagner tree with cost 277.
+Status : Wagner : 319 of 326 -- Wagner tree with cost 277.
+Status : Wagner : 320 of 326 -- Wagner tree with cost 277.
+Status : Wagner : 321 of 326 -- Wagner tree with cost 277.
+Status : Wagner : 322 of 326 -- Wagner tree with cost 278.
+Status : Wagner : 323 of 326 -- Wagner tree with cost 278.
+Status : Wagner : 324 of 326 -- Wagner tree with cost 278.
+Status : Wagner : 325 of 326 -- Wagner tree with cost 278.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 278 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 277 Searching
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 276 Searching
+Status : TBR : 275 Searching
+Status : TBR : 274 Searching
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 271.; Time left: -0 s; Hits: 1
+Status : Perturb Iteration Finished
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 271.; Time left: -0 s; Hits: 2
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information :
+The search evaluated 82 independent repetitions with ratchet and fusing for 94 generations. The shortest tree was found 47 times.
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Error : Scripting.Make(Node)(Edge)(TreeOps)(CScrp).Kml.IllegalCVS

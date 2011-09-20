@@ -1,0 +1,5 @@
+read ("test.fas")
+build (1)
+transform (static_approx)
+report ("resuls.kml", kml:(supramap, "test.csv"))
+exit ()

@@ -8,30 +8,34 @@
     <td valign="center">
       Project:&nbsp;<i><%= h(@project.name) %></i>
     </td>
-    <td class="right"><div class="alignright"><%= button_to "Back to projects", :controller => "project", :action => "list" %></div></td>
+    <td class="right">
+      <div class="alignright"><%= button_to "Back to projects", :controller => "project", :action => "list" %></div>
+    </td>
   </tr>
 </table>
 
 <fieldset id="files">
-<legend>Files</legend>
+  <legend>Files</legend>
   <table class="wide">
     <% unless @sfiles.size == 0 %>
-      <tr>
-        <th>Name</th>
-        <th>Uploaded at</th>
-        <th>Type</th>
-        <th>Actions</th>
-      </tr>
+        <tr>
+          <th>Name</th>
+          <th>Uploaded at</th>
+          <th>Type</th>
+          <th>Actions</th>
+        </tr>
     <% else %>
-      <p>No files have been uploaded to this project.</p>
+        <p>No files have been uploaded to this project.</p>
     <% end %>
     <% for sfile in @sfiles %>
-      <tr>
-        <td><a href="/files/<%= h(sfile.project.user.login) %>/<%= h(sfile.project_id) %>/<%= h(sfile.name) %>" title="Download File"><%= sfile.name %></a></td>
-        <td><font size="2"><%= h(sfile.created_at.to_date) %></font></td>
-        <td><%= get_file_type(sfile) %></td>
-        <td><%= button_to "Delete", {:controller => "sfile", :action => "delete", :id => sfile.id}, :confirm => "Are you sure you want to delete file #{h(sfile.name)}?" %></td>
-      </tr>
+        <tr>
+          <td>
+            <a href="/files/<%= h(sfile.project.user.login) %>/<%= h(sfile.project_id) %>/<%= h(sfile.name) %>" title="Download File"><%= sfile.name %></a>
+          </td>
+          <td><font size="2"><%= h(sfile.created_at.to_date) %></font></td>
+          <td><%= get_file_type(sfile) %></td>
+          <td><%= button_to "Delete", {:controller => "sfile", :action => "delete", :id => sfile.id}, :confirm => "Are you sure you want to delete file #{h(sfile.name)}?" %></td>
+        </tr>
     <% end %>
   </table>
 
@@ -42,37 +46,38 @@
   <legend>Jobs</legend>
   <table class="wide">
     <% unless @jobs.size == 0 %>
-      <tr>
-        <th>Name</th>
-        <th>Started at</th>
-        <th>Kind</th>
-        <th>Status</th>
-        <th colspan="4">Action</th>
-      </tr>
+        <tr>
+          <th>Name</th>
+          <th>Started at</th>
+          <th>Kind</th>
+          <th>Status</th>
+          <th colspan="4">Action</th>
+        </tr>
     <% else %>
-      <p>No jobs defined for this project.</p>
+        <p>No jobs defined for this project.</p>
     <% end %>
     <% for job in @jobs %>
-      <tr>
-        <td><%= h(job.name) %></td>
-        <td class="started_at"><%= job.created_at.to_time.to_s(:db) %></td>
-        <td><%= h(job.job_type)%> </td>
-        <td class="status"><%= job.status %><br><font size="2"><%#= show_error_log(job) %></font></td>
-
-        <% if job.status == "Running" %>
-          <td><%#= button_to "Stop", {:controller => "job", :action => "stop", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
-        <% else %>
-        <td><%= button_to "Delete", {:controller => "job", :action => "delete", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)}?" %></td>
-        <% end %>
-      </tr>
-      <% job.sfiles.each do |file| %>
         <tr>
-          <td>&nbsp;</td>
-          <td colspan="6" class="job_files"><%= h(file.name) %></td>
-        </tr>
+          <td><%= h(job.name) %></td>
+          <td class="started_at"><%= job.created_at.to_time.to_s(:db) %></td>
+          <td><%= h(job.job_type) %> </td>
+          <td class="status"><%= job.status %>
+            <br><font size="2"><%#= show_error_log(job) %></font></td>
 
-      <% end %>
-    <% end%>
+          <% if job.status == "Running" %>
+              <td><%#= button_to "Stop", {:controller => "job", :action => "stop", :id => job.id}, :confirm => "Are you sure that you want to stop job #{h(job.name)}?"%></td>
+          <% else %>
+              <td><%= button_to "Delete", {:controller => "job", :action => "delete", :id => job.id}, :confirm => "Are you sure you want to delete job #{h(job.name)}?" %></td>
+          <% end %>
+        </tr>
+        <% job.sfiles.each do |file| %>
+            <tr>
+              <td>&nbsp;</td>
+              <td colspan="6" class="job_files"><%= h(file.name) %></td>
+            </tr>
+
+        <% end %>
+    <% end %>
   </table>
 
   <%= button_to "New Job", {:controller => "job", :action => "define", :id => @project.id} %>
@@ -80,25 +85,39 @@
 </fieldset>
 
 <fieldset>
-  <legend>Results</legend>  
+  <legend>Results</legend>
   <% if @jobs.size > 0 %>
-    <table>
-      <tr>
-        <th>Job Name</th>
-        <th colspan="3">Results</th>
-      </tr>
-      <% @jobs.each do |job|
-        if job.status == "Completed" %>
+      <table>
         <tr>
-          <td><%= h(job.name) %></td>
-          <td><%= link_to "KML",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.kml"%></td>
-          <td><%= link_to "Tree",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.tre"%></td>
-          <td><%= link_to "Stats",  "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.stats"%></td>
+          <th>Job Name</th>
+          <th colspan="3">Results</th>
         </tr>
-      <% end
-      end %>
-  <% else %>
-      <p>No results yet.</p>
-  <%end%>
-  </table>
-</fieldset>
+        <% @jobs.each do |job|
+            if job.status == "Completed" %>
+                <tr>
+                  <td><%= h(job.name) %></td>
+                  <td><%= link_to "KML", "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.kml" %></td>
+                  <td><%= link_to "Tree", "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.tre" %></td>
+                  <td><%= link_to "Stats", "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/#{job.name}_results.stats" %></td>
+                </tr>
+                 <% end %>
+                <% if job.status == "Failed"
+                       begin %>
+                        <tr>
+                          <td><%= h(job.name) %></td>
+                          <td><%= link_to "Error_log", "/files/#{job.project.user.login}/#{job.project_id}/#{job.id}/output.txt" %></td>
+                            <td> </td>   <td> </td>
+                        </tr>
+                    <% end %>
+                <% end %>
+                <% if job.status == "Running" %>
+                 <tr>
+                     <td><%= h(job.name) %></td>
+                    <td>No results yet.</td>
+                    <td> </td>   <td> </td>
+                 </tr>
+                <% end %>
+                <% end %>
+                </table>
+       <% end %>
+                </fieldset>

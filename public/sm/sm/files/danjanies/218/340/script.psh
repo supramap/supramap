@@ -1,0 +1,14 @@
+read(prealigned:("/home/supramap/supramap/public/files/danjanies/218/NP.fas", "/home/supramap/supramap/public/files/danjanies/218/PB2.fas", "/home/supramap/supramap/public/files/danjanies/218/M.fas", "/home/supramap/supramap/public/files/danjanies/218/NA.fas", "/home/supramap/supramap/public/files/danjanies/218/PA.fas", "/home/supramap/supramap/public/files/danjanies/218/HA.fas", "/home/supramap/supramap/public/files/danjanies/218/NS.fas", "/home/supramap/supramap/public/files/danjanies/218/PB1.fas", tcm:(1,1)))
+read("/home/supramap/supramap/public/files/danjanies/218/RAxML_bestTree.fulloutdj10209.nobl.tre")
+set(log: "/home/supramap/supramap/public/files/danjanies/218/340/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/danjanies/218/340/test_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/danjanies/218/507genomesm.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/danjanies/218/340/test_results.tre",trees)
+report("/home/supramap/supramap/public/files/danjanies/218/340/test_results.stats",treestats)
+exit()

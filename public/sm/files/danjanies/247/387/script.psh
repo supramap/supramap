@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/danjanies/247/NA_6h_276_ncm_con.tre", "/home/supramap/supramap/public/files/danjanies/247/NA_EA_kinship.tnt")
+set(log: "/home/supramap/supramap/public/files/danjanies/247/387/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/danjanies/247/387/rerun_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/danjanies/247/EA_Atlas276latlong.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/danjanies/247/387/rerun_results.tre",trees)
+report("/home/supramap/supramap/public/files/danjanies/247/387/rerun_results.stats",treestats)
+exit()

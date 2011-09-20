@@ -1,0 +1,1822 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<NetworkLinkControl>
+
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY278490">
+							  	<visibility>1</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY278487">
+							  	<visibility>1</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_164">
+							  	<visibility>1</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_166">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_181">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_144">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_184">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_145">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_149">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_150">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_151">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_152">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_167">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_135">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_136">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_141">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_143">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_146">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_221">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_223">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_195">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_198">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_203">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_207">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_218">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_222">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_199">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_204">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_219">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_224">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_188">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_189">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_190">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_191">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_192">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_193">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_196">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_200">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_201">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_205">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_208">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_210">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_211">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_212">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_213">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_215">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_216">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_220">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_226">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_227">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY395004">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394981">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY545915">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY463059">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY461660">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY338174">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY291315">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY310120">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY283798">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY283794">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AP006557">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502930">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY313906">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502929">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502931">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AP006558">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AP006560">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AP006559">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AP006561">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502923">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502924">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502932">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY357076">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394978">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY357075">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394998">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY282752">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY350750">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY345986">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY345988">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY345987">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY348314">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY338175">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502928">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY321118">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394850">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY278491">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502926">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502927">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY502925">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY291451">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY278741">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY283797">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY559082">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY559084">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY559085">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY559095">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY559093">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY559086">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY559096">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY283796">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY283795">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY297028">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY427439">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY485277">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY485278">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY323977">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_115">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_116">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_120">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_125">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_126">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_129">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_131">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_117">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_127">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_132">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_118">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_128">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_133">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_119">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_130">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_121">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_122">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_123">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_124">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_NC004718">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY654624">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY278488">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY304495">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY279354">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY508724">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394991">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394992">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_186">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY572034">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY686863">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY572035">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY686864">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY545914">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY515512">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY545919">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY545918">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY572038">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY545916">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY545917">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY613950">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY568539">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY613947">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY613948">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY613949">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY304486">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY304488">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY390556">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY278489">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394996">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_DQ412043">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_DQ648857">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_DQ071615">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394993">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394989">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394990">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY278554">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394979">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394987">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394985">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394986">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394995">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394994">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394983">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394982">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394988">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394997">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY395003">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY395000">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY395001">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY395002">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY394999">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_DQ022305">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_DQ084200">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_DQ084199">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_AY567487">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_187">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_194">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_197">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_202">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_206">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_209">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_214">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_217">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_137">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_170">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_153">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_155">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_156">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_161">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_168">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_169">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_171">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_173">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_179">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_182">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_185">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_147">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_154">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_157">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_165">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_174">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_183">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_148">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_158">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_172">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_175">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_134">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_159">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_176">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_225">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_138">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_160">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_177">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_139">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_162">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_178">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_140">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_163">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_180">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+				<Update>
+					<targetHref>http://supermap.osu.edu/cov114/cov_sars.kml</targetHref>
+					<Change>
+							<Placemark targetId="pm_node_142">
+							  	<visibility>0</visibility>
+							</Placemark>
+					</Change>
+				</Update>
+</NetworkLinkControl>
+</kml>

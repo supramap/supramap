@@ -1,0 +1,14 @@
+read(prealigned: ("Onco.CO1.trim.fasta", tcm:(1,1)))
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("Onco-TriculaOG_results.kml", kml:(supramap, "OncoCO1SM.csv"))
+
+report(asciitrees)
+report("Onco-TriculaOG_results.tre",trees)
+report("Onco-TriculaOG_results.stats",treestats)
+exit()

@@ -1,0 +1,14 @@
+read("pb2239.fas")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("trial_results.kml", kml:(supramap, "pb2239.csv"))
+
+report(asciitrees)
+report("trial_results.tre",trees)
+report("trial_results.stats",treestats)
+exit()

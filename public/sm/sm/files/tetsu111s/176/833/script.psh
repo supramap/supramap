@@ -1,0 +1,14 @@
+read("568_EV71_acc_-C390.fas")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("ugv390c_results.kml", kml:(supramap, "390.csv"))
+
+report(asciitrees)
+report("ugv390c_results.tre",trees)
+report("ugv390c_results.stats",treestats)
+exit()

@@ -1,0 +1,15 @@
+read(prealigned: ("cladey.820.fas", tcm:(1,1)))
+read("RAxML_bestTree.h5n1.cladey.gammai.r100")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("supertest_results.kml", kml:(supramap, "cladey.supermap.csv"))
+
+report(asciitrees)
+report("supertest_results.tre",trees)
+report("supertest_results.stats",treestats)
+exit()

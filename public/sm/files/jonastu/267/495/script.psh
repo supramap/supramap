@@ -1,0 +1,13 @@
+read(prealigned:("/home/supramap/supramap/public/files/jonastu/267/VHS.N.trim.fas", tcm:(1,1)))
+set(log: "/home/supramap/supramap/public/files/jonastu/267/495/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/jonastu/267/495/VHS N SM_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/jonastu/267/SMVHSNgenereduced.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/jonastu/267/495/VHS N SM_results.tre",trees)
+report("/home/supramap/supramap/public/files/jonastu/267/495/VHS N SM_results.stats",treestats)
+exit()

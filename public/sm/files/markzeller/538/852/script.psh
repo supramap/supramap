@@ -1,0 +1,14 @@
+read("OP354_final.fas")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("OP354_1_results.kml", kml:(supramap, "geographic_info1_final.csv"))
+
+report(asciitrees)
+report("OP354_1_results.tre",trees)
+report("OP354_1_results.stats",treestats)
+exit()

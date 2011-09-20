@@ -1,0 +1,14 @@
+read("coded_NW_fullG.tre")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("map_coded_NW_fullG_results.kml", kml:(supramap, "coded_NW_fullG_locations.csv"))
+
+report(asciitrees)
+report("map_coded_NW_fullG_results.tre",trees)
+report("map_coded_NW_fullG_results.stats",treestats)
+exit()

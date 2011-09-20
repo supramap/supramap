@@ -1,0 +1,14 @@
+read("567_EV71_.fas")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("ugv567_results.kml", kml:(supramap, "567-2.csv"))
+
+report(asciitrees)
+report("ugv567_results.tre",trees)
+report("ugv567_results.stats",treestats)
+exit()

@@ -1,0 +1,14 @@
+read(prealigned: ("GAC-463.fas", tcm:(1,1)))
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("gac-463_results.kml", kml:(supramap, "GAC-463.csv"))
+
+report(asciitrees)
+report("gac-463_results.tre",trees)
+report("gac-463_results.stats",treestats)
+exit()

@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/gvprokopec/449/den4mlapril2010_codes4.nwk")
+set(log: "/home/supramap/supramap/public/files/gvprokopec/449/698/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/gvprokopec/449/698/phy_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/gvprokopec/449/coordinates_2.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/gvprokopec/449/698/phy_results.tre",trees)
+report("/home/supramap/supramap/public/files/gvprokopec/449/698/phy_results.stats",treestats)
+exit()

@@ -1,0 +1,632 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 33 -- Wagner tree with cost 5.
+Status : Wagner : 3 of 33 -- Wagner tree with cost 10.
+Status : Wagner : 4 of 33 -- Wagner tree with cost 13.
+Status : Wagner : 5 of 33 -- Wagner tree with cost 124.
+Status : Wagner : 6 of 33 -- Wagner tree with cost 158.
+Status : Wagner : 7 of 33 -- Wagner tree with cost 191.
+Status : Wagner : 8 of 33 -- Wagner tree with cost 224.
+Status : Wagner : 9 of 33 -- Wagner tree with cost 257.
+Status : Wagner : 10 of 33 -- Wagner tree with cost 292.
+Status : Wagner : 11 of 33 -- Wagner tree with cost 324.
+Status : Wagner : 12 of 33 -- Wagner tree with cost 357.
+Status : Wagner : 13 of 33 -- Wagner tree with cost 391.
+Status : Wagner : 14 of 33 -- Wagner tree with cost 429.
+Status : Wagner : 15 of 33 -- Wagner tree with cost 464.
+Status : Wagner : 16 of 33 -- Wagner tree with cost 499.
+Status : Wagner : 17 of 33 -- Wagner tree with cost 534.
+Status : Wagner : 18 of 33 -- Wagner tree with cost 569.
+Status : Wagner : 19 of 33 -- Wagner tree with cost 605.
+Status : Wagner : 20 of 33 -- Wagner tree with cost 641.
+Status : Wagner : 21 of 33 -- Wagner tree with cost 676.
+Status : Wagner : 22 of 33 -- Wagner tree with cost 725.
+Status : Wagner : 23 of 33 -- Wagner tree with cost 726.
+Status : Wagner : 24 of 33 -- Wagner tree with cost 731.
+Status : Wagner : 25 of 33 -- Wagner tree with cost 733.
+Status : Wagner : 26 of 33 -- Wagner tree with cost 735.
+Status : Wagner : 27 of 33 -- Wagner tree with cost 753.
+Status : Wagner : 28 of 33 -- Wagner tree with cost 761.
+Status : Wagner : 29 of 33 -- Wagner tree with cost 783.
+Status : Wagner : 30 of 33 -- Wagner tree with cost 783.
+Status : Wagner : 31 of 33 -- Wagner tree with cost 784.
+Status : Wagner : 32 of 33 -- Wagner tree with cost 784.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 300 Searching
+Status : TBR : 293 Searching
+Status : TBR : 288 Searching
+Status : TBR : 284 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 280 Searching
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 256 Searching
+Status : TBR : 255 Searching
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR : 254 Searching
+Information : 
+                Timer:
+                   4 seconds
+Status : TBR : 251 Searching
+Information : 
+                Timer:
+                   5 seconds
+Status : TBR : 250 Searching
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Status : TBR : 248 Searching
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Status : TBR : 247 Searching
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Status : TBR : 243 Searching
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Status : TBR : 242 Searching
+Information : 
+                Timer:
+                   25 seconds
+Status : TBR : 241 Searching
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Status : TBR : 240 Searching
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   29 seconds
+Information : 
+                Timer:
+                   37 seconds
+Information : 
+                Timer:
+                   43 seconds
+Information : 
+                Timer:
+                   47 seconds
+Information : 
+                Timer:
+                   48 seconds
+Information : 
+                Timer:
+                   49 seconds
+Status : TBR : 239 Searching
+Information : 
+                Timer:
+                   50 seconds
+Status : TBR : 237 Searching
+Information : 
+                Timer:
+                   51 seconds
+Information : 
+                Timer:
+                   52 seconds
+Information : 
+                Timer:
+                   53 seconds
+Information : 
+                Timer:
+                   55 seconds
+Information : 
+                Timer:
+                   56 seconds
+Information : 
+                Timer:
+                   58 seconds
+Information : 
+                Timer:
+                   59 seconds
+Information : 
+                Timer:
+                   60 seconds
+Information : 
+                Timer:
+                   73 seconds
+Information : 
+                Timer:
+                   74 seconds
+Information : 
+                Timer:
+                   75 seconds
+Status : TBR : 236 Searching
+Status : TBR : 235 Searching
+Information : 
+                Timer:
+                   76 seconds
+Information : 
+                Timer:
+                   77 seconds
+Information : 
+                Timer:
+                   83 seconds
+Information : 
+                Timer:
+                   84 seconds
+Information : 
+                Timer:
+                   85 seconds
+Status : TBR : 234 Searching
+Information : 
+                Timer:
+                   87 seconds
+Information : 
+                Timer:
+                   88 seconds
+Status : TBR : 233 Searching
+Information : 
+                Timer:
+                   89 seconds
+Information : 
+                Timer:
+                   90 seconds
+Status : TBR : 232 Searching
+Information : 
+                Timer:
+                   91 seconds
+Information : 
+                Timer:
+                   92 seconds
+Status : TBR : 231 Searching
+Information : 
+                Timer:
+                   93 seconds
+Information : 
+                Timer:
+                   106 seconds
+Information : 
+                Timer:
+                   107 seconds
+Information : 
+                Timer:
+                   125 seconds
+Information : 
+                Timer:
+                   127 seconds
+Information : 
+                Timer:
+                   128 seconds
+Information : 
+                Timer:
+                   130 seconds
+Information : 
+                Timer:
+                   131 seconds
+Information : 
+                Timer:
+                   138 seconds
+Information : 
+                Timer:
+                   140 seconds
+Information : 
+                Timer:
+                   141 seconds
+Information : 
+                Timer:
+                   142 seconds
+Information : 
+                Timer:
+                   147 seconds
+Information : 
+                Timer:
+                   148 seconds
+Information : 
+                Timer:
+                   152 seconds
+Information : 
+                Timer:
+                   154 seconds
+Status : TBR Finished
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 172.; Time left: -0 s; Hits: 1
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Implied Alignments : 1 of 65 -- vertices calculated
+Status : Implied Alignments : 2 of 65 -- vertices calculated
+Status : Implied Alignments : 3 of 65 -- vertices calculated
+Status : Implied Alignments : 4 of 65 -- vertices calculated
+Status : Implied Alignments : 5 of 65 -- vertices calculated
+Status : Implied Alignments : 6 of 65 -- vertices calculated
+Status : Implied Alignments : 7 of 65 -- vertices calculated
+Status : Implied Alignments : 8 of 65 -- vertices calculated
+Status : Implied Alignments : 9 of 65 -- vertices calculated
+Status : Implied Alignments : 10 of 65 -- vertices calculated
+Status : Implied Alignments : 11 of 65 -- vertices calculated
+Status : Implied Alignments : 12 of 65 -- vertices calculated
+Status : Implied Alignments : 13 of 65 -- vertices calculated
+Status : Implied Alignments : 14 of 65 -- vertices calculated
+Status : Implied Alignments : 15 of 65 -- vertices calculated
+Status : Implied Alignments : 16 of 65 -- vertices calculated
+Status : Implied Alignments : 17 of 65 -- vertices calculated
+Status : Implied Alignments : 18 of 65 -- vertices calculated
+Status : Implied Alignments : 19 of 65 -- vertices calculated
+Status : Implied Alignments : 20 of 65 -- vertices calculated
+Status : Implied Alignments : 21 of 65 -- vertices calculated
+Status : Implied Alignments : 22 of 65 -- vertices calculated
+Status : Implied Alignments : 23 of 65 -- vertices calculated
+Status : Implied Alignments : 24 of 65 -- vertices calculated
+Status : Implied Alignments : 25 of 65 -- vertices calculated
+Status : Implied Alignments : 26 of 65 -- vertices calculated
+Status : Implied Alignments : 27 of 65 -- vertices calculated
+Status : Implied Alignments : 28 of 65 -- vertices calculated
+Status : Implied Alignments : 29 of 65 -- vertices calculated
+Status : Implied Alignments : 30 of 65 -- vertices calculated
+Status : Implied Alignments : 31 of 65 -- vertices calculated
+Status : Implied Alignments : 32 of 65 -- vertices calculated
+Status : Implied Alignments : 33 of 65 -- vertices calculated
+Status : Implied Alignments : 34 of 65 -- vertices calculated
+Status : Implied Alignments : 35 of 65 -- vertices calculated
+Status : Implied Alignments : 36 of 65 -- vertices calculated
+Status : Implied Alignments : 37 of 65 -- vertices calculated
+Status : Implied Alignments : 38 of 65 -- vertices calculated
+Status : Implied Alignments : 39 of 65 -- vertices calculated
+Status : Implied Alignments : 40 of 65 -- vertices calculated
+Status : Implied Alignments : 41 of 65 -- vertices calculated
+Status : Implied Alignments : 42 of 65 -- vertices calculated
+Status : Implied Alignments : 43 of 65 -- vertices calculated
+Status : Implied Alignments : 44 of 65 -- vertices calculated
+Status : Implied Alignments : 45 of 65 -- vertices calculated
+Status : Implied Alignments : 46 of 65 -- vertices calculated
+Status : Implied Alignments : 47 of 65 -- vertices calculated
+Status : Implied Alignments : 48 of 65 -- vertices calculated
+Status : Implied Alignments : 49 of 65 -- vertices calculated
+Status : Implied Alignments : 50 of 65 -- vertices calculated
+Status : Implied Alignments : 51 of 65 -- vertices calculated
+Status : Implied Alignments : 52 of 65 -- vertices calculated
+Status : Implied Alignments : 53 of 65 -- vertices calculated
+Status : Implied Alignments : 54 of 65 -- vertices calculated
+Status : Implied Alignments : 55 of 65 -- vertices calculated
+Status : Implied Alignments : 56 of 65 -- vertices calculated
+Status : Implied Alignments : 57 of 65 -- vertices calculated
+Status : Implied Alignments : 58 of 65 -- vertices calculated
+Status : Implied Alignments : 59 of 65 -- vertices calculated
+Status : Implied Alignments : 60 of 65 -- vertices calculated
+Status : Implied Alignments : 61 of 65 -- vertices calculated
+Status : Implied Alignments : 62 of 65 -- vertices calculated
+Status : Implied Alignments : 63 of 65 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters : 0 of 33 -- Storing the character specifications
+Status : Loading Characters : 1 of 33 -- Storing the character specifications
+Status : Loading Characters : 2 of 33 -- Storing the character specifications
+Status : Loading Characters : 3 of 33 -- Storing the character specifications
+Status : Loading Characters : 4 of 33 -- Storing the character specifications
+Status : Loading Characters : 5 of 33 -- Storing the character specifications
+Status : Loading Characters : 6 of 33 -- Storing the character specifications
+Status : Loading Characters : 7 of 33 -- Storing the character specifications
+Status : Loading Characters : 8 of 33 -- Storing the character specifications
+Status : Loading Characters : 9 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 32 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 33 of 33 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Perturb Iteration Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Automated Search : 0 Best tree: 172.; Time left: -41 s; Hits: 2
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information :
+The search evaluated 66 independent repetitions with ratchet and fusing for 0 generations. The shortest tree was found 1 times.
+Status : Implied Alignments : 1 of 65 -- vertices calculated
+Status : Implied Alignments : 2 of 65 -- vertices calculated
+Status : Implied Alignments : 3 of 65 -- vertices calculated
+Status : Implied Alignments : 4 of 65 -- vertices calculated
+Status : Implied Alignments : 5 of 65 -- vertices calculated
+Status : Implied Alignments : 6 of 65 -- vertices calculated
+Status : Implied Alignments : 7 of 65 -- vertices calculated
+Status : Implied Alignments : 8 of 65 -- vertices calculated
+Status : Implied Alignments : 9 of 65 -- vertices calculated
+Status : Implied Alignments : 10 of 65 -- vertices calculated
+Status : Implied Alignments : 11 of 65 -- vertices calculated
+Status : Implied Alignments : 12 of 65 -- vertices calculated
+Status : Implied Alignments : 13 of 65 -- vertices calculated
+Status : Implied Alignments : 14 of 65 -- vertices calculated
+Status : Implied Alignments : 15 of 65 -- vertices calculated
+Status : Implied Alignments : 16 of 65 -- vertices calculated
+Status : Implied Alignments : 17 of 65 -- vertices calculated
+Status : Implied Alignments : 18 of 65 -- vertices calculated
+Status : Implied Alignments : 19 of 65 -- vertices calculated
+Status : Implied Alignments : 20 of 65 -- vertices calculated
+Status : Implied Alignments : 21 of 65 -- vertices calculated
+Status : Implied Alignments : 22 of 65 -- vertices calculated
+Status : Implied Alignments : 23 of 65 -- vertices calculated
+Status : Implied Alignments : 24 of 65 -- vertices calculated
+Status : Implied Alignments : 25 of 65 -- vertices calculated
+Status : Implied Alignments : 26 of 65 -- vertices calculated
+Status : Implied Alignments : 27 of 65 -- vertices calculated
+Status : Implied Alignments : 28 of 65 -- vertices calculated
+Status : Implied Alignments : 29 of 65 -- vertices calculated
+Status : Implied Alignments : 30 of 65 -- vertices calculated
+Status : Implied Alignments : 31 of 65 -- vertices calculated
+Status : Implied Alignments : 32 of 65 -- vertices calculated
+Status : Implied Alignments : 33 of 65 -- vertices calculated
+Status : Implied Alignments : 34 of 65 -- vertices calculated
+Status : Implied Alignments : 35 of 65 -- vertices calculated
+Status : Implied Alignments : 36 of 65 -- vertices calculated
+Status : Implied Alignments : 37 of 65 -- vertices calculated
+Status : Implied Alignments : 38 of 65 -- vertices calculated
+Status : Implied Alignments : 39 of 65 -- vertices calculated
+Status : Implied Alignments : 40 of 65 -- vertices calculated
+Status : Implied Alignments : 41 of 65 -- vertices calculated
+Status : Implied Alignments : 42 of 65 -- vertices calculated
+Status : Implied Alignments : 43 of 65 -- vertices calculated
+Status : Implied Alignments : 44 of 65 -- vertices calculated
+Status : Implied Alignments : 45 of 65 -- vertices calculated
+Status : Implied Alignments : 46 of 65 -- vertices calculated
+Status : Implied Alignments : 47 of 65 -- vertices calculated
+Status : Implied Alignments : 48 of 65 -- vertices calculated
+Status : Implied Alignments : 49 of 65 -- vertices calculated
+Status : Implied Alignments : 50 of 65 -- vertices calculated
+Status : Implied Alignments : 51 of 65 -- vertices calculated
+Status : Implied Alignments : 52 of 65 -- vertices calculated
+Status : Implied Alignments : 53 of 65 -- vertices calculated
+Status : Implied Alignments : 54 of 65 -- vertices calculated
+Status : Implied Alignments : 55 of 65 -- vertices calculated
+Status : Implied Alignments : 56 of 65 -- vertices calculated
+Status : Implied Alignments : 57 of 65 -- vertices calculated
+Status : Implied Alignments : 58 of 65 -- vertices calculated
+Status : Implied Alignments : 59 of 65 -- vertices calculated
+Status : Implied Alignments : 60 of 65 -- vertices calculated
+Status : Implied Alignments : 61 of 65 -- vertices calculated
+Status : Implied Alignments : 62 of 65 -- vertices calculated
+Status : Implied Alignments : 63 of 65 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters : 0 of 33 -- Storing the character specifications
+Status : Loading Characters : 1 of 33 -- Storing the character specifications
+Status : Loading Characters : 2 of 33 -- Storing the character specifications
+Status : Loading Characters : 3 of 33 -- Storing the character specifications
+Status : Loading Characters : 4 of 33 -- Storing the character specifications
+Status : Loading Characters : 5 of 33 -- Storing the character specifications
+Status : Loading Characters : 6 of 33 -- Storing the character specifications
+Status : Loading Characters : 7 of 33 -- Storing the character specifications
+Status : Loading Characters : 8 of 33 -- Storing the character specifications
+Status : Loading Characters : 9 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 25 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 26 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 27 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 28 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 29 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 30 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 31 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 32 of 33 -- Storing the character specifications
+Status :
+Loading Characters : 33 of 33 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Tree with cost 136
+  |--------A_BrevigMission_1_1918_H1N1         
+  |                                            
+  |   |----A_Norway_1177_2009_H1N1             
+  |   |                                        
+  | |-|----A_California_04_2009_H1N1           
+  | | |                                        
+  | | |----A_Israel_644_2009_H1N1              
+  | |                                          
+  | | |----A_swine_Alberta_OTH-33-8_2009_H1N1  
+  | | |                                        
+  | | |----A_Beijing_4_2009_H1N1               
+  | | |                                        
+  | | |----A_NewYork_3099_2009_H1N1            
+  | | |                                        
+  | | |----A_Mexico_InDRE4114_2009_H1N1        
+  | | |                                        
+  | | |----A_GuangzhouSB_01_2009_H1N1          
+  | | |                                        
+  | | |----A_Canada-ON_RV1526_2009_H1N1        
+  | | |                                        
+  | | |----A_NewYork_1669_2009_H1N1            
+  | | |                                        
+  | | |----A_Mexico_4604_2009_H1N1             
+  | | |                                        
+  | | |----A_Shandong_1_2009_H1N1              
+  | | |                                        
+  | | |----A_Hamburg_4_2009_H1N1               
+  | | |                                        
+  | | |----A_Italy_05_2009_H1N1                
+  | | |                                        
+  | | |----A_Beijing_01_2009_H1N1              
+  | | |                                        
+--| | |----A_Texas_09_2009_H1N1                
+  | | |                                        
+  |-| |----A_Mexico_4486_2009_H1N1             
+    | |                                        
+    |-|----A_Mexico_InDRE4487_2009_H1N1        
+      |                                        
+      | |--A_Canada-NS_RV1536_2009_H1N1        
+      |-|                                      
+      | |--A_Canada-NS_RV1538_2009_H1N1        
+      |                                        
+      | |--A_England_195_2009_H1N1             
+      | |                                      
+      |-|--A_Mexico_47N_2009_H1N1              
+      | |                                      
+      | |--A_Sichuan_1_2009_H1N1               
+      |                                        
+      | |--A_Zhejiang_1_2009_H1N1              
+      | |                                      
+      | |--A_Shanghai_1_2009_H1N1              
+      | |                                      
+      | |--A_Fujian_1_2009_H1N1                
+      | |                                      
+      | |--A_Bayern_63_2009_H1N1               
+      | |                                      
+      |-|--A_NewYork_18_2009_H1N1              
+        |                                      
+        |--A_Canada-AB_RV1532_2009_H1N1        
+        |                                      
+        |--A_Moscow_02_2009_H1N1               
+        |                                      
+        |--A_Canada-ON_RV1527_2009_H1N1        
+        |                                      
+        |--A_Canada-ON_RV1529_2009_H1N1        

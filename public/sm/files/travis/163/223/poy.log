@@ -1,0 +1,2436 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 136 -- Wagner tree with cost 102.
+Status : Wagner : 3 of 136 -- Wagner tree with cost 197.
+Status : Wagner : 4 of 136 -- Wagner tree with cost 260.
+Status : Wagner : 5 of 136 -- Wagner tree with cost 298.
+Status : Wagner : 6 of 136 -- Wagner tree with cost 346.
+Status : Wagner : 7 of 136 -- Wagner tree with cost 376.
+Status : Wagner : 8 of 136 -- Wagner tree with cost 428.
+Status : Wagner : 9 of 136 -- Wagner tree with cost 448.
+Status : Wagner : 10 of 136 -- Wagner tree with cost 515.
+Status : Wagner : 11 of 136 -- Wagner tree with cost 535.
+Status : Wagner : 12 of 136 -- Wagner tree with cost 537.
+Status : Wagner : 13 of 136 -- Wagner tree with cost 558.
+Status : Wagner : 14 of 136 -- Wagner tree with cost 579.
+Status : Wagner : 15 of 136 -- Wagner tree with cost 586.
+Status : Wagner : 16 of 136 -- Wagner tree with cost 664.
+Status : Wagner : 17 of 136 -- Wagner tree with cost 675.
+Status : Wagner : 18 of 136 -- Wagner tree with cost 701.
+Status : Wagner : 19 of 136 -- Wagner tree with cost 736.
+Status : Wagner : 20 of 136 -- Wagner tree with cost 740.
+Status : Wagner : 21 of 136 -- Wagner tree with cost 781.
+Status : Wagner : 22 of 136 -- Wagner tree with cost 790.
+Status : Wagner : 23 of 136 -- Wagner tree with cost 867.
+Status : Wagner : 24 of 136 -- Wagner tree with cost 869.
+Status : Wagner : 25 of 136 -- Wagner tree with cost 879.
+Status : Wagner : 26 of 136 -- Wagner tree with cost 894.
+Status : Wagner : 27 of 136 -- Wagner tree with cost 935.
+Status : Wagner : 28 of 136 -- Wagner tree with cost 936.
+Status : Wagner : 29 of 136 -- Wagner tree with cost 937.
+Status : Wagner : 30 of 136 -- Wagner tree with cost 966.
+Status : Wagner : 31 of 136 -- Wagner tree with cost 1007.
+Status : Wagner : 32 of 136 -- Wagner tree with cost 1012.
+Status : Wagner : 33 of 136 -- Wagner tree with cost 1012.
+Status : Wagner : 34 of 136 -- Wagner tree with cost 1015.
+Status : Wagner : 35 of 136 -- Wagner tree with cost 1029.
+Status : Wagner : 36 of 136 -- Wagner tree with cost 1069.
+Status : Wagner : 37 of 136 -- Wagner tree with cost 1123.
+Status : Wagner : 38 of 136 -- Wagner tree with cost 1165.
+Status : Wagner : 39 of 136 -- Wagner tree with cost 1185.
+Status : Wagner : 40 of 136 -- Wagner tree with cost 1186.
+Status : Wagner : 41 of 136 -- Wagner tree with cost 1190.
+Status : Wagner : 42 of 136 -- Wagner tree with cost 1190.
+Status : Wagner : 43 of 136 -- Wagner tree with cost 1190.
+Status : Wagner : 44 of 136 -- Wagner tree with cost 1190.
+Status : Wagner : 45 of 136 -- Wagner tree with cost 1192.
+Status : Wagner : 46 of 136 -- Wagner tree with cost 1196.
+Status : Wagner : 47 of 136 -- Wagner tree with cost 1262.
+Status : Wagner : 48 of 136 -- Wagner tree with cost 1262.
+Status : Wagner : 49 of 136 -- Wagner tree with cost 1268.
+Status : Wagner : 50 of 136 -- Wagner tree with cost 1277.
+Status : Wagner : 51 of 136 -- Wagner tree with cost 1283.
+Status : Wagner : 52 of 136 -- Wagner tree with cost 1315.
+Status : Wagner : 53 of 136 -- Wagner tree with cost 1315.
+Status : Wagner : 54 of 136 -- Wagner tree with cost 1321.
+Status : Wagner : 55 of 136 -- Wagner tree with cost 1334.
+Status : Wagner : 56 of 136 -- Wagner tree with cost 1338.
+Status : Wagner : 57 of 136 -- Wagner tree with cost 1344.
+Status : Wagner : 58 of 136 -- Wagner tree with cost 1350.
+Status : Wagner : 59 of 136 -- Wagner tree with cost 1352.
+Status : Wagner : 60 of 136 -- Wagner tree with cost 1373.
+Status : Wagner : 61 of 136 -- Wagner tree with cost 1392.
+Status : Wagner : 62 of 136 -- Wagner tree with cost 1392.
+Status : Wagner : 63 of 136 -- Wagner tree with cost 1393.
+Status : Wagner : 64 of 136 -- Wagner tree with cost 1393.
+Status : Wagner : 65 of 136 -- Wagner tree with cost 1397.
+Status : Wagner : 66 of 136 -- Wagner tree with cost 1405.
+Status : Wagner : 67 of 136 -- Wagner tree with cost 1417.
+Status : Wagner : 68 of 136 -- Wagner tree with cost 1425.
+Status : Wagner : 69 of 136 -- Wagner tree with cost 1425.
+Status : Wagner : 70 of 136 -- Wagner tree with cost 1426.
+Status : Wagner : 71 of 136 -- Wagner tree with cost 1426.
+Status : Wagner : 72 of 136 -- Wagner tree with cost 1431.
+Status : Wagner : 73 of 136 -- Wagner tree with cost 1469.
+Status : Wagner : 74 of 136 -- Wagner tree with cost 1505.
+Status : Wagner : 75 of 136 -- Wagner tree with cost 1511.
+Status : Wagner : 76 of 136 -- Wagner tree with cost 1549.
+Status : Wagner : 77 of 136 -- Wagner tree with cost 1577.
+Status : Wagner : 78 of 136 -- Wagner tree with cost 1595.
+Status : Wagner : 79 of 136 -- Wagner tree with cost 1603.
+Status : Wagner : 80 of 136 -- Wagner tree with cost 1607.
+Status : Wagner : 81 of 136 -- Wagner tree with cost 1608.
+Status : Wagner : 82 of 136 -- Wagner tree with cost 1618.
+Status : Wagner : 83 of 136 -- Wagner tree with cost 1618.
+Status : Wagner : 84 of 136 -- Wagner tree with cost 1632.
+Status : Wagner : 85 of 136 -- Wagner tree with cost 1632.
+Status : Wagner : 86 of 136 -- Wagner tree with cost 1647.
+Status : Wagner : 87 of 136 -- Wagner tree with cost 1667.
+Status : Wagner : 88 of 136 -- Wagner tree with cost 1670.
+Status : Wagner : 89 of 136 -- Wagner tree with cost 1673.
+Status : Wagner : 90 of 136 -- Wagner tree with cost 1675.
+Status : Wagner : 91 of 136 -- Wagner tree with cost 1690.
+Status : Wagner : 92 of 136 -- Wagner tree with cost 1690.
+Status : Wagner : 93 of 136 -- Wagner tree with cost 1714.
+Status : Wagner : 94 of 136 -- Wagner tree with cost 1714.
+Status : Wagner : 95 of 136 -- Wagner tree with cost 1715.
+Status : Wagner : 96 of 136 -- Wagner tree with cost 1725.
+Status : Wagner : 97 of 136 -- Wagner tree with cost 1757.
+Status : Wagner : 98 of 136 -- Wagner tree with cost 1761.
+Status : Wagner : 99 of 136 -- Wagner tree with cost 1764.
+Status : Wagner : 100 of 136 -- Wagner tree with cost 1812.
+Status : Wagner : 101 of 136 -- Wagner tree with cost 1827.
+Status : Wagner : 102 of 136 -- Wagner tree with cost 1827.
+Status : Wagner : 103 of 136 -- Wagner tree with cost 1830.
+Status : Wagner : 104 of 136 -- Wagner tree with cost 1830.
+Status : Wagner : 105 of 136 -- Wagner tree with cost 1830.
+Status : Wagner : 106 of 136 -- Wagner tree with cost 1852.
+Status : Wagner : 107 of 136 -- Wagner tree with cost 1856.
+Status : Wagner : 108 of 136 -- Wagner tree with cost 1861.
+Status : Wagner : 109 of 136 -- Wagner tree with cost 1863.
+Status : Wagner : 110 of 136 -- Wagner tree with cost 1866.
+Status : Wagner : 111 of 136 -- Wagner tree with cost 1868.
+Status : Wagner : 112 of 136 -- Wagner tree with cost 1871.
+Status : Wagner : 113 of 136 -- Wagner tree with cost 1913.
+Status : Wagner : 114 of 136 -- Wagner tree with cost 1922.
+Status : Wagner : 115 of 136 -- Wagner tree with cost 1923.
+Status : Wagner : 116 of 136 -- Wagner tree with cost 1936.
+Status : Wagner : 117 of 136 -- Wagner tree with cost 1953.
+Status : Wagner : 118 of 136 -- Wagner tree with cost 1953.
+Status : Wagner : 119 of 136 -- Wagner tree with cost 1955.
+Status : Wagner : 120 of 136 -- Wagner tree with cost 1955.
+Status : Wagner : 121 of 136 -- Wagner tree with cost 1972.
+Status : Wagner : 122 of 136 -- Wagner tree with cost 1983.
+Status : Wagner : 123 of 136 -- Wagner tree with cost 1995.
+Status : Wagner : 124 of 136 -- Wagner tree with cost 2011.
+Status : Wagner : 125 of 136 -- Wagner tree with cost 2035.
+Status : Wagner : 126 of 136 -- Wagner tree with cost 2035.
+Status : Wagner : 127 of 136 -- Wagner tree with cost 2036.
+Status : Wagner : 128 of 136 -- Wagner tree with cost 2062.
+Status : Wagner : 129 of 136 -- Wagner tree with cost 2097.
+Status : Wagner : 130 of 136 -- Wagner tree with cost 2126.
+Status : Wagner : 131 of 136 -- Wagner tree with cost 2127.
+Status : Wagner : 132 of 136 -- Wagner tree with cost 2127.
+Status : Wagner : 133 of 136 -- Wagner tree with cost 2127.
+Status : Wagner : 134 of 136 -- Wagner tree with cost 2128.
+Status : Wagner : 135 of 136 -- Wagner tree with cost 2128.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 2128 Searching
+Status : TBR : 2127 Searching
+Status : TBR : 2126 Searching
+Status : TBR : 2125 Searching
+Status : TBR : 2124 Searching
+Status : TBR : 2123 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2122 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2122.; Time left: 2 m, 56 s; Hits: 1
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2569 Searching
+Status : TBR : 2568 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2612 Searching
+Status : TBR : 2611 Searching
+Status : TBR : 2610 Searching
+Status : TBR : 2609 Searching
+Status : TBR : 2607 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2674 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2636 Searching
+Status : TBR : 2635 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2634 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2121.; Time left: 2 m, 38 s; Hits: 1
+Status : RAS + TBR : 0 Searching on tree number 2
+Status : Wagner : 2 of 136 -- Wagner tree with cost 170.
+Status : Wagner : 3 of 136 -- Wagner tree with cost 189.
+Status : Wagner : 4 of 136 -- Wagner tree with cost 240.
+Status : Wagner : 5 of 136 -- Wagner tree with cost 300.
+Status : Wagner : 6 of 136 -- Wagner tree with cost 341.
+Status : Wagner : 7 of 136 -- Wagner tree with cost 383.
+Status : Wagner : 8 of 136 -- Wagner tree with cost 439.
+Status : Wagner : 9 of 136 -- Wagner tree with cost 484.
+Status : Wagner : 10 of 136 -- Wagner tree with cost 546.
+Status : Wagner : 11 of 136 -- Wagner tree with cost 563.
+Status : Wagner : 12 of 136 -- Wagner tree with cost 634.
+Status : Wagner : 13 of 136 -- Wagner tree with cost 653.
+Status : Wagner : 14 of 136 -- Wagner tree with cost 667.
+Status : Wagner : 15 of 136 -- Wagner tree with cost 667.
+Status : Wagner : 16 of 136 -- Wagner tree with cost 734.
+Status : Wagner : 17 of 136 -- Wagner tree with cost 734.
+Status : Wagner : 18 of 136 -- Wagner tree with cost 745.
+Status : Wagner : 19 of 136 -- Wagner tree with cost 745.
+Status : Wagner : 20 of 136 -- Wagner tree with cost 771.
+Status : Wagner : 21 of 136 -- Wagner tree with cost 824.
+Status : Wagner : 22 of 136 -- Wagner tree with cost 826.
+Status : Wagner : 23 of 136 -- Wagner tree with cost 831.
+Status : Wagner : 24 of 136 -- Wagner tree with cost 859.
+Status : Wagner : 25 of 136 -- Wagner tree with cost 874.
+Status : Wagner : 26 of 136 -- Wagner tree with cost 919.
+Status : Wagner : 27 of 136 -- Wagner tree with cost 947.
+Status : Wagner : 28 of 136 -- Wagner tree with cost 975.
+Status : Wagner : 29 of 136 -- Wagner tree with cost 997.
+Status : Wagner : 30 of 136 -- Wagner tree with cost 1022.
+Status : Wagner : 31 of 136 -- Wagner tree with cost 1034.
+Status : Wagner : 32 of 136 -- Wagner tree with cost 1073.
+Status : Wagner : 33 of 136 -- Wagner tree with cost 1075.
+Status : Wagner : 34 of 136 -- Wagner tree with cost 1081.
+Status : Wagner : 35 of 136 -- Wagner tree with cost 1091.
+Status : Wagner : 36 of 136 -- Wagner tree with cost 1092.
+Status : Wagner : 37 of 136 -- Wagner tree with cost 1121.
+Status : Wagner : 38 of 136 -- Wagner tree with cost 1199.
+Status : Wagner : 39 of 136 -- Wagner tree with cost 1207.
+Status : Wagner : 40 of 136 -- Wagner tree with cost 1250.
+Status : Wagner : 41 of 136 -- Wagner tree with cost 1250.
+Status : Wagner : 42 of 136 -- Wagner tree with cost 1253.
+Status : Wagner : 43 of 136 -- Wagner tree with cost 1302.
+Status : Wagner : 44 of 136 -- Wagner tree with cost 1322.
+Status : Wagner : 45 of 136 -- Wagner tree with cost 1347.
+Status : Wagner : 46 of 136 -- Wagner tree with cost 1352.
+Status : Wagner : 47 of 136 -- Wagner tree with cost 1385.
+Status : Wagner : 48 of 136 -- Wagner tree with cost 1390.
+Status : Wagner : 49 of 136 -- Wagner tree with cost 1393.
+Status : Wagner : 50 of 136 -- Wagner tree with cost 1398.
+Status : Wagner : 51 of 136 -- Wagner tree with cost 1398.
+Status : Wagner : 52 of 136 -- Wagner tree with cost 1412.
+Status : Wagner : 53 of 136 -- Wagner tree with cost 1433.
+Status : Wagner : 54 of 136 -- Wagner tree with cost 1474.
+Status : Wagner : 55 of 136 -- Wagner tree with cost 1495.
+Status : Wagner : 56 of 136 -- Wagner tree with cost 1496.
+Status : Wagner : 57 of 136 -- Wagner tree with cost 1498.
+Status : Wagner : 58 of 136 -- Wagner tree with cost 1502.
+Status : Wagner : 59 of 136 -- Wagner tree with cost 1507.
+Status : Wagner : 60 of 136 -- Wagner tree with cost 1507.
+Status : Wagner : 61 of 136 -- Wagner tree with cost 1511.
+Status : Wagner : 62 of 136 -- Wagner tree with cost 1554.
+Status : Wagner : 63 of 136 -- Wagner tree with cost 1566.
+Status : Wagner : 64 of 136 -- Wagner tree with cost 1566.
+Status : Wagner : 65 of 136 -- Wagner tree with cost 1580.
+Status : Wagner : 66 of 136 -- Wagner tree with cost 1581.
+Status : Wagner : 67 of 136 -- Wagner tree with cost 1591.
+Status : Wagner : 68 of 136 -- Wagner tree with cost 1627.
+Status : Wagner : 69 of 136 -- Wagner tree with cost 1639.
+Status : Wagner : 70 of 136 -- Wagner tree with cost 1655.
+Status : Wagner : 71 of 136 -- Wagner tree with cost 1655.
+Status : Wagner : 72 of 136 -- Wagner tree with cost 1658.
+Status : Wagner : 73 of 136 -- Wagner tree with cost 1660.
+Status : Wagner : 74 of 136 -- Wagner tree with cost 1661.
+Status : Wagner : 75 of 136 -- Wagner tree with cost 1705.
+Status : Wagner : 76 of 136 -- Wagner tree with cost 1706.
+Status : Wagner : 77 of 136 -- Wagner tree with cost 1732.
+Status : Wagner : 78 of 136 -- Wagner tree with cost 1734.
+Status : Wagner : 79 of 136 -- Wagner tree with cost 1740.
+Status : Wagner : 80 of 136 -- Wagner tree with cost 1759.
+Status : Wagner : 81 of 136 -- Wagner tree with cost 1773.
+Status : Wagner : 82 of 136 -- Wagner tree with cost 1773.
+Status : Wagner : 83 of 136 -- Wagner tree with cost 1773.
+Status : Wagner : 84 of 136 -- Wagner tree with cost 1773.
+Status : Wagner : 85 of 136 -- Wagner tree with cost 1776.
+Status : Wagner : 86 of 136 -- Wagner tree with cost 1782.
+Status : Wagner : 87 of 136 -- Wagner tree with cost 1786.
+Status : Wagner : 88 of 136 -- Wagner tree with cost 1814.
+Status : Wagner : 89 of 136 -- Wagner tree with cost 1817.
+Status : Wagner : 90 of 136 -- Wagner tree with cost 1817.
+Status : Wagner : 91 of 136 -- Wagner tree with cost 1819.
+Status : Wagner : 92 of 136 -- Wagner tree with cost 1819.
+Status : Wagner : 93 of 136 -- Wagner tree with cost 1819.
+Status : Wagner : 94 of 136 -- Wagner tree with cost 1822.
+Status : Wagner : 95 of 136 -- Wagner tree with cost 1825.
+Status : Wagner : 96 of 136 -- Wagner tree with cost 1828.
+Status : Wagner : 97 of 136 -- Wagner tree with cost 1849.
+Status : Wagner : 98 of 136 -- Wagner tree with cost 1849.
+Status : Wagner : 99 of 136 -- Wagner tree with cost 1897.
+Status : Wagner : 100 of 136 -- Wagner tree with cost 1898.
+Status : Wagner : 101 of 136 -- Wagner tree with cost 1899.
+Status : Wagner : 102 of 136 -- Wagner tree with cost 1899.
+Status : Wagner : 103 of 136 -- Wagner tree with cost 1917.
+Status : Wagner : 104 of 136 -- Wagner tree with cost 1920.
+Status : Wagner : 105 of 136 -- Wagner tree with cost 1921.
+Status : Wagner : 106 of 136 -- Wagner tree with cost 1936.
+Status : Wagner : 107 of 136 -- Wagner tree with cost 1942.
+Status : Wagner : 108 of 136 -- Wagner tree with cost 1945.
+Status : Wagner : 109 of 136 -- Wagner tree with cost 1950.
+Status : Wagner : 110 of 136 -- Wagner tree with cost 1953.
+Status : Wagner : 111 of 136 -- Wagner tree with cost 1956.
+Status : Wagner : 112 of 136 -- Wagner tree with cost 1958.
+Status : Wagner : 113 of 136 -- Wagner tree with cost 1962.
+Status : Wagner : 114 of 136 -- Wagner tree with cost 1963.
+Status : Wagner : 115 of 136 -- Wagner tree with cost 1963.
+Status : Wagner : 116 of 136 -- Wagner tree with cost 1963.
+Status : Wagner : 117 of 136 -- Wagner tree with cost 1980.
+Status : Wagner : 118 of 136 -- Wagner tree with cost 1980.
+Status : Wagner : 119 of 136 -- Wagner tree with cost 1981.
+Status : Wagner : 120 of 136 -- Wagner tree with cost 1996.
+Status : Wagner : 121 of 136 -- Wagner tree with cost 1996.
+Status : Wagner : 122 of 136 -- Wagner tree with cost 2003.
+Status : Wagner : 123 of 136 -- Wagner tree with cost 2024.
+Status : Wagner : 124 of 136 -- Wagner tree with cost 2053.
+Status : Wagner : 125 of 136 -- Wagner tree with cost 2058.
+Status : Wagner : 126 of 136 -- Wagner tree with cost 2060.
+Status : Wagner : 127 of 136 -- Wagner tree with cost 2096.
+Status : Wagner : 128 of 136 -- Wagner tree with cost 2098.
+Status : Wagner : 129 of 136 -- Wagner tree with cost 2105.
+Status : Wagner : 130 of 136 -- Wagner tree with cost 2107.
+Status : Wagner : 131 of 136 -- Wagner tree with cost 2107.
+Status : Wagner : 132 of 136 -- Wagner tree with cost 2112.
+Status : Wagner : 133 of 136 -- Wagner tree with cost 2124.
+Status : Wagner : 134 of 136 -- Wagner tree with cost 2128.
+Status : Wagner : 135 of 136 -- Wagner tree with cost 2129.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 2133 Searching
+Status : TBR : 2131 Searching
+Status : TBR : 2130 Searching
+Status : TBR : 2129 Searching
+Status : TBR : 2128 Searching
+Status : TBR : 2127 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2121.; Time left: 2 m, 33 s; Hits: 2
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2603 Searching
+Status : TBR : 2602 Searching
+Status : TBR : 2601 Searching
+Status : TBR : 2600 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2616 Searching
+Status : TBR : 2615 Searching
+Status : TBR : 2614 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2639 Searching
+Status : TBR : 2638 Searching
+Status : TBR : 2637 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2661 Searching
+Status : TBR : 2660 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : TBR : 2122 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : TBR : 2122 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2121.; Time left: 2 m, 14 s; Hits: 2
+Status : RAS + TBR : 0 Searching on tree number 3
+Status : Wagner : 2 of 136 -- Wagner tree with cost 165.
+Status : Wagner : 3 of 136 -- Wagner tree with cost 218.
+Status : Wagner : 4 of 136 -- Wagner tree with cost 263.
+Status : Wagner : 5 of 136 -- Wagner tree with cost 273.
+Status : Wagner : 6 of 136 -- Wagner tree with cost 310.
+Status : Wagner : 7 of 136 -- Wagner tree with cost 372.
+Status : Wagner : 8 of 136 -- Wagner tree with cost 453.
+Status : Wagner : 9 of 136 -- Wagner tree with cost 480.
+Status : Wagner : 10 of 136 -- Wagner tree with cost 494.
+Status : Wagner : 11 of 136 -- Wagner tree with cost 550.
+Status : Wagner : 12 of 136 -- Wagner tree with cost 584.
+Status : Wagner : 13 of 136 -- Wagner tree with cost 636.
+Status : Wagner : 14 of 136 -- Wagner tree with cost 642.
+Status : Wagner : 15 of 136 -- Wagner tree with cost 699.
+Status : Wagner : 16 of 136 -- Wagner tree with cost 770.
+Status : Wagner : 17 of 136 -- Wagner tree with cost 808.
+Status : Wagner : 18 of 136 -- Wagner tree with cost 812.
+Status : Wagner : 19 of 136 -- Wagner tree with cost 836.
+Status : Wagner : 20 of 136 -- Wagner tree with cost 839.
+Status : Wagner : 21 of 136 -- Wagner tree with cost 839.
+Status : Wagner : 22 of 136 -- Wagner tree with cost 867.
+Status : Wagner : 23 of 136 -- Wagner tree with cost 944.
+Status : Wagner : 24 of 136 -- Wagner tree with cost 984.
+Status : Wagner : 25 of 136 -- Wagner tree with cost 985.
+Status : Wagner : 26 of 136 -- Wagner tree with cost 1017.
+Status : Wagner : 27 of 136 -- Wagner tree with cost 1019.
+Status : Wagner : 28 of 136 -- Wagner tree with cost 1025.
+Status : Wagner : 29 of 136 -- Wagner tree with cost 1025.
+Status : Wagner : 30 of 136 -- Wagner tree with cost 1025.
+Status : Wagner : 31 of 136 -- Wagner tree with cost 1026.
+Status : Wagner : 32 of 136 -- Wagner tree with cost 1059.
+Status : Wagner : 33 of 136 -- Wagner tree with cost 1098.
+Status : Wagner : 34 of 136 -- Wagner tree with cost 1098.
+Status : Wagner : 35 of 136 -- Wagner tree with cost 1113.
+Status : Wagner : 36 of 136 -- Wagner tree with cost 1129.
+Status : Wagner : 37 of 136 -- Wagner tree with cost 1133.
+Status : Wagner : 38 of 136 -- Wagner tree with cost 1133.
+Status : Wagner : 39 of 136 -- Wagner tree with cost 1148.
+Status : Wagner : 40 of 136 -- Wagner tree with cost 1148.
+Status : Wagner : 41 of 136 -- Wagner tree with cost 1150.
+Status : Wagner : 42 of 136 -- Wagner tree with cost 1152.
+Status : Wagner : 43 of 136 -- Wagner tree with cost 1154.
+Status : Wagner : 44 of 136 -- Wagner tree with cost 1154.
+Status : Wagner : 45 of 136 -- Wagner tree with cost 1163.
+Status : Wagner : 46 of 136 -- Wagner tree with cost 1163.
+Status : Wagner : 47 of 136 -- Wagner tree with cost 1169.
+Status : Wagner : 48 of 136 -- Wagner tree with cost 1169.
+Status : Wagner : 49 of 136 -- Wagner tree with cost 1181.
+Status : Wagner : 50 of 136 -- Wagner tree with cost 1185.
+Status : Wagner : 51 of 136 -- Wagner tree with cost 1202.
+Status : Wagner : 52 of 136 -- Wagner tree with cost 1203.
+Status : Wagner : 53 of 136 -- Wagner tree with cost 1204.
+Status : Wagner : 54 of 136 -- Wagner tree with cost 1262.
+Status : Wagner : 55 of 136 -- Wagner tree with cost 1278.
+Status : Wagner : 56 of 136 -- Wagner tree with cost 1315.
+Status : Wagner : 57 of 136 -- Wagner tree with cost 1319.
+Status : Wagner : 58 of 136 -- Wagner tree with cost 1383.
+Status : Wagner : 59 of 136 -- Wagner tree with cost 1410.
+Status : Wagner : 60 of 136 -- Wagner tree with cost 1410.
+Status : Wagner : 61 of 136 -- Wagner tree with cost 1413.
+Status : Wagner : 62 of 136 -- Wagner tree with cost 1433.
+Status : Wagner : 63 of 136 -- Wagner tree with cost 1433.
+Status : Wagner : 64 of 136 -- Wagner tree with cost 1438.
+Status : Wagner : 65 of 136 -- Wagner tree with cost 1441.
+Status : Wagner : 66 of 136 -- Wagner tree with cost 1441.
+Status : Wagner : 67 of 136 -- Wagner tree with cost 1454.
+Status : Wagner : 68 of 136 -- Wagner tree with cost 1457.
+Status : Wagner : 69 of 136 -- Wagner tree with cost 1469.
+Status : Wagner : 70 of 136 -- Wagner tree with cost 1509.
+Status : Wagner : 71 of 136 -- Wagner tree with cost 1510.
+Status : Wagner : 72 of 136 -- Wagner tree with cost 1523.
+Status : Wagner : 73 of 136 -- Wagner tree with cost 1539.
+Status : Wagner : 74 of 136 -- Wagner tree with cost 1552.
+Status : Wagner : 75 of 136 -- Wagner tree with cost 1562.
+Status : Wagner : 76 of 136 -- Wagner tree with cost 1567.
+Status : Wagner : 77 of 136 -- Wagner tree with cost 1596.
+Status : Wagner : 78 of 136 -- Wagner tree with cost 1601.
+Status : Wagner : 79 of 136 -- Wagner tree with cost 1602.
+Status : Wagner : 80 of 136 -- Wagner tree with cost 1611.
+Status : Wagner : 81 of 136 -- Wagner tree with cost 1635.
+Status : Wagner : 82 of 136 -- Wagner tree with cost 1635.
+Status : Wagner : 83 of 136 -- Wagner tree with cost 1674.
+Status : Wagner : 84 of 136 -- Wagner tree with cost 1676.
+Status : Wagner : 85 of 136 -- Wagner tree with cost 1677.
+Status : Wagner : 86 of 136 -- Wagner tree with cost 1679.
+Status : Wagner : 87 of 136 -- Wagner tree with cost 1689.
+Status : Wagner : 88 of 136 -- Wagner tree with cost 1694.
+Status : Wagner : 89 of 136 -- Wagner tree with cost 1698.
+Status : Wagner : 90 of 136 -- Wagner tree with cost 1702.
+Status : Wagner : 91 of 136 -- Wagner tree with cost 1720.
+Status : Wagner : 92 of 136 -- Wagner tree with cost 1720.
+Status : Wagner : 93 of 136 -- Wagner tree with cost 1731.
+Status : Wagner : 94 of 136 -- Wagner tree with cost 1734.
+Status : Wagner : 95 of 136 -- Wagner tree with cost 1754.
+Status : Wagner : 96 of 136 -- Wagner tree with cost 1754.
+Status : Wagner : 97 of 136 -- Wagner tree with cost 1774.
+Status : Wagner : 98 of 136 -- Wagner tree with cost 1777.
+Status : Wagner : 99 of 136 -- Wagner tree with cost 1777.
+Status : Wagner : 100 of 136 -- Wagner tree with cost 1777.
+Status : Wagner : 101 of 136 -- Wagner tree with cost 1778.
+Status : Wagner : 102 of 136 -- Wagner tree with cost 1780.
+Status : Wagner : 103 of 136 -- Wagner tree with cost 1823.
+Status : Wagner : 104 of 136 -- Wagner tree with cost 1843.
+Status : Wagner : 105 of 136 -- Wagner tree with cost 1870.
+Status : Wagner : 106 of 136 -- Wagner tree with cost 1873.
+Status : Wagner : 107 of 136 -- Wagner tree with cost 1874.
+Status : Wagner : 108 of 136 -- Wagner tree with cost 1875.
+Status : Wagner : 109 of 136 -- Wagner tree with cost 1894.
+Status : Wagner : 110 of 136 -- Wagner tree with cost 1922.
+Status : Wagner : 111 of 136 -- Wagner tree with cost 1929.
+Status : Wagner : 112 of 136 -- Wagner tree with cost 1933.
+Status : Wagner : 113 of 136 -- Wagner tree with cost 1934.
+Status : Wagner : 114 of 136 -- Wagner tree with cost 1949.
+Status : Wagner : 115 of 136 -- Wagner tree with cost 1956.
+Status : Wagner : 116 of 136 -- Wagner tree with cost 1959.
+Status : Wagner : 117 of 136 -- Wagner tree with cost 1961.
+Status : Wagner : 118 of 136 -- Wagner tree with cost 1962.
+Status : Wagner : 119 of 136 -- Wagner tree with cost 1962.
+Status : Wagner : 120 of 136 -- Wagner tree with cost 1966.
+Status : Wagner : 121 of 136 -- Wagner tree with cost 2010.
+Status : Wagner : 122 of 136 -- Wagner tree with cost 2019.
+Status : Wagner : 123 of 136 -- Wagner tree with cost 2027.
+Status : Wagner : 124 of 136 -- Wagner tree with cost 2043.
+Status : Wagner : 125 of 136 -- Wagner tree with cost 2043.
+Status : Wagner : 126 of 136 -- Wagner tree with cost 2050.
+Status : Wagner : 127 of 136 -- Wagner tree with cost 2050.
+Status : Wagner : 128 of 136 -- Wagner tree with cost 2060.
+Status : Wagner : 129 of 136 -- Wagner tree with cost 2062.
+Status : Wagner : 130 of 136 -- Wagner tree with cost 2062.
+Status : Wagner : 131 of 136 -- Wagner tree with cost 2079.
+Status : Wagner : 132 of 136 -- Wagner tree with cost 2097.
+Status : Wagner : 133 of 136 -- Wagner tree with cost 2097.
+Status : Wagner : 134 of 136 -- Wagner tree with cost 2118.
+Status : Wagner : 135 of 136 -- Wagner tree with cost 2122.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 2130 Searching
+Status : TBR : 2129 Searching
+Status : TBR : 2128 Searching
+Status : TBR : 2127 Searching
+Status : TBR : 2126 Searching
+Status : TBR : 2125 Searching
+Status : TBR : 2123 Searching
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2120 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 2 m, 10 s; Hits: 1
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2659 Searching
+Status : TBR : 2658 Searching
+Status : TBR : 2657 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2643 Searching
+Status : TBR : 2642 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2654 Searching
+Status : TBR : 2652 Searching
+Status : TBR : 2651 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2662 Searching
+Status : TBR : 2661 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 1 m, 51 s; Hits: 1
+Status : RAS + TBR : 0 Searching on tree number 4
+Status : Wagner : 2 of 136 -- Wagner tree with cost 179.
+Status : Wagner : 3 of 136 -- Wagner tree with cost 211.
+Status : Wagner : 4 of 136 -- Wagner tree with cost 281.
+Status : Wagner : 5 of 136 -- Wagner tree with cost 308.
+Status : Wagner : 6 of 136 -- Wagner tree with cost 345.
+Status : Wagner : 7 of 136 -- Wagner tree with cost 345.
+Status : Wagner : 8 of 136 -- Wagner tree with cost 350.
+Status : Wagner : 9 of 136 -- Wagner tree with cost 387.
+Status : Wagner : 10 of 136 -- Wagner tree with cost 437.
+Status : Wagner : 11 of 136 -- Wagner tree with cost 467.
+Status : Wagner : 12 of 136 -- Wagner tree with cost 470.
+Status : Wagner : 13 of 136 -- Wagner tree with cost 546.
+Status : Wagner : 14 of 136 -- Wagner tree with cost 560.
+Status : Wagner : 15 of 136 -- Wagner tree with cost 616.
+Status : Wagner : 16 of 136 -- Wagner tree with cost 629.
+Status : Wagner : 17 of 136 -- Wagner tree with cost 634.
+Status : Wagner : 18 of 136 -- Wagner tree with cost 658.
+Status : Wagner : 19 of 136 -- Wagner tree with cost 663.
+Status : Wagner : 20 of 136 -- Wagner tree with cost 669.
+Status : Wagner : 21 of 136 -- Wagner tree with cost 673.
+Status : Wagner : 22 of 136 -- Wagner tree with cost 673.
+Status : Wagner : 23 of 136 -- Wagner tree with cost 726.
+Status : Wagner : 24 of 136 -- Wagner tree with cost 736.
+Status : Wagner : 25 of 136 -- Wagner tree with cost 739.
+Status : Wagner : 26 of 136 -- Wagner tree with cost 769.
+Status : Wagner : 27 of 136 -- Wagner tree with cost 772.
+Status : Wagner : 28 of 136 -- Wagner tree with cost 775.
+Status : Wagner : 29 of 136 -- Wagner tree with cost 791.
+Status : Wagner : 30 of 136 -- Wagner tree with cost 815.
+Status : Wagner : 31 of 136 -- Wagner tree with cost 826.
+Status : Wagner : 32 of 136 -- Wagner tree with cost 826.
+Status : Wagner : 33 of 136 -- Wagner tree with cost 845.
+Status : Wagner : 34 of 136 -- Wagner tree with cost 848.
+Status : Wagner : 35 of 136 -- Wagner tree with cost 863.
+Status : Wagner : 36 of 136 -- Wagner tree with cost 865.
+Status : Wagner : 37 of 136 -- Wagner tree with cost 865.
+Status : Wagner : 38 of 136 -- Wagner tree with cost 866.
+Status : Wagner : 39 of 136 -- Wagner tree with cost 907.
+Status : Wagner : 40 of 136 -- Wagner tree with cost 925.
+Status : Wagner : 41 of 136 -- Wagner tree with cost 925.
+Status : Wagner : 42 of 136 -- Wagner tree with cost 973.
+Status : Wagner : 43 of 136 -- Wagner tree with cost 1011.
+Status : Wagner : 44 of 136 -- Wagner tree with cost 1026.
+Status : Wagner : 45 of 136 -- Wagner tree with cost 1026.
+Status : Wagner : 46 of 136 -- Wagner tree with cost 1026.
+Status : Wagner : 47 of 136 -- Wagner tree with cost 1026.
+Status : Wagner : 48 of 136 -- Wagner tree with cost 1039.
+Status : Wagner : 49 of 136 -- Wagner tree with cost 1039.
+Status : Wagner : 50 of 136 -- Wagner tree with cost 1039.
+Status : Wagner : 51 of 136 -- Wagner tree with cost 1042.
+Status : Wagner : 52 of 136 -- Wagner tree with cost 1044.
+Status : Wagner : 53 of 136 -- Wagner tree with cost 1059.
+Status : Wagner : 54 of 136 -- Wagner tree with cost 1068.
+Status : Wagner : 55 of 136 -- Wagner tree with cost 1073.
+Status : Wagner : 56 of 136 -- Wagner tree with cost 1096.
+Status : Wagner : 57 of 136 -- Wagner tree with cost 1098.
+Status : Wagner : 58 of 136 -- Wagner tree with cost 1120.
+Status : Wagner : 59 of 136 -- Wagner tree with cost 1125.
+Status : Wagner : 60 of 136 -- Wagner tree with cost 1149.
+Status : Wagner : 61 of 136 -- Wagner tree with cost 1183.
+Status : Wagner : 62 of 136 -- Wagner tree with cost 1183.
+Status : Wagner : 63 of 136 -- Wagner tree with cost 1183.
+Status : Wagner : 64 of 136 -- Wagner tree with cost 1201.
+Status : Wagner : 65 of 136 -- Wagner tree with cost 1248.
+Status : Wagner : 66 of 136 -- Wagner tree with cost 1249.
+Status : Wagner : 67 of 136 -- Wagner tree with cost 1253.
+Status : Wagner : 68 of 136 -- Wagner tree with cost 1262.
+Status : Wagner : 69 of 136 -- Wagner tree with cost 1262.
+Status : Wagner : 70 of 136 -- Wagner tree with cost 1272.
+Status : Wagner : 71 of 136 -- Wagner tree with cost 1312.
+Status : Wagner : 72 of 136 -- Wagner tree with cost 1330.
+Status : Wagner : 73 of 136 -- Wagner tree with cost 1350.
+Status : Wagner : 74 of 136 -- Wagner tree with cost 1356.
+Status : Wagner : 75 of 136 -- Wagner tree with cost 1356.
+Status : Wagner : 76 of 136 -- Wagner tree with cost 1369.
+Status : Wagner : 77 of 136 -- Wagner tree with cost 1414.
+Status : Wagner : 78 of 136 -- Wagner tree with cost 1414.
+Status : Wagner : 79 of 136 -- Wagner tree with cost 1457.
+Status : Wagner : 80 of 136 -- Wagner tree with cost 1474.
+Status : Wagner : 81 of 136 -- Wagner tree with cost 1476.
+Status : Wagner : 82 of 136 -- Wagner tree with cost 1496.
+Status : Wagner : 83 of 136 -- Wagner tree with cost 1497.
+Status : Wagner : 84 of 136 -- Wagner tree with cost 1500.
+Status : Wagner : 85 of 136 -- Wagner tree with cost 1501.
+Status : Wagner : 86 of 136 -- Wagner tree with cost 1503.
+Status : Wagner : 87 of 136 -- Wagner tree with cost 1518.
+Status : Wagner : 88 of 136 -- Wagner tree with cost 1556.
+Status : Wagner : 89 of 136 -- Wagner tree with cost 1594.
+Status : Wagner : 90 of 136 -- Wagner tree with cost 1606.
+Status : Wagner : 91 of 136 -- Wagner tree with cost 1607.
+Status : Wagner : 92 of 136 -- Wagner tree with cost 1611.
+Status : Wagner : 93 of 136 -- Wagner tree with cost 1616.
+Status : Wagner : 94 of 136 -- Wagner tree with cost 1638.
+Status : Wagner : 95 of 136 -- Wagner tree with cost 1638.
+Status : Wagner : 96 of 136 -- Wagner tree with cost 1644.
+Status : Wagner : 97 of 136 -- Wagner tree with cost 1663.
+Status : Wagner : 98 of 136 -- Wagner tree with cost 1666.
+Status : Wagner : 99 of 136 -- Wagner tree with cost 1668.
+Status : Wagner : 100 of 136 -- Wagner tree with cost 1668.
+Status : Wagner : 101 of 136 -- Wagner tree with cost 1670.
+Status : Wagner : 102 of 136 -- Wagner tree with cost 1682.
+Status : Wagner : 103 of 136 -- Wagner tree with cost 1690.
+Status : Wagner : 104 of 136 -- Wagner tree with cost 1699.
+Status : Wagner : 105 of 136 -- Wagner tree with cost 1703.
+Status : Wagner : 106 of 136 -- Wagner tree with cost 1715.
+Status : Wagner : 107 of 136 -- Wagner tree with cost 1725.
+Status : Wagner : 108 of 136 -- Wagner tree with cost 1786.
+Status : Wagner : 109 of 136 -- Wagner tree with cost 1796.
+Status : Wagner : 110 of 136 -- Wagner tree with cost 1796.
+Status : Wagner : 111 of 136 -- Wagner tree with cost 1825.
+Status : Wagner : 112 of 136 -- Wagner tree with cost 1842.
+Status : Wagner : 113 of 136 -- Wagner tree with cost 1843.
+Status : Wagner : 114 of 136 -- Wagner tree with cost 1847.
+Status : Wagner : 115 of 136 -- Wagner tree with cost 1854.
+Status : Wagner : 116 of 136 -- Wagner tree with cost 1855.
+Status : Wagner : 117 of 136 -- Wagner tree with cost 1866.
+Status : Wagner : 118 of 136 -- Wagner tree with cost 1866.
+Status : Wagner : 119 of 136 -- Wagner tree with cost 1871.
+Status : Wagner : 120 of 136 -- Wagner tree with cost 1871.
+Status : Wagner : 121 of 136 -- Wagner tree with cost 1871.
+Status : Wagner : 122 of 136 -- Wagner tree with cost 1885.
+Status : Wagner : 123 of 136 -- Wagner tree with cost 1924.
+Status : Wagner : 124 of 136 -- Wagner tree with cost 1933.
+Status : Wagner : 125 of 136 -- Wagner tree with cost 1939.
+Status : Wagner : 126 of 136 -- Wagner tree with cost 1939.
+Status : Wagner : 127 of 136 -- Wagner tree with cost 1953.
+Status : Wagner : 128 of 136 -- Wagner tree with cost 1989.
+Status : Wagner : 129 of 136 -- Wagner tree with cost 2067.
+Status : Wagner : 130 of 136 -- Wagner tree with cost 2067.
+Status : Wagner : 131 of 136 -- Wagner tree with cost 2095.
+Status : Wagner : 132 of 136 -- Wagner tree with cost 2097.
+Status : Wagner : 133 of 136 -- Wagner tree with cost 2103.
+Status : Wagner : 134 of 136 -- Wagner tree with cost 2132.
+Status : Wagner : 135 of 136 -- Wagner tree with cost 2132.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 2133 Searching
+Status : TBR : 2132 Searching
+Status : TBR : 2131 Searching
+Status : TBR : 2130 Searching
+Status : TBR : 2129 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2127 Searching
+Status : TBR : 2126 Searching
+Status : TBR : 2124 Searching
+Status : TBR : 2123 Searching
+Status : TBR : 2122 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 1 m, 46 s; Hits: 1
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2642 Searching
+Status : TBR : 2641 Searching
+Status : TBR : 2640 Searching
+Status : TBR : 2639 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2637 Searching
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2657 Searching
+Status : TBR : 2656 Searching
+Status : TBR : 2655 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2654 Searching
+Status : TBR : 2653 Searching
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2641 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2590 Searching
+Status : TBR : 2589 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : TBR : 2120 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : TBR : 2120 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 1 m, 25 s; Hits: 2
+Status : RAS + TBR : 0 Searching on tree number 5
+Status : Wagner : 2 of 136 -- Wagner tree with cost 173.
+Status : Wagner : 3 of 136 -- Wagner tree with cost 260.
+Status : Wagner : 4 of 136 -- Wagner tree with cost 313.
+Status : Wagner : 5 of 136 -- Wagner tree with cost 315.
+Status : Wagner : 6 of 136 -- Wagner tree with cost 363.
+Status : Wagner : 7 of 136 -- Wagner tree with cost 396.
+Status : Wagner : 8 of 136 -- Wagner tree with cost 406.
+Status : Wagner : 9 of 136 -- Wagner tree with cost 408.
+Status : Wagner : 10 of 136 -- Wagner tree with cost 415.
+Status : Wagner : 11 of 136 -- Wagner tree with cost 438.
+Status : Wagner : 12 of 136 -- Wagner tree with cost 490.
+Status : Wagner : 13 of 136 -- Wagner tree with cost 508.
+Status : Wagner : 14 of 136 -- Wagner tree with cost 559.
+Status : Wagner : 15 of 136 -- Wagner tree with cost 580.
+Status : Wagner : 16 of 136 -- Wagner tree with cost 609.
+Status : Wagner : 17 of 136 -- Wagner tree with cost 614.
+Status : Wagner : 18 of 136 -- Wagner tree with cost 684.
+Status : Wagner : 19 of 136 -- Wagner tree with cost 684.
+Status : Wagner : 20 of 136 -- Wagner tree with cost 725.
+Status : Wagner : 21 of 136 -- Wagner tree with cost 725.
+Status : Wagner : 22 of 136 -- Wagner tree with cost 728.
+Status : Wagner : 23 of 136 -- Wagner tree with cost 752.
+Status : Wagner : 24 of 136 -- Wagner tree with cost 788.
+Status : Wagner : 25 of 136 -- Wagner tree with cost 849.
+Status : Wagner : 26 of 136 -- Wagner tree with cost 892.
+Status : Wagner : 27 of 136 -- Wagner tree with cost 892.
+Status : Wagner : 28 of 136 -- Wagner tree with cost 892.
+Status : Wagner : 29 of 136 -- Wagner tree with cost 906.
+Status : Wagner : 30 of 136 -- Wagner tree with cost 925.
+Status : Wagner : 31 of 136 -- Wagner tree with cost 927.
+Status : Wagner : 32 of 136 -- Wagner tree with cost 927.
+Status : Wagner : 33 of 136 -- Wagner tree with cost 973.
+Status : Wagner : 34 of 136 -- Wagner tree with cost 988.
+Status : Wagner : 35 of 136 -- Wagner tree with cost 1032.
+Status : Wagner : 36 of 136 -- Wagner tree with cost 1107.
+Status : Wagner : 37 of 136 -- Wagner tree with cost 1127.
+Status : Wagner : 38 of 136 -- Wagner tree with cost 1134.
+Status : Wagner : 39 of 136 -- Wagner tree with cost 1178.
+Status : Wagner : 40 of 136 -- Wagner tree with cost 1179.
+Status : Wagner : 41 of 136 -- Wagner tree with cost 1182.
+Status : Wagner : 42 of 136 -- Wagner tree with cost 1209.
+Status : Wagner : 43 of 136 -- Wagner tree with cost 1212.
+Status : Wagner : 44 of 136 -- Wagner tree with cost 1239.
+Status : Wagner : 45 of 136 -- Wagner tree with cost 1242.
+Status : Wagner : 46 of 136 -- Wagner tree with cost 1262.
+Status : Wagner : 47 of 136 -- Wagner tree with cost 1277.
+Status : Wagner : 48 of 136 -- Wagner tree with cost 1281.
+Status : Wagner : 49 of 136 -- Wagner tree with cost 1282.
+Status : Wagner : 50 of 136 -- Wagner tree with cost 1296.
+Status : Wagner : 51 of 136 -- Wagner tree with cost 1344.
+Status : Wagner : 52 of 136 -- Wagner tree with cost 1353.
+Status : Wagner : 53 of 136 -- Wagner tree with cost 1361.
+Status : Wagner : 54 of 136 -- Wagner tree with cost 1378.
+Status : Wagner : 55 of 136 -- Wagner tree with cost 1385.
+Status : Wagner : 56 of 136 -- Wagner tree with cost 1388.
+Status : Wagner : 57 of 136 -- Wagner tree with cost 1394.
+Status : Wagner : 58 of 136 -- Wagner tree with cost 1398.
+Status : Wagner : 59 of 136 -- Wagner tree with cost 1407.
+Status : Wagner : 60 of 136 -- Wagner tree with cost 1408.
+Status : Wagner : 61 of 136 -- Wagner tree with cost 1423.
+Status : Wagner : 62 of 136 -- Wagner tree with cost 1486.
+Status : Wagner : 63 of 136 -- Wagner tree with cost 1489.
+Status : Wagner : 64 of 136 -- Wagner tree with cost 1501.
+Status : Wagner : 65 of 136 -- Wagner tree with cost 1528.
+Status : Wagner : 66 of 136 -- Wagner tree with cost 1529.
+Status : Wagner : 67 of 136 -- Wagner tree with cost 1535.
+Status : Wagner : 68 of 136 -- Wagner tree with cost 1536.
+Status : Wagner : 69 of 136 -- Wagner tree with cost 1554.
+Status : Wagner : 70 of 136 -- Wagner tree with cost 1557.
+Status : Wagner : 71 of 136 -- Wagner tree with cost 1584.
+Status : Wagner : 72 of 136 -- Wagner tree with cost 1586.
+Status : Wagner : 73 of 136 -- Wagner tree with cost 1604.
+Status : Wagner : 74 of 136 -- Wagner tree with cost 1616.
+Status : Wagner : 75 of 136 -- Wagner tree with cost 1616.
+Status : Wagner : 76 of 136 -- Wagner tree with cost 1630.
+Status : Wagner : 77 of 136 -- Wagner tree with cost 1638.
+Status : Wagner : 78 of 136 -- Wagner tree with cost 1642.
+Status : Wagner : 79 of 136 -- Wagner tree with cost 1642.
+Status : Wagner : 80 of 136 -- Wagner tree with cost 1679.
+Status : Wagner : 81 of 136 -- Wagner tree with cost 1686.
+Status : Wagner : 82 of 136 -- Wagner tree with cost 1686.
+Status : Wagner : 83 of 136 -- Wagner tree with cost 1686.
+Status : Wagner : 84 of 136 -- Wagner tree with cost 1720.
+Status : Wagner : 85 of 136 -- Wagner tree with cost 1753.
+Status : Wagner : 86 of 136 -- Wagner tree with cost 1753.
+Status : Wagner : 87 of 136 -- Wagner tree with cost 1774.
+Status : Wagner : 88 of 136 -- Wagner tree with cost 1812.
+Status : Wagner : 89 of 136 -- Wagner tree with cost 1828.
+Status : Wagner : 90 of 136 -- Wagner tree with cost 1830.
+Status : Wagner : 91 of 136 -- Wagner tree with cost 1833.
+Status : Wagner : 92 of 136 -- Wagner tree with cost 1834.
+Status : Wagner : 93 of 136 -- Wagner tree with cost 1864.
+Status : Wagner : 94 of 136 -- Wagner tree with cost 1884.
+Status : Wagner : 95 of 136 -- Wagner tree with cost 1884.
+Status : Wagner : 96 of 136 -- Wagner tree with cost 1886.
+Status : Wagner : 97 of 136 -- Wagner tree with cost 1898.
+Status : Wagner : 98 of 136 -- Wagner tree with cost 1901.
+Status : Wagner : 99 of 136 -- Wagner tree with cost 1918.
+Status : Wagner : 100 of 136 -- Wagner tree with cost 1918.
+Status : Wagner : 101 of 136 -- Wagner tree with cost 1923.
+Status : Wagner : 102 of 136 -- Wagner tree with cost 1927.
+Status : Wagner : 103 of 136 -- Wagner tree with cost 1927.
+Status : Wagner : 104 of 136 -- Wagner tree with cost 1931.
+Status : Wagner : 105 of 136 -- Wagner tree with cost 1942.
+Status : Wagner : 106 of 136 -- Wagner tree with cost 1942.
+Status : Wagner : 107 of 136 -- Wagner tree with cost 1960.
+Status : Wagner : 108 of 136 -- Wagner tree with cost 1961.
+Status : Wagner : 109 of 136 -- Wagner tree with cost 1983.
+Status : Wagner : 110 of 136 -- Wagner tree with cost 1984.
+Status : Wagner : 111 of 136 -- Wagner tree with cost 1990.
+Status : Wagner : 112 of 136 -- Wagner tree with cost 1991.
+Status : Wagner : 113 of 136 -- Wagner tree with cost 1991.
+Status : Wagner : 114 of 136 -- Wagner tree with cost 2003.
+Status : Wagner : 115 of 136 -- Wagner tree with cost 2017.
+Status : Wagner : 116 of 136 -- Wagner tree with cost 2017.
+Status : Wagner : 117 of 136 -- Wagner tree with cost 2024.
+Status : Wagner : 118 of 136 -- Wagner tree with cost 2024.
+Status : Wagner : 119 of 136 -- Wagner tree with cost 2024.
+Status : Wagner : 120 of 136 -- Wagner tree with cost 2031.
+Status : Wagner : 121 of 136 -- Wagner tree with cost 2035.
+Status : Wagner : 122 of 136 -- Wagner tree with cost 2037.
+Status : Wagner : 123 of 136 -- Wagner tree with cost 2040.
+Status : Wagner : 124 of 136 -- Wagner tree with cost 2040.
+Status : Wagner : 125 of 136 -- Wagner tree with cost 2052.
+Status : Wagner : 126 of 136 -- Wagner tree with cost 2058.
+Status : Wagner : 127 of 136 -- Wagner tree with cost 2062.
+Status : Wagner : 128 of 136 -- Wagner tree with cost 2065.
+Status : Wagner : 129 of 136 -- Wagner tree with cost 2086.
+Status : Wagner : 130 of 136 -- Wagner tree with cost 2093.
+Status : Wagner : 131 of 136 -- Wagner tree with cost 2094.
+Status : Wagner : 132 of 136 -- Wagner tree with cost 2094.
+Status : Wagner : 133 of 136 -- Wagner tree with cost 2097.
+Status : Wagner : 134 of 136 -- Wagner tree with cost 2097.
+Status : Wagner : 135 of 136 -- Wagner tree with cost 2131.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 2132 Searching
+Status : TBR : 2130 Searching
+Status : TBR : 2129 Searching
+Status : TBR : 2128 Searching
+Status : TBR : 2127 Searching
+Status : TBR : 2126 Searching
+Status : TBR : 2124 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2123 Searching
+Status : TBR : 2122 Searching
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 1 m, 21 s; Hits: 2
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2658 Searching
+Status : TBR : 2657 Searching
+Status : TBR : 2656 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2631 Searching
+Status : TBR : 2630 Searching
+Status : TBR : 2629 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2662 Searching
+Status : TBR : 2661 Searching
+Status : TBR : 2660 Searching
+Status : TBR : 2659 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2623 Searching
+Status : TBR : 2622 Searching
+Status : TBR : 2620 Searching
+Status : TBR : 2618 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 1 m, 5 s; Hits: 2
+Status : RAS + TBR : 0 Searching on tree number 6
+Status : Wagner : 2 of 136 -- Wagner tree with cost 73.
+Status : Wagner : 3 of 136 -- Wagner tree with cost 168.
+Status : Wagner : 4 of 136 -- Wagner tree with cost 231.
+Status : Wagner : 5 of 136 -- Wagner tree with cost 248.
+Status : Wagner : 6 of 136 -- Wagner tree with cost 311.
+Status : Wagner : 7 of 136 -- Wagner tree with cost 359.
+Status : Wagner : 8 of 136 -- Wagner tree with cost 393.
+Status : Wagner : 9 of 136 -- Wagner tree with cost 467.
+Status : Wagner : 10 of 136 -- Wagner tree with cost 489.
+Status : Wagner : 11 of 136 -- Wagner tree with cost 577.
+Status : Wagner : 12 of 136 -- Wagner tree with cost 631.
+Status : Wagner : 13 of 136 -- Wagner tree with cost 665.
+Status : Wagner : 14 of 136 -- Wagner tree with cost 673.
+Status : Wagner : 15 of 136 -- Wagner tree with cost 680.
+Status : Wagner : 16 of 136 -- Wagner tree with cost 686.
+Status : Wagner : 17 of 136 -- Wagner tree with cost 702.
+Status : Wagner : 18 of 136 -- Wagner tree with cost 720.
+Status : Wagner : 19 of 136 -- Wagner tree with cost 722.
+Status : Wagner : 20 of 136 -- Wagner tree with cost 733.
+Status : Wagner : 21 of 136 -- Wagner tree with cost 778.
+Status : Wagner : 22 of 136 -- Wagner tree with cost 795.
+Status : Wagner : 23 of 136 -- Wagner tree with cost 834.
+Status : Wagner : 24 of 136 -- Wagner tree with cost 835.
+Status : Wagner : 25 of 136 -- Wagner tree with cost 888.
+Status : Wagner : 26 of 136 -- Wagner tree with cost 913.
+Status : Wagner : 27 of 136 -- Wagner tree with cost 960.
+Status : Wagner : 28 of 136 -- Wagner tree with cost 963.
+Status : Wagner : 29 of 136 -- Wagner tree with cost 975.
+Status : Wagner : 30 of 136 -- Wagner tree with cost 1003.
+Status : Wagner : 31 of 136 -- Wagner tree with cost 1012.
+Status : Wagner : 32 of 136 -- Wagner tree with cost 1012.
+Status : Wagner : 33 of 136 -- Wagner tree with cost 1025.
+Status : Wagner : 34 of 136 -- Wagner tree with cost 1062.
+Status : Wagner : 35 of 136 -- Wagner tree with cost 1088.
+Status : Wagner : 36 of 136 -- Wagner tree with cost 1121.
+Status : Wagner : 37 of 136 -- Wagner tree with cost 1121.
+Status : Wagner : 38 of 136 -- Wagner tree with cost 1199.
+Status : Wagner : 39 of 136 -- Wagner tree with cost 1200.
+Status : Wagner : 40 of 136 -- Wagner tree with cost 1229.
+Status : Wagner : 41 of 136 -- Wagner tree with cost 1229.
+Status : Wagner : 42 of 136 -- Wagner tree with cost 1229.
+Status : Wagner : 43 of 136 -- Wagner tree with cost 1256.
+Status : Wagner : 44 of 136 -- Wagner tree with cost 1296.
+Status : Wagner : 45 of 136 -- Wagner tree with cost 1308.
+Status : Wagner : 46 of 136 -- Wagner tree with cost 1319.
+Status : Wagner : 47 of 136 -- Wagner tree with cost 1331.
+Status : Wagner : 48 of 136 -- Wagner tree with cost 1350.
+Status : Wagner : 49 of 136 -- Wagner tree with cost 1351.
+Status : Wagner : 50 of 136 -- Wagner tree with cost 1367.
+Status : Wagner : 51 of 136 -- Wagner tree with cost 1371.
+Status : Wagner : 52 of 136 -- Wagner tree with cost 1412.
+Status : Wagner : 53 of 136 -- Wagner tree with cost 1423.
+Status : Wagner : 54 of 136 -- Wagner tree with cost 1423.
+Status : Wagner : 55 of 136 -- Wagner tree with cost 1423.
+Status : Wagner : 56 of 136 -- Wagner tree with cost 1427.
+Status : Wagner : 57 of 136 -- Wagner tree with cost 1444.
+Status : Wagner : 58 of 136 -- Wagner tree with cost 1448.
+Status : Wagner : 59 of 136 -- Wagner tree with cost 1450.
+Status : Wagner : 60 of 136 -- Wagner tree with cost 1459.
+Status : Wagner : 61 of 136 -- Wagner tree with cost 1465.
+Status : Wagner : 62 of 136 -- Wagner tree with cost 1495.
+Status : Wagner : 63 of 136 -- Wagner tree with cost 1505.
+Status : Wagner : 64 of 136 -- Wagner tree with cost 1521.
+Status : Wagner : 65 of 136 -- Wagner tree with cost 1565.
+Status : Wagner : 66 of 136 -- Wagner tree with cost 1565.
+Status : Wagner : 67 of 136 -- Wagner tree with cost 1588.
+Status : Wagner : 68 of 136 -- Wagner tree with cost 1595.
+Status : Wagner : 69 of 136 -- Wagner tree with cost 1595.
+Status : Wagner : 70 of 136 -- Wagner tree with cost 1634.
+Status : Wagner : 71 of 136 -- Wagner tree with cost 1634.
+Status : Wagner : 72 of 136 -- Wagner tree with cost 1655.
+Status : Wagner : 73 of 136 -- Wagner tree with cost 1684.
+Status : Wagner : 74 of 136 -- Wagner tree with cost 1691.
+Status : Wagner : 75 of 136 -- Wagner tree with cost 1694.
+Status : Wagner : 76 of 136 -- Wagner tree with cost 1695.
+Status : Wagner : 77 of 136 -- Wagner tree with cost 1758.
+Status : Wagner : 78 of 136 -- Wagner tree with cost 1762.
+Status : Wagner : 79 of 136 -- Wagner tree with cost 1762.
+Status : Wagner : 80 of 136 -- Wagner tree with cost 1762.
+Status : Wagner : 81 of 136 -- Wagner tree with cost 1773.
+Status : Wagner : 82 of 136 -- Wagner tree with cost 1777.
+Status : Wagner : 83 of 136 -- Wagner tree with cost 1778.
+Status : Wagner : 84 of 136 -- Wagner tree with cost 1784.
+Status : Wagner : 85 of 136 -- Wagner tree with cost 1789.
+Status : Wagner : 86 of 136 -- Wagner tree with cost 1789.
+Status : Wagner : 87 of 136 -- Wagner tree with cost 1802.
+Status : Wagner : 88 of 136 -- Wagner tree with cost 1802.
+Status : Wagner : 89 of 136 -- Wagner tree with cost 1802.
+Status : Wagner : 90 of 136 -- Wagner tree with cost 1802.
+Status : Wagner : 91 of 136 -- Wagner tree with cost 1803.
+Status : Wagner : 92 of 136 -- Wagner tree with cost 1805.
+Status : Wagner : 93 of 136 -- Wagner tree with cost 1806.
+Status : Wagner : 94 of 136 -- Wagner tree with cost 1825.
+Status : Wagner : 95 of 136 -- Wagner tree with cost 1829.
+Status : Wagner : 96 of 136 -- Wagner tree with cost 1834.
+Status : Wagner : 97 of 136 -- Wagner tree with cost 1858.
+Status : Wagner : 98 of 136 -- Wagner tree with cost 1887.
+Status : Wagner : 99 of 136 -- Wagner tree with cost 1887.
+Status : Wagner : 100 of 136 -- Wagner tree with cost 1903.
+Status : Wagner : 101 of 136 -- Wagner tree with cost 1904.
+Status : Wagner : 102 of 136 -- Wagner tree with cost 1907.
+Status : Wagner : 103 of 136 -- Wagner tree with cost 1915.
+Status : Wagner : 104 of 136 -- Wagner tree with cost 1917.
+Status : Wagner : 105 of 136 -- Wagner tree with cost 1918.
+Status : Wagner : 106 of 136 -- Wagner tree with cost 1921.
+Status : Wagner : 107 of 136 -- Wagner tree with cost 1921.
+Status : Wagner : 108 of 136 -- Wagner tree with cost 1926.
+Status : Wagner : 109 of 136 -- Wagner tree with cost 1926.
+Status : Wagner : 110 of 136 -- Wagner tree with cost 1935.
+Status : Wagner : 111 of 136 -- Wagner tree with cost 1937.
+Status : Wagner : 112 of 136 -- Wagner tree with cost 1938.
+Status : Wagner : 113 of 136 -- Wagner tree with cost 1966.
+Status : Wagner : 114 of 136 -- Wagner tree with cost 1966.
+Status : Wagner : 115 of 136 -- Wagner tree with cost 1981.
+Status : Wagner : 116 of 136 -- Wagner tree with cost 2002.
+Status : Wagner : 117 of 136 -- Wagner tree with cost 2007.
+Status : Wagner : 118 of 136 -- Wagner tree with cost 2013.
+Status : Wagner : 119 of 136 -- Wagner tree with cost 2015.
+Status : Wagner : 120 of 136 -- Wagner tree with cost 2022.
+Status : Wagner : 121 of 136 -- Wagner tree with cost 2023.
+Status : Wagner : 122 of 136 -- Wagner tree with cost 2026.
+Status : Wagner : 123 of 136 -- Wagner tree with cost 2046.
+Status : Wagner : 124 of 136 -- Wagner tree with cost 2048.
+Status : Wagner : 125 of 136 -- Wagner tree with cost 2050.
+Status : Wagner : 126 of 136 -- Wagner tree with cost 2065.
+Status : Wagner : 127 of 136 -- Wagner tree with cost 2082.
+Status : Wagner : 128 of 136 -- Wagner tree with cost 2085.
+Status : Wagner : 129 of 136 -- Wagner tree with cost 2087.
+Status : Wagner : 130 of 136 -- Wagner tree with cost 2089.
+Status : Wagner : 131 of 136 -- Wagner tree with cost 2107.
+Status : Wagner : 132 of 136 -- Wagner tree with cost 2114.
+Status : Wagner : 133 of 136 -- Wagner tree with cost 2114.
+Status : Wagner : 134 of 136 -- Wagner tree with cost 2123.
+Status : Wagner : 135 of 136 -- Wagner tree with cost 2127.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 2127 Searching
+Status : TBR : 2125 Searching
+Status : TBR : 2124 Searching
+Status : TBR : 2123 Searching
+Status : TBR : 2122 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 1 m, 1 s; Hits: 2
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2639 Searching
+Status : TBR : 2638 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2628 Searching
+Status : TBR : 2627 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2668 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 2687 Searching
+Status : TBR : 2686 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2685 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR Finished
+Status : TBR : 2121 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 46 s; Hits: 2
+Status : RAS + TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 46 s; Hits: 2
+Status : Fusing Trees : 0 Generation 1
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #6 [2121.] -> tree #4 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #6 [2121.] -> tree #4 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #6 [2121.] -> tree #4 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #6 [2121.] -> tree #4 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #6 [2121.] -> tree #4 [2121.]: tree with cost 2121.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 45 s; Hits: 2
+Status : Automated Search : 0 Best tree: 2120.; Time left: 45 s; Hits: 2
+Status : Fusing Trees : 0 Generation 2
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #12 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #12 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #12 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status : TBR : 2120 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR Finished
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 40 s; Hits: 3
+Status : Automated Search : 0 Best tree: 2120.; Time left: 40 s; Hits: 3
+Status : Fusing Trees : 0 Generation 3
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #11 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #11 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #11 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status : TBR : 2120 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR Finished
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 36 s; Hits: 4
+Status : Automated Search : 0 Best tree: 2120.; Time left: 36 s; Hits: 4
+Status : Fusing Trees : 0 Generation 4
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2121.] -> tree #9 [2120.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2121.] -> tree #9 [2120.]: tree with cost 2121.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 35 s; Hits: 4
+Status : Automated Search : 0 Best tree: 2120.; Time left: 35 s; Hits: 4
+Status : Fusing Trees : 0 Generation 5
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2121.] -> tree #9 [2120.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2121.] -> tree #9 [2120.]: tree with cost 2121.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 35 s; Hits: 4
+Status : Automated Search : 0 Best tree: 2120.; Time left: 35 s; Hits: 4
+Status : Fusing Trees : 0 Generation 6
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status : TBR : 2120 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR Finished
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 30 s; Hits: 5
+Status : Automated Search : 0 Best tree: 2120.; Time left: 30 s; Hits: 5
+Status : Fusing Trees : 0 Generation 7
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #10 [2120.] -> tree #7 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #10 [2120.] -> tree #7 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #10 [2120.] -> tree #7 [2121.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 29 s; Hits: 6
+Status : Automated Search : 0 Best tree: 2120.; Time left: 29 s; Hits: 6
+Status : Fusing Trees : 0 Generation 8
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #7 [2120.] -> tree #11 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #7 [2120.] -> tree #11 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #7 [2120.] -> tree #11 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #7 [2120.] -> tree #11 [2120.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 28 s; Hits: 6
+Status : Automated Search : 0 Best tree: 2120.; Time left: 28 s; Hits: 6
+Status : Fusing Trees : 0 Generation 9
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #12 [2120.] -> tree #6 [2121.]: tree with cost 2120.
+Status : TBR : 2120 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 25 s; Hits: 7
+Status : Automated Search : 0 Best tree: 2120.; Time left: 25 s; Hits: 7
+Status : Fusing Trees : 0 Generation 10
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #8 [2120.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 25 s; Hits: 7
+Status : Automated Search : 0 Best tree: 2120.; Time left: 25 s; Hits: 7
+Status : Fusing Trees : 0 Generation 11
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #6 [2120.] -> tree #7 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #6 [2120.] -> tree #7 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #6 [2120.] -> tree #7 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #6 [2120.] -> tree #7 [2120.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 24 s; Hits: 7
+Status : Automated Search : 0 Best tree: 2120.; Time left: 24 s; Hits: 7
+Status : Fusing Trees : 0 Generation 12
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2121.] -> tree #10 [2120.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2121.] -> tree #10 [2120.]: tree with cost 2121.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 23 s; Hits: 7
+Status : Automated Search : 0 Best tree: 2120.; Time left: 23 s; Hits: 7
+Status : Fusing Trees : 0 Generation 13
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #4 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #4 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #4 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #4 [2121.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 22 s; Hits: 8
+Status : Automated Search : 0 Best tree: 2120.; Time left: 22 s; Hits: 8
+Status : Fusing Trees : 0 Generation 14
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #1 [2121.] -> tree #10 [2120.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #1 [2121.] -> tree #10 [2120.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #1 [2121.] -> tree #10 [2120.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #1 [2121.] -> tree #10 [2120.]: tree with cost 2121.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 21 s; Hits: 8
+Status : Automated Search : 0 Best tree: 2120.; Time left: 21 s; Hits: 8
+Status : Fusing Trees : 0 Generation 15
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #3 [2121.] -> tree #1 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #3 [2121.] -> tree #1 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #3 [2121.] -> tree #1 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #3 [2121.] -> tree #1 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #3 [2121.] -> tree #1 [2121.]: tree with cost 2121.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 20 s; Hits: 8
+Status : Automated Search : 0 Best tree: 2120.; Time left: 20 s; Hits: 8
+Status : Fusing Trees : 0 Generation 16
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #10 [2120.] -> tree #6 [2120.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 19 s; Hits: 8
+Status : Automated Search : 0 Best tree: 2120.; Time left: 19 s; Hits: 8
+Status : Fusing Trees : 0 Generation 17
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #3 [2121.] -> tree #4 [2120.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #3 [2121.] -> tree #4 [2120.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #3 [2121.] -> tree #4 [2120.]: tree with cost 2121.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 18 s; Hits: 8
+Status : Automated Search : 0 Best tree: 2120.; Time left: 18 s; Hits: 8
+Status : Fusing Trees : 0 Generation 18
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #8 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #8 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #8 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #9 [2120.] -> tree #8 [2120.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 17 s; Hits: 8
+Status : Automated Search : 0 Best tree: 2120.; Time left: 17 s; Hits: 8
+Status : Fusing Trees : 0 Generation 19
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #2 [2121.] -> tree #10 [2120.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #2 [2121.] -> tree #10 [2120.]: tree with cost 2121.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 17 s; Hits: 8
+Status : Automated Search : 0 Best tree: 2120.; Time left: 17 s; Hits: 8
+Status : Fusing Trees : 0 Generation 20
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #4 [2121.] -> tree #2 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #4 [2121.] -> tree #2 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #4 [2121.] -> tree #2 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #4 [2121.] -> tree #2 [2121.]: tree with cost 2121.
+Status :
+Tree Fusing :
+1 of 1 -- tree #4 [2121.] -> tree #2 [2121.]: tree with cost 2121.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 15 s; Hits: 8
+Status : Automated Search : 0 Best tree: 2120.; Time left: 15 s; Hits: 8
+Status : Fusing Trees : 0 Generation 21
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #11 [2120.] -> tree #10 [2120.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 15 s; Hits: 8
+Status : Automated Search : 0 Best tree: 2120.; Time left: 15 s; Hits: 8
+Status : Fusing Trees : 0 Generation 22
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #3 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #3 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #3 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #3 [2121.]: tree with cost 2120.
+Status : TBR : 2120 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Status : TBR Finished
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 9 s; Hits: 9
+Status : Automated Search : 0 Best tree: 2120.; Time left: 9 s; Hits: 9
+Status : Fusing Trees : 0 Generation 23
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #3 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #3 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #3 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #3 [2121.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #3 [2121.]: tree with cost 2120.
+Status : TBR : 2120 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR Finished
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 5 s; Hits: 10
+Status : Automated Search : 0 Best tree: 2120.; Time left: 5 s; Hits: 10
+Status : Fusing Trees : 0 Generation 24
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2120.] -> tree #6 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2120.] -> tree #6 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2120.] -> tree #6 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #5 [2120.] -> tree #6 [2120.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 4 s; Hits: 10
+Status : Automated Search : 0 Best tree: 2120.; Time left: 4 s; Hits: 10
+Status : Fusing Trees : 0 Generation 25
+Status : Tree Fusing : 0 of 1 -- 
+Status : Tree Fusing : 1 of 1 -- 
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #6 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #6 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #6 [2120.]: tree with cost 2120.
+Status :
+Tree Fusing :
+1 of 1 -- tree #8 [2120.] -> tree #6 [2120.]: tree with cost 2120.
+Status : Tree Fusing Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: 3 s; Hits: 10
+Status : Fusing Trees Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 7
+Status : Wagner : 2 of 136 -- Wagner tree with cost 85.
+Status : Wagner : 3 of 136 -- Wagner tree with cost 213.
+Status : Wagner : 4 of 136 -- Wagner tree with cost 274.
+Status : Wagner : 5 of 136 -- Wagner tree with cost 274.
+Status : Wagner : 6 of 136 -- Wagner tree with cost 288.
+Status : Wagner : 7 of 136 -- Wagner tree with cost 290.
+Status : Wagner : 8 of 136 -- Wagner tree with cost 316.
+Status : Wagner : 9 of 136 -- Wagner tree with cost 348.
+Status : Wagner : 10 of 136 -- Wagner tree with cost 409.
+Status : Wagner : 11 of 136 -- Wagner tree with cost 418.
+Status : Wagner : 12 of 136 -- Wagner tree with cost 458.
+Status : Wagner : 13 of 136 -- Wagner tree with cost 459.
+Status : Wagner : 14 of 136 -- Wagner tree with cost 462.
+Status : Wagner : 15 of 136 -- Wagner tree with cost 503.
+Status : Wagner : 16 of 136 -- Wagner tree with cost 526.
+Status : Wagner : 17 of 136 -- Wagner tree with cost 542.
+Status : Wagner : 18 of 136 -- Wagner tree with cost 601.
+Status : Wagner : 19 of 136 -- Wagner tree with cost 636.
+Status : Wagner : 20 of 136 -- Wagner tree with cost 709.
+Status : Wagner : 21 of 136 -- Wagner tree with cost 752.
+Status : Wagner : 22 of 136 -- Wagner tree with cost 762.
+Status : Wagner : 23 of 136 -- Wagner tree with cost 770.
+Status : Wagner : 24 of 136 -- Wagner tree with cost 805.
+Status : Wagner : 25 of 136 -- Wagner tree with cost 807.
+Status : Wagner : 26 of 136 -- Wagner tree with cost 833.
+Status : Wagner : 27 of 136 -- Wagner tree with cost 854.
+Status : Wagner : 28 of 136 -- Wagner tree with cost 857.
+Status : Wagner : 29 of 136 -- Wagner tree with cost 860.
+Status : Wagner : 30 of 136 -- Wagner tree with cost 863.
+Status : Wagner : 31 of 136 -- Wagner tree with cost 866.
+Status : Wagner : 32 of 136 -- Wagner tree with cost 880.
+Status : Wagner : 33 of 136 -- Wagner tree with cost 882.
+Status : Wagner : 34 of 136 -- Wagner tree with cost 895.
+Status : Wagner : 35 of 136 -- Wagner tree with cost 937.
+Status : Wagner : 36 of 136 -- Wagner tree with cost 939.
+Status : Wagner : 37 of 136 -- Wagner tree with cost 980.
+Status : Wagner : 38 of 136 -- Wagner tree with cost 1009.
+Status : Wagner : 39 of 136 -- Wagner tree with cost 1009.
+Status : Wagner : 40 of 136 -- Wagner tree with cost 1009.
+Status : Wagner : 41 of 136 -- Wagner tree with cost 1012.
+Status : Wagner : 42 of 136 -- Wagner tree with cost 1044.
+Status : Wagner : 43 of 136 -- Wagner tree with cost 1082.
+Status : Wagner : 44 of 136 -- Wagner tree with cost 1153.
+Status : Wagner : 45 of 136 -- Wagner tree with cost 1162.
+Status : Wagner : 46 of 136 -- Wagner tree with cost 1194.
+Status : Wagner : 47 of 136 -- Wagner tree with cost 1198.
+Status : Wagner : 48 of 136 -- Wagner tree with cost 1245.
+Status : Wagner : 49 of 136 -- Wagner tree with cost 1249.
+Status : Wagner : 50 of 136 -- Wagner tree with cost 1258.
+Status : Wagner : 51 of 136 -- Wagner tree with cost 1270.
+Status : Wagner : 52 of 136 -- Wagner tree with cost 1270.
+Status : Wagner : 53 of 136 -- Wagner tree with cost 1318.
+Status : Wagner : 54 of 136 -- Wagner tree with cost 1318.
+Status : Wagner : 55 of 136 -- Wagner tree with cost 1323.
+Status : Wagner : 56 of 136 -- Wagner tree with cost 1330.
+Status : Wagner : 57 of 136 -- Wagner tree with cost 1371.
+Status : Wagner : 58 of 136 -- Wagner tree with cost 1382.
+Status : Wagner : 59 of 136 -- Wagner tree with cost 1411.
+Status : Wagner : 60 of 136 -- Wagner tree with cost 1453.
+Status : Wagner : 61 of 136 -- Wagner tree with cost 1469.
+Status : Wagner : 62 of 136 -- Wagner tree with cost 1478.
+Status : Wagner : 63 of 136 -- Wagner tree with cost 1481.
+Status : Wagner : 64 of 136 -- Wagner tree with cost 1493.
+Status : Wagner : 65 of 136 -- Wagner tree with cost 1543.
+Status : Wagner : 66 of 136 -- Wagner tree with cost 1561.
+Status : Wagner : 67 of 136 -- Wagner tree with cost 1562.
+Status : Wagner : 68 of 136 -- Wagner tree with cost 1573.
+Status : Wagner : 69 of 136 -- Wagner tree with cost 1593.
+Status : Wagner : 70 of 136 -- Wagner tree with cost 1593.
+Status : Wagner : 71 of 136 -- Wagner tree with cost 1594.
+Status : Wagner : 72 of 136 -- Wagner tree with cost 1612.
+Status : Wagner : 73 of 136 -- Wagner tree with cost 1628.
+Status : Wagner : 74 of 136 -- Wagner tree with cost 1649.
+Status : Wagner : 75 of 136 -- Wagner tree with cost 1651.
+Status : Wagner : 76 of 136 -- Wagner tree with cost 1656.
+Status : Wagner : 77 of 136 -- Wagner tree with cost 1674.
+Status : Wagner : 78 of 136 -- Wagner tree with cost 1674.
+Status : Wagner : 79 of 136 -- Wagner tree with cost 1714.
+Status : Wagner : 80 of 136 -- Wagner tree with cost 1744.
+Status : Wagner : 81 of 136 -- Wagner tree with cost 1746.
+Status : Wagner : 82 of 136 -- Wagner tree with cost 1748.
+Status : Wagner : 83 of 136 -- Wagner tree with cost 1749.
+Status : Wagner : 84 of 136 -- Wagner tree with cost 1756.
+Status : Wagner : 85 of 136 -- Wagner tree with cost 1770.
+Status : Wagner : 86 of 136 -- Wagner tree with cost 1780.
+Status : Wagner : 87 of 136 -- Wagner tree with cost 1785.
+Status : Wagner : 88 of 136 -- Wagner tree with cost 1792.
+Status : Wagner : 89 of 136 -- Wagner tree with cost 1796.
+Status : Wagner : 90 of 136 -- Wagner tree with cost 1796.
+Status : Wagner : 91 of 136 -- Wagner tree with cost 1798.
+Status : Wagner : 92 of 136 -- Wagner tree with cost 1805.
+Status : Wagner : 93 of 136 -- Wagner tree with cost 1805.
+Status : Wagner : 94 of 136 -- Wagner tree with cost 1805.
+Status : Wagner : 95 of 136 -- Wagner tree with cost 1805.
+Status : Wagner : 96 of 136 -- Wagner tree with cost 1805.
+Status : Wagner : 97 of 136 -- Wagner tree with cost 1805.
+Status : Wagner : 98 of 136 -- Wagner tree with cost 1819.
+Status : Wagner : 99 of 136 -- Wagner tree with cost 1825.
+Status : Wagner : 100 of 136 -- Wagner tree with cost 1828.
+Status : Wagner : 101 of 136 -- Wagner tree with cost 1846.
+Status : Wagner : 102 of 136 -- Wagner tree with cost 1848.
+Status : Wagner : 103 of 136 -- Wagner tree with cost 1853.
+Status : Wagner : 104 of 136 -- Wagner tree with cost 1860.
+Status : Wagner : 105 of 136 -- Wagner tree with cost 1860.
+Status : Wagner : 106 of 136 -- Wagner tree with cost 1863.
+Status : Wagner : 107 of 136 -- Wagner tree with cost 1882.
+Status : Wagner : 108 of 136 -- Wagner tree with cost 1919.
+Status : Wagner : 109 of 136 -- Wagner tree with cost 1919.
+Status : Wagner : 110 of 136 -- Wagner tree with cost 1920.
+Status : Wagner : 111 of 136 -- Wagner tree with cost 1931.
+Status : Wagner : 112 of 136 -- Wagner tree with cost 1937.
+Status : Wagner : 113 of 136 -- Wagner tree with cost 1940.
+Status : Wagner : 114 of 136 -- Wagner tree with cost 1940.
+Status : Wagner : 115 of 136 -- Wagner tree with cost 1940.
+Status : Wagner : 116 of 136 -- Wagner tree with cost 1958.
+Status : Wagner : 117 of 136 -- Wagner tree with cost 1977.
+Status : Wagner : 118 of 136 -- Wagner tree with cost 2006.
+Status : Wagner : 119 of 136 -- Wagner tree with cost 2012.
+Status : Wagner : 120 of 136 -- Wagner tree with cost 2013.
+Status : Wagner : 121 of 136 -- Wagner tree with cost 2018.
+Status : Wagner : 122 of 136 -- Wagner tree with cost 2021.
+Status : Wagner : 123 of 136 -- Wagner tree with cost 2028.
+Status : Wagner : 124 of 136 -- Wagner tree with cost 2028.
+Status : Wagner : 125 of 136 -- Wagner tree with cost 2033.
+Status : Wagner : 126 of 136 -- Wagner tree with cost 2034.
+Status : Wagner : 127 of 136 -- Wagner tree with cost 2061.
+Status : Wagner : 128 of 136 -- Wagner tree with cost 2061.
+Status : Wagner : 129 of 136 -- Wagner tree with cost 2062.
+Status : Wagner : 130 of 136 -- Wagner tree with cost 2062.
+Status : Wagner : 131 of 136 -- Wagner tree with cost 2063.
+Status : Wagner : 132 of 136 -- Wagner tree with cost 2084.
+Status : Wagner : 133 of 136 -- Wagner tree with cost 2113.
+Status : Wagner : 134 of 136 -- Wagner tree with cost 2116.
+Status : Wagner : 135 of 136 -- Wagner tree with cost 2118.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 2131 Searching
+Status : TBR : 2130 Searching
+Status : TBR : 2129 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 2128 Searching
+Status : TBR : 2127 Searching
+Status : TBR : 2126 Searching
+Status : TBR : 2124 Searching
+Status : TBR : 2123 Searching
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 2122 Searching
+Status : TBR : 2121 Searching
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: -0 s; Hits: 10
+Status : Perturb Iteration Finished
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 2120.; Time left: -0 s; Hits: 10
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 5 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 5 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 5 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 5 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 5 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 5 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 5 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information :
+The search evaluated 247 independent repetitions with ratchet and fusing for 805 generations. The shortest tree was found 284 times.
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Tree with cost 2120
+  |-----------------------------------------------------------------------------------taxid382847  
+  |                                                                                                
+  | |---------------------------------------------------------------------------------taxid624781  
+  | |                                                                                              
+  | | |-------------------------------------------------------------------------------taxid624778  
+  | | |                                                                                            
+  | | |     |-------------------------------------------------------------------------taxid624782  
+  | | |   |-|                                                                                      
+  | | |   | |-------------------------------------------------------------------------taxid624786  
+  | | | |-|                                                                                        
+  | | | | | |-------------------------------------------------------------------------taxid624785  
+  | | | | |-|                                                                                      
+  | | | |   |-------------------------------------------------------------------------taxid624788  
+  | | | |                                                                                          
+  | | | | |---------------------------------------------------------------------------taxid624787  
+  | | | | |                                                                                        
+  | | | | | |-------------------------------------------------------------------------taxid624777  
+  | | | | | |                                                                                      
+  | | | | | |     |-------------------------------------------------------------------taxid161500  
+  | | | | | |   |-|                                                                                
+  | | | | | |   | |-------------------------------------------------------------------taxid161501  
+  | | | | | |   |                                                                                  
+  | | | | | |   |   |-----------------------------------------------------------------taxid166942  
+  | | | | | |   |   |                                                                              
+  | | | | | |   |   | |---------------------------------------------------------------taxid161502  
+  | | | | | |   | |-| |                                                                            
+  | | | | | |   | | |-| |-------------------------------------------------------------taxid161498  
+  | | | | | |   | |   |-|                                                                          
+  | | | | | |   | |     |-------------------------------------------------------------taxid161499  
+  | | | | | |   | |                                                                                
+  | | | | | |   | |   |---------------------------------------------------------------taxid487074  
+  | | | | | |   | |   |                                                                            
+  | | | | | |   | |   |   |-----------------------------------------------------------taxid374441  
+  | | | | | |   | |   |   |                                                                        
+  | | | | | |   | |   |   |   |-------------------------------------------------------taxid161497  
+  | | | | | |   | |   |   | |-|                                                                    
+  | | | | | |   | |   | |-| | |-------------------------------------------------------taxid169165  
+  | | | | | |   | |   | | |-|                                                                      
+  | | | | | |   | |   | |   | |-------------------------------------------------------taxid169160  
+  | | | | | |   | |   | |   |-|                                                                    
+  | | | | | |   | |   | |     |-------------------------------------------------------taxid571201  
+  | | | | | |   | |   | |                                                                          
+  | | | | | |   | |   | | |-----------------------------------------------------------taxid519832  
+  | | | | | |   | |   | | |                                                                        
+  | | | | | |   | |   | | | |---------------------------------------------------------taxid519831  
+  | | | | | |   | | |-| | | |                                                                      
+  | | | | | |   | | | | | | |   |-----------------------------------------------------taxid488881  
+  | | | | | |   | | | | | | | |-|                                                                  
+  | | | | | |   | | | |-| | | | |-----------------------------------------------------taxid488885  
+  | | | | | |   | | |   | | | |                                                                    
+  | | | | | |   | | |   | | | | |-----------------------------------------------------taxid411157  
+  | | | | | |   | | |   |-| | | |                                                                  
+  | | | | | |   | | |     |-| | | |---------------------------------------------------taxid519834  
+  | | | | | |   | | |       |-| | |                                                                
+  | | | | | |   | | |         | | | |-------------------------------------------------taxid519833  
+  | | | | | |   | | |         |-| | |                                                              
+  | | | | | |   | | |           |-| | |-----------------------------------------------taxid488884  
+  | | | | | |   | | |             |-| |                                                            
+  | | | | | |   | | |               |-| |---------------------------------------------taxid488882  
+  | | | | | |   | | |                 |-|                                                          
+  | | | | | |   | | |                   |---------------------------------------------taxid594672  
+  | | | | | |   | | |                                                                              
+  | | | | | |   | | | |---------------------------------------------------------------taxid624780  
+  | | | | | |   | | | |                                                                            
+  | | | | | |   | | | |   |-----------------------------------------------------------taxid614035  
+  | | | | | | |-| | | |   |                                                                        
+  | | | | | | | | | | |   | |---------------------------------------------------------taxid374442  
+  | | | | | | | | | | |   | |                                                                      
+  | | | | | | | |-| | |   | | |-------------------------------------------------------taxid619318  
+  | | | | | | |   | | |   | | |                                                                    
+  | | | | | | |   | | |   | | | |-----------------------------------------------------taxid374443  
+  | | | | | | |   | | | |-| | | |                                                                  
+  | | | | | | |   | | | | |-| | | |---------------------------------------------------taxid456289  
+  | | | | | | |   | | | |   |-| | |                                                                
+  | | | | | | |   | | | |     |-| | |-------------------------------------------------taxid456283  
+  | | | | | | |   | | | |       |-| |                                                              
+  | | | | | | |   | | | |         |-| |-----------------------------------------------taxid455318  
+  | | | | | | |   | | | |           |-|                                                            
+  | | | | | | |   |-| | |             |-----------------------------------------------taxid456270  
+  | | | | | | |     | | |                                                                          
+  | | | | | | |     | | | |-----------------------------------------------------------taxid641501  
+  | | | | | | |     | | | |                                                                        
+  | | | | | | |     | | | |-----------------------------------------------------------taxid641810  
+  | | | | | | |     | | | |                                                                        
+  | | | | | | |     | | | | |---------------------------------------------------------taxid641811  
+  | | | | | | |     | | | | |                                                                      
+  | | | | | | |     | | | | |---------------------------------------------------------taxid641812  
+  | | | | | | |     |-| | | |                                                                      
+  | | | | | | |       | | | |---------------------------------------------------------taxid641807  
+  | | | | | | |       | | | |                                                                      
+  | | | | | | |       | | | |---------------------------------------------------------EPI177291    
+  | | | | | | |       |-| | |                                                                      
+  | | | | | | |         | | |---------------------------------------------------------EPI176601    
+  | | | | | | |         | | |                                                                      
+  | | | | | | |         | | |---------------------------------------------------------EPI177301    
+  | | | | | | |         | | |                                                                      
+  | | | | | | |         |-| |---------------------------------------------------------EPI177316    
+  | | | | | | |           | |                                                                      
+  | | | | | | |           |-|---------------------------------------------------------EPI176593    
+  | | | | | | |             |                                                                      
+  | | | | | | |             |---------------------------------------------------------EPI176598    
+  | | | | | | |             |                                                                      
+  | | | | | | |             | |-------------------------------------------------------EPI176642    
+  | | | | | | |             | |                                                                    
+  | | | | | | |             | |-------------------------------------------------------EPI176636    
+  | | | | | | |             | |                                                                    
+  | | | | | | |             | |-------------------------------------------------------EPI177280    
+  | | | | | | |             |-|                                                                    
+  | | | | | | |               |-------------------------------------------------------EPI177278    
+  | | | | | | |               |                                                                    
+  | | | | | | |               |-------------------------------------------------------EPI176588    
+  | | | | | | |               |                                                                    
+  | | | | | | |               |-------------------------------------------------------EPI176638    
+  | | | | | | |                                                                                    
+  | | | | | | |   |-------------------------------------------------------------------taxid624776  
+  | | | | | | |   |                                                                                
+  | | | | | | |   | |-----------------------------------------------------------------taxid624784  
+  | | | | | | | |-| |                                                                              
+  | | | | | | | | |-| |---------------------------------------------------------------taxid161504  
+  | | | | | | | |   |-|                                                                            
+  | | | | | | | |     |---------------------------------------------------------------taxid169169  
+  | | | | | | | |                                                                                  
+  | | | | | | | |   |-----------------------------------------------------------------taxid624775  
+  | | | | | | | |   |                                                                              
+  | | | | | | | | |-| |---------------------------------------------------------------taxid166940  
+  | | | | | | | | | |-|                                                                            
+  | | | | | | | | |   |---------------------------------------------------------------taxid173717  
+  | | | | | | | | |                                                                                
+  | | | | | | | | |   |---------------------------------------------------------------taxid624773  
+  | | | | | | | | | |-|                                                                            
+  | | | | | | | | | | |---------------------------------------------------------------taxid88299   
+  | | | | | | | | | |                                                                              
+  | | | | | | | | | |   |-------------------------------------------------------------taxid441583  
+  | | | | | | | | | | |-|                                                                          
+  | | | | | | | | | | | |-------------------------------------------------------------taxid441584  
+--| | | | | | | | | | |                                                                            
+  |-| | | | | | | | | | |-------------------------------------------------------------taxid624779  
+    |-| | | | | | | | | |                                                                          
+      | | | | | | | | | |   |---------------------------------------------------------taxid166943  
+      |-| | | | | | | | | |-|                                                                      
+        | | | | | | | | | | |---------------------------------------------------------taxid624774  
+        | | | | | | | | | |                                                                        
+        |-| | | | | | | | | |---------------------------------------------------------taxid624772  
+          |-| | | | | | | | |                                                                      
+            | | | | | | | | |   |-----------------------------------------------------taxid402527  
+            | | | | | | | | |   |                                                                  
+            | | | | | | | | |   | |---------------------------------------------------taxid11448   
+            | | | | | | | | |   | |                                                                
+            | | | | | | | | |   | | |-------------------------------------------------taxid222752  
+            | | | | | | | | |   | | |                                                              
+            | | | | | | | | |   | | |   |---------------------------------------------taxid183786  
+            | | | | | | | | |   | | |   |                                                          
+            | | | | | | | | | |-| | | |-| |-------------------------------------------taxid183787  
+            | | | | | | | | | | |-| | | |-|                                                        
+            | | | | | | | | | |   |-| |   |-------------------------------------------taxid352348  
+            | | | | | | | | | |     | |                                                            
+            | | | | | | | | | |     |-| |---------------------------------------------taxid551235  
+            | | | | | | | | | |       | |                                                          
+            | | | | | | | | | |       |-|---------------------------------------------taxid222746  
+            | | | | | | | | | |         |                                                          
+            | | | | | | | | | |         |---------------------------------------------taxid400733  
+            | | | | | | | | | |                                                                    
+            | | | | | | | | | |   |---------------------------------------------------taxid173720  
+            | | | | | | | | | | |-|                                                                
+            | | | | | | | | | | | |---------------------------------------------------taxid367715  
+            | | | | | | | | | | |                                                                  
+            | | | | | | | | | | |     |-----------------------------------------------taxid400735  
+            |-| | | | | | | | | |   |-|                                                            
+              | | | | | | | | | |   | |-----------------------------------------------taxid426736  
+              | | | | | | | | | | |-|                                                              
+              | | | | | | | | | | | | |-----------------------------------------------taxid424895  
+              | | | | | | | | | | | |-|                                                            
+              | | | | | | | | | | |   |-----------------------------------------------taxid449402  
+              | | | | | | | | | | |                                                                
+              | | | | | | | | | | |   |-----------------------------------------------taxid222750  
+              | | | | | | | | | | |   |                                                            
+              | | | | | | | | | | | |-| |---------------------------------------------taxid222740  
+              | | | | | | | | | | | | |-|                                                          
+              | | | | | | | | | | | |   |---------------------------------------------taxid352555  
+              | | | | | | | | | | | |                                                              
+              | | | | | | | | | | | |     |-------------------------------------------taxid355933  
+              | | | | | | | | | | | |     |                                                        
+              | | | | | | | | | | | |   |-|-------------------------------------------taxid273378  
+              | | | | | | | | | | | |   | |                                                        
+              | | | | | | | | | | | |   | |-------------------------------------------taxid273379  
+              | | | | | | | | | | | |   |                                                          
+              | | | | | | | | | | | |   |   |-----------------------------------------taxid573044  
+              | | | | | | | | | | | |   |   |                                                      
+              | | | | | | | | | | | |   | |-| |---------------------------------------taxid573042  
+              | | | | | | | | | | | |   | | |-|                                                    
+              | | | | | | | | | | | |   | |   |---------------------------------------taxid573043  
+              | | | | | | | | | | | |   | |                                                        
+              | | | | | | | | | | | |   | | |-----------------------------------------taxid338846  
+              |-| | | | | | | | | | |   | | |                                                      
+                | | | | | | | | | | |   | | |   |-------------------------------------taxid512956  
+                | | | | | | | | | | | |-| | | |-|                                                  
+                | | | | | | | | | | | | | | | | |-------------------------------------taxid576798  
+                |-| | | | | | | | | | | | | | |                                                    
+                  | | | | | | | | | | | |-| | | |-------------------------------------taxid576797  
+                  |-| | | | | | | | | |   | | | |                                                  
+                    | | | | | | | | | |   |-| | | |-----------------------------------taxid512991  
+                    |-| | | | | | | | |     |-| | |                                                
+                      | | | | | | | | |       | | | |---------------------------------taxid576796  
+                      |-| | | | | | | |       |-| | |                                              
+                        |-| | | | | | |         |-| |---------------------------------taxid503283  
+                          | | | | | | |           |-|                                              
+                          |-| | | | | |             |---------------------------------taxid503260  
+                            | | | | | |             |                                              
+                            | | | | | |             |---------------------------------taxid576795  
+                            | | | | | |                                                            
+                            | | | | | |     |-----------------------------------------taxid129775  
+                            |-| | | | |   |-|                                                      
+                              | | | | |   | |-----------------------------------------taxid400734  
+                              | | | | | |-|                                                        
+                              | | | | | | | |-----------------------------------------taxid142940  
+                              | | | | | | |-|                                                      
+                              |-| | | | |   |-----------------------------------------taxid371204  
+                                | | | | |                                                          
+                                | | | | |     |---------------------------------------taxid273377  
+                                |-| | | |   |-|                                                    
+                                  | | | |   | |---------------------------------------taxid355931  
+                                  | | | | |-|                                                      
+                                  | | | | | | |---------------------------------------taxid371207  
+                                  |-| | | | |-|                                                    
+                                    | | | |   |---------------------------------------taxid371208  
+                                    | | | |                                                        
+                                    | | | | |-----------------------------------------taxid404165  
+                                    | | | | |                                                      
+                                    | | | | | |---------------------------------------taxid135659  
+                                    | | | | | |                                                    
+                                    | | | | | |   |-----------------------------------taxid135658  
+                                    | | | | | | |-|                                                
+                                    |-| | | | | | |-----------------------------------taxid135660  
+                                      | | | | | |                                                  
+                                      | | | | | | |-----------------------------------taxid176676  
+                                      | | | | | | |                                                
+                                      | | | | | | |   |-------------------------------taxid186168  
+                                      | | | | | | | |-|                                            
+                                      | | | | | | | | |-------------------------------taxid496743  
+                                      | | | | | | | |                                              
+                                      | | | | | | | | |-------------------------------taxid274838  
+                                      |-| | | | | | |-|                                            
+                                        | | | | | | | |-------------------------------taxid404177  
+                                        | | | | | | |                                              
+                                        | | | | | | | |-------------------------------taxid196441  
+                                        |-| | | | | | |                                            
+                                          | | | | | | |-------------------------------taxid196434  
+                                          | | | | | | |                                            
+                                          |-| | | | | | |-----------------------------taxid196428  
+                                            |-| | | |-|-|                                          
+                                              |-| | | | |-----------------------------taxid222142  
+                                                | | | |                                            
+                                                |-| | | |-----------------------------taxid222140  
+                                                  |-| |-|                                          
+                                                    |   |-----------------------------taxid222144  
+                                                    |                                              
+                                                    |   |-----------------------------taxid404183  
+                                                    |   |                                          
+                                                    | |-| |---------------------------taxid303925  
+                                                    | | |-|                                        
+                                                    | |   |---------------------------taxid404156  
+                                                    | |                                            
+                                                    | | |-----------------------------taxid274848  
+                                                    | | |                                          
+                                                    |-| |-----------------------------taxid432077  
+                                                      | |                                          
+                                                      |-| |---------------------------taxid295670  
+                                                        | |                                        
+                                                        |-|---------------------------taxid374987  
+                                                          |                                        
+                                                          |---------------------------taxid374988  

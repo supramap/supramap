@@ -1,0 +1,16 @@
+#NEXUS
+begin trees;
+	translate
+		0 pinta,
+		1 espaniola,
+		2 sancristobal,
+		3 stacruzfatal,
+		4 wolf,
+		5 santiago,
+		6 pinzon,
+		7 stacruz,
+		8 darwin,
+		9 alcedo,
+		10 cerroazul;
+		tree 1 = (((0:9,1:13):11,(2:7,3:18):9):13,((4:4,5:5):31,(6:24,(7:4,((8:1,9:2):6,10:5):12):18):12):5):175;
+end;

@@ -1,0 +1,14 @@
+read("test1.fas")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("test6_results.kml", kml:(supramap, "test1.csv"))
+
+report(asciitrees)
+report("test6_results.tre",trees)
+report("test6_results.stats",treestats)
+exit()

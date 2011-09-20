@@ -1,0 +1,8 @@
+read(prealigned:("/home/supramap/supramap/public/files/danjanies/220/HA.92409.epiclade.trimX.aa.fas", tcm:(1,1)))
+read("/home/supramap/supramap/public/files/danjanies/220/RAxML_result.HA.92409.epiclade.r100.RUN.2.nobl.tre")
+set(log: "/home/supramap/supramap/public/files/danjanies/220/343/poy.log")
+
+transform (static_approx)
+report("/home/supramap/supramap/public/files/danjanies/220/343/dantest_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/danjanies/220/HA92409epicladeogsm.for.trimX.aa.csv"))
+
+exit()

@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/VladVlad/469/get_result1.tre")
+set(log: "/home/supramap/supramap/public/files/VladVlad/469/755/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/VladVlad/469/755/./csv.tre-to-kml_linux-x86 -tree <path to .tre file> -csv <path to .csv file>_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/VladVlad/469/geo.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/VladVlad/469/755/./csv.tre-to-kml_linux-x86 -tree <path to .tre file> -csv <path to .csv file>_results.tre",trees)
+report("/home/supramap/supramap/public/files/VladVlad/469/755/./csv.tre-to-kml_linux-x86 -tree <path to .tre file> -csv <path to .csv file>_results.stats",treestats)
+exit()

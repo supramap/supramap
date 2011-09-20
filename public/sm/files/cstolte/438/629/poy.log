@@ -1,0 +1,6 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Error :
+Failure("You are analyzing long sequences. This version                 of POY was compiled without the --enable-long-sequences option,                 setting a hard-coded limit of SHORT_SEQUENCES in their length.                 To run this analysis you need to enable that option at compile time.                 Either compile yourself the program, or request a version suited                 for your needs in the POY mailing list (poy4@googlegroups.com).")

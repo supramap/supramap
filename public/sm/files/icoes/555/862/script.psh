@@ -1,0 +1,14 @@
+read("MTBC_178andGATC.tre")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("MTBC tree mapping_results.kml", kml:(supramap, "MTBC_supramat_info.csv"))
+
+report(asciitrees)
+report("MTBC tree mapping_results.tre",trees)
+report("MTBC tree mapping_results.stats",treestats)
+exit()

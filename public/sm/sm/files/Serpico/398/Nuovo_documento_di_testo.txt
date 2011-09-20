@@ -1,0 +1,8 @@
+>NC_001608
+gaagaatattaacattgacattgagacttgtcagtctgttaatattcttgaagagatgga
+>EU051644
+aggcaaattcaagtacatgcagagcaaggactgatacaatatccaacagcttggcaatca
+>EU051642
+aggcaaattcaagtacatgcagagcaaggactgatacaatatccaacagcttggcaatca
+
+

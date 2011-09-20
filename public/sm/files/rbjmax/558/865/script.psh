@@ -1,0 +1,14 @@
+read("fullG_coastal_discrete1.new.txt")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("map fullG_coastal_discrete_results.kml", kml:(supramap, "fullG_coastal_discrete_locations.csv"))
+
+report(asciitrees)
+report("map fullG_coastal_discrete_results.tre",trees)
+report("map fullG_coastal_discrete_results.stats",treestats)
+exit()

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<NetworkLink>
+  <name>AY461660</name>
+  <flyToView>1</flyToView>
+  <Link>
+    <href>http://localhost/cov114/network_update.kml</href>
+	<refreshMode>onChange</refreshMode></Link>
+</NetworkLink>
+</kml>

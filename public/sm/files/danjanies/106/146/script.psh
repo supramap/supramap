@@ -1,0 +1,10 @@
+read(prealigned:("/home/supramap/supramap/public/files/danjanies/106/mpaligneddj.163.afa", tcm:(1,1)))
+read("/home/supramap/supramap/public/files/danjanies/106/mpaligneddj.163.0.tre")
+set(log: "/home/supramap/supramap/public/files/danjanies/106/146/poy.log")
+
+transform (static_approx)
+report("/home/supramap/supramap/public/files/danjanies/106/146/M163pre_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/danjanies/106/M.163.lat.long.year.csv"))
+report(asciitrees)
+report("/home/supramap/supramap/public/files/danjanies/106/146/M163pre_results.tre",trees)
+report("/home/supramap/supramap/public/files/danjanies/106/146/M163pre_results.stats",treestats)
+exit()

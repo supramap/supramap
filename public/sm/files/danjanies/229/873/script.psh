@@ -1,0 +1,14 @@
+read("nucleotides.fas")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("supramapble_results.kml", kml:(supramap, "lat.long.date.csv"))
+
+report(asciitrees)
+report("supramapble_results.tre",trees)
+report("supramapble_results.stats",treestats)
+exit()

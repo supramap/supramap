@@ -1,0 +1,14 @@
+read("mtbc_178andgatc.tre")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("MTBC_phylogeography_results.kml", kml:(supramap, "MTBC_supramat_info.csv"))
+
+report(asciitrees)
+report("MTBC_phylogeography_results.tre",trees)
+report("MTBC_phylogeography_results.stats",treestats)
+exit()

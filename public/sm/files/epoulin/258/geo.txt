@@ -1,0 +1,5 @@
+strain_name,latitude,longitude
+TA1,-30,-72
+IQ1,-21,-71
+SD1,25,-115
+SD2,33,-122

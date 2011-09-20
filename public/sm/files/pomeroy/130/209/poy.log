@@ -1,0 +1,5 @@
+Error :
+An error has occured while attempting to fix an static approximation. You
+have no trees in memory! In order to produce an implied alignment POY needs a
+loaded tree, you could simply build one with build (1)
+Error : Failure("Illegal transform command")

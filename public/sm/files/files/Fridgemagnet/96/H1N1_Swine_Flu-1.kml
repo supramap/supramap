@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>H1N1 Swine Flu</name>
+  <description><![CDATA[H1N1 Swine flu in 2009
+Pink markers are suspect
+Purple markers are confirmed
+Deaths lack a dot in marker
+Yellow markers are negative]]></description>
+  <NetworkLink>
+    <name>H1N1 Swine Flu</name>
+    <Link>
+      <href>http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=p&amp;source=embed&amp;oe=UTF8&amp;msa=0&amp;msid=106484775090296685271.0004681a37b713f6b5950&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+</Document>
+</kml>

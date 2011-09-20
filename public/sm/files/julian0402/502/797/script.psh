@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/julian0402/502/tree_poynw2.tree")
+set(log: "/home/supramap/supramap/public/files/julian0402/502/797/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/julian0402/502/797/sjrpraw_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/julian0402/502/D3SJRP27_cont.coords"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/julian0402/502/797/sjrpraw_results.tre",trees)
+report("/home/supramap/supramap/public/files/julian0402/502/797/sjrpraw_results.stats",treestats)
+exit()

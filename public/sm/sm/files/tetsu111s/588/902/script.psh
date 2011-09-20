@@ -1,0 +1,14 @@
+read(prealigned: ("GB5-47.fas", tcm:(1,1)))
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("gb5-47_results.kml", kml:(supramap, "GB5-47.csv"))
+
+report(asciitrees)
+report("gb5-47_results.tre",trees)
+report("gb5-47_results.stats",treestats)
+exit()

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+
+<NetworkLink>
+  <name>cov_sars.kml</name>
+  <Link>
+    <href>http://wow.med.ohio-state.edu/cov114/cov_sars.kmz</href>
+  </Link>
+</NetworkLink>
+
+</kml>

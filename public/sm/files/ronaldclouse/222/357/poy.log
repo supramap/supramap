@@ -1,0 +1,996 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 122 -- Wagner tree with cost 635.
+Status : Wagner : 3 of 122 -- Wagner tree with cost 1154.
+Status : Wagner : 4 of 122 -- Wagner tree with cost 1292.
+Status : Wagner : 5 of 122 -- Wagner tree with cost 1322.
+Status : Wagner : 6 of 122 -- Wagner tree with cost 1334.
+Status : Wagner : 7 of 122 -- Wagner tree with cost 1340.
+Status : Wagner : 8 of 122 -- Wagner tree with cost 1547.
+Status : Wagner : 9 of 122 -- Wagner tree with cost 1682.
+Status : Wagner : 10 of 122 -- Wagner tree with cost 2149.
+Status : Wagner : 11 of 122 -- Wagner tree with cost 2260.
+Status : Wagner : 12 of 122 -- Wagner tree with cost 2453.
+Status : Wagner : 13 of 122 -- Wagner tree with cost 2454.
+Status : Wagner : 14 of 122 -- Wagner tree with cost 2559.
+Status : Wagner : 15 of 122 -- Wagner tree with cost 2662.
+Status : Wagner : 16 of 122 -- Wagner tree with cost 2675.
+Status : Wagner : 17 of 122 -- Wagner tree with cost 2744.
+Status : Wagner : 18 of 122 -- Wagner tree with cost 2764.
+Status : Wagner : 19 of 122 -- Wagner tree with cost 2947.
+Status : Wagner : 20 of 122 -- Wagner tree with cost 3083.
+Status : Wagner : 21 of 122 -- Wagner tree with cost 3764.
+Status : Wagner : 22 of 122 -- Wagner tree with cost 4023.
+Status : Wagner : 23 of 122 -- Wagner tree with cost 4035.
+Status : Wagner : 24 of 122 -- Wagner tree with cost 4054.
+Status : Wagner : 25 of 122 -- Wagner tree with cost 4063.
+Status : Wagner : 26 of 122 -- Wagner tree with cost 4236.
+Status : Wagner : 27 of 122 -- Wagner tree with cost 4256.
+Status : Wagner : 28 of 122 -- Wagner tree with cost 4279.
+Status : Wagner : 29 of 122 -- Wagner tree with cost 4520.
+Status : Wagner : 30 of 122 -- Wagner tree with cost 4641.
+Status : Wagner : 31 of 122 -- Wagner tree with cost 4687.
+Status : Wagner : 32 of 122 -- Wagner tree with cost 4708.
+Status : Wagner : 33 of 122 -- Wagner tree with cost 5030.
+Status : Wagner : 34 of 122 -- Wagner tree with cost 5256.
+Status : Wagner : 35 of 122 -- Wagner tree with cost 5256.
+Status : Wagner : 36 of 122 -- Wagner tree with cost 5273.
+Status : Wagner : 37 of 122 -- Wagner tree with cost 5400.
+Status : Wagner : 38 of 122 -- Wagner tree with cost 5610.
+Status : Wagner : 39 of 122 -- Wagner tree with cost 5732.
+Status : Wagner : 40 of 122 -- Wagner tree with cost 5836.
+Status : Wagner : 41 of 122 -- Wagner tree with cost 5845.
+Status : Wagner : 42 of 122 -- Wagner tree with cost 5952.
+Status : Wagner : 43 of 122 -- Wagner tree with cost 6219.
+Status : Wagner : 44 of 122 -- Wagner tree with cost 6381.
+Status : Wagner : 45 of 122 -- Wagner tree with cost 6385.
+Status : Wagner : 46 of 122 -- Wagner tree with cost 6386.
+Status : Wagner : 47 of 122 -- Wagner tree with cost 6448.
+Status : Wagner : 48 of 122 -- Wagner tree with cost 6645.
+Status : Wagner : 49 of 122 -- Wagner tree with cost 6815.
+Status : Wagner : 50 of 122 -- Wagner tree with cost 6823.
+Status : Wagner : 51 of 122 -- Wagner tree with cost 7034.
+Status : Wagner : 52 of 122 -- Wagner tree with cost 7136.
+Status : Wagner : 53 of 122 -- Wagner tree with cost 7789.
+Status : Wagner : 54 of 122 -- Wagner tree with cost 7817.
+Status : Wagner : 55 of 122 -- Wagner tree with cost 7852.
+Status : Wagner : 56 of 122 -- Wagner tree with cost 7897.
+Status : Wagner : 57 of 122 -- Wagner tree with cost 7995.
+Status : Wagner : 58 of 122 -- Wagner tree with cost 8110.
+Status : Wagner : 59 of 122 -- Wagner tree with cost 8303.
+Status : Wagner : 60 of 122 -- Wagner tree with cost 8387.
+Status : Wagner : 61 of 122 -- Wagner tree with cost 8397.
+Status : Wagner : 62 of 122 -- Wagner tree with cost 8887.
+Status : Wagner : 63 of 122 -- Wagner tree with cost 9002.
+Status : Wagner : 64 of 122 -- Wagner tree with cost 9133.
+Status : Wagner : 65 of 122 -- Wagner tree with cost 9455.
+Status : Wagner : 66 of 122 -- Wagner tree with cost 9706.
+Status : Wagner : 67 of 122 -- Wagner tree with cost 9781.
+Status : Wagner : 68 of 122 -- Wagner tree with cost 10034.
+Status : Wagner : 69 of 122 -- Wagner tree with cost 10228.
+Status : Wagner : 70 of 122 -- Wagner tree with cost 10268.
+Status : Wagner : 71 of 122 -- Wagner tree with cost 10310.
+Status : Wagner : 72 of 122 -- Wagner tree with cost 10617.
+Status : Wagner : 73 of 122 -- Wagner tree with cost 10698.
+Status : Wagner : 74 of 122 -- Wagner tree with cost 10736.
+Status : Wagner : 75 of 122 -- Wagner tree with cost 10770.
+Status : Wagner : 76 of 122 -- Wagner tree with cost 10770.
+Status : Wagner : 77 of 122 -- Wagner tree with cost 10846.
+Status : Wagner : 78 of 122 -- Wagner tree with cost 11072.
+Status : Wagner : 79 of 122 -- Wagner tree with cost 11091.
+Status : Wagner : 80 of 122 -- Wagner tree with cost 11129.
+Status : Wagner : 81 of 122 -- Wagner tree with cost 11148.
+Status : Wagner : 82 of 122 -- Wagner tree with cost 11191.
+Status : Wagner : 83 of 122 -- Wagner tree with cost 11312.
+Status : Wagner : 84 of 122 -- Wagner tree with cost 11419.
+Status : Wagner : 85 of 122 -- Wagner tree with cost 11534.
+Status : Wagner : 86 of 122 -- Wagner tree with cost 11752.
+Status : Wagner : 87 of 122 -- Wagner tree with cost 11929.
+Status : Wagner : 88 of 122 -- Wagner tree with cost 11934.
+Status : Wagner : 89 of 122 -- Wagner tree with cost 12094.
+Status : Wagner : 90 of 122 -- Wagner tree with cost 12152.
+Status : Wagner : 91 of 122 -- Wagner tree with cost 12327.
+Status : Wagner : 92 of 122 -- Wagner tree with cost 12330.
+Status : Wagner : 93 of 122 -- Wagner tree with cost 12342.
+Status : Wagner : 94 of 122 -- Wagner tree with cost 12447.
+Status : Wagner : 95 of 122 -- Wagner tree with cost 12871.
+Status : Wagner : 96 of 122 -- Wagner tree with cost 12984.
+Status : Wagner : 97 of 122 -- Wagner tree with cost 13075.
+Status : Wagner : 98 of 122 -- Wagner tree with cost 13079.
+Status : Wagner : 99 of 122 -- Wagner tree with cost 13084.
+Status : Wagner : 100 of 122 -- Wagner tree with cost 13130.
+Status : Wagner : 101 of 122 -- Wagner tree with cost 13255.
+Status : Wagner : 102 of 122 -- Wagner tree with cost 13505.
+Status : Wagner : 103 of 122 -- Wagner tree with cost 13667.
+Status : Wagner : 104 of 122 -- Wagner tree with cost 13755.
+Status : Wagner : 105 of 122 -- Wagner tree with cost 14061.
+Status : Wagner : 106 of 122 -- Wagner tree with cost 14121.
+Status : Wagner : 107 of 122 -- Wagner tree with cost 14217.
+Status : Wagner : 108 of 122 -- Wagner tree with cost 14243.
+Status : Wagner : 109 of 122 -- Wagner tree with cost 14254.
+Status : Wagner : 110 of 122 -- Wagner tree with cost 14469.
+Status : Wagner : 111 of 122 -- Wagner tree with cost 14604.
+Status : Wagner : 112 of 122 -- Wagner tree with cost 14679.
+Status : Wagner : 113 of 122 -- Wagner tree with cost 15137.
+Status : Wagner : 114 of 122 -- Wagner tree with cost 15309.
+Status : Wagner : 115 of 122 -- Wagner tree with cost 15492.
+Status : Wagner : 116 of 122 -- Wagner tree with cost 15565.
+Status : Wagner : 117 of 122 -- Wagner tree with cost 15737.
+Status : Wagner : 118 of 122 -- Wagner tree with cost 15779.
+Status : Wagner : 119 of 122 -- Wagner tree with cost 15790.
+Status : Wagner : 120 of 122 -- Wagner tree with cost 15811.
+Status : Wagner : 121 of 122 -- Wagner tree with cost 16090.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 16092 Searching
+Status : TBR : 16087 Searching
+Status : TBR : 16084 Searching
+Status : TBR : 16066 Searching
+Status : TBR : 16065 Searching
+Information : 
+                Timer:
+                   1 seconds
+Status : TBR : 16064 Searching
+Status : TBR : 16061 Searching
+Status : TBR : 16045 Searching
+Status : TBR : 16039 Searching
+Status : TBR : 16038 Searching
+Status : TBR : 16034 Searching
+Status : TBR : 16021 Searching
+Status : TBR : 16005 Searching
+Status : TBR : 16004 Searching
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 15996 Searching
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR : 15992 Searching
+Status : TBR : 15988 Searching
+Information : 
+                Timer:
+                   4 seconds
+Status : TBR : 15949 Searching
+Status : TBR : 15946 Searching
+Information : 
+                Timer:
+                   5 seconds
+Status : TBR : 15945 Searching
+Status : TBR : 15944 Searching
+Status : TBR : 15943 Searching
+Status : TBR : 15941 Searching
+Status : TBR : 15939 Searching
+Status : TBR : 15937 Searching
+Status : TBR : 15934 Searching
+Status : TBR : 15931 Searching
+Status : TBR : 15926 Searching
+Status : TBR : 15923 Searching
+Status : TBR : 15921 Searching
+Status : TBR : 15920 Searching
+Information : 
+                Timer:
+                   6 seconds
+Status : TBR : 15919 Searching
+Status : TBR : 15918 Searching
+Information : 
+                Timer:
+                   7 seconds
+Status : TBR : 15917 Searching
+Status : TBR : 15916 Searching
+Status : TBR : 15914 Searching
+Status : TBR : 15913 Searching
+Status : TBR : 15910 Searching
+Status : TBR : 15907 Searching
+Status : TBR : 15906 Searching
+Status : TBR : 15905 Searching
+Status : TBR : 15903 Searching
+Information : 
+                Timer:
+                   8 seconds
+Status : TBR : 15902 Searching
+Status : TBR : 15901 Searching
+Status : TBR : 15897 Searching
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Status : TBR : 15894 Searching
+Status : TBR : 15891 Searching
+Status : TBR : 15889 Searching
+Status : TBR : 15888 Searching
+Information : 
+                Timer:
+                   12 seconds
+Status : TBR : 15886 Searching
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Status : TBR : 15884 Searching
+Status : TBR : 15883 Searching
+Information : 
+                Timer:
+                   16 seconds
+Status : TBR : 15878 Searching
+Status : TBR : 15877 Searching
+Status : TBR : 15876 Searching
+Status : TBR : 15874 Searching
+Information : 
+                Timer:
+                   17 seconds
+Status : TBR : 15873 Searching
+Status : TBR : 15871 Searching
+Status : TBR : 15870 Searching
+Information : 
+                Timer:
+                   18 seconds
+Status : TBR : 15868 Searching
+Status : TBR : 15866 Searching
+Status : TBR : 15861 Searching
+Status : TBR : 15860 Searching
+Information : 
+                Timer:
+                   19 seconds
+Status : TBR : 15857 Searching
+Status : TBR : 15856 Searching
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Status : TBR : 15854 Searching
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Status : TBR : 15853 Searching
+Information : 
+                Timer:
+                   28 seconds
+Status : TBR : 15852 Searching
+Status : TBR : 15851 Searching
+Status : TBR : 15850 Searching
+Information : 
+                Timer:
+                   29 seconds
+Information : 
+                Timer:
+                   30 seconds
+Status : TBR : 15848 Searching
+Information : 
+                Timer:
+                   31 seconds
+Status : TBR : 15844 Searching
+Information : 
+                Timer:
+                   32 seconds
+Information : 
+                Timer:
+                   33 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   35 seconds
+Status : TBR : 15841 Searching
+Information : 
+                Timer:
+                   36 seconds
+Information : 
+                Timer:
+                   37 seconds
+Information : 
+                Timer:
+                   38 seconds
+Information : 
+                Timer:
+                   39 seconds
+Information : 
+                Timer:
+                   40 seconds
+Information : 
+                Timer:
+                   41 seconds
+Status : TBR : 15840 Searching
+Information : 
+                Timer:
+                   42 seconds
+Information : 
+                Timer:
+                   43 seconds
+Status : TBR : 15838 Searching
+Status : TBR : 15837 Searching
+Status : TBR : 15835 Searching
+Information : 
+                Timer:
+                   44 seconds
+Information : 
+                Timer:
+                   45 seconds
+Information : 
+                Timer:
+                   46 seconds
+Information : 
+                Timer:
+                   47 seconds
+Information : 
+                Timer:
+                   48 seconds
+Information : 
+                Timer:
+                   49 seconds
+Information : 
+                Timer:
+                   50 seconds
+Information : 
+                Timer:
+                   51 seconds
+Information : 
+                Timer:
+                   52 seconds
+Information : 
+                Timer:
+                   53 seconds
+Information : 
+                Timer:
+                   54 seconds
+Information : 
+                Timer:
+                   55 seconds
+Information : 
+                Timer:
+                   56 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 15835.; Time left: 2 m, 2 s; Hits: 1
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 19773 Searching
+Status : TBR : 19769 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 19765 Searching
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR : 19764 Searching
+Status : TBR : 19763 Searching
+Information : 
+                Timer:
+                   4 seconds
+Status : TBR : 19762 Searching
+Information : 
+                Timer:
+                   5 seconds
+Status : TBR : 19761 Searching
+Information : 
+                Timer:
+                   6 seconds
+Status : TBR : 19756 Searching
+Information : 
+                Timer:
+                   7 seconds
+Status : TBR : 19750 Searching
+Status : TBR : 19749 Searching
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Status : TBR : 19747 Searching
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 19650 Searching
+Status : TBR : 19647 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Status : TBR : 19646 Searching
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 19539 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 19536 Searching
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Status : TBR : 19532 Searching
+Status : TBR : 19531 Searching
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Status : TBR : 19530 Searching
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 19938 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 19937 Searching
+Status : TBR : 19936 Searching
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Status : TBR : 19935 Searching
+Status : TBR : 19934 Searching
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : TBR : 15835 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Status : TBR : 15833 Searching
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Status : TBR Finished
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 15833.; Time left: -0 s; Hits: 1
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 2 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 2 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information :
+The search evaluated 61 independent repetitions with ratchet and fusing for 18 generations. The shortest tree was found 33 times.
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Tree with cost 15833
+  |--------------------------------------------------------------------------------------Protolophus_singularis             
+  |                                                                                                                         
+  | |------------------------------------------------------------------------------------Megalopsalis_sp                    
+  | |                                                                                                                       
+  | |   |--------------------------------------------------------------------------------Dendrolasma_parvulum               
+  | | |-|                                                                                                                   
+  | | | |--------------------------------------------------------------------------------Hesperonemastoma_modestum          
+  | | |                                                                                                                     
+  | | |   |------------------------------------------------------------------------------Equitius_doriae                    
+  | | | |-|                                                                                                                 
+  | | | | |------------------------------------------------------------------------------Sandokan_malayanus                 
+  | | | |                                                                                                                   
+  | | | |   |----------------------------------------------------------------------------Parapurcellia_silvicola            
+  | | | |   |                                                                                                               
+  | | | |   | |--------------------------------------------------------------------------Austropurcellia_forsteri           
+  | | | |   | |                                                                                                             
+  | | | |   | |   |----------------------------------------------------------------------Rakaia_crypta                      
+  | | | |   | |   |                                                                                                         
+  | | | |   | | |-| |--------------------------------------------------------------------Karripurcellia_harveyi             
+  | | | | |-| | | |-|                                                                                                       
+  | | | | | |-| |   |--------------------------------------------------------------------Pettalus_cf._brevicauda            
+  | | | | |   | |                                                                                                           
+  | | | | |   |-| |----------------------------------------------------------------------Chileogovea_oedipus                
+  | | | | |     | |                                                                                                         
+  | | | | |     |-| |--------------------------------------------------------------------Rakaia_minutissima                 
+  | | | | |       |-|                                                                                                       
+  | | | | |         |--------------------------------------------------------------------Rakaia_sorenseni                   
+  | | | | |                                                                                                                 
+  | | | | |     |------------------------------------------------------------------------Troglosiro_aelleni                 
+  | | | | |   |-|                                                                                                           
+  | | | | |   | |------------------------------------------------------------------------Troglosiro_longifossa              
+  | | | | |   |                                                                                                             
+  | | | | |   |   |----------------------------------------------------------------------Metasiro_americanus                
+  | | | | |   | |-|                                                                                                         
+  | | | | | |-| | |----------------------------------------------------------------------Parogovia_sironoides               
+  | | | | | | | |                                                                                                           
+  | | | | | | |-| |----------------------------------------------------------------------Huitaca_sp                         
+  | | | | | |   | |                                                                                                         
+  | | | | | |   |-| |--------------------------------------------------------------------Metagovea_sp                       
+  | | | | | |     |-|                                                                                                       
+  | | | | | |       |--------------------------------------------------------------------Metagovea_sp_Nambi                 
+  | | | | | |                                                                                                               
+  | | | | | | |--------------------------------------------------------------------------Suzukielus_sauteri                 
+  | | | | | | |                                                                                                             
+  | | | | | | |   |----------------------------------------------------------------------Siro_valleorum                     
+  | | | | | | |   |                                                                                                         
+  | | | | | | |   | |--------------------------------------------------------------------Cyphophtalmus_eratoae              
+  | | | | | | | |-| |                                                                                                       
+  | | | | | | | | |-| |------------------------------------------------------------------Cyphophtalmus_sp_Bulgaria          
+  | | | | | | | |   |-|                                                                                                     
+  | | | | | | | |     |------------------------------------------------------------------Cyphophtalmus_teyrovskyi           
+  | | | | | | | |                                                                                                           
+  | | | | | | | | |----------------------------------------------------------------------Parasiro_coiffaiti                 
+  | | | | | | | | |                                                                                                         
+  | | | | | | | | |   |------------------------------------------------------------------Peninsula_Fangensis_leclerci       
+  | | | | | | | | |   |                                                                                                     
+  | | | | | | | | | |-| |----------------------------------------------------------------Peninsula_Fangensis_cavernarus     
+  | | | | | | | | | | |-|                                                                                                   
+  | | | | | | | | | |   |----------------------------------------------------------------Peninsula_Fangensis_spelaeus       
+  | | | | | | | | | |                                                                                                       
+  | | | | | | | | | | |------------------------------------------------------------------Peninsula_Fangensis_insulanus      
+  | | | | | | | | | | |                                                                                                     
+  | | | | | | | | | | |   |--------------------------------------------------------------Peninsula_sp_16                    
+  | | | | | | | | | | |   |                                                                                                 
+  | | | | | | | | | | |   |   |----------------------------------------------------------China_sp_1                         
+  | | | | | | | | | | |   | |-|                                                                                             
+  | | | | | | | | | | |   | | |----------------------------------------------------------India_sp_1                         
+  | | | | | | | | | | |   | |                                                                                               
+  | | | | | | | | | | |   | | |----------------------------------------------------------Peninsula_sp_12                    
+  | | | | | | | | | | |   | | |                                                                                             
+  | | | | | | | | | | |   | | |   |------------------------------------------------------Peninsula_sp_10                    
+  | | | | | | | | | | |   | | | |-|                                                                                         
+  | | | | | | | | | | |   | | | | |------------------------------------------------------Peninsula_sp_13                    
+  | | | | | | | | | | |   | | | |                                                                                           
+  | | | | | | | | | | | |-| | | | |------------------------------------------------------Peninsula_sp_21                    
+  | | | | | | | | | | | | |-| | | |                                                                                         
+  | | | | | | | | | | | |   | | | | |----------------------------------------------------Peninsula_sp_19c                   
+  | | | | | | | | | | | |   |-| | | |                                                                                       
+  | | | | | | | | | | | |     |-| | | |--------------------------------------------------Peninsula_sp_19b                   
+  | | | | | | | | | | | |       | | | |                                                                                     
+  | | | | | | | | | | | |       |-| | |   |----------------------------------------------Peninsula_sp_17a                   
+  | | | | | | | | | | | |         |-| | |-|                                                                                 
+  | | | | | | | | | | | |           |-| | |----------------------------------------------Peninsula_sp_17b                   
+  | | | | | | | | | | | |             |-|                                                                                   
+  | | | | | | | | | | | |               | |----------------------------------------------Peninsula_sp_19a                   
+  | | | | | | | | | | | |               |-|                                                                                 
+  | | | | | | | | | | | |                 |----------------------------------------------Peninsula_sp_19d                   
+  | | | | | | | | | | | |                                                                                                   
+  | | | | | | | | | | | |       |--------------------------------------------------------Borneo_sp_10                       
+  | | | | | | | | | | | |     |-|                                                                                           
+  | | | | | | | | | | | |     | |--------------------------------------------------------Borneo_sp_8                        
+  | | | | | | | | | | | |     |                                                                                             
+  | | | | | | | | | | | |     | |--------------------------------------------------------Borneo_sp_6a                       
+  | | | | | | | | | | | |   |-| |                                                                                           
+  | | | | | | | | | | | |   | | | |------------------------------------------------------Borneo_sp_4_female                 
+  | | | | | | | | | | | |   | |-| |                                                                                         
+  | | | | | | | | | | | |   |   |-| |----------------------------------------------------Borneo_sp_11                       
+  | | | | | | | | | | | |   |     |-|                                                                                       
+  | | | | | | | | | | | |   |       |----------------------------------------------------Borneo_sp_9_female                 
+  | | | | | | | | | | | |   |                                                                                               
+  | | | | | | | | | | | |   |   |--------------------------------------------------------Borneo_sp_2_female                 
+  | | | | | | | | | | | | |-| |-|                                                                                           
+  | | | | | | | | | | | | | | | |--------------------------------------------------------Borneo_sp_5_female                 
+  | | | | | | | | | | | | | | |                                                                                             
+  | | | | | | | | | | | | | | | |--------------------------------------------------------Sumatra_sp_13                      
+  | | | | | | | | | | | | | |-| |                                                                                           
+  | | | | | | | | | | | | |   | | |------------------------------------------------------Borneo_sp_7                        
+  | | | | | | | | | | | | |   |-| |                                                                                         
+  | | | | | | | | | | | | |     |-| |----------------------------------------------------Borneo_sp_12                       
+  | | | | | | | | | | | | |       |-|                                                                                       
+  | | | | | | | | | | | | |         |----------------------------------------------------Borneo_sp_13                       
+  | | | | | | | | | | | | |                                                                                                 
+  | | | | | | | | | | | | | |------------------------------------------------------------Borneo_sp_1                        
+  | | | | | | | | | | | | | |                                                                                               
+  | | | | | | | | | | | | | | |----------------------------------------------------------Borneo_sp_3                        
+  | | | | | | | | | | | | | | |                                                                                             
+  | | | | | | | | | | | | | | | |--------------------------------------------------------Lingga_sp_1                        
+  | | | | | | | | | | | | | | | |                                                                                           
+  | | | | | | | | | | | | | | | | |------------------------------------------------------Peninsula_sp_4                     
+  | | | | | | | | | | | | | | | | |                                                                                         
+  | | | | | | | | | | | | | | | | | |----------------------------------------------------Peninsula_sp_6                     
+--| | | | | | | | | | | | | | | | | |                                                                                       
+  |-| | | | | | | | | | | | | | | | |   |------------------------------------------------Peninsula_sp_1                     
+    |-| | | | | | | | | | | | | | | |   |                                                                                   
+      | | | | | | | | | | | | | | | |   | |----------------------------------------------Sumatra_sp_10                      
+      |-| | | | | | | | | | | | | | |   | |                                                                                 
+        | | | | | | | | | | | | | | |   | |   |------------------------------------------Sumatra_sp_15                      
+        | | | | | | | | | | | | | | |   | |   |                                                                             
+        | | | | | | | | | | | | | | |   | | |-| |----------------------------------------Sumatra_sp_5                       
+        | | | | | | | | | | | | | | |   | | | |-|                                                                           
+        |-| | | | | | | | | | | | | |   | | |   |----------------------------------------Sumatra_sp_9                       
+          | | | | | | | | | | | | | |   | | |                                                                               
+          | | | | | | | | | | | | | |   | | | |------------------------------------------Sumatra_sp_14                      
+          | | | | | | | | | | | | | | |-| | | |                                                                             
+          | | | | | | | | | | | | | | | |-| | |   |--------------------------------------Sumatra_sp_11a                     
+          | | | | | | | | | | | | | | |   | | | |-|                                                                         
+          | | | | | | | | | | | | | | |   |-| | | |--------------------------------------Sumatra_sp_11b                     
+          | | | | | | | | | | | | | | |     | | |                                                                           
+          |-| | | | | | | | | | | | | |     |-| | |--------------------------------------Sumatra_sp_2b_female               
+            | | | | | | | | | | | | | |       |-| |                                                                         
+            | | | | | | | | | | | | | |         | | |------------------------------------Sumatra_sp_2a_juvenile             
+            | | | | | | | | | | | | | |         |-| |                                                                       
+            |-| | | | | | | | | | | | |           |-| |----------------------------------Peninsula_sp_15                    
+              | | | | | | | | | | | | |             |-|                                                                     
+              |-| | | | | | | | | | | |               |----------------------------------Sumatra_sp_3                       
+                | | | | | | | | | | | |                                                                                     
+                | | | | | | | | | | | |   |----------------------------------------------Sumatra_sp_7                       
+                |-| | | | | | | | | | |   |                                                                                 
+                  | | | | | | | | | | |   | |--------------------------------------------Lingga_sp_2                        
+                  |-| | | | | | | | | |   | |                                                                               
+                    | | | | | | | | | |   | | |------------------------------------------Sumatra_sp_8                       
+                    |-| | | | | | | | |   | | |                                                                             
+                      | | | | | | | | |   | | | |----------------------------------------Sumatra_sp_6                       
+                      | | | | | | | | |   | | | |                                                                           
+                      | | | | | | | | |   | | | |   |------------------------------------New_Guinea_Stylocellus_lydekkeri   
+                      | | | | | | | | |   | | | | |-|                                                                       
+                      | | | | | | | | |   | | | | | |------------------------------------Sumatra_sp_12                      
+                      | | | | | | | | | |-| | | | |                                                                         
+                      |-| | | | | | | | | |-| | | | |------------------------------------Java_sp_3                          
+                        | | | | | | | | |   |-| | | |                                                                       
+                        | | | | | | | | |     |-| | | |----------------------------------Java_sp_5                          
+                        | | | | | | | | |       |-| | |                                                                     
+                        | | | | | | | | |         | | | |--------------------------------Java_sp_8_female                   
+                        | | | | | | | | |         |-| | |                                                                   
+                        | | | | | | | | |           |-| | |------------------------------Java_sp_9_female                   
+                        | | | | | | | | |             |-| |                                                                 
+                        | | | | | | | | |               |-| |----------------------------Java_sp_11_juvenile                
+                        | | | | | | | | |                 |-|                                                               
+                        | | | | | | | | |                   |----------------------------Java_sp_7_juvenile                 
+                        | | | | | | | | |                                                                                   
+                        | | | | | | | | |     |------------------------------------------Peninsula_sp_20                    
+                        |-| | | | | | | |   |-|                                                                             
+                          | | | | | | | |   | |------------------------------------------Peninsula_sp_22                    
+                          | | | | | | | |   |                                                                               
+                          | | | | | | | |   | |------------------------------------------New_Guinea_Stylocellus_novaguinea  
+                          | | | | | | | |   | |                                                                             
+                          | | | | | | | |   | | |----------------------------------------Sulawesi_sp_3                      
+                          |-| | | | | | |   | | |                                                                           
+                            |-| | | | | |   | | |   |------------------------------------Sulawesi_sp_4_juvenile             
+                              |-| | | | | |-| | | |-|                                                                       
+                                |-| | | | | | | | | |------------------------------------Sulawesi_sp_5                      
+                                  |-| | | | |-| | |                                                                         
+                                    | | | |   |-| | |------------------------------------Sulawesi_sp_6                      
+                                    | | | |     |-| |                                                                       
+                                    | | | |       | | |----------------------------------Sulawesi_sp_2b                     
+                                    | | | |       |-| |                                                                     
+                                    | | | |         |-| |--------------------------------Sulawesi_sp_1_juvenile             
+                                    |-| | |           |-|                                                                   
+                                      | | |             |--------------------------------Sulawesi_sp_2a                     
+                                      | | |                                                                                 
+                                      | | |     |----------------------------------------Peninsula_sp_2                     
+                                      | | |     |                                                                           
+                                      | | |     | |--------------------------------------Peninsula_sp_5                     
+                                      | | |     | |                                                                         
+                                      | | |     | | |------------------------------------Peninsula_sp_8                     
+                                      | | |   |-| | |                                                                       
+                                      | | |   | |-| | |----------------------------------Peninsula_sp_3_female              
+                                      | | |   |   |-| |                                                                     
+                                      | | |   |     |-| |--------------------------------Peninsula_sp_9a                    
+                                      |-| |   |       |-|                                                                   
+                                        | |   |         |--------------------------------Peninsula_sp_9b_juvenile           
+                                        | |   |                                                                             
+                                        | |   |   |--------------------------------------Sulawesi_sp_7                      
+                                        | |   |   |                                                                         
+                                        | | |-| |-| |------------------------------------Borneo_sp_14_female                
+                                        | | | | | |-|                                                                       
+                                        | | | | |   |------------------------------------Peninsula_sp_18                    
+                                        | | | | |                                                                           
+                                        | | | | | |--------------------------------------Sumatra_sp_4a                      
+                                        | | | |-| |                                                                         
+                                        |-| |   | | |------------------------------------Sumatra_sp_4b                      
+                                          | |   |-| |                                                                       
+                                          | |     |-| |----------------------------------Sumatra_sp_4c                      
+                                          | |       |-|                                                                     
+                                          | |         |----------------------------------Sumatra_sp_4d                      
+                                          | |                                                                               
+                                          | |   |----------------------------------------Peninsula_sp_7_female              
+                                          | |   |                                                                           
+                                          | | |-| |--------------------------------------Peninsula_sp_11                    
+                                          | | | |-|                                                                         
+                                          | | |   |--------------------------------------Peninsula_sp_14                    
+                                          | | |                                                                             
+                                          | | | |----------------------------------------Java_sp_6_female                   
+                                          |-| | |                                                                           
+                                            | | |   |------------------------------------Java_sp_12                         
+                                            | | |   |                                                                       
+                                            | | |   | |----------------------------------Java_sp_10                         
+                                            | | | |-| |                                                                     
+                                            | | | | |-| |--------------------------------Java_sp_2_female                   
+                                            | | | |   |-|                                                                   
+                                            |-| | |     |--------------------------------Java_sp_4_juvenile                 
+                                              | | |                                                                         
+                                              |-| | |------------------------------------Sumatra_sp_1                       
+                                                | | |                                                                       
+                                                |-| | |----------------------------------Java_sp_14                         
+                                                  | | |                                                                     
+                                                  | | | |--------------------------------Java_sp_13                         
+                                                  |-| | |                                                                   
+                                                    |-| | |------------------------------Java_sp_1_juvenile                 
+                                                      |-| |                                                                 
+                                                        |-| |----------------------------Java_sp_15                         
+                                                          |-|                                                               
+                                                            |----------------------------Java_sp_16                         

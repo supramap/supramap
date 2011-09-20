@@ -1,0 +1,8 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Error :
+POY requires at least two taxa in order to start a search. Please load some data.
+Error :
+Failure("Wagner building  requires a tree with at least two vertices.")

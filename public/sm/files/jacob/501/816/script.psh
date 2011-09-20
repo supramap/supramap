@@ -1,0 +1,14 @@
+read(prealigned:("/home/supramap/supramap/public/files/jacob/501/test.poy", tcm:(1,1)))
+read("/home/supramap/supramap/public/files/jacob/501/test.fas")
+set(log: "/home/supramap/supramap/public/files/jacob/501/816/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/jacob/501/816/job 2_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/jacob/501/test.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/jacob/501/816/job 2_results.tre",trees)
+report("/home/supramap/supramap/public/files/jacob/501/816/job 2_results.stats",treestats)
+exit()

@@ -1,0 +1,14 @@
+read(prealigned: ("Lassa.trim.fas", tcm:(1,1)))
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("SM-Lassa2_results.kml", kml:(supramap, "LassaGeo.csv"))
+
+report(asciitrees)
+report("SM-Lassa2_results.tre",trees)
+report("SM-Lassa2_results.stats",treestats)
+exit()

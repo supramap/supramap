@@ -1,0 +1,14 @@
+read("GA-6.fas")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("J1_results.kml", kml:(supramap, "GA-6.csv"))
+
+report(asciitrees)
+report("J1_results.tre",trees)
+report("J1_results.stats",treestats)
+exit()

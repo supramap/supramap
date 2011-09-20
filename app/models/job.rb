@@ -117,21 +117,25 @@ exit()"
   def is_done
     if(Poy_service.is_done_yet(self.job_code.to_s))
       path = "#{FILE_SERVER_ROOT}/#{self.project.user.login}/#{self.project_id}/#{self.id}/"
+      begin
+        file_string = Poy_service.get_file(self.job_code, "output.txt")
+        File.open("#{path}output.txt", 'w') {|f| f.write(file_string) }
 
-      file_string = Poy_service.get_file(self.job_code, "#{name}_results.kml")
-      #puts file_string.public_methods
+        file_string = Poy_service.get_file(self.job_code, "#{name}_results.kml")
+        File.open("#{path}#{name}_results.kml", 'w') {|f| f.write(file_string) }
 
-      File.open("#{path}#{name}_results.kml", 'w') {|f| f.write(file_string) }
+        file_string = Poy_service.get_file(self.job_code, "#{name}_results.tre")
+        File.open("#{path}#{name}_results.tre", 'w') {|f| f.write(file_string) }
 
-      file_string = Poy_service.get_file(self.job_code, "#{name}_results.tre")
-      File.open("#{path}#{name}_results.tre", 'w') {|f| f.write(file_string) }
+        file_string = Poy_service.get_file(self.job_code, "#{name}_results.stats")
+        File.open("#{path}#{name}_results.stats", 'w') {|f| f.write(file_string) }
 
-      file_string = Poy_service.get_file(self.job_code, "#{name}_results.stats")
-      File.open("#{path}#{name}_results.stats", 'w') {|f| f.write(file_string) }
-
-      self.status = "Completed"
-      self.save
-     
+        self.status = "Completed"
+        self.save
+      rescue
+          self.status = "Failed"
+          self.save
+      end
     end
   end
   

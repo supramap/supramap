@@ -1,0 +1,184 @@
+<p>
+<a href="#section1">How to run Supramap</a><br/>
+<a href="#section2">How to install POY (and make Supramaps offline)</a><br/>
+<a href="#section3">How to make a Supramap KML from only a *.tre and *.csv</a><br/>
+<a href="#section4">How to color tree branches in Supramap KMLs</a>
+</p>
+
+<h2 id="section1">How to run Supramap</h2>
+
+<p>Upon registration, the user should create a project, click on the project name, and upload data files in the interface provided. All files are plain text format. Be sure to use Unix line breaks. <a href="http://www.barebones.com/products/bbedit/">BBEdit</a> and <a href="http://www.textpad.com/">Text Pad</a> are good editors to make compliant files. Extensions don't matter but might help you to organize your files. The files that Supramap can read include: </p>
+
+<h3>Sequence Files (Genetic Data)</h3>
+
+<p> A sequence file is presented in <a href="http://bmi.osu.edu/~janies/supramap2/nucleotides.fas">FASTA </a> format (.fas). The file contains sequence data (e.g. nucleotides or amino acids) labeled with taxon names. The sequence data can be prealinged or raw unaligned data. One file can be used for each locus and multiple files can be used. Missing data is tolerated if multiple files are used. See POY documentation for details on how to manage missing data.</p>
+
+<p>Example:</p>
+
+<p><pre>>NC_001608
+gaagaatattaacattgacattgagacttgtcagtctgttaatattcttgaagagatgg
+>EU051644
+aggcaaattcaagtacatgcagagcaaggactgatacaatatccaacagcttggcaatc
+>EU051642
+aggcaaattcaagtacatgcagagcaaggactgatacaatatccaacagcttggcaatc</pre></p>
+
+<p> The first taxon in the file will be considered the <b>outgroup</b>. The outgroup will be used to root the tree. The choice of the outgroup taxon is up to the user. In the case of temporal series of isolates of pathogens the outgroup is of often the oldest isolate. In natural sciences, the outgroup is often selected because it is outside of the set of interest, termed the ingroup. If the outgroup is related to but not a member of the ingroup then these two groups share a more ancient common ancestor than that shared by the ingroup. Rooting on an ancestor more ancient than the ancestor of the ingroup provides a baseline from which the branching pattern and polarities of changes within the ingroup can be elucidated.</p>
+
+<h3>Categorical Character Files</h3>
+
+<p> Categorical data files are in <a href="http://www.zmuc.dk/public/phylogeny/TNT/">TNT</a> (.tnt) format including a header and footer. The file can be used for any phenotypic data (e.g., viral host). The various character states (e.g., human, chimp, swine, avian) should be represented as integers for states zero through nine and then with letters up to 32 states (e.g., 0 1 2 3 4 5 6 7 8 9 A B C D E F G H I J K L M N O P Q R S T U V W).</p>
+
+<p>Example:</p>
+
+<p><pre>xread
+1 3
+NC_001608	0
+EU051644 	0
+EU051642 	0
+;
+cc -.;
+</pre></p>
+
+<h3>Geographic and Temporal Reference Files</h3>
+
+<p>A <a href="http://bmi.osu.edu/~janies/supramap2/lat.long.date.csv">comma separated values</a> (.csv) file that contains the geographic and temporal data for each taxon is necessary. The latitude and longitude coordinates must be in decimal format. If you provide dates of isolation, Supramap will build a Keyhole Markup File (KML) that allow you to animate the tree's growth over time in <a href="http://earth.google.com">Google Earth</a> &#8482;. Microsoft Excel &#8482; can output csv format but make sure it's in unix format - a text editor such as BBedit &#8482;or Text Pad &#8482; can ensure this.</p>
+
+<p>The csv file must have a header followed by the data. The header line should be "strain_name,latitude,longitude" or "strain_name,latitude,longitude,date". If you do not have coordinates for a specific taxon, include a line like "strain_name, 0, 0". If you have problems, make sure that the taxon names in the .fas and the .csv files match exactly in spelling and content.</p>
+
+<p>Example:</p>
+
+<p><pre>strain_name,latitude,longitude
+NC_001608,-0.0205406,37.9002956
+EU051644,-0.8280967,11.5989086
+EU051642,-0.8280967,11.5989086</pre></p>
+
+<p>Temporal data is optional in the format YYYY-MM-DD:</p>
+
+<p><pre>strain_name,latitude,longitude,date
+NC_001608,-0.0205406,37.9002956,1967-12-12
+EU051644,-0.8280967,11.5989086,2002-12-12
+EU051642,-0.8280967,11.5989086,2001-12-12</pre></p>
+
+<p> In filling out your geographic and temporal references file, you might use an external data source such as <a href="http://www.getty.edu/research/conducting_research/vocabularies/tgn/"> Getty Thesaurus of Geographic Names</a> or in the search field of Google Earth &#8482; to look up place names and convert them to decimal degrees. If you have a lot of place names to convert we may be able to help automate the process and feel free to contact us.</p>
+
+<h3>Tree files</h3>
+
+<p>A tree file contains the evolutionary relationships of the taxa in nested parentheses ending in a semicolon. It is usually generated by a phylogenetic tree search program. Foe example:</p>
+
+<p><pre>(NC_001608, (EU051644, EU051642));</pre></p>
+
+<p>Annotations in the tree such branch length or bootstrap values are not supported.</p>
+
+<p>Which files do I need and how do I organize them? We have created a web interface where users can upload data files, name projects, and organize sets of data files into jobs to be executed on a computing cluster (treated below). As files are uploaded the user is asked to identify what kind of file is being uploaded. A user can keep several files in a project and mix and match them as sets for various jobs. A valid job consists of at least one sequence data file and one and only one file of geographic and temporal references.</p>
+
+<p>These are some valid sets of files for jobs:</p>
+<ol>
+<li>.fas (one or more) and .csv:</li>
+<li>.fas (one or more), .tre, and .csv (coming soon)</li>
+<li>.tnt (one or more), and .csv:</li>
+<li>.tnt (one or more), .tre,  and .csv (coming soon)</li>
+<li>.fas (one or more), .tnt (one or more), and .csv</li>
+<li>.fas (one or more), .tnt (one or more), .tre, and .csv (coming soon)</li>
+<li><a href="http://supramap.osu.edu/sm/supramap/tutorials#section3">.tre and .csv</a></li>
+</ol>
+
+<h3>Projects, Jobs and Analyses</h3>
+
+<p>Once the user uploads files to a project, defines a valid job, and starts the job, the Supramap system will perform an analysis. Once you finish selecting files the job will be launched and you will see a confirmation message and the job status of "Running" in the jobs interface. If no tree is provided a direct optimization (alignment plus tree search) is performed, followed by diagnosis, and tree projection. If a tree is provided, that topology is used to diagnose the data and make the projection.</p>
+
+<p>Diagnosis is the proess of optimizing variation in the character data on given tree or the best tree that results from tree search. For example, the variation in the nucleotide or amino acid data can be assigned to branches of the tree as mutations that occur between ancestor and descendent. Tree projection is the process of contorting the tree in space such that the terminal taxa are assigned to their points on the earth and the ancestral hierarchy is placed above the earth.</p>
+
+<h3>Results</h3>
+
+<p> The projected tree and mutations are stored in a Keyhole Markup file (KML) file suitable for viewing with Google Earth &#8482; or similar virtual globe or maps software. We also provide statistics on the run and a tree in nested parenthese format. Statistics include the optimal tree length found during the search and the number of times this length was hit.
+</p>
+
+<p><a href="http://bmi.osu.edu/~janies/supramap2/script.psh">Currently a supramap analysis is bound to a search time of 3 minutes and 2Gb of memory</a>. This does not include the tree projection phase of the analysis so response time of the web application will be > 3 minues before complete. Please feel free to contact if you have a need for more run time and or would like to run custom scripts.</p> 
+
+<p>In the case of the KML file, you will be asked to download the KML file to your local machine. One you have done that, clicking your local copy of the KML will invoke Google Earth &#8482; or your geographic browser of choice on your local machine. </p>
+
+<p> If the tree does not automatically load in Google Earth &#8482; you may need to use File > Open in Google Earth &#8482;. Be sure to pull the time slider all the way to the right to see the entire tree if you used temporal data. Also check the left sidebar to make sure your Supramap KML layer is active and any superfluous layers are disabled. </p> 
+
+<p> You should now be looking at the Supramap. Make sure you click the box on the left side of Google Earth &#8482; to activate your KML. Once doing that make sure to spread the time bar to the right if you have used temporal references. Clicking on any of the nodes displays a summary of the mutations along the branch connecting that node to its ancestral node. Please contact us at supramap@gmail.com if you have any problems. </p>
+
+<p>&nbsp;</p>
+
+<h2 id="section2">How to install POY (and make Supramaps offline)</h2>
+
+<p>You will need a computer running a recent Linux distribution or Mac OS X (10.4 or 10.5; the Supramap plug-in will not work under OS X 10.6 Snow Leopard). Under OS X, make sure you have the <a href="http://developer.apple.com/technology/xcode.html" target="_blank">latest Xcode</a>.</p>
+
+<h3>Compilation</h3>
+
+<ol><li>Download the source code of OCaml 3.11.0 (or later) <a href="http://caml.inria.fr/download.en.html" target="_blank">here</a>. No earlier version of OCaml will work. Unarchive and compile with the following commands:
+<pre>./configure
+make world
+make opt
+make opt.opt
+make install</pre></li>
+
+<li>Make sure you have <a href="http://subversion.tigris.org/" target="_blank">Subversion</a> installed and download the latest POY source code by entering the following command: <pre>svn checkout http://poy4.googlecode.com/svn/trunk/ poy4-read-only</pre></li>
+
+<li>Compile POY and the Supramap plug-in:<br/>
+(parallel)<pre>./configure --enable-interface=flat --enable-mpi CC=mpicc CFLAGS="-03 -msse"</pre> (or serial) <pre>./configure</pre>then
+<pre>make
+make install
+cd src
+ocamlbuild supramap.cmxs
+cp _build/plugins/supramap.cmxs &lt;path&gt;</pre> (&lt;path&gt; is where you would store the plug-in, you will need this later when running)</li>
+
+<li>Run POY with the Supramap plug-in to check if it loads correctly:
+<pre>poy -plugin &lt;path&gt;</pre>
+If you get no errors then everything compiled correctly and is in working order; type <pre>exit()</pre> to exit the application. If you get an error, then something didn't compile correctly or there might be a path problem.</li></ol>
+
+<h3>Testing the workflow</h3>
+
+<ol><li>Download the following data files: <a href="http://bmi.osu.edu/~janies/Nnessandsuf/ebolangenecutNC_004161.fas" target="_blank">ebolangenecutNC_004161.fas</a> (a FASTA file with DNA sequences) and <a href="http://bmi.osu.edu/~janies/Nnessandsuf/ebola.ngene.latlong.noreston.csv" target="_blank">ebola.ngene.latlong.noreston.csv</a> (contains geographical coordinates and temporal data).</li>
+
+<li>Make a file poy_script.txt with the following POY commands:
+<pre>read ("ebolangenecutNC_004161.fas")
+build (1)
+transform (static_approx)
+report ("result.kml", kml:(supramap, "ebola.ngene.latlong.noreston.csv"))
+exit ()</pre></li>
+
+<li>Run POY and execute the script:
+<pre>poy -plugin &lt;path&gt; -e poy_script.txt</pre></li>
+
+<li>Open the resulting file result.kml with Google Earth, and check for a small tree over Africa.</li></ol>
+
+<p>&nbsp;</p>
+
+<h2 id="section3">How to make a Supramap KML from only a *.tre and *.csv</h2>
+
+<p>The following binary will take a CSV file with georeferences (and optionally, temporal data), and any TRE file for the taxa listed in the CSV, and make a Supramap KML. However, the resulting KML does not show any mutation data. This is simply a quick way to visualize how a Supramap would look like for a given dataset without scheduling a job or calculating a good tree.</p>
+
+<p>Download the binary for your operating system (Windows is currently not supported):</p>
+
+<p><ul><li>Linux x86: <a href="http://supramap.osu.edu/csv.tre-to-kml/csv.tre-to-kml_linux-x86.tar.gz">csv.tre-to-kml_linux-x86.tar.gz</a> (2.9 MB)</li>
+<li>Mac OS X 10.4-10.6: <a href="http://supramap.osu.edu/csv.tre-to-kml/csv.tre-to-kml_osx-10.4-10.6.tar.gz">csv.tre-to-kml_osx-10.4-10.6.tar.gz</a> (2.1 MB)</li></ul></p>
+
+<p>The syntax for executing the binary is:</p>
+
+<pre>./csv.tre-to-kml_linux-x86 -tree &lt;path to .tre file&gt; -csv &lt;path to .csv file&gt;</pre>
+<pre>./csv.tre-to-kml_osx-10.4-10.6 -tree &lt;path to .tre file&gt; -csv &lt;path to .csv file&gt;</pre>
+
+<p>Here are links to two example data files to get you started: <a href="http://supramap.osu.edu/csv.tre-to-kml/ebola.tre" target="_blank">ebola.tre</a> &nbsp;&nbsp; <a href="http://bmi.osu.edu/~janies/Nnessandsuf/ebola.ngene.latlong.noreston.csv" target="_blank">ebola.ngene.latlong.noreston.csv</a></p>
+
+<p>&nbsp;</p>
+
+<h2 id="section4">How to color tree branches in Supramap KMLs</h2>
+
+<p>Supramaps can be colored to denote a mutation of interest or a change in a character state.  In order to color tree branches you must do the following:</p>
+<ol>
+<li>Download the <a href="http://supramap.osu.edu/sm/files/color-lines.rb" target="_blank">color-lines.rb</a> script. (ruby required: <a href="http://www.ruby-lang.org">http://www.ruby-lang.org</a>)</li>
+<li>chmod a+x color-lines.rb</li>
+<li>To color nucleotide based trees, run the following:<br/>
+./color-lines.rb --dna n --file path/to/kml<br/>
+The argument “n” is an integer denoting the alignment column containing the mutations of interest, and the argument “/path/to/kml” is the location of the kml file to be colored.</li>
+<li>To color character based trees, run the following:</li> 
+./color-lines.rb --file path/to/kml</li>
+<li>The script will create a new kml called OriginalName-colored.kml.  Load this file in Google Earth.  Red, green, blue, and purple lines represent adenine, guanine, cytosine, and thymine/uracil respectively.</li>
+</ol>
+<p>
+  To run Supramap on the clusters at the Department of Biomedical Informatics, Ohio State University College of Medicine or The Ohio Supercomputer Center contact <a href="mailto:supramap@gmail.com">supramap@gmail.com</a>.
+</p>

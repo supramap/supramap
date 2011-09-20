@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/danjanies/229/nucleotides.fas")
+set(log: "/home/supramap/supramap/public/files/danjanies/229/735/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/danjanies/229/735/test2_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/danjanies/229/lat.long.date.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/danjanies/229/735/test2_results.tre",trees)
+report("/home/supramap/supramap/public/files/danjanies/229/735/test2_results.stats",treestats)
+exit()

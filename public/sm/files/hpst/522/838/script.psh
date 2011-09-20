@@ -1,0 +1,14 @@
+read("supramapCHTestseq.fas")
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("bvdTest2_results.kml", kml:(supramap, "TestSeqDataDos.csv"))
+
+report(asciitrees)
+report("bvdTest2_results.tre",trees)
+report("bvdTest2_results.stats",treestats)
+exit()

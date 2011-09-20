@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/travis/27/H7.HA.RAxML_bestTree.topo")
+set(log: "/home/supramap/supramap/public/files/travis/27/382/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/travis/27/382/testtest_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/travis/27/H7.HA.Lat.Long.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/travis/27/382/testtest_results.tre",trees)
+report("/home/supramap/supramap/public/files/travis/27/382/testtest_results.stats",treestats)
+exit()

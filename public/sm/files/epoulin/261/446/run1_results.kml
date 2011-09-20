@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <kml  xmlns="http://earth.google.com/kml/2.0">
+<Document><Name>POY analysis</Name>
+<Style id="00a"><IconStyle><scale>0.35</scale>
+<Icon><href>http://supramap.osu.edu/supramap/images/circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle><scale>0</scale>
+</LabelStyle>
+<LineStyle><width>1.5</width>
+</LineStyle>
+</Style>
+<Style id="00b"><IconStyle><scale>0.75</scale>
+<Icon><href>http://supramap.osu.edu/supramap/images/circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle></LabelStyle>
+<LineStyle><width>1.5</width>
+</LineStyle>
+</Style>
+<Style id="00c"><IconStyle><scale>0.95</scale>
+<Icon><href>http://supramap.osu.edu/supramap/images/circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle></LabelStyle>
+<LineStyle><width>4</width>
+</LineStyle>
+</Style>
+<StyleMap id="00"><Pair><key>normal</key>
+<styleUrl>#00a</styleUrl>
+</Pair>
+<Pair><key>highlight</key>
+<styleUrl>#00c</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="01"><Pair><key>normal</key>
+<styleUrl>#00b</styleUrl>
+</Pair>
+<Pair><key>highlight</key>
+<styleUrl>#00c</styleUrl>
+</Pair>
+</StyleMap>
+<Folder><name>1</name>
+<Folder><name>Tree</name>
+<Placemark id="pm_IQ1"><visibility></visibility>
+<name>IQ1</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-71.</longitude>
+<latitude>-21.</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_6">6</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_7">7</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:112</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:761</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_IQ1"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="IQ1"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-71.,-21.,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-71.,-21.,0. -71.755859375,-20.60546875,2343.75 -72.51171875,-20.2109375,4687.5 -73.267578125,-19.81640625,7031.25 -74.0234375,-19.421875,9375. -74.779296875,-19.02734375,11718.75 -75.53515625,-18.6328125,14062.5 -76.291015625,-18.23828125,16406.25 -77.046875,-17.84375,18750. -77.802734375,-17.44921875,21093.75 -78.55859375,-17.0546875,23437.5 -79.314453125,-16.66015625,25781.25 -80.0703125,-16.265625,28125. -80.826171875,-15.87109375,30468.75 -81.58203125,-15.4765625,32812.5 -82.337890625,-15.08203125,35156.25 -83.09375,-14.6875,37500. -83.849609375,-14.29296875,39843.75 -84.60546875,-13.8984375,42187.5 -85.361328125,-13.50390625,44531.25 -86.1171875,-13.109375,46875. -86.873046875,-12.71484375,49218.75 -87.62890625,-12.3203125,51562.5 -88.384765625,-11.92578125,53906.25 -89.140625,-11.53125,56250. -89.896484375,-11.13671875,58593.75 -90.65234375,-10.7421875,60937.5 -91.408203125,-10.34765625,63281.25 -92.1640625,-9.953125,65625. -92.919921875,-9.55859375,67968.75 -93.67578125,-9.1640625,70312.5 -94.431640625,-8.76953125,72656.25 -95.1875,-8.375,75000. -95.943359375,-7.98046875,77343.75 -96.69921875,-7.5859375,79687.5 -97.455078125,-7.19140625,82031.25 -98.2109375,-6.796875,84375. -98.966796875,-6.40234375,86718.75 -99.72265625,-6.0078125,89062.5 -100.478515625,-5.61328125,91406.25 -101.234375,-5.21875,93750. -101.990234375,-4.82421875,96093.75 -102.74609375,-4.4296875,98437.5 -103.501953125,-4.03515625,100781.25 -104.2578125,-3.640625,103125. -105.013671875,-3.24609375,105468.75 -105.76953125,-2.8515625,107812.5 -106.525390625,-2.45703125,110156.25 -107.28125,-2.0625,112500. -108.037109375,-1.66796875,114843.75 -108.79296875,-1.2734375,117187.5 -109.548828125,-0.87890625,119531.25 -110.3046875,-0.484375,121875. -111.060546875,-0.08984375,124218.75 -111.81640625,0.3046875,126562.5 -112.572265625,0.69921875,128906.25 -113.328125,1.09375,131250. -114.083984375,1.48828125,133593.75 -114.83984375,1.8828125,135937.5 -115.595703125,2.27734375,138281.25 -116.3515625,2.671875,140625. -117.107421875,3.06640625,142968.75 -117.86328125,3.4609375,145312.5 -118.619140625,3.85546875,147656.25 -119.375,4.25,150000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_TJ1"><visibility></visibility>
+<name>TJ1</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>143.</longitude>
+<latitude>30.</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_7">7</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_8">8</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:32</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:74</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:76</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:105</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:114</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:134</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:145</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:173</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:175</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:209</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:238</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:272</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:275</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:320</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:371</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:414</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:501</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:502</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:532</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:550</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:601</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:608</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:610</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:617</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:633</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:638</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:813</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:815</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_TJ1"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="TJ1"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>143.,30.,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>143.,30.,0. 143.76953125,29.9921875,1562.5 144.5390625,29.984375,3125. 145.30859375,29.9765625,4687.5 146.078125,29.96875,6250. 146.84765625,29.9609375,7812.5 147.6171875,29.953125,9375. 148.38671875,29.9453125,10937.5 149.15625,29.9375,12500. 149.92578125,29.9296875,14062.5 150.6953125,29.921875,15625. 151.46484375,29.9140625,17187.5 152.234375,29.90625,18750. 153.00390625,29.8984375,20312.5 153.7734375,29.890625,21875. 154.54296875,29.8828125,23437.5 155.3125,29.875,25000. 156.08203125,29.8671875,26562.5 156.8515625,29.859375,28125. 157.62109375,29.8515625,29687.5 158.390625,29.84375,31250. 159.16015625,29.8359375,32812.5 159.9296875,29.828125,34375. 160.69921875,29.8203125,35937.5 161.46875,29.8125,37500. 162.23828125,29.8046875,39062.5 163.0078125,29.796875,40625. 163.77734375,29.7890625,42187.5 164.546875,29.78125,43750. 165.31640625,29.7734375,45312.5 166.0859375,29.765625,46875. 166.85546875,29.7578125,48437.5 167.625,29.75,50000. 168.39453125,29.7421875,51562.5 169.1640625,29.734375,53125. 169.93359375,29.7265625,54687.5 170.703125,29.71875,56250. 171.47265625,29.7109375,57812.5 172.2421875,29.703125,59375. 173.01171875,29.6953125,60937.5 173.78125,29.6875,62500. 174.55078125,29.6796875,64062.5 175.3203125,29.671875,65625. 176.08984375,29.6640625,67187.5 176.859375,29.65625,68750. 177.62890625,29.6484375,70312.5 178.3984375,29.640625,71875. 179.16796875,29.6328125,73437.5 179.9375,29.625,75000. -179.29296875,29.6171875,76562.5 -178.5234375,29.609375,78125. -177.75390625,29.6015625,79687.5 -176.984375,29.59375,81250. -176.21484375,29.5859375,82812.5 -175.4453125,29.578125,84375. -174.67578125,29.5703125,85937.5 -173.90625,29.5625,87500. -173.13671875,29.5546875,89062.5 -172.3671875,29.546875,90625. -171.59765625,29.5390625,92187.5 -170.828125,29.53125,93750. -170.05859375,29.5234375,95312.5 -169.2890625,29.515625,96875. -168.51953125,29.5078125,98437.5 -167.75,29.5,100000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_SD1"><visibility></visibility>
+<name>SD1</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-115.</longitude>
+<latitude>25.</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_8">8</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_SD2">SD2</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:134</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:146</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:617</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_SD1"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="SD1"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-115.,25.,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-115.,25.,0. -115.0546875,25.0625,781.25 -115.109375,25.125,1562.5 -115.1640625,25.1875,2343.75 -115.21875,25.25,3125. -115.2734375,25.3125,3906.25 -115.328125,25.375,4687.5 -115.3828125,25.4375,5468.75 -115.4375,25.5,6250. -115.4921875,25.5625,7031.25 -115.546875,25.625,7812.5 -115.6015625,25.6875,8593.75 -115.65625,25.75,9375. -115.7109375,25.8125,10156.25 -115.765625,25.875,10937.5 -115.8203125,25.9375,11718.75 -115.875,26.,12500. -115.9296875,26.0625,13281.25 -115.984375,26.125,14062.5 -116.0390625,26.1875,14843.75 -116.09375,26.25,15625. -116.1484375,26.3125,16406.25 -116.203125,26.375,17187.5 -116.2578125,26.4375,17968.75 -116.3125,26.5,18750. -116.3671875,26.5625,19531.25 -116.421875,26.625,20312.5 -116.4765625,26.6875,21093.75 -116.53125,26.75,21875. -116.5859375,26.8125,22656.25 -116.640625,26.875,23437.5 -116.6953125,26.9375,24218.75 -116.75,27.,25000. -116.8046875,27.0625,25781.25 -116.859375,27.125,26562.5 -116.9140625,27.1875,27343.75 -116.96875,27.25,28125. -117.0234375,27.3125,28906.25 -117.078125,27.375,29687.5 -117.1328125,27.4375,30468.75 -117.1875,27.5,31250. -117.2421875,27.5625,32031.25 -117.296875,27.625,32812.5 -117.3515625,27.6875,33593.75 -117.40625,27.75,34375. -117.4609375,27.8125,35156.25 -117.515625,27.875,35937.5 -117.5703125,27.9375,36718.75 -117.625,28.,37500. -117.6796875,28.0625,38281.25 -117.734375,28.125,39062.5 -117.7890625,28.1875,39843.75 -117.84375,28.25,40625. -117.8984375,28.3125,41406.25 -117.953125,28.375,42187.5 -118.0078125,28.4375,42968.75 -118.0625,28.5,43750. -118.1171875,28.5625,44531.25 -118.171875,28.625,45312.5 -118.2265625,28.6875,46093.75 -118.28125,28.75,46875. -118.3359375,28.8125,47656.25 -118.390625,28.875,48437.5 -118.4453125,28.9375,49218.75 -118.5,29.,50000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_SD2"><visibility></visibility>
+<name>SD2</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-122.</longitude>
+<latitude>33.</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_8">8</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_SD1">SD1</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_SD2"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="SD2"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-122.,33.,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-122.,33.,0. -121.9453125,32.9375,781.25 -121.890625,32.875,1562.5 -121.8359375,32.8125,2343.75 -121.78125,32.75,3125. -121.7265625,32.6875,3906.25 -121.671875,32.625,4687.5 -121.6171875,32.5625,5468.75 -121.5625,32.5,6250. -121.5078125,32.4375,7031.25 -121.453125,32.375,7812.5 -121.3984375,32.3125,8593.75 -121.34375,32.25,9375. -121.2890625,32.1875,10156.25 -121.234375,32.125,10937.5 -121.1796875,32.0625,11718.75 -121.125,32.,12500. -121.0703125,31.9375,13281.25 -121.015625,31.875,14062.5 -120.9609375,31.8125,14843.75 -120.90625,31.75,15625. -120.8515625,31.6875,16406.25 -120.796875,31.625,17187.5 -120.7421875,31.5625,17968.75 -120.6875,31.5,18750. -120.6328125,31.4375,19531.25 -120.578125,31.375,20312.5 -120.5234375,31.3125,21093.75 -120.46875,31.25,21875. -120.4140625,31.1875,22656.25 -120.359375,31.125,23437.5 -120.3046875,31.0625,24218.75 -120.25,31.,25000. -120.1953125,30.9375,25781.25 -120.140625,30.875,26562.5 -120.0859375,30.8125,27343.75 -120.03125,30.75,28125. -119.9765625,30.6875,28906.25 -119.921875,30.625,29687.5 -119.8671875,30.5625,30468.75 -119.8125,30.5,31250. -119.7578125,30.4375,32031.25 -119.703125,30.375,32812.5 -119.6484375,30.3125,33593.75 -119.59375,30.25,34375. -119.5390625,30.1875,35156.25 -119.484375,30.125,35937.5 -119.4296875,30.0625,36718.75 -119.375,30.,37500. -119.3203125,29.9375,38281.25 -119.265625,29.875,39062.5 -119.2109375,29.8125,39843.75 -119.15625,29.75,40625. -119.1015625,29.6875,41406.25 -119.046875,29.625,42187.5 -118.9921875,29.5625,42968.75 -118.9375,29.5,43750. -118.8828125,29.4375,44531.25 -118.828125,29.375,45312.5 -118.7734375,29.3125,46093.75 -118.71875,29.25,46875. -118.6640625,29.1875,47656.25 -118.609375,29.125,48437.5 -118.5546875,29.0625,49218.75 -118.5,29.,50000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_8"><visibility></visibility>
+<name>8</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-118.5</longitude>
+<latitude>29.</latitude>
+<altitude>50000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_7">7</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_TJ1">TJ1</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_SD2">SD2</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_SD1">SD1</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:67</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:91</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:125</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:139</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:274</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:415</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:422</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_8"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="8"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-118.5,29.,50000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-118.5,29.,50000. -119.26953125,29.0078125,50781.25 -120.0390625,29.015625,51562.5 -120.80859375,29.0234375,52343.75 -121.578125,29.03125,53125. -122.34765625,29.0390625,53906.25 -123.1171875,29.046875,54687.5 -123.88671875,29.0546875,55468.75 -124.65625,29.0625,56250. -125.42578125,29.0703125,57031.25 -126.1953125,29.078125,57812.5 -126.96484375,29.0859375,58593.75 -127.734375,29.09375,59375. -128.50390625,29.1015625,60156.25 -129.2734375,29.109375,60937.5 -130.04296875,29.1171875,61718.75 -130.8125,29.125,62500. -131.58203125,29.1328125,63281.25 -132.3515625,29.140625,64062.5 -133.12109375,29.1484375,64843.75 -133.890625,29.15625,65625. -134.66015625,29.1640625,66406.25 -135.4296875,29.171875,67187.5 -136.19921875,29.1796875,67968.75 -136.96875,29.1875,68750. -137.73828125,29.1953125,69531.25 -138.5078125,29.203125,70312.5 -139.27734375,29.2109375,71093.75 -140.046875,29.21875,71875. -140.81640625,29.2265625,72656.25 -141.5859375,29.234375,73437.5 -142.35546875,29.2421875,74218.75 -143.125,29.25,75000. -143.89453125,29.2578125,75781.25 -144.6640625,29.265625,76562.5 -145.43359375,29.2734375,77343.75 -146.203125,29.28125,78125. -146.97265625,29.2890625,78906.25 -147.7421875,29.296875,79687.5 -148.51171875,29.3046875,80468.75 -149.28125,29.3125,81250. -150.05078125,29.3203125,82031.25 -150.8203125,29.328125,82812.5 -151.58984375,29.3359375,83593.75 -152.359375,29.34375,84375. -153.12890625,29.3515625,85156.25 -153.8984375,29.359375,85937.5 -154.66796875,29.3671875,86718.75 -155.4375,29.375,87500. -156.20703125,29.3828125,88281.25 -156.9765625,29.390625,89062.5 -157.74609375,29.3984375,89843.75 -158.515625,29.40625,90625. -159.28515625,29.4140625,91406.25 -160.0546875,29.421875,92187.5 -160.82421875,29.4296875,92968.75 -161.59375,29.4375,93750. -162.36328125,29.4453125,94531.25 -163.1328125,29.453125,95312.5 -163.90234375,29.4609375,96093.75 -164.671875,29.46875,96875. -165.44140625,29.4765625,97656.25 -166.2109375,29.484375,98437.5 -166.98046875,29.4921875,99218.75 -167.75,29.5,100000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_7"><visibility></visibility>
+<name>7</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-167.75</longitude>
+<latitude>29.5</latitude>
+<altitude>100000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_6">6</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_IQ1">IQ1</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_8">8</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_TJ1">TJ1</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:59</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:83</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:141</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:190</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">/home/supramap/supramap/public/files/epoulin/261/seq.txt:ia:195</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_7"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="7"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-167.75,29.5,100000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-167.75,29.5,100000. -166.994140625,29.10546875,100781.25 -166.23828125,28.7109375,101562.5 -165.482421875,28.31640625,102343.75 -164.7265625,27.921875,103125. -163.970703125,27.52734375,103906.25 -163.21484375,27.1328125,104687.5 -162.458984375,26.73828125,105468.75 -161.703125,26.34375,106250. -160.947265625,25.94921875,107031.25 -160.19140625,25.5546875,107812.5 -159.435546875,25.16015625,108593.75 -158.6796875,24.765625,109375. -157.923828125,24.37109375,110156.25 -157.16796875,23.9765625,110937.5 -156.412109375,23.58203125,111718.75 -155.65625,23.1875,112500. -154.900390625,22.79296875,113281.25 -154.14453125,22.3984375,114062.5 -153.388671875,22.00390625,114843.75 -152.6328125,21.609375,115625. -151.876953125,21.21484375,116406.25 -151.12109375,20.8203125,117187.5 -150.365234375,20.42578125,117968.75 -149.609375,20.03125,118750. -148.853515625,19.63671875,119531.25 -148.09765625,19.2421875,120312.5 -147.341796875,18.84765625,121093.75 -146.5859375,18.453125,121875. -145.830078125,18.05859375,122656.25 -145.07421875,17.6640625,123437.5 -144.318359375,17.26953125,124218.75 -143.5625,16.875,125000. -142.806640625,16.48046875,125781.25 -142.05078125,16.0859375,126562.5 -141.294921875,15.69140625,127343.75 -140.5390625,15.296875,128125. -139.783203125,14.90234375,128906.25 -139.02734375,14.5078125,129687.5 -138.271484375,14.11328125,130468.75 -137.515625,13.71875,131250. -136.759765625,13.32421875,132031.25 -136.00390625,12.9296875,132812.5 -135.248046875,12.53515625,133593.75 -134.4921875,12.140625,134375. -133.736328125,11.74609375,135156.25 -132.98046875,11.3515625,135937.5 -132.224609375,10.95703125,136718.75 -131.46875,10.5625,137500. -130.712890625,10.16796875,138281.25 -129.95703125,9.7734375,139062.5 -129.201171875,9.37890625,139843.75 -128.4453125,8.984375,140625. -127.689453125,8.58984375,141406.25 -126.93359375,8.1953125,142187.5 -126.177734375,7.80078125,142968.75 -125.421875,7.40625,143750. -124.666015625,7.01171875,144531.25 -123.91015625,6.6171875,145312.5 -123.154296875,6.22265625,146093.75 -122.3984375,5.828125,146875. -121.642578125,5.43359375,147656.25 -120.88671875,5.0390625,148437.5 -120.130859375,4.64453125,149218.75 -119.375,4.25,150000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_6"><visibility></visibility>
+<name>6</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-119.375</longitude>
+<latitude>4.25</latitude>
+<altitude>150000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_root">root</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_TA1">TA1</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_7">7</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_IQ1">IQ1</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_6"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="6"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-119.375,4.25,150000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-119.375,4.25,150000. -119.004882812,3.982421875,150781.25 -118.634765625,3.71484375,151562.5 -118.264648438,3.447265625,152343.75 -117.89453125,3.1796875,153125. -117.524414062,2.912109375,153906.25 -117.154296875,2.64453125,154687.5 -116.784179688,2.376953125,155468.75 -116.4140625,2.109375,156250. -116.043945312,1.841796875,157031.25 -115.673828125,1.57421875,157812.5 -115.303710938,1.306640625,158593.75 -114.93359375,1.0390625,159375. -114.563476562,0.771484375,160156.25 -114.193359375,0.50390625,160937.5 -113.823242188,0.236328125,161718.75 -113.453125,-0.03125,162500. -113.083007812,-0.298828125,163281.25 -112.712890625,-0.56640625,164062.5 -112.342773438,-0.833984375,164843.75 -111.97265625,-1.1015625,165625. -111.602539062,-1.369140625,166406.25 -111.232421875,-1.63671875,167187.5 -110.862304688,-1.904296875,167968.75 -110.4921875,-2.171875,168750. -110.122070312,-2.439453125,169531.25 -109.751953125,-2.70703125,170312.5 -109.381835938,-2.974609375,171093.75 -109.01171875,-3.2421875,171875. -108.641601562,-3.509765625,172656.25 -108.271484375,-3.77734375,173437.5 -107.901367188,-4.044921875,174218.75 -107.53125,-4.3125,175000. -107.161132812,-4.580078125,175781.25 -106.791015625,-4.84765625,176562.5 -106.420898438,-5.115234375,177343.75 -106.05078125,-5.3828125,178125. -105.680664062,-5.650390625,178906.25 -105.310546875,-5.91796875,179687.5 -104.940429688,-6.185546875,180468.75 -104.5703125,-6.453125,181250. -104.200195312,-6.720703125,182031.25 -103.830078125,-6.98828125,182812.5 -103.459960938,-7.255859375,183593.75 -103.08984375,-7.5234375,184375. -102.719726562,-7.791015625,185156.25 -102.349609375,-8.05859375,185937.5 -101.979492188,-8.326171875,186718.75 -101.609375,-8.59375,187500. -101.239257812,-8.861328125,188281.25 -100.869140625,-9.12890625,189062.5 -100.499023438,-9.396484375,189843.75 -100.12890625,-9.6640625,190625. -99.7587890625,-9.931640625,191406.25 -99.388671875,-10.19921875,192187.5 -99.0185546875,-10.466796875,192968.75 -98.6484375,-10.734375,193750. -98.2783203125,-11.001953125,194531.25 -97.908203125,-11.26953125,195312.5 -97.5380859375,-11.537109375,196093.75 -97.16796875,-11.8046875,196875. -96.7978515625,-12.072265625,197656.25 -96.427734375,-12.33984375,198437.5 -96.0576171875,-12.607421875,199218.75 -95.6875,-12.875,200000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_TA1"><visibility></visibility>
+<name>TA1</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-72.</longitude>
+<latitude>-30.</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_root">root</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_6">6</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_TA1"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="TA1"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-72.,-30.,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-72.,-30.,0. -72.3701171875,-29.732421875,3125. -72.740234375,-29.46484375,6250. -73.1103515625,-29.197265625,9375. -73.48046875,-28.9296875,12500. -73.8505859375,-28.662109375,15625. -74.220703125,-28.39453125,18750. -74.5908203125,-28.126953125,21875. -74.9609375,-27.859375,25000. -75.3310546875,-27.591796875,28125. -75.701171875,-27.32421875,31250. -76.0712890625,-27.056640625,34375. -76.44140625,-26.7890625,37500. -76.8115234375,-26.521484375,40625. -77.181640625,-26.25390625,43750. -77.5517578125,-25.986328125,46875. -77.921875,-25.71875,50000. -78.2919921875,-25.451171875,53125. -78.662109375,-25.18359375,56250. -79.0322265625,-24.916015625,59375. -79.40234375,-24.6484375,62500. -79.7724609375,-24.380859375,65625. -80.142578125,-24.11328125,68750. -80.5126953125,-23.845703125,71875. -80.8828125,-23.578125,75000. -81.2529296875,-23.310546875,78125. -81.623046875,-23.04296875,81250. -81.9931640625,-22.775390625,84375. -82.36328125,-22.5078125,87500. -82.7333984375,-22.240234375,90625. -83.103515625,-21.97265625,93750. -83.4736328125,-21.705078125,96875. -83.84375,-21.4375,100000. -84.2138671875,-21.169921875,103125. -84.583984375,-20.90234375,106250. -84.9541015625,-20.634765625,109375. -85.32421875,-20.3671875,112500. -85.6943359375,-20.099609375,115625. -86.064453125,-19.83203125,118750. -86.4345703125,-19.564453125,121875. -86.8046875,-19.296875,125000. -87.1748046875,-19.029296875,128125. -87.544921875,-18.76171875,131250. -87.9150390625,-18.494140625,134375. -88.28515625,-18.2265625,137500. -88.6552734375,-17.958984375,140625. -89.025390625,-17.69140625,143750. -89.3955078125,-17.423828125,146875. -89.765625,-17.15625,150000. -90.1357421875,-16.888671875,153125. -90.505859375,-16.62109375,156250. -90.8759765625,-16.353515625,159375. -91.24609375,-16.0859375,162500. -91.6162109375,-15.818359375,165625. -91.986328125,-15.55078125,168750. -92.3564453125,-15.283203125,171875. -92.7265625,-15.015625,175000. -93.0966796875,-14.748046875,178125. -93.466796875,-14.48046875,181250. -93.8369140625,-14.212890625,184375. -94.20703125,-13.9453125,187500. -94.5771484375,-13.677734375,190625. -94.947265625,-13.41015625,193750. -95.3173828125,-13.142578125,196875. -95.6875,-12.875,200000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_root"><visibility></visibility>
+<name>root</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-95.6875</longitude>
+<latitude>-12.875</latitude>
+<altitude>200000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_TA1">TA1</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_6">6</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><BallonStyle><textColor>FF000000</textColor>
+<bgColor>FFffffff</bgColor>
+</BallonStyle>
+<LineStyle id="ls_root"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="root"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-95.6875,-12.875,200000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates></coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+</Folder>
+</Folder>
+</Document>
+</kml>

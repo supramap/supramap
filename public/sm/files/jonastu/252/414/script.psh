@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/jonastu/252/Onco-1.16S.raw.fas")
+set(log: "/home/supramap/supramap/public/files/jonastu/252/414/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/jonastu/252/414/Onco-16S_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/jonastu/252/Supramap.Onco.16S.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/jonastu/252/414/Onco-16S_results.tre",trees)
+report("/home/supramap/supramap/public/files/jonastu/252/414/Onco-16S_results.stats",treestats)
+exit()

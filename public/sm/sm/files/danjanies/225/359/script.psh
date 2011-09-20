@@ -1,0 +1,8 @@
+read(prealigned:("/home/supramap/supramap/public/files/danjanies/225/data.fas", tcm:(1,1)))
+read("/home/supramap/supramap/public/files/danjanies/225/tree.tre")
+set(log: "/home/supramap/supramap/public/files/danjanies/225/359/poy.log")
+
+transform (static_approx)
+report("/home/supramap/supramap/public/files/danjanies/225/359/test_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/danjanies/225/locationsheader.csv"))
+
+exit()

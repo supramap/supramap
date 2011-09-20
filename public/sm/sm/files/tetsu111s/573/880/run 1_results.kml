@@ -1,0 +1,1649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <kml  xmlns="http://earth.google.com/kml/2.0">
+<Document><Name>POY analysis</Name>
+<Style id="00a"><IconStyle><scale>0.35</scale>
+<Icon><href>http://supramap.osu.edu/supramap/images/circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle><scale>0</scale>
+</LabelStyle>
+<LineStyle><width>1.5</width>
+</LineStyle>
+</Style>
+<Style id="00b"><IconStyle><scale>0.75</scale>
+<Icon><href>http://supramap.osu.edu/supramap/images/circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle></LabelStyle>
+<LineStyle><width>1.5</width>
+</LineStyle>
+</Style>
+<Style id="00c"><IconStyle><scale>0.95</scale>
+<Icon><href>http://supramap.osu.edu/supramap/images/circle.png</href>
+</Icon>
+</IconStyle>
+<LabelStyle></LabelStyle>
+<LineStyle><width>4</width>
+</LineStyle>
+</Style>
+<StyleMap id="00"><Pair><key>normal</key>
+<styleUrl>#00a</styleUrl>
+</Pair>
+<Pair><key>highlight</key>
+<styleUrl>#00c</styleUrl>
+</Pair>
+</StyleMap>
+<StyleMap id="01"><Pair><key>normal</key>
+<styleUrl>#00b</styleUrl>
+</Pair>
+<Pair><key>highlight</key>
+<styleUrl>#00c</styleUrl>
+</Pair>
+</StyleMap>
+<Folder><name>1</name>
+<Folder><name>Tree</name>
+<Placemark id="pm_U22521"><visibility></visibility>
+<name>U22521</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-77.036207</longitude>
+<latitude>38.897159</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_9">9</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_10">10</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_U22521"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="U22521"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0. -77.3615444336,38.8991337324,3125. -77.6868818672,38.9011084648,6250. -78.0122193008,38.9030831973,9375. -78.3375567344,38.9050579297,12500. -78.662894168,38.9070326621,15625. -78.9882316016,38.9090073945,18750. -79.3135690352,38.910982127,21875. -79.6389064688,38.9129568594,25000. -79.9642439023,38.9149315918,28125. -80.2895813359,38.9169063242,31250. -80.6149187695,38.9188810566,34375. -80.9402562031,38.9208557891,37500. -81.2655936367,38.9228305215,40625. -81.5909310703,38.9248052539,43750. -81.9162685039,38.9267799863,46875. -82.2416059375,38.9287547187,50000. -82.5669433711,38.9307294512,53125. -82.8922808047,38.9327041836,56250. -83.2176182383,38.934678916,59375. -83.5429556719,38.9366536484,62500. -83.8682931055,38.9386283809,65625. -84.1936305391,38.9406031133,68750. -84.5189679727,38.9425778457,71875. -84.8443054063,38.9445525781,75000. -85.1696428398,38.9465273105,78125. -85.4949802734,38.948502043,81250. -85.820317707,38.9504767754,84375. -86.1456551406,38.9524515078,87500. -86.4709925742,38.9544262402,90625. -86.7963300078,38.9564009727,93750. -87.1216674414,38.9583757051,96875. -87.447004875,38.9603504375,100000. -87.7723423086,38.9623251699,103125. -88.0976797422,38.9642999023,106250. -88.4230171758,38.9662746348,109375. -88.7483546094,38.9682493672,112500. -89.073692043,38.9702240996,115625. -89.3990294766,38.972198832,118750. -89.7243669102,38.9741735645,121875. -90.0497043437,38.9761482969,125000. -90.3750417773,38.9781230293,128125. -90.7003792109,38.9800977617,131250. -91.0257166445,38.9820724941,134375. -91.3510540781,38.9840472266,137500. -91.6763915117,38.986021959,140625. -92.0017289453,38.9879966914,143750. -92.3270663789,38.9899714238,146875. -92.6524038125,38.9919461563,150000. -92.9777412461,38.9939208887,153125. -93.3030786797,38.9958956211,156250. -93.6284161133,38.9978703535,159375. -93.9537535469,38.9998450859,162500. -94.2790909805,39.0018198184,165625. -94.6044284141,39.0037945508,168750. -94.9297658477,39.0057692832,171875. -95.2551032813,39.0077440156,175000. -95.5804407148,39.009718748,178125. -95.9057781484,39.0116934805,181250. -96.231115582,39.0136682129,184375. -96.5564530156,39.0156429453,187500. -96.8817904492,39.0176176777,190625. -97.2071278828,39.0195924102,193750. -97.5324653164,39.0215671426,196875. -97.85780275,39.023541875,200000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_E11636"><visibility></visibility>
+<name>E11636</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-77.036207</longitude>
+<latitude>38.897159</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_10">10</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_8">8</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_E11636"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="E11636"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0. -77.6868818672,38.9011084648,2343.75 -78.3375567344,38.9050579297,4687.5 -78.9882316016,38.9090073945,7031.25 -79.6389064688,38.9129568594,9375. -80.2895813359,38.9169063242,11718.75 -80.9402562031,38.9208557891,14062.5 -81.5909310703,38.9248052539,16406.25 -82.2416059375,38.9287547187,18750. -82.8922808047,38.9327041836,21093.75 -83.5429556719,38.9366536484,23437.5 -84.1936305391,38.9406031133,25781.25 -84.8443054063,38.9445525781,28125. -85.4949802734,38.948502043,30468.75 -86.1456551406,38.9524515078,32812.5 -86.7963300078,38.9564009727,35156.25 -87.447004875,38.9603504375,37500. -88.0976797422,38.9642999023,39843.75 -88.7483546094,38.9682493672,42187.5 -89.3990294766,38.972198832,44531.25 -90.0497043437,38.9761482969,46875. -90.7003792109,38.9800977617,49218.75 -91.3510540781,38.9840472266,51562.5 -92.0017289453,38.9879966914,53906.25 -92.6524038125,38.9919461563,56250. -93.3030786797,38.9958956211,58593.75 -93.9537535469,38.9998450859,60937.5 -94.6044284141,39.0037945508,63281.25 -95.2551032813,39.0077440156,65625. -95.9057781484,39.0116934805,67968.75 -96.5564530156,39.0156429453,70312.5 -97.2071278828,39.0195924102,72656.25 -97.85780275,39.023541875,75000. -98.5084776172,39.0274913398,77343.75 -99.1591524844,39.0314408047,79687.5 -99.8098273516,39.0353902695,82031.25 -100.460502219,39.0393397344,84375. -101.111177086,39.0432891992,86718.75 -101.761851953,39.0472386641,89062.5 -102.41252682,39.0511881289,91406.25 -103.063201687,39.0551375938,93750. -103.713876555,39.0590870586,96093.75 -104.364551422,39.0630365234,98437.5 -105.015226289,39.0669859883,100781.25 -105.665901156,39.0709354531,103125. -106.316576023,39.074884918,105468.75 -106.967250891,39.0788343828,107812.5 -107.617925758,39.0827838477,110156.25 -108.268600625,39.0867333125,112500. -108.919275492,39.0906827773,114843.75 -109.569950359,39.0946322422,117187.5 -110.220625227,39.098581707,119531.25 -110.871300094,39.1025311719,121875. -111.521974961,39.1064806367,124218.75 -112.172649828,39.1104301016,126562.5 -112.823324695,39.1143795664,128906.25 -113.473999562,39.1183290312,131250. -114.12467443,39.1222784961,133593.75 -114.775349297,39.1262279609,135937.5 -115.426024164,39.1301774258,138281.25 -116.076699031,39.1341268906,140625. -116.727373898,39.1380763555,142968.75 -117.378048766,39.1420258203,145312.5 -118.028723633,39.1459752852,147656.25 -118.6793985,39.14992475,150000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_GU434678"><visibility></visibility>
+<name>GU434678</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>116.391027</longitude>
+<latitude>39.908222</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>2009-7-8</begin>
+<end>2009-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_8">8</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_7">7</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:4</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:95</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:203</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_GU434678"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="GU434678"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>116.391027,39.908222,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>116.391027,39.908222,0. 117.692376734,39.9003230703,1562.5 118.993726469,39.8924241406,3125. 120.295076203,39.8845252109,4687.5 121.596425937,39.8766262812,6250. 122.897775672,39.8687273516,7812.5 124.199125406,39.8608284219,9375. 125.500475141,39.8529294922,10937.5 126.801824875,39.8450305625,12500. 128.103174609,39.8371316328,14062.5 129.404524344,39.8292327031,15625. 130.705874078,39.8213337734,17187.5 132.007223813,39.8134348438,18750. 133.308573547,39.8055359141,20312.5 134.609923281,39.7976369844,21875. 135.911273016,39.7897380547,23437.5 137.21262275,39.781839125,25000. 138.513972484,39.7739401953,26562.5 139.815322219,39.7660412656,28125. 141.116671953,39.7581423359,29687.5 142.418021688,39.7502434063,31250. 143.719371422,39.7423444766,32812.5 145.020721156,39.7344455469,34375. 146.322070891,39.7265466172,35937.5 147.623420625,39.7186476875,37500. 148.924770359,39.7107487578,39062.5 150.226120094,39.7028498281,40625. 151.527469828,39.6949508984,42187.5 152.828819563,39.6870519687,43750. 154.130169297,39.6791530391,45312.5 155.431519031,39.6712541094,46875. 156.732868766,39.6633551797,48437.5 158.0342185,39.65545625,50000. 159.335568234,39.6475573203,51562.5 160.636917969,39.6396583906,53125. 161.938267703,39.6317594609,54687.5 163.239617438,39.6238605313,56250. 164.540967172,39.6159616016,57812.5 165.842316906,39.6080626719,59375. 167.143666641,39.6001637422,60937.5 168.445016375,39.5922648125,62500. 169.746366109,39.5843658828,64062.5 171.047715844,39.5764669531,65625. 172.349065578,39.5685680234,67187.5 173.650415313,39.5606690938,68750. 174.951765047,39.5527701641,70312.5 176.253114781,39.5448712344,71875. 177.554464516,39.5369723047,73437.5 178.85581425,39.529073375,75000. -179.842836016,39.5211744453,76562.5 -178.541486281,39.5132755156,78125. -177.240136547,39.5053765859,79687.5 -175.938786812,39.4974776562,81250. -174.637437078,39.4895787266,82812.5 -173.336087344,39.4816797969,84375. -172.034737609,39.4737808672,85937.5 -170.733387875,39.4658819375,87500. -169.432038141,39.4579830078,89062.5 -168.130688406,39.4500840781,90625. -166.829338672,39.4421851484,92187.5 -165.527988937,39.4342862188,93750. -164.226639203,39.4263872891,95312.5 -162.925289469,39.4184883594,96875. -161.623939734,39.4105894297,98437.5 -160.32259,39.4026905,100000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_X87606"><visibility></visibility>
+<name>X87606</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-77.036207</longitude>
+<latitude>38.897159</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_7">7</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_AB204853">AB204853</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:1</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:2</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:4</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:7</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:9</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:10</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:11</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:13</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:20</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:22</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:24</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:27</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:30</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:31</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:33</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:34</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:35</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:37</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:40</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:43</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:44</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:45</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:48</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:49</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:52</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:54</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:55</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:57</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:60</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:63</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:65</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:69</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:70</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:75</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:76</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:77</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:83</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:86</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:87</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:89</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:97</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:98</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:100</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:101</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:103</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:104</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:105</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:106</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:109</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:112</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:114</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:117</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:119</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:120</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:126</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:129</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:130</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:132</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:133</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:135</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:139</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:140</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:141</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:142</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:145</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:147</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:149</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:153</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:154</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:156</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:159</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:163</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:165</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:166</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:170</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:171</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:173</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:175</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:177</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:178</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:181</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:185</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:186</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:187</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:189</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:192</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:194</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:195</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:198</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:200</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:202</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:204</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:206</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:209</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:211</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ins</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:214</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:215</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:216</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:218</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:220</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:222</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Tv</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:224</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:226</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:227</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">A</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:229</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">G</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">-</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Del</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_X87606"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="X87606"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0. -77.036207,38.897159,781.25 -77.036207,38.897159,1562.5 -77.036207,38.897159,2343.75 -77.036207,38.897159,3125. -77.036207,38.897159,3906.25 -77.036207,38.897159,4687.5 -77.036207,38.897159,5468.75 -77.036207,38.897159,6250. -77.036207,38.897159,7031.25 -77.036207,38.897159,7812.5 -77.036207,38.897159,8593.75 -77.036207,38.897159,9375. -77.036207,38.897159,10156.25 -77.036207,38.897159,10937.5 -77.036207,38.897159,11718.75 -77.036207,38.897159,12500. -77.036207,38.897159,13281.25 -77.036207,38.897159,14062.5 -77.036207,38.897159,14843.75 -77.036207,38.897159,15625. -77.036207,38.897159,16406.25 -77.036207,38.897159,17187.5 -77.036207,38.897159,17968.75 -77.036207,38.897159,18750. -77.036207,38.897159,19531.25 -77.036207,38.897159,20312.5 -77.036207,38.897159,21093.75 -77.036207,38.897159,21875. -77.036207,38.897159,22656.25 -77.036207,38.897159,23437.5 -77.036207,38.897159,24218.75 -77.036207,38.897159,25000. -77.036207,38.897159,25781.25 -77.036207,38.897159,26562.5 -77.036207,38.897159,27343.75 -77.036207,38.897159,28125. -77.036207,38.897159,28906.25 -77.036207,38.897159,29687.5 -77.036207,38.897159,30468.75 -77.036207,38.897159,31250. -77.036207,38.897159,32031.25 -77.036207,38.897159,32812.5 -77.036207,38.897159,33593.75 -77.036207,38.897159,34375. -77.036207,38.897159,35156.25 -77.036207,38.897159,35937.5 -77.036207,38.897159,36718.75 -77.036207,38.897159,37500. -77.036207,38.897159,38281.25 -77.036207,38.897159,39062.5 -77.036207,38.897159,39843.75 -77.036207,38.897159,40625. -77.036207,38.897159,41406.25 -77.036207,38.897159,42187.5 -77.036207,38.897159,42968.75 -77.036207,38.897159,43750. -77.036207,38.897159,44531.25 -77.036207,38.897159,45312.5 -77.036207,38.897159,46093.75 -77.036207,38.897159,46875. -77.036207,38.897159,47656.25 -77.036207,38.897159,48437.5 -77.036207,38.897159,49218.75 -77.036207,38.897159,50000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_AB204853"><visibility></visibility>
+<name>AB204853</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-77.036207</longitude>
+<latitude>38.897159</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_7">7</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_X87606">X87606</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_AB204853"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="AB204853"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0. -77.036207,38.897159,781.25 -77.036207,38.897159,1562.5 -77.036207,38.897159,2343.75 -77.036207,38.897159,3125. -77.036207,38.897159,3906.25 -77.036207,38.897159,4687.5 -77.036207,38.897159,5468.75 -77.036207,38.897159,6250. -77.036207,38.897159,7031.25 -77.036207,38.897159,7812.5 -77.036207,38.897159,8593.75 -77.036207,38.897159,9375. -77.036207,38.897159,10156.25 -77.036207,38.897159,10937.5 -77.036207,38.897159,11718.75 -77.036207,38.897159,12500. -77.036207,38.897159,13281.25 -77.036207,38.897159,14062.5 -77.036207,38.897159,14843.75 -77.036207,38.897159,15625. -77.036207,38.897159,16406.25 -77.036207,38.897159,17187.5 -77.036207,38.897159,17968.75 -77.036207,38.897159,18750. -77.036207,38.897159,19531.25 -77.036207,38.897159,20312.5 -77.036207,38.897159,21093.75 -77.036207,38.897159,21875. -77.036207,38.897159,22656.25 -77.036207,38.897159,23437.5 -77.036207,38.897159,24218.75 -77.036207,38.897159,25000. -77.036207,38.897159,25781.25 -77.036207,38.897159,26562.5 -77.036207,38.897159,27343.75 -77.036207,38.897159,28125. -77.036207,38.897159,28906.25 -77.036207,38.897159,29687.5 -77.036207,38.897159,30468.75 -77.036207,38.897159,31250. -77.036207,38.897159,32031.25 -77.036207,38.897159,32812.5 -77.036207,38.897159,33593.75 -77.036207,38.897159,34375. -77.036207,38.897159,35156.25 -77.036207,38.897159,35937.5 -77.036207,38.897159,36718.75 -77.036207,38.897159,37500. -77.036207,38.897159,38281.25 -77.036207,38.897159,39062.5 -77.036207,38.897159,39843.75 -77.036207,38.897159,40625. -77.036207,38.897159,41406.25 -77.036207,38.897159,42187.5 -77.036207,38.897159,42968.75 -77.036207,38.897159,43750. -77.036207,38.897159,44531.25 -77.036207,38.897159,45312.5 -77.036207,38.897159,46093.75 -77.036207,38.897159,46875. -77.036207,38.897159,47656.25 -77.036207,38.897159,48437.5 -77.036207,38.897159,49218.75 -77.036207,38.897159,50000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_7"><visibility></visibility>
+<name>7</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-77.036207</longitude>
+<latitude>38.897159</latitude>
+<altitude>50000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_8">8</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_GU434678">GU434678</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_AB204853">AB204853</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_X87606">X87606</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+<tr><td align="left" bgcolor="#FFFFFF">GA-6.fas:ia:118</td>
+<td align="left" bgcolor="#E1E1E1"><font size="+1">C</font>
+</td>
+<td align="left" bgcolor="#FFFFFF"><font size="+1">T</font>
+</td>
+<td align="left" bgcolor="#E1E1E1">Ti</td>
+<td align="left" bgcolor="#FFFFFF">1.</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_7"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="7"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,50000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,50000. -78.3375567344,38.9050579297,50781.25 -79.6389064688,38.9129568594,51562.5 -80.9402562031,38.9208557891,52343.75 -82.2416059375,38.9287547187,53125. -83.5429556719,38.9366536484,53906.25 -84.8443054063,38.9445525781,54687.5 -86.1456551406,38.9524515078,55468.75 -87.447004875,38.9603504375,56250. -88.7483546094,38.9682493672,57031.25 -90.0497043437,38.9761482969,57812.5 -91.3510540781,38.9840472266,58593.75 -92.6524038125,38.9919461563,59375. -93.9537535469,38.9998450859,60156.25 -95.2551032813,39.0077440156,60937.5 -96.5564530156,39.0156429453,61718.75 -97.85780275,39.023541875,62500. -99.1591524844,39.0314408047,63281.25 -100.460502219,39.0393397344,64062.5 -101.761851953,39.0472386641,64843.75 -103.063201687,39.0551375938,65625. -104.364551422,39.0630365234,66406.25 -105.665901156,39.0709354531,67187.5 -106.967250891,39.0788343828,67968.75 -108.268600625,39.0867333125,68750. -109.569950359,39.0946322422,69531.25 -110.871300094,39.1025311719,70312.5 -112.172649828,39.1104301016,71093.75 -113.473999562,39.1183290312,71875. -114.775349297,39.1262279609,72656.25 -116.076699031,39.1341268906,73437.5 -117.378048766,39.1420258203,74218.75 -118.6793985,39.14992475,75000. -119.980748234,39.1578236797,75781.25 -121.282097969,39.1657226094,76562.5 -122.583447703,39.1736215391,77343.75 -123.884797437,39.1815204688,78125. -125.186147172,39.1894193984,78906.25 -126.487496906,39.1973183281,79687.5 -127.788846641,39.2052172578,80468.75 -129.090196375,39.2131161875,81250. -130.391546109,39.2210151172,82031.25 -131.692895844,39.2289140469,82812.5 -132.994245578,39.2368129766,83593.75 -134.295595312,39.2447119063,84375. -135.596945047,39.2526108359,85156.25 -136.898294781,39.2605097656,85937.5 -138.199644516,39.2684086953,86718.75 -139.50099425,39.276307625,87500. -140.802343984,39.2842065547,88281.25 -142.103693719,39.2921054844,89062.5 -143.405043453,39.3000044141,89843.75 -144.706393187,39.3079033437,90625. -146.007742922,39.3158022734,91406.25 -147.309092656,39.3237012031,92187.5 -148.610442391,39.3316001328,92968.75 -149.911792125,39.3394990625,93750. -151.213141859,39.3473979922,94531.25 -152.514491594,39.3552969219,95312.5 -153.815841328,39.3631958516,96093.75 -155.117191062,39.3710947813,96875. -156.418540797,39.3789937109,97656.25 -157.719890531,39.3868926406,98437.5 -159.021240266,39.3947915703,99218.75 -160.32259,39.4026905,100000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_8"><visibility></visibility>
+<name>8</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-160.32259</longitude>
+<latitude>39.4026905</latitude>
+<altitude>100000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_10">10</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_E11636">E11636</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_7">7</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_GU434678">GU434678</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_8"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="8"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-160.32259,39.4026905,100000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-160.32259,39.4026905,100000. -159.671915133,39.3987410352,100781.25 -159.021240266,39.3947915703,101562.5 -158.370565398,39.3908421055,102343.75 -157.719890531,39.3868926406,103125. -157.069215664,39.3829431758,103906.25 -156.418540797,39.3789937109,104687.5 -155.76786593,39.3750442461,105468.75 -155.117191062,39.3710947813,106250. -154.466516195,39.3671453164,107031.25 -153.815841328,39.3631958516,107812.5 -153.165166461,39.3592463867,108593.75 -152.514491594,39.3552969219,109375. -151.863816727,39.351347457,110156.25 -151.213141859,39.3473979922,110937.5 -150.562466992,39.3434485273,111718.75 -149.911792125,39.3394990625,112500. -149.261117258,39.3355495977,113281.25 -148.610442391,39.3316001328,114062.5 -147.959767523,39.327650668,114843.75 -147.309092656,39.3237012031,115625. -146.658417789,39.3197517383,116406.25 -146.007742922,39.3158022734,117187.5 -145.357068055,39.3118528086,117968.75 -144.706393187,39.3079033437,118750. -144.05571832,39.3039538789,119531.25 -143.405043453,39.3000044141,120312.5 -142.754368586,39.2960549492,121093.75 -142.103693719,39.2921054844,121875. -141.453018852,39.2881560195,122656.25 -140.802343984,39.2842065547,123437.5 -140.151669117,39.2802570898,124218.75 -139.50099425,39.276307625,125000. -138.850319383,39.2723581602,125781.25 -138.199644516,39.2684086953,126562.5 -137.548969648,39.2644592305,127343.75 -136.898294781,39.2605097656,128125. -136.247619914,39.2565603008,128906.25 -135.596945047,39.2526108359,129687.5 -134.94627018,39.2486613711,130468.75 -134.295595312,39.2447119063,131250. -133.644920445,39.2407624414,132031.25 -132.994245578,39.2368129766,132812.5 -132.343570711,39.2328635117,133593.75 -131.692895844,39.2289140469,134375. -131.042220977,39.224964582,135156.25 -130.391546109,39.2210151172,135937.5 -129.740871242,39.2170656523,136718.75 -129.090196375,39.2131161875,137500. -128.439521508,39.2091667227,138281.25 -127.788846641,39.2052172578,139062.5 -127.138171773,39.201267793,139843.75 -126.487496906,39.1973183281,140625. -125.836822039,39.1933688633,141406.25 -125.186147172,39.1894193984,142187.5 -124.535472305,39.1854699336,142968.75 -123.884797437,39.1815204688,143750. -123.23412257,39.1775710039,144531.25 -122.583447703,39.1736215391,145312.5 -121.932772836,39.1696720742,146093.75 -121.282097969,39.1657226094,146875. -120.631423102,39.1617731445,147656.25 -119.980748234,39.1578236797,148437.5 -119.330073367,39.1538742148,149218.75 -118.6793985,39.14992475,150000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_10"><visibility></visibility>
+<name>10</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-118.6793985</longitude>
+<latitude>39.14992475</latitude>
+<altitude>150000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_9">9</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_U22521">U22521</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_8">8</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_E11636">E11636</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_10"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="10"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-118.6793985,39.14992475,150000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-118.6793985,39.14992475,150000. -118.354061066,39.1479500176,150781.25 -118.028723633,39.1459752852,151562.5 -117.703386199,39.1440005527,152343.75 -117.378048766,39.1420258203,153125. -117.052711332,39.1400510879,153906.25 -116.727373898,39.1380763555,154687.5 -116.402036465,39.136101623,155468.75 -116.076699031,39.1341268906,156250. -115.751361598,39.1321521582,157031.25 -115.426024164,39.1301774258,157812.5 -115.10068673,39.1282026934,158593.75 -114.775349297,39.1262279609,159375. -114.450011863,39.1242532285,160156.25 -114.12467443,39.1222784961,160937.5 -113.799336996,39.1203037637,161718.75 -113.473999562,39.1183290312,162500. -113.148662129,39.1163542988,163281.25 -112.823324695,39.1143795664,164062.5 -112.497987262,39.112404834,164843.75 -112.172649828,39.1104301016,165625. -111.847312395,39.1084553691,166406.25 -111.521974961,39.1064806367,167187.5 -111.196637527,39.1045059043,167968.75 -110.871300094,39.1025311719,168750. -110.54596266,39.1005564395,169531.25 -110.220625227,39.098581707,170312.5 -109.895287793,39.0966069746,171093.75 -109.569950359,39.0946322422,171875. -109.244612926,39.0926575098,172656.25 -108.919275492,39.0906827773,173437.5 -108.593938059,39.0887080449,174218.75 -108.268600625,39.0867333125,175000. -107.943263191,39.0847585801,175781.25 -107.617925758,39.0827838477,176562.5 -107.292588324,39.0808091152,177343.75 -106.967250891,39.0788343828,178125. -106.641913457,39.0768596504,178906.25 -106.316576023,39.074884918,179687.5 -105.99123859,39.0729101855,180468.75 -105.665901156,39.0709354531,181250. -105.340563723,39.0689607207,182031.25 -105.015226289,39.0669859883,182812.5 -104.689888855,39.0650112559,183593.75 -104.364551422,39.0630365234,184375. -104.039213988,39.061061791,185156.25 -103.713876555,39.0590870586,185937.5 -103.388539121,39.0571123262,186718.75 -103.063201687,39.0551375938,187500. -102.737864254,39.0531628613,188281.25 -102.41252682,39.0511881289,189062.5 -102.087189387,39.0492133965,189843.75 -101.761851953,39.0472386641,190625. -101.43651452,39.0452639316,191406.25 -101.111177086,39.0432891992,192187.5 -100.785839652,39.0413144668,192968.75 -100.460502219,39.0393397344,193750. -100.135164785,39.037365002,194531.25 -99.8098273516,39.0353902695,195312.5 -99.484489918,39.0334155371,196093.75 -99.1591524844,39.0314408047,196875. -98.8338150508,39.0294660723,197656.25 -98.5084776172,39.0274913398,198437.5 -98.1831401836,39.0255166074,199218.75 -97.85780275,39.023541875,200000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_9"><visibility></visibility>
+<name>9</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-97.85780275</longitude>
+<latitude>39.023541875</latitude>
+<altitude>200000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_root">root</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_AB204852">AB204852</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_10">10</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_U22521">U22521</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_9"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="9"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-97.85780275,39.023541875,200000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-97.85780275,39.023541875,200000. -97.6951340332,39.0225545088,200781.25 -97.5324653164,39.0215671426,201562.5 -97.3697965996,39.0205797764,202343.75 -97.2071278828,39.0195924102,203125. -97.044459166,39.0186050439,203906.25 -96.8817904492,39.0176176777,204687.5 -96.7191217324,39.0166303115,205468.75 -96.5564530156,39.0156429453,206250. -96.3937842988,39.0146555791,207031.25 -96.231115582,39.0136682129,207812.5 -96.0684468652,39.0126808467,208593.75 -95.9057781484,39.0116934805,209375. -95.7431094316,39.0107061143,210156.25 -95.5804407148,39.009718748,210937.5 -95.417771998,39.0087313818,211718.75 -95.2551032813,39.0077440156,212500. -95.0924345645,39.0067566494,213281.25 -94.9297658477,39.0057692832,214062.5 -94.7670971309,39.004781917,214843.75 -94.6044284141,39.0037945508,215625. -94.4417596973,39.0028071846,216406.25 -94.2790909805,39.0018198184,217187.5 -94.1164222637,39.0008324521,217968.75 -93.9537535469,38.9998450859,218750. -93.7910848301,38.9988577197,219531.25 -93.6284161133,38.9978703535,220312.5 -93.4657473965,38.9968829873,221093.75 -93.3030786797,38.9958956211,221875. -93.1404099629,38.9949082549,222656.25 -92.9777412461,38.9939208887,223437.5 -92.8150725293,38.9929335225,224218.75 -92.6524038125,38.9919461563,225000. -92.4897350957,38.99095879,225781.25 -92.3270663789,38.9899714238,226562.5 -92.1643976621,38.9889840576,227343.75 -92.0017289453,38.9879966914,228125. -91.8390602285,38.9870093252,228906.25 -91.6763915117,38.986021959,229687.5 -91.5137227949,38.9850345928,230468.75 -91.3510540781,38.9840472266,231250. -91.1883853613,38.9830598604,232031.25 -91.0257166445,38.9820724941,232812.5 -90.8630479277,38.9810851279,233593.75 -90.7003792109,38.9800977617,234375. -90.5377104941,38.9791103955,235156.25 -90.3750417773,38.9781230293,235937.5 -90.2123730605,38.9771356631,236718.75 -90.0497043437,38.9761482969,237500. -89.887035627,38.9751609307,238281.25 -89.7243669102,38.9741735645,239062.5 -89.5616981934,38.9731861982,239843.75 -89.3990294766,38.972198832,240625. -89.2363607598,38.9712114658,241406.25 -89.073692043,38.9702240996,242187.5 -88.9110233262,38.9692367334,242968.75 -88.7483546094,38.9682493672,243750. -88.5856858926,38.967262001,244531.25 -88.4230171758,38.9662746348,245312.5 -88.260348459,38.9652872686,246093.75 -88.0976797422,38.9642999023,246875. -87.9350110254,38.9633125361,247656.25 -87.7723423086,38.9623251699,248437.5 -87.6096735918,38.9613378037,249218.75 -87.447004875,38.9603504375,250000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_AB204852"><visibility></visibility>
+<name>AB204852</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-77.036207</longitude>
+<latitude>38.897159</latitude>
+<altitude>0.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Ancestor:</font>
+</td>
+<td><a href="#pm_root">root</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Sister:</font>
+</td>
+<td><a href="#pm_9">9</a>
+</td>
+</tr>
+</table>
+</td>
+<td><table border="0" align="left"><font color="#A4BFDB"><tr><td colspan="3" align="left"><b><font size="+2" color="#000000">Transformations</font>
+</b>
+</td>
+<tr><td align="left" bgcolor="#FFFFFF"><i>Position</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Ancestor</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Descendant</i>
+</td>
+<td align="left" bgcolor="#E1E1E1"><i>Type</i>
+</td>
+<td align="left" bgcolor="#FFFFFF"><i>Cost</i>
+</td>
+</tr>
+</tr>
+</font>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><LineStyle id="ls_AB204852"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="AB204852"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-77.036207,38.897159,0. -77.1988757168,38.8981463662,3906.25 -77.3615444336,38.8991337324,7812.5 -77.5242131504,38.9001210986,11718.75 -77.6868818672,38.9011084648,15625. -77.849550584,38.9020958311,19531.25 -78.0122193008,38.9030831973,23437.5 -78.1748880176,38.9040705635,27343.75 -78.3375567344,38.9050579297,31250. -78.5002254512,38.9060452959,35156.25 -78.662894168,38.9070326621,39062.5 -78.8255628848,38.9080200283,42968.75 -78.9882316016,38.9090073945,46875. -79.1509003184,38.9099947607,50781.25 -79.3135690352,38.910982127,54687.5 -79.476237752,38.9119694932,58593.75 -79.6389064688,38.9129568594,62500. -79.8015751855,38.9139442256,66406.25 -79.9642439023,38.9149315918,70312.5 -80.1269126191,38.915918958,74218.75 -80.2895813359,38.9169063242,78125. -80.4522500527,38.9178936904,82031.25 -80.6149187695,38.9188810566,85937.5 -80.7775874863,38.9198684229,89843.75 -80.9402562031,38.9208557891,93750. -81.1029249199,38.9218431553,97656.25 -81.2655936367,38.9228305215,101562.5 -81.4282623535,38.9238178877,105468.75 -81.5909310703,38.9248052539,109375. -81.7535997871,38.9257926201,113281.25 -81.9162685039,38.9267799863,117187.5 -82.0789372207,38.9277673525,121093.75 -82.2416059375,38.9287547187,125000. -82.4042746543,38.929742085,128906.25 -82.5669433711,38.9307294512,132812.5 -82.7296120879,38.9317168174,136718.75 -82.8922808047,38.9327041836,140625. -83.0549495215,38.9336915498,144531.25 -83.2176182383,38.934678916,148437.5 -83.3802869551,38.9356662822,152343.75 -83.5429556719,38.9366536484,156250. -83.7056243887,38.9376410146,160156.25 -83.8682931055,38.9386283809,164062.5 -84.0309618223,38.9396157471,167968.75 -84.1936305391,38.9406031133,171875. -84.3562992559,38.9415904795,175781.25 -84.5189679727,38.9425778457,179687.5 -84.6816366895,38.9435652119,183593.75 -84.8443054063,38.9445525781,187500. -85.006974123,38.9455399443,191406.25 -85.1696428398,38.9465273105,195312.5 -85.3323115566,38.9475146768,199218.75 -85.4949802734,38.948502043,203125. -85.6576489902,38.9494894092,207031.25 -85.820317707,38.9504767754,210937.5 -85.9829864238,38.9514641416,214843.75 -86.1456551406,38.9524515078,218750. -86.3083238574,38.953438874,222656.25 -86.4709925742,38.9544262402,226562.5 -86.633661291,38.9554136064,230468.75 -86.7963300078,38.9564009727,234375. -86.9589987246,38.9573883389,238281.25 -87.1216674414,38.9583757051,242187.5 -87.2843361582,38.9593630713,246093.75 -87.447004875,38.9603504375,250000.</coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+<Placemark id="pm_root"><visibility></visibility>
+<name>root</name>
+<Snippet maxLines="0">empty</Snippet>
+<LookAt><longitude>-87.447004875</longitude>
+<latitude>38.9603504375</latitude>
+<altitude>250000.</altitude>
+<range>500</range>
+<tilt>10</tilt>
+<heading>0</heading>
+</LookAt>
+<TimeSpan><begin>1970-7-8</begin>
+<end>1970-7-8</end>
+</TimeSpan>
+<description><![CDATA[<text><body bgcolor="#ffffff"><table width="400"><tr><td><table><tr><td colspan="2" align="center"><b><font size="+2" color="#000000">Family Summary</font>
+</b>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_AB204852">AB204852</a>
+</td>
+</tr>
+<tr><td align="right"><font size="+1">Descendant:</font>
+</td>
+<td><a href="#pm_9">9</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</text>
+]]></description>
+<styleUrl>#00</styleUrl>
+<Style><BallonStyle><textColor>FF000000</textColor>
+<bgColor>FFffffff</bgColor>
+</BallonStyle>
+<LineStyle id="ls_root"><color>FFffffff</color>
+</LineStyle>
+</Style>
+<MultiGeometry><Point id="root"><altitudeMode>relativeToGround</altitudeMode>
+<coordinates>-87.447004875,38.9603504375,250000.</coordinates>
+</Point>
+<LineString><altitudeMode>relativeToGround</altitudeMode>
+<coordinates></coordinates>
+</LineString>
+</MultiGeometry>
+</Placemark>
+</Folder>
+</Folder>
+</Document>
+</kml>

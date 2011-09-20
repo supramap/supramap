@@ -1,0 +1,14 @@
+read(prealigned: ("vp1-GABC139.fas", tcm:(1,1)))
+
+set(log: "poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:5, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("vp1-139_results.kml", kml:(supramap, "comp139.csv"))
+
+report(asciitrees)
+report("vp1-139_results.tre",trees)
+report("vp1-139_results.stats",treestats)
+exit()

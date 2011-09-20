@@ -1,0 +1,1041 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 24 -- Wagner tree with cost 471.
+Status : Wagner : 3 of 24 -- Wagner tree with cost 472.
+Status : Wagner : 4 of 24 -- Wagner tree with cost 1020.
+Status : Wagner : 5 of 24 -- Wagner tree with cost 1022.
+Status : Wagner : 6 of 24 -- Wagner tree with cost 1034.
+Status : Wagner : 7 of 24 -- Wagner tree with cost 1397.
+Status : Wagner : 8 of 24 -- Wagner tree with cost 1445.
+Status : Wagner : 9 of 24 -- Wagner tree with cost 1448.
+Status : Wagner : 10 of 24 -- Wagner tree with cost 1449.
+Status : Wagner : 11 of 24 -- Wagner tree with cost 1451.
+Status : Wagner : 12 of 24 -- Wagner tree with cost 1452.
+Status : Wagner : 13 of 24 -- Wagner tree with cost 1452.
+Status : Wagner : 14 of 24 -- Wagner tree with cost 1452.
+Status : Wagner : 15 of 24 -- Wagner tree with cost 1452.
+Status : Wagner : 16 of 24 -- Wagner tree with cost 1452.
+Status : Wagner : 17 of 24 -- Wagner tree with cost 1464.
+Status : Wagner : 18 of 24 -- Wagner tree with cost 1465.
+Status : Wagner : 19 of 24 -- Wagner tree with cost 1476.
+Status : Wagner : 20 of 24 -- Wagner tree with cost 1479.
+Status : Wagner : 21 of 24 -- Wagner tree with cost 1480.
+Status : Wagner : 22 of 24 -- Wagner tree with cost 1480.
+Status : Wagner : 23 of 24 -- Wagner tree with cost 1481.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 1454 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 1454.; Time left: 2 m, 21 s; Hits: 1
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Implied Alignments : 1 of 47 -- vertices calculated
+Status : Implied Alignments : 2 of 47 -- vertices calculated
+Status : Implied Alignments : 3 of 47 -- vertices calculated
+Status : Implied Alignments : 4 of 47 -- vertices calculated
+Status : Implied Alignments : 5 of 47 -- vertices calculated
+Status : Implied Alignments : 6 of 47 -- vertices calculated
+Status : Implied Alignments : 7 of 47 -- vertices calculated
+Status : Implied Alignments : 8 of 47 -- vertices calculated
+Status : Implied Alignments : 9 of 47 -- vertices calculated
+Status : Implied Alignments : 10 of 47 -- vertices calculated
+Status : Implied Alignments : 11 of 47 -- vertices calculated
+Status : Implied Alignments : 12 of 47 -- vertices calculated
+Status : Implied Alignments : 13 of 47 -- vertices calculated
+Status : Implied Alignments : 14 of 47 -- vertices calculated
+Status : Implied Alignments : 15 of 47 -- vertices calculated
+Status : Implied Alignments : 16 of 47 -- vertices calculated
+Status : Implied Alignments : 17 of 47 -- vertices calculated
+Status : Implied Alignments : 18 of 47 -- vertices calculated
+Status : Implied Alignments : 19 of 47 -- vertices calculated
+Status : Implied Alignments : 20 of 47 -- vertices calculated
+Status : Implied Alignments : 21 of 47 -- vertices calculated
+Status : Implied Alignments : 22 of 47 -- vertices calculated
+Status : Implied Alignments : 23 of 47 -- vertices calculated
+Status : Implied Alignments : 24 of 47 -- vertices calculated
+Status : Implied Alignments : 25 of 47 -- vertices calculated
+Status : Implied Alignments : 26 of 47 -- vertices calculated
+Status : Implied Alignments : 27 of 47 -- vertices calculated
+Status : Implied Alignments : 28 of 47 -- vertices calculated
+Status : Implied Alignments : 29 of 47 -- vertices calculated
+Status : Implied Alignments : 30 of 47 -- vertices calculated
+Status : Implied Alignments : 31 of 47 -- vertices calculated
+Status : Implied Alignments : 32 of 47 -- vertices calculated
+Status : Implied Alignments : 33 of 47 -- vertices calculated
+Status : Implied Alignments : 34 of 47 -- vertices calculated
+Status : Implied Alignments : 35 of 47 -- vertices calculated
+Status : Implied Alignments : 36 of 47 -- vertices calculated
+Status : Implied Alignments : 37 of 47 -- vertices calculated
+Status : Implied Alignments : 38 of 47 -- vertices calculated
+Status : Implied Alignments : 39 of 47 -- vertices calculated
+Status : Implied Alignments : 40 of 47 -- vertices calculated
+Status : Implied Alignments : 41 of 47 -- vertices calculated
+Status : Implied Alignments : 42 of 47 -- vertices calculated
+Status : Implied Alignments : 43 of 47 -- vertices calculated
+Status : Implied Alignments : 44 of 47 -- vertices calculated
+Status : Implied Alignments : 45 of 47 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters : 0 of 24 -- Storing the character specifications
+Status : Loading Characters : 1 of 24 -- Storing the character specifications
+Status : Loading Characters : 2 of 24 -- Storing the character specifications
+Status : Loading Characters : 3 of 24 -- Storing the character specifications
+Status : Loading Characters : 4 of 24 -- Storing the character specifications
+Status : Loading Characters : 5 of 24 -- Storing the character specifications
+Status : Loading Characters : 6 of 24 -- Storing the character specifications
+Status : Loading Characters : 7 of 24 -- Storing the character specifications
+Status : Loading Characters : 8 of 24 -- Storing the character specifications
+Status : Loading Characters : 9 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 24 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1824 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1819 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1808 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1775 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Automated Search : 0 Best tree: 1454.; Time left: 2 m, 8 s; Hits: 2
+Status : RAS + TBR : 0 Searching on tree number 2
+Status : Wagner : 2 of 24 -- Wagner tree with cost 29.
+Status : Wagner : 3 of 24 -- Wagner tree with cost 32.
+Status : Wagner : 4 of 24 -- Wagner tree with cost 32.
+Status : Wagner : 5 of 24 -- Wagner tree with cost 34.
+Status : Wagner : 6 of 24 -- Wagner tree with cost 44.
+Status : Wagner : 7 of 24 -- Wagner tree with cost 46.
+Status : Wagner : 8 of 24 -- Wagner tree with cost 47.
+Status : Wagner : 9 of 24 -- Wagner tree with cost 48.
+Status : Wagner : 10 of 24 -- Wagner tree with cost 48.
+Status : Wagner : 11 of 24 -- Wagner tree with cost 507.
+Status : Wagner : 12 of 24 -- Wagner tree with cost 856.
+Status : Wagner : 13 of 24 -- Wagner tree with cost 856.
+Status : Wagner : 14 of 24 -- Wagner tree with cost 856.
+Status : Wagner : 15 of 24 -- Wagner tree with cost 898.
+Status : Wagner : 16 of 24 -- Wagner tree with cost 900.
+Status : Wagner : 17 of 24 -- Wagner tree with cost 906.
+Status : Wagner : 18 of 24 -- Wagner tree with cost 906.
+Status : Wagner : 19 of 24 -- Wagner tree with cost 911.
+Status : Wagner : 20 of 24 -- Wagner tree with cost 911.
+Status : Wagner : 21 of 24 -- Wagner tree with cost 1462.
+Status : Wagner : 22 of 24 -- Wagner tree with cost 1464.
+Status : Wagner : 23 of 24 -- Wagner tree with cost 1465.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 1454 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   28 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 1454.; Time left: 1 m, 24 s; Hits: 3
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Implied Alignments : 1 of 47 -- vertices calculated
+Status : Implied Alignments : 2 of 47 -- vertices calculated
+Status : Implied Alignments : 3 of 47 -- vertices calculated
+Status : Implied Alignments : 4 of 47 -- vertices calculated
+Status : Implied Alignments : 5 of 47 -- vertices calculated
+Status : Implied Alignments : 6 of 47 -- vertices calculated
+Status : Implied Alignments : 7 of 47 -- vertices calculated
+Status : Implied Alignments : 8 of 47 -- vertices calculated
+Status : Implied Alignments : 9 of 47 -- vertices calculated
+Status : Implied Alignments : 10 of 47 -- vertices calculated
+Status : Implied Alignments : 11 of 47 -- vertices calculated
+Status : Implied Alignments : 12 of 47 -- vertices calculated
+Status : Implied Alignments : 13 of 47 -- vertices calculated
+Status : Implied Alignments : 14 of 47 -- vertices calculated
+Status : Implied Alignments : 15 of 47 -- vertices calculated
+Status : Implied Alignments : 16 of 47 -- vertices calculated
+Status : Implied Alignments : 17 of 47 -- vertices calculated
+Status : Implied Alignments : 18 of 47 -- vertices calculated
+Status : Implied Alignments : 19 of 47 -- vertices calculated
+Status : Implied Alignments : 20 of 47 -- vertices calculated
+Status : Implied Alignments : 21 of 47 -- vertices calculated
+Status : Implied Alignments : 22 of 47 -- vertices calculated
+Status : Implied Alignments : 23 of 47 -- vertices calculated
+Status : Implied Alignments : 24 of 47 -- vertices calculated
+Status : Implied Alignments : 25 of 47 -- vertices calculated
+Status : Implied Alignments : 26 of 47 -- vertices calculated
+Status : Implied Alignments : 27 of 47 -- vertices calculated
+Status : Implied Alignments : 28 of 47 -- vertices calculated
+Status : Implied Alignments : 29 of 47 -- vertices calculated
+Status : Implied Alignments : 30 of 47 -- vertices calculated
+Status : Implied Alignments : 31 of 47 -- vertices calculated
+Status : Implied Alignments : 32 of 47 -- vertices calculated
+Status : Implied Alignments : 33 of 47 -- vertices calculated
+Status : Implied Alignments : 34 of 47 -- vertices calculated
+Status : Implied Alignments : 35 of 47 -- vertices calculated
+Status : Implied Alignments : 36 of 47 -- vertices calculated
+Status : Implied Alignments : 37 of 47 -- vertices calculated
+Status : Implied Alignments : 38 of 47 -- vertices calculated
+Status : Implied Alignments : 39 of 47 -- vertices calculated
+Status : Implied Alignments : 40 of 47 -- vertices calculated
+Status : Implied Alignments : 41 of 47 -- vertices calculated
+Status : Implied Alignments : 42 of 47 -- vertices calculated
+Status : Implied Alignments : 43 of 47 -- vertices calculated
+Status : Implied Alignments : 44 of 47 -- vertices calculated
+Status : Implied Alignments : 45 of 47 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters : 0 of 24 -- Storing the character specifications
+Status : Loading Characters : 1 of 24 -- Storing the character specifications
+Status : Loading Characters : 2 of 24 -- Storing the character specifications
+Status : Loading Characters : 3 of 24 -- Storing the character specifications
+Status : Loading Characters : 4 of 24 -- Storing the character specifications
+Status : Loading Characters : 5 of 24 -- Storing the character specifications
+Status : Loading Characters : 6 of 24 -- Storing the character specifications
+Status : Loading Characters : 7 of 24 -- Storing the character specifications
+Status : Loading Characters : 8 of 24 -- Storing the character specifications
+Status : Loading Characters : 9 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 24 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1821 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1826 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1814 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1812 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Automated Search : 0 Best tree: 1454.; Time left: 1 m, 10 s; Hits: 4
+Status : RAS + TBR : 0 Searching on tree number 3
+Status : Wagner : 2 of 24 -- Wagner tree with cost 3.
+Status : Wagner : 3 of 24 -- Wagner tree with cost 5.
+Status : Wagner : 4 of 24 -- Wagner tree with cost 476.
+Status : Wagner : 5 of 24 -- Wagner tree with cost 501.
+Status : Wagner : 6 of 24 -- Wagner tree with cost 544.
+Status : Wagner : 7 of 24 -- Wagner tree with cost 544.
+Status : Wagner : 8 of 24 -- Wagner tree with cost 557.
+Status : Wagner : 9 of 24 -- Wagner tree with cost 558.
+Status : Wagner : 10 of 24 -- Wagner tree with cost 567.
+Status : Wagner : 11 of 24 -- Wagner tree with cost 577.
+Status : Wagner : 12 of 24 -- Wagner tree with cost 916.
+Status : Wagner : 13 of 24 -- Wagner tree with cost 916.
+Status : Wagner : 14 of 24 -- Wagner tree with cost 917.
+Status : Wagner : 15 of 24 -- Wagner tree with cost 917.
+Status : Wagner : 16 of 24 -- Wagner tree with cost 917.
+Status : Wagner : 17 of 24 -- Wagner tree with cost 919.
+Status : Wagner : 18 of 24 -- Wagner tree with cost 1473.
+Status : Wagner : 19 of 24 -- Wagner tree with cost 1476.
+Status : Wagner : 20 of 24 -- Wagner tree with cost 1476.
+Status : Wagner : 21 of 24 -- Wagner tree with cost 1478.
+Status : Wagner : 22 of 24 -- Wagner tree with cost 1478.
+Status : Wagner : 23 of 24 -- Wagner tree with cost 1478.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 1457 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   29 seconds
+Information : 
+                Timer:
+                   30 seconds
+Information : 
+                Timer:
+                   31 seconds
+Information : 
+                Timer:
+                   32 seconds
+Information : 
+                Timer:
+                   33 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 1454.; Time left: 20 s; Hits: 4
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Implied Alignments : 1 of 47 -- vertices calculated
+Status : Implied Alignments : 2 of 47 -- vertices calculated
+Status : Implied Alignments : 3 of 47 -- vertices calculated
+Status : Implied Alignments : 4 of 47 -- vertices calculated
+Status : Implied Alignments : 5 of 47 -- vertices calculated
+Status : Implied Alignments : 6 of 47 -- vertices calculated
+Status : Implied Alignments : 7 of 47 -- vertices calculated
+Status : Implied Alignments : 8 of 47 -- vertices calculated
+Status : Implied Alignments : 9 of 47 -- vertices calculated
+Status : Implied Alignments : 10 of 47 -- vertices calculated
+Status : Implied Alignments : 11 of 47 -- vertices calculated
+Status : Implied Alignments : 12 of 47 -- vertices calculated
+Status : Implied Alignments : 13 of 47 -- vertices calculated
+Status : Implied Alignments : 14 of 47 -- vertices calculated
+Status : Implied Alignments : 15 of 47 -- vertices calculated
+Status : Implied Alignments : 16 of 47 -- vertices calculated
+Status : Implied Alignments : 17 of 47 -- vertices calculated
+Status : Implied Alignments : 18 of 47 -- vertices calculated
+Status : Implied Alignments : 19 of 47 -- vertices calculated
+Status : Implied Alignments : 20 of 47 -- vertices calculated
+Status : Implied Alignments : 21 of 47 -- vertices calculated
+Status : Implied Alignments : 22 of 47 -- vertices calculated
+Status : Implied Alignments : 23 of 47 -- vertices calculated
+Status : Implied Alignments : 24 of 47 -- vertices calculated
+Status : Implied Alignments : 25 of 47 -- vertices calculated
+Status : Implied Alignments : 26 of 47 -- vertices calculated
+Status : Implied Alignments : 27 of 47 -- vertices calculated
+Status : Implied Alignments : 28 of 47 -- vertices calculated
+Status : Implied Alignments : 29 of 47 -- vertices calculated
+Status : Implied Alignments : 30 of 47 -- vertices calculated
+Status : Implied Alignments : 31 of 47 -- vertices calculated
+Status : Implied Alignments : 32 of 47 -- vertices calculated
+Status : Implied Alignments : 33 of 47 -- vertices calculated
+Status : Implied Alignments : 34 of 47 -- vertices calculated
+Status : Implied Alignments : 35 of 47 -- vertices calculated
+Status : Implied Alignments : 36 of 47 -- vertices calculated
+Status : Implied Alignments : 37 of 47 -- vertices calculated
+Status : Implied Alignments : 38 of 47 -- vertices calculated
+Status : Implied Alignments : 39 of 47 -- vertices calculated
+Status : Implied Alignments : 40 of 47 -- vertices calculated
+Status : Implied Alignments : 41 of 47 -- vertices calculated
+Status : Implied Alignments : 42 of 47 -- vertices calculated
+Status : Implied Alignments : 43 of 47 -- vertices calculated
+Status : Implied Alignments : 44 of 47 -- vertices calculated
+Status : Implied Alignments : 45 of 47 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters : 0 of 24 -- Storing the character specifications
+Status : Loading Characters : 1 of 24 -- Storing the character specifications
+Status : Loading Characters : 2 of 24 -- Storing the character specifications
+Status : Loading Characters : 3 of 24 -- Storing the character specifications
+Status : Loading Characters : 4 of 24 -- Storing the character specifications
+Status : Loading Characters : 5 of 24 -- Storing the character specifications
+Status : Loading Characters : 6 of 24 -- Storing the character specifications
+Status : Loading Characters : 7 of 24 -- Storing the character specifications
+Status : Loading Characters : 8 of 24 -- Storing the character specifications
+Status : Loading Characters : 9 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 24 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1820 Searching
+Status : TBR : 1818 Searching
+Status : TBR : 1817 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 2 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1811 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 3 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1852 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration : 4 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 1812 Searching
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : TBR : 1454 Searching
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   5 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 1454.; Time left: -0 s; Hits: 5
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 4 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 4 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 4 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 3 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 3 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 3 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 9 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 10 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 11 of 12 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 12 of 12 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 9 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 10 of 11 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 11 of 11 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 2 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 3 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 4 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 5 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 6 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 7 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 8 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 9 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 10 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 11 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 12 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 13 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 14 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 15 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 16 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 17 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 18 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 19 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 20 of 21 -- Recalculating trees
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 21 of 21 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information :
+The search evaluated 194 independent repetitions with ratchet and fusing for 390 generations. The shortest tree was found 208 times.
+Status : Implied Alignments : 1 of 47 -- vertices calculated
+Status : Implied Alignments : 2 of 47 -- vertices calculated
+Status : Implied Alignments : 3 of 47 -- vertices calculated
+Status : Implied Alignments : 4 of 47 -- vertices calculated
+Status : Implied Alignments : 5 of 47 -- vertices calculated
+Status : Implied Alignments : 6 of 47 -- vertices calculated
+Status : Implied Alignments : 7 of 47 -- vertices calculated
+Status : Implied Alignments : 8 of 47 -- vertices calculated
+Status : Implied Alignments : 9 of 47 -- vertices calculated
+Status : Implied Alignments : 10 of 47 -- vertices calculated
+Status : Implied Alignments : 11 of 47 -- vertices calculated
+Status : Implied Alignments : 12 of 47 -- vertices calculated
+Status : Implied Alignments : 13 of 47 -- vertices calculated
+Status : Implied Alignments : 14 of 47 -- vertices calculated
+Status : Implied Alignments : 15 of 47 -- vertices calculated
+Status : Implied Alignments : 16 of 47 -- vertices calculated
+Status : Implied Alignments : 17 of 47 -- vertices calculated
+Status : Implied Alignments : 18 of 47 -- vertices calculated
+Status : Implied Alignments : 19 of 47 -- vertices calculated
+Status : Implied Alignments : 20 of 47 -- vertices calculated
+Status : Implied Alignments : 21 of 47 -- vertices calculated
+Status : Implied Alignments : 22 of 47 -- vertices calculated
+Status : Implied Alignments : 23 of 47 -- vertices calculated
+Status : Implied Alignments : 24 of 47 -- vertices calculated
+Status : Implied Alignments : 25 of 47 -- vertices calculated
+Status : Implied Alignments : 26 of 47 -- vertices calculated
+Status : Implied Alignments : 27 of 47 -- vertices calculated
+Status : Implied Alignments : 28 of 47 -- vertices calculated
+Status : Implied Alignments : 29 of 47 -- vertices calculated
+Status : Implied Alignments : 30 of 47 -- vertices calculated
+Status : Implied Alignments : 31 of 47 -- vertices calculated
+Status : Implied Alignments : 32 of 47 -- vertices calculated
+Status : Implied Alignments : 33 of 47 -- vertices calculated
+Status : Implied Alignments : 34 of 47 -- vertices calculated
+Status : Implied Alignments : 35 of 47 -- vertices calculated
+Status : Implied Alignments : 36 of 47 -- vertices calculated
+Status : Implied Alignments : 37 of 47 -- vertices calculated
+Status : Implied Alignments : 38 of 47 -- vertices calculated
+Status : Implied Alignments : 39 of 47 -- vertices calculated
+Status : Implied Alignments : 40 of 47 -- vertices calculated
+Status : Implied Alignments : 41 of 47 -- vertices calculated
+Status : Implied Alignments : 42 of 47 -- vertices calculated
+Status : Implied Alignments : 43 of 47 -- vertices calculated
+Status : Implied Alignments : 44 of 47 -- vertices calculated
+Status : Implied Alignments : 45 of 47 -- vertices calculated
+Status : Implied Alignments Finished
+Status : Static Approximation Finished
+Status : Loading Characters : 0 of 24 -- Storing the character specifications
+Status : Loading Characters : 1 of 24 -- Storing the character specifications
+Status : Loading Characters : 2 of 24 -- Storing the character specifications
+Status : Loading Characters : 3 of 24 -- Storing the character specifications
+Status : Loading Characters : 4 of 24 -- Storing the character specifications
+Status : Loading Characters : 5 of 24 -- Storing the character specifications
+Status : Loading Characters : 6 of 24 -- Storing the character specifications
+Status : Loading Characters : 7 of 24 -- Storing the character specifications
+Status : Loading Characters : 8 of 24 -- Storing the character specifications
+Status : Loading Characters : 9 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 10 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 11 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 12 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 13 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 14 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 15 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 16 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 17 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 18 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 19 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 20 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 21 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 22 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 23 of 24 -- Storing the character specifications
+Status :
+Loading Characters : 24 of 24 -- Storing the character specifications
+Status : Loading Characters Finished
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Tree with cost 1453
+  |--------------------NC_001608  
+  |                               
+  | |------------------AB050936   
+  | |                             
+  | |   |--------------AF173836   
+  | |   |                         
+  | | |-| |------------AY729654   
+  | | | |-|                       
+  | | |   |------------NC_006432  
+  | | |                           
+  | | |     |----------AF054908   
+  | | |     |                     
+  | | |     | |--------AY058895   
+  | | |   |-| |                   
+  | | |   | |-| |------EU051639   
+  | | |   |   |-|                 
+  | | |   |     |------Y09358     
+  | | |   |                       
+  | | |   | |----------AF499101   
+  | | | |-| |                     
+  | | | | | |----------NC_002549  
+  | | | | | |                     
+  | | | | |-|----------AY142960   
+--| | | |   |                     
+  |-| | |   |----------AF086833   
+    | | |   |                     
+    |-| |   |----------EBORNA     
+      | |                         
+      | | |------------EU051642   
+      | | |                       
+      | | |------------EU051644   
+      | | |                       
+      |-| |------------EU051649   
+        | |                       
+        | | |----------EU051645   
+        | |-|                     
+        | | |----------EU051646   
+        |-|                       
+          | |----------EU051640   
+          |-|                     
+          | |----------EU051641   
+          |                       
+          | |----------EU051648   
+          | |                     
+          |-| |--------EU051647   
+            |-|                   
+              |--------EU051650   

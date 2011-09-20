@@ -1,0 +1,1396 @@
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : RAS + TBR : 0 
+Status : RAS + TBR : 0 Searching on tree number 1
+Status : Wagner : 2 of 276 -- Wagner tree with cost 0.
+Status : Wagner : 3 of 276 -- Wagner tree with cost 2.
+Status : Wagner : 4 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 5 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 6 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 7 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 8 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 9 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 10 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 11 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 12 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 13 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 14 of 276 -- Wagner tree with cost 3.
+Status : Wagner : 15 of 276 -- Wagner tree with cost 4.
+Status : Wagner : 16 of 276 -- Wagner tree with cost 4.
+Status : Wagner : 17 of 276 -- Wagner tree with cost 4.
+Status : Wagner : 18 of 276 -- Wagner tree with cost 4.
+Status : Wagner : 19 of 276 -- Wagner tree with cost 4.
+Status : Wagner : 20 of 276 -- Wagner tree with cost 4.
+Status : Wagner : 21 of 276 -- Wagner tree with cost 4.
+Status : Wagner : 22 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 23 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 24 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 25 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 26 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 27 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 28 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 29 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 30 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 31 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 32 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 33 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 34 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 35 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 36 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 37 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 38 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 39 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 40 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 41 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 42 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 43 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 44 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 45 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 46 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 47 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 48 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 49 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 50 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 51 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 52 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 53 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 54 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 55 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 56 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 57 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 58 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 59 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 60 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 61 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 62 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 63 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 64 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 65 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 66 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 67 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 68 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 69 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 70 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 71 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 72 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 73 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 74 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 75 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 76 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 77 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 78 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 79 of 276 -- Wagner tree with cost 5.
+Status : Wagner : 80 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 81 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 82 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 83 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 84 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 85 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 86 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 87 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 88 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 89 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 90 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 91 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 92 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 93 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 94 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 95 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 96 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 97 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 98 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 99 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 100 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 101 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 102 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 103 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 104 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 105 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 106 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 107 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 108 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 109 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 110 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 111 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 112 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 113 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 114 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 115 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 116 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 117 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 118 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 119 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 120 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 121 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 122 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 123 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 124 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 125 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 126 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 127 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 128 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 129 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 130 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 131 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 132 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 133 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 134 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 135 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 136 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 137 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 138 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 139 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 140 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 141 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 142 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 143 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 144 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 145 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 146 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 147 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 148 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 149 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 150 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 151 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 152 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 153 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 154 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 155 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 156 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 157 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 158 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 159 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 160 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 161 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 162 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 163 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 164 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 165 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 166 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 167 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 168 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 169 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 170 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 171 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 172 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 173 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 174 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 175 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 176 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 177 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 178 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 179 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 180 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 181 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 182 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 183 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 184 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 185 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 186 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 187 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 188 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 189 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 190 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 191 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 192 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 193 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 194 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 195 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 196 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 197 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 198 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 199 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 200 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 201 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 202 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 203 of 276 -- Wagner tree with cost 6.
+Status : Wagner : 204 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 205 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 206 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 207 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 208 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 209 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 210 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 211 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 212 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 213 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 214 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 215 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 216 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 217 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 218 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 219 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 220 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 221 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 222 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 223 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 224 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 225 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 226 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 227 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 228 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 229 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 230 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 231 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 232 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 233 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 234 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 235 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 236 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 237 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 238 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 239 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 240 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 241 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 242 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 243 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 244 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 245 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 246 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 247 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 248 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 249 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 250 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 251 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 252 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 253 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 254 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 255 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 256 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 257 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 258 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 259 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 260 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 261 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 262 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 263 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 264 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 265 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 266 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 267 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 268 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 269 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 270 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 271 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 272 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 273 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 274 of 276 -- Wagner tree with cost 7.
+Status : Wagner : 275 of 276 -- Wagner tree with cost 7.
+Status : Wagner Finished
+Status : Building Wagner Tree Finished
+Status : TBR : 7 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   29 seconds
+Information : 
+                Timer:
+                   30 seconds
+Information : 
+                Timer:
+                   31 seconds
+Information : 
+                Timer:
+                   32 seconds
+Information : 
+                Timer:
+                   33 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   35 seconds
+Information : 
+                Timer:
+                   36 seconds
+Information : 
+                Timer:
+                   37 seconds
+Information : 
+                Timer:
+                   38 seconds
+Information : 
+                Timer:
+                   39 seconds
+Information : 
+                Timer:
+                   40 seconds
+Information : 
+                Timer:
+                   41 seconds
+Information : 
+                Timer:
+                   42 seconds
+Information : 
+                Timer:
+                   43 seconds
+Information : 
+                Timer:
+                   44 seconds
+Information : 
+                Timer:
+                   45 seconds
+Information : 
+                Timer:
+                   46 seconds
+Information : 
+                Timer:
+                   47 seconds
+Information : 
+                Timer:
+                   48 seconds
+Information : 
+                Timer:
+                   49 seconds
+Information : 
+                Timer:
+                   50 seconds
+Information : 
+                Timer:
+                   51 seconds
+Information : 
+                Timer:
+                   52 seconds
+Information : 
+                Timer:
+                   53 seconds
+Information : 
+                Timer:
+                   54 seconds
+Information : 
+                Timer:
+                   55 seconds
+Information : 
+                Timer:
+                   56 seconds
+Information : 
+                Timer:
+                   57 seconds
+Information : 
+                Timer:
+                   58 seconds
+Information : 
+                Timer:
+                   59 seconds
+Information : 
+                Timer:
+                   60 seconds
+Information : 
+                Timer:
+                   61 seconds
+Information : 
+                Timer:
+                   62 seconds
+Information : 
+                Timer:
+                   63 seconds
+Information : 
+                Timer:
+                   64 seconds
+Information : 
+                Timer:
+                   65 seconds
+Information : 
+                Timer:
+                   66 seconds
+Information : 
+                Timer:
+                   67 seconds
+Information : 
+                Timer:
+                   68 seconds
+Information : 
+                Timer:
+                   69 seconds
+Information : 
+                Timer:
+                   70 seconds
+Information : 
+                Timer:
+                   71 seconds
+Information : 
+                Timer:
+                   72 seconds
+Information : 
+                Timer:
+                   73 seconds
+Information : 
+                Timer:
+                   74 seconds
+Information : 
+                Timer:
+                   75 seconds
+Information : 
+                Timer:
+                   76 seconds
+Information : 
+                Timer:
+                   77 seconds
+Information : 
+                Timer:
+                   78 seconds
+Information : 
+                Timer:
+                   79 seconds
+Information : 
+                Timer:
+                   80 seconds
+Information : 
+                Timer:
+                   81 seconds
+Information : 
+                Timer:
+                   82 seconds
+Information : 
+                Timer:
+                   83 seconds
+Information : 
+                Timer:
+                   84 seconds
+Information : 
+                Timer:
+                   85 seconds
+Information : 
+                Timer:
+                   86 seconds
+Information : 
+                Timer:
+                   87 seconds
+Information : 
+                Timer:
+                   88 seconds
+Information : 
+                Timer:
+                   89 seconds
+Information : 
+                Timer:
+                   90 seconds
+Information : 
+                Timer:
+                   91 seconds
+Information : 
+                Timer:
+                   92 seconds
+Information : 
+                Timer:
+                   93 seconds
+Information : 
+                Timer:
+                   94 seconds
+Information : 
+                Timer:
+                   95 seconds
+Information : 
+                Timer:
+                   96 seconds
+Information : 
+                Timer:
+                   97 seconds
+Information : 
+                Timer:
+                   98 seconds
+Information : 
+                Timer:
+                   99 seconds
+Information : 
+                Timer:
+                   100 seconds
+Information : 
+                Timer:
+                   101 seconds
+Information : 
+                Timer:
+                   102 seconds
+Information : 
+                Timer:
+                   103 seconds
+Information : 
+                Timer:
+                   104 seconds
+Information : 
+                Timer:
+                   105 seconds
+Information : 
+                Timer:
+                   106 seconds
+Information : 
+                Timer:
+                   107 seconds
+Information : 
+                Timer:
+                   108 seconds
+Information : 
+                Timer:
+                   109 seconds
+Information : 
+                Timer:
+                   110 seconds
+Information : 
+                Timer:
+                   111 seconds
+Information : 
+                Timer:
+                   112 seconds
+Information : 
+                Timer:
+                   113 seconds
+Information : 
+                Timer:
+                   114 seconds
+Information : 
+                Timer:
+                   115 seconds
+Information : 
+                Timer:
+                   116 seconds
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 7.; Time left: 56 s; Hits: 1
+Status : Perturb Iteration : 1 of 4 -- 
+Status : Ratcheting : 0 of 1 -- trees in the current optimum
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting : 1 of 1 -- trees in the current optimum
+Status : TBR : 7 Searching
+Information : 
+                Timer:
+                   1 seconds
+Information : 
+                Timer:
+                   2 seconds
+Information : 
+                Timer:
+                   3 seconds
+Information : 
+                Timer:
+                   4 seconds
+Information : 
+                Timer:
+                   5 seconds
+Information : 
+                Timer:
+                   6 seconds
+Information : 
+                Timer:
+                   7 seconds
+Information : 
+                Timer:
+                   8 seconds
+Information : 
+                Timer:
+                   9 seconds
+Information : 
+                Timer:
+                   10 seconds
+Information : 
+                Timer:
+                   11 seconds
+Information : 
+                Timer:
+                   12 seconds
+Information : 
+                Timer:
+                   13 seconds
+Information : 
+                Timer:
+                   14 seconds
+Information : 
+                Timer:
+                   15 seconds
+Information : 
+                Timer:
+                   16 seconds
+Information : 
+                Timer:
+                   17 seconds
+Information : 
+                Timer:
+                   18 seconds
+Information : 
+                Timer:
+                   19 seconds
+Information : 
+                Timer:
+                   20 seconds
+Information : 
+                Timer:
+                   21 seconds
+Information : 
+                Timer:
+                   22 seconds
+Information : 
+                Timer:
+                   23 seconds
+Information : 
+                Timer:
+                   24 seconds
+Information : 
+                Timer:
+                   25 seconds
+Information : 
+                Timer:
+                   26 seconds
+Information : 
+                Timer:
+                   27 seconds
+Information : 
+                Timer:
+                   28 seconds
+Information : 
+                Timer:
+                   29 seconds
+Information : 
+                Timer:
+                   30 seconds
+Information : 
+                Timer:
+                   31 seconds
+Information : 
+                Timer:
+                   32 seconds
+Information : 
+                Timer:
+                   33 seconds
+Information : 
+                Timer:
+                   34 seconds
+Information : 
+                Timer:
+                   35 seconds
+Information : 
+                Timer:
+                   36 seconds
+Information : 
+                Timer:
+                   37 seconds
+Information : 
+                Timer:
+                   38 seconds
+Information : 
+                Timer:
+                   39 seconds
+Information : 
+                Timer:
+                   40 seconds
+Information : 
+                Timer:
+                   41 seconds
+Information : 
+                Timer:
+                   42 seconds
+Information : 
+                Timer:
+                   43 seconds
+Information : 
+                Timer:
+                   44 seconds
+Information : 
+                Timer:
+                   45 seconds
+Information : 
+                Timer:
+                   46 seconds
+Information : 
+                Timer:
+                   47 seconds
+Information : 
+                Timer:
+                   48 seconds
+Information : 
+                Timer:
+                   49 seconds
+Information : 
+                Timer:
+                   50 seconds
+Information : 
+                Timer:
+                   51 seconds
+Information : 
+                Timer:
+                   52 seconds
+Information : 
+                Timer:
+                   53 seconds
+Information : 
+                Timer:
+                   54 seconds
+Status : TBR Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Ratcheting Finished
+Status : Perturb Iteration Finished
+Status : TBR Finished
+Status : Automated Search : 0 Best tree: 7.; Time left: -0 s; Hits: 2
+Status : RAS + TBR Finished
+Status : Fusing Trees : 0 
+Status : Fusing Trees Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 0 Recalculating original tree
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Automated Search Finished
+Information :
+The search evaluated 60 independent repetitions with ratchet and fusing for 0 generations. The shortest tree was found 87 times.
+Status : Transforming : 1 of 1 --  of transformations applied
+Status : Transforming Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Status : Diagnosis : 1 of 1 -- Recalculating trees
+Status : Diagnosis Finished
+Tree with cost 7
+  |--------------KOREANS     
+  |                          
+  | |------------POLARESKI   
+  | |                        
+  | |------------ATSUGEWI    
+  | |                        
+  | |------------JEMEZ       
+  | |                        
+  | |------------CHITIMACH   
+  | |                        
+  | |------------COPPERESK   
+  | |                        
+  | |------------PENOBSCOT   
+  | |                        
+  | |------------PICURIS     
+  | |                        
+  | |------------WIYOT       
+  | |                        
+  | |------------NUNAMIUT    
+  | |                        
+  | |------------COAHUILTE   
+  | |                        
+  | |------------TAOS        
+  | |                        
+  | |------------ANGMAGSAL   
+  | |                        
+  | |------------CHUGACH     
+  | |                        
+  | |------------QUINAULT    
+  | |                        
+  | |------------ABNAKI      
+  | |                        
+  | |------------SANTACLAR   
+  | |                        
+  | |------------TEWA        
+  | |                        
+  | |------------GREENLAND   
+  | |                        
+  | |------------TAQAGMIUT   
+  | |                        
+  | |------------CATAWBA     
+  | |                        
+  | |------------CHIMARIKO   
+  | |                        
+  | |------------OPATA       
+  | |                        
+  | |------------SANTODOMI   
+  | |                        
+  | |------------YANA        
+  | |                        
+  | |------------CHUKCHEE    
+  | |                        
+  | | |----------TENINO      
+  | | |                      
+  | | |----------YUKI        
+  | | |                      
+  | | |----------E_MONO      
+  | | |                      
+  | | |----------WINDRIVER   
+  | | |                      
+  | | |----------GROSVENTR   
+  | | |                      
+  | | |----------ANTARIANU   
+  | | |                      
+  | | |----------MAHAGUADU   
+  | | |                      
+  | | |----------MOANUNTS    
+  | | |                      
+  | | |----------CHEMEHUEV   
+  | | |                      
+  | | |----------MODOC       
+  | | |                      
+  | | |----------ARAPAHO     
+  | | |                      
+  | | |----------BANNOCK     
+  | | |                      
+  | | |----------UNCOMPAHG   
+  | | |                      
+  | | |----------UINTAH      
+  | | |                      
+  | | |----------NEZPERCE    
+  | | |                      
+  | | |----------SHUSWAP     
+  | | |                      
+  | | |----------SLAVE       
+  | | |                      
+  | | |----------COCHITI     
+  | | |                      
+  | | |----------KLAMATH     
+  | | |                      
+  | | |----------BELLABELL   
+  | | |                      
+  | | |----------SPRINGVAL   
+  | | |                      
+  | | |----------KLAHUSE     
+  | | |                      
+  | | |----------HUPA        
+  | | |                      
+  | | |----------SQUAMISH    
+  | | |                      
+  | | |----------SANJUAN     
+  | | |                      
+  | | |----------TUBATULAB   
+  | | |                      
+  | | |----------CHILCOTIN2  
+  | | |                      
+  | | |----------DOGRIB      
+  | | |                      
+  | | |----------PAHVANT     
+  | | |                      
+  | | |----------WISHRAM     
+  | | |                      
+  | | |----------MESCALERO   
+  | | |                      
+  | | |----------GOSIUTE     
+  | | |                      
+  | | |----------BLOOD       
+  | | |                      
+  | | |----------BELLACOOL   
+  | | |                      
+  | | |----------SERI        
+  | | |                      
+  | | |----------PAPAGO      
+  | | |                      
+  | | |----------COMOX       
+  | | |                      
+  | | |----------PANGUITCH   
+  | | |                      
+  | | |----------SAWAKUDOK   
+  | | |                      
+  | | |----------COWICHAN    
+  | | |                      
+  | | |----------CHICHIMEC   
+  | | |                      
+  | | |----------KIOWA-APA   
+  | | |                      
+  | | |----------LIDASHOSH   
+  | | |                      
+  | | |----------DELAWARE    
+  | | |                      
+  | | |----------MOAPA       
+  | | |                      
+  | | |----------WASHO       
+  | | |                      
+  | | |----------KIDUTOKAD   
+  | | |                      
+  | | |----------LASSIK      
+  | | |                      
+  | | |----------LILLOOET    
+  | | |                      
+  | | |----------ELKOSHOSH   
+  | | |                      
+  | | |----------BOHOGUE     
+  | | |                      
+  | | |----------KUYUIDOKA   
+  | | |                      
+  | | |----------CHIPEWYAN   
+  | | |                      
+  | | |----------CHILCOTIN   
+  | | |                      
+  | | |----------WADADUKA    
+  | | |                      
+  | | |----------MONACHI     
+  | | |                      
+  | | |----------TUNAVA      
+  | | |                      
+  | | |----------SEKANI      
+  | | |                      
+  | | |----------NISENAN     
+  | | |                      
+  | | |----------IGLULIK     
+  | | |                      
+  | | |----------TARAHUMAR   
+  | | |                      
+  | | |----------SHIVWITS    
+  | | |                      
+  | | |----------ISLETA      
+  | | |                      
+  | | |----------KWAKIUTL    
+  | | |                      
+  | | |----------SINKYONE    
+  | | |                      
+  | | |----------CHEYENNE    
+  | | |                      
+  | | |----------FLATHEAD    
+  | | |                      
+  | | |----------HUCHNOM     
+  | | |                      
+  | | |----------KUTCHIN     
+  | | |                      
+  | | |----------YUROK       
+  | | |                      
+  | | |----------SANPOIL     
+  | | |                      
+  | | |----------COASTYUKI   
+  | | |                      
+  | | |----------S_UTE       
+  | | |                      
+  | | |----------YAHANDUKA   
+  | | |                      
+  | | |----------PIEGAN      
+  | | |                      
+  | | |----------SINKAIETK   
+  | | |                      
+  | | |----------SARSI       
+  | | |                      
+  | | |----------MOACHE      
+  | | |                      
+  | | |----------THOMPSON    
+  | | |                      
+  | | |----------LASVEGAS    
+  | | |                      
+  | | |----------TUKUDIKA    
+  | | |                      
+  | | |----------KAIBAB      
+  | | |                      
+  | | |----------LUMMI       
+  | | |                      
+  | | |----------CHIRICAHU   
+  | | |                      
+  | | |----------PANAMINT    
+  | | |                      
+  | | |----------STALO       
+  | | |                      
+  | | |----------TEPEHUAN    
+  | | |                      
+  | | |----------TUBADUKA    
+  | | |                      
+  | | |----------HUICHOL     
+  | | |                      
+  | | |----------COMANCHE    
+  | | |                      
+  | | |----------MOHAVE      
+  | | |                      
+  | | |----------KOSO        
+  | | |                      
+  | | |----------KAROK       
+  | | |                      
+  | | |----------MICMAC      
+  | | |                      
+  | | |----------AGAIDUKA    
+  | | |                      
+  | | |----------WUKCHUMNI   
+  | | |                      
+  | | |----------UMATILLA    
+  | | |                      
+  | | |----------BLACKFOOT   
+  | | |                      
+  | | |----------HUKUNDIKA   
+  | | |                      
+  | | |----------WIYAMBITU   
+  | | |                      
+  | | |----------ELYSHOSHO   
+  | | |                      
+  | | |----------KIOWA       
+  | | |                      
+  | | |----------TAVIWATSI   
+  | | |                      
+  | | |----------YOKUTS      
+  | | |                      
+  | | |----------KUTENAI     
+  | | |                      
+  | | |----------LIPAN       
+  | | |                      
+  | | |----------MAKAH       
+  | | |                      
+  | | |----------HASINAI     
+  | | |                      
+  | | |----------NOOTKA      
+  | | |                      
+  | | |----------HAMILTON    
+  | | |                      
+  | | |----------INGALIK     
+  | | |                      
+  | | |----------KLALLAM     
+--| | |                      
+  |-| |----------WHITEKNIF   
+    | |                      
+    | |----------ALKATCHO    
+    | |                      
+    | |----------ATSAKUDOK   
+    | |                      
+    | |----------WADADOKAD   
+    | |                      
+    | |----------YAQUI       
+    | |                      
+    | |----------TWANA       
+    | |                      
+    | |----------KAWAIISU    
+    | |                      
+    | |----------SANTAANA    
+    | |                      
+    | |----------KLIKITAT    
+    | |                      
+    | |----------BEATTY      
+    | |                      
+    | |----------PUYALLUP    
+    | |                      
+    | |----------WICHITA     
+    | |                      
+    | | |--------HOPI        
+    |-| |                    
+      | |--------MANDAN      
+      | |                    
+      | |--------HAIDA       
+      | |                    
+      | |--------CHOCTAW     
+      | |                    
+      | |--------PAWNEE      
+      | |                    
+      | |--------ACOMA       
+      | |                    
+      | |--------CHICKASAW   
+      | |                    
+      | |--------S_POMO      
+      | |                    
+      | |--------YUCHI       
+      | |                    
+      | |--------CHEROKEE    
+      | |                    
+      | |--------HIDATSA     
+      | |                    
+      | |--------WAPPO       
+      | |                    
+      | |--------KASKA       
+      | |                    
+      | |--------ARIKARA     
+      | |                    
+      | |--------SEMINOLE    
+      | |                    
+      | |--------HANO        
+      | |                    
+      | |--------TLINGIT     
+      | |                    
+      | |--------LAGUNA      
+      | |                    
+      | |--------SIA         
+      | |                    
+      | |--------CROW        
+      | |                    
+      | |--------TIMUCUA     
+      | |                    
+      | |--------CREEK       
+      | |                    
+      | |--------ZUNI        
+      | |                    
+      | | |------E_OJIBWA    
+      | | |                  
+      | | |------CHIPPEWA    
+      | | |                  
+      | | |------NASKAPI     
+      | | |                  
+      | | |------TSIMSHIAN   
+      | | |                  
+      | | |------NABESNA     
+      | | |                  
+      | |-|------MONTAGNAI   
+      | | |                  
+      | | |------CARRIER     
+      | | |                  
+      | | |------RAINYRIVE   
+      | | |                  
+      | | |------HAISLA      
+      | | |                  
+      | | |------ATTAWAPIS   
+      | | |                  
+      | | |------N_SAULTEA   
+      | |                    
+      | | |------LUISENO     
+      | | |                  
+      | | |------KARANKAWA   
+      | | |                  
+      | | |------CHINOOK     
+      | | |                  
+      | | |------TETON       
+      | | |                  
+      | | |------SIUSLAW     
+      | | |                  
+      | | |------NUNIVAK     
+      | | |                  
+      | | |------KEWEYIPAY   
+      | | |                  
+      | | |------HURON       
+      | | |                  
+      | | |------GABRIELIN   
+      | | |                  
+      | | |------WENATCHI    
+      | | |                  
+      | | |------ALEUT       
+      | | |                  
+      | | |------PEKANGEKU   
+      | | |                  
+      | | |------YAVAPAI     
+      | | |                  
+      | | |------TAHLTAN     
+      | | |                  
+      | | |------TANAINA     
+      | | |                  
+      | | |------HAVASUPAI   
+      | | |                  
+      | | |------OTTAWA      
+      | | |                  
+      | | |------LABRADORE   
+      | | |                  
+      | | |------OJIBWA      
+      | | |                  
+      | | |------KAMIA       
+      | | |                  
+      | | |------TILLAMOOK   
+      | | |                  
+      | | |------TAGOTOKA    
+      | | |                  
+      | | |------ALSEA       
+      | | |                  
+      | | |------KILIWA      
+      | | |                  
+      | | |------MARICOPA    
+      | | |                  
+      | | |------SANTEE      
+      | | |                  
+      | | |------TAREUMIUT   
+      | | |                  
+      | | |------TUTUTNI     
+      | | |                  
+      | | |------TOLKEPAYA   
+      |-| |                  
+        | |------KATIKITEG   
+        | |                  
+        | |------EYAK        
+        | |                  
+        | |------BEAVER      
+        | |                  
+        | |------TOEDOKADO   
+        | |                  
+        | |------SERRANO     
+        | |                  
+        | |------IROQUOIS    
+        | |                  
+        | |------JICARILLA   
+        | |                  
+        | |------MATTOLE     
+        | |                  
+        | |------SIVOKAKME   
+        | |                  
+        | |------CUPENO      
+        | |                  
+        | |------MISTASSIN   
+        | |                  
+        | |------NAVAHO      
+        | |                  
+        | |------ASSINIBOI   
+        | |                  
+        | |------PIMA        
+        | |                  
+        | |------QUILEUTE    
+        | |                  
+        | |------TOLOWA      
+        | |                  
+        | |------COEURD'AL   
+        |-|                  
+          |------GILYAK      
+          |                  
+          |------CADDO       
+          |                  
+          |------E_CREE      
+          |                  
+          |------BUNGI       
+          |                  
+          |------PLAINSCRE   
+          |                  
+          |------COCOPA      
+          |                  
+          |------SALINAN     
+          |                  
+          |------KALISPEL    
+          |                  
+          |------YUMA        
+          |                  
+          |------W_APACHE    
+          |                  
+          |------WADATKUHT   
+          |                  
+          |------CHUMASH     
+          |                  
+          |------NIPIGON     
+          |                  
+          |------COOS        
+          |                  
+          |------SATUDENE    
+          |                  
+          |------NETSILIK    
+          |                  
+          |------MAIDU       
+          |                  
+          |------ACHOMAWI    
+          |                  
+          |------YAKUT       
+          |                  
+          |------SHASTA      
+          |                  
+          |------DIEGUENO    
+          |                  
+          |------WALAPAI     
+          |                  
+          |------BAFFINLAN   
+          |                  
+          |------CAHUILLA    
+          |                  
+          | |----TAKELMA     
+          | |                
+          |-|----CARIBOUES   
+          | |                
+          | |----NATCHEZ     
+          |                  
+          | |----N_POMO      
+          | |                
+          | |----MENOMINI    
+          | |                
+          | |----NOMLAKI     
+          | |                
+          | |----PONCA       
+          | |                
+          | |----E_POMO      
+          | |                
+          | |----LAKEYOKUT   
+          | |                
+          | |----WINNEBAGO   
+          | |                
+          | |----MIAMI       
+          | |                
+          | |----OTO         
+          | |                
+          |-|----FOX         
+            |                
+            |----POTAWATOM   
+            |                
+            |----IOWA        
+            |                
+            |----OMAHA       
+            |                
+            |----PATWIN      
+            |                
+            |----KICKAPOO    
+            |                
+            |----MIWOK       
+            |                
+            |----WINTU       
+            |                
+            |----LAKEMIWOK   
+            |                
+            |----SHAWNEE     

@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/cntalaveralopez/440/allF.fas")
+set(log: "/home/supramap/supramap/public/files/cntalaveralopez/440/659/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/cntalaveralopez/440/659/KI_Carlos_Nicaragua_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/cntalaveralopez/440/Tcruzi.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/cntalaveralopez/440/659/KI_Carlos_Nicaragua_results.tre",trees)
+report("/home/supramap/supramap/public/files/cntalaveralopez/440/659/KI_Carlos_Nicaragua_results.stats",treestats)
+exit()

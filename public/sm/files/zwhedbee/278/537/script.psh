@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/zwhedbee/278/knp.dnd")
+set(log: "/home/supramap/supramap/public/files/zwhedbee/278/537/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/zwhedbee/278/537/geo+tree_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/zwhedbee/278/knp.csv"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/zwhedbee/278/537/geo+tree_results.tre",trees)
+report("/home/supramap/supramap/public/files/zwhedbee/278/537/geo+tree_results.stats",treestats)
+exit()

@@ -1,0 +1,13 @@
+read("/home/supramap/supramap/public/files/epoulin/262/pruebaarbol.txt")
+set(log: "/home/supramap/supramap/public/files/epoulin/262/463/poy.log")
+
+transform(tcm:(1,1))
+search(max_time:0:0:3, memory:gb:2)
+select(best:1)
+transform (static_approx)
+report("/home/supramap/supramap/public/files/epoulin/262/463/ores2_results.kml", kml:(supramap, "/home/supramap/supramap/public/files/epoulin/262/coorpurebas2.txt"))
+
+report(asciitrees)
+report("/home/supramap/supramap/public/files/epoulin/262/463/ores2_results.tre",trees)
+report("/home/supramap/supramap/public/files/epoulin/262/463/ores2_results.stats",treestats)
+exit()
