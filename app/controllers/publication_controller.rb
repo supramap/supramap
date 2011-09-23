@@ -12,5 +12,8 @@ class PublicationController < ApplicationController
 	end
 
 	def pub5
+  end
+
+  def pub6
 	end
 end
