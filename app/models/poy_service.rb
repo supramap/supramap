@@ -19,6 +19,10 @@ class Poy_service
     get("/Init?passPhase=KEOSRAKECNKHSAPJCXNLYAXBLPEMAAXOFOLVFFTGBYKNGLFRSF&resource=glenn")["int"]
   end
 
+   def self.init_to_supradev
+    get("/Init?passPhase=KEOSRAKECNKHSAPJCXNLYAXBLPEMAAXOFOLVFFTGBYKNGLFRSF&resource=supradev")["int"]
+  end
+
   def self.add_text_file(job_id,file_name,file_data)
     soap = SOAP::WSDLDriverFactory.new(base_uri+"?wsdl").create_rpc_driver()
     soap.AddFile(:jobId => job_id,:fileData => file_data,:fileName => file_name.gsub(" ",""))

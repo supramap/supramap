@@ -19,6 +19,7 @@ class Poy_service
   end
 
   def self.add_text_file(job_id,file_name,file_data)
+
     soap = SOAP::WSDLDriverFactory.new("http://glenn-webservice.bmi.ohio-state.edu/PoyService.asmx?wsdl").create_rpc_driver()
     soap.AddFile(:jobId => job_id,:fileData => file_data,:fileName => file_name.gsub(" ",""))
   end
