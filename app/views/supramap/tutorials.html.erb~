@@ -214,9 +214,9 @@ cp _build/plugins/supramap.cmxs &lt;path&gt;</pre>
 
 <ol>
   <li>Download the following data files:
-    <a href="/ebolangenecutNC_004161.fas" target="_blank">ebolangenecutNC_004161.fas</a>
+    <a href="http://bmi.osu.edu/~janies/Nnessandsuf/ebolangenecutNC_004161.fas" target="_blank">ebolangenecutNC_004161.fas</a>
     (a FASTA file with DNA sequences) and
-    <a href="/ebola.ngene.latlong.noreston.csv" target="_blank">ebola.ngene.latlong.noreston.csv</a>
+    <a href="http://bmi.osu.edu/~janies/Nnessandsuf/ebola.ngene.latlong.noreston.csv" target="_blank">ebola.ngene.latlong.noreston.csv</a>
     (contains geographical coordinates and temporal data).
   </li>
 
