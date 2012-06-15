@@ -11,7 +11,7 @@
     <script defer type="text/javascript" src="http://homepage.ntlworld.com/bobosola/pngfix.js"></script>
     <![endif]-->
   </head>
-  <body id="<%= h(@page_id) %>">
+  <body id="supramap">
     <div id="header">
       <h1>SupraMap</h1>
 
@@ -25,7 +25,7 @@
         <ul>
           <li><%= link_to "home", { :controller => "supramap", :action => "home" }, { :class => "home" } %></li>
           <li><%= link_to "make a supramap", { :controller => "supramap", :action => "make_a_supramap" }, { :class => "make-a-supramap" } %></li>
-          <li><%= link_to "csv tre to kml", { :controller => "supramap", :action => "csv_tre_to_kml" }, { :class => "make-a-supramap" } %></li>
+          <li><%= link_to "csv tre to kml", { :controller => "supramap", :action => "csv_tre_to_kml" }, { :class => "csv-tre-to-kml" } %></li>
           <li><%= link_to "about", { :controller => "supramap", :action => "about" }, { :class => "about" } %></li>
           <li><%= link_to "tutorials/source code", { :controller => "supramap", :action => "tutorials" }, { :class => "tutorials" } %></li>
           <li><%= link_to "theory", { :controller => "supramap", :action => "theory" }, { :class => "theory" } %></li>
