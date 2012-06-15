@@ -10,40 +10,6 @@
     <!--[if lt IE 7.]>
     <script defer type="text/javascript" src="http://homepage.ntlworld.com/bobosola/pngfix.js"></script>
     <![endif]-->
-	<script src="http://www.google.com/jsapi?key=ABQIAAAAd_tmRg3zO4Dx3qy9eol3CxS2MMeSBqUXGdiXTBL-DmkcuSXkRxR3kz4_jti3BNF71vESx986kXtUBg"></script>
-	<script>
-		google.load("earth", "1");
-		
-		var ge = null;
-		
-		function init() {
-		  google.earth.createInstance("map3d", initCallback, failureCallback);
-		}
-		
-		function initCallback(object) {
-			ge = object;
-			ge.getWindow().setVisibility(true);
-			ge.getNavigationControl().setVisibility(ge.VISIBILITY_SHOW);
-			
-			var nl = ge.createNetworkLink("");
-			var link = ge.createLink("");
-			if(document.getElementById("home")) link.setHref("http://bmi.osu.edu/~janies/H1N1/H1N1_NA.kmz");
-			if(document.getElementById("publications")) link.setHref("http://supramap.osu.edu/h5n1_677/h5n1_677.kmz");
-			nl.setLink(link);
-			nl.setVisibility(true);
-			ge.getGlobe().getFeatures().appendChild(nl);
-                        var b = ge.createHtmlStringBalloon('');
-                        b.setMaxWidth(500);
-                        b.setContentString(
-                        '<b>Evolution and Spread of H1N1</b>' +
-                        '<p>Data provided by contributors to GISAID.org and NIH\'s Genbank.</p>' +
-                        '<p>Phylogenetic mapping by <a href="http://supramap.osu.edu">Supramap.osu.edu</a></p>'); 
-                        //ge.setBalloon(b);
-		}
-		
-		function failureCallback(object) {
-		}
-	</script>
   </head>
   <body id="<%= h(@page_id) %>" onload="init()">
     <div id="header">
