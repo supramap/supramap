@@ -16,11 +16,13 @@
 /* highlighting of links to current page */
 #home .home {border:1px solid #252525; background:#151515;}
 #supramap .make-a-supramap {border:1px solid #252525; background:#151515;}
+#csv-tre-to-kml .csv-tre-to-kml {border:1px solid #252525; background:#151515;}
 #about .about {border:1px solid #252525; background:#151515;}
 #tutorials .tutorials {border:1px solid #252525; background:#151515;}
 #theory .theory {border:1px solid #252525; background:#151515;}
 #publications .publications {border:1px solid #252525; background:#151515;}
 #contact-us .contact-us {border:1px solid #252525; background:#151515;}
+#acknowledgements .acknowledgements {border:1px solid #252525; background:#151515;}
 
 /* from ßßsupramap 0.1
 #biomedical-informatics .biomedical-informatics

@@ -21,8 +21,8 @@ class SupramapController < ApplicationController
   end
 
   def csv_tre_to_kml
-    @page_id = "csv_tre_to_kml"
-    @page_title = "csv_tre_to_kml"
+    @page_id = "csv-tre-to-kml"
+    @page_title = "CSV TRE to KML"
   end
 
   def create_kml
@@ -67,6 +67,11 @@ class SupramapController < ApplicationController
   def contact_us
     @page_id = "contact-us"
     @page_title = "Contact us"
+  end
+  
+  def acknowledgements
+    @page_id = "acknowledgements"
+    @page_title = "Acknowledgements"
   end
 
 end
